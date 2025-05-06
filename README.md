@@ -1,2 +1,2 @@
-# coastal-rag :shell:
-Collecting coastal ecosystems data from scientific papers with retrieval augmented generation.
+# Systematic Review :shell:
+Developing language model tools to aid with scientific systematic reviews.
