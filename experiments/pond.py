@@ -1,7 +1,7 @@
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline
 from langchain_ollama import ChatOllama
-from coastal_rag import *
+from systematic_review import *
 
 # Load the embeddings model
 embeddings = HuggingFaceEmbeddings(

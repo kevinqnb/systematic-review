@@ -1,7 +1,7 @@
 [project]
-name = "coastal_rag"
+name = "systematic-review"
 version = "0.1.0"
-description = "RAG for coastal ecosystems data."
+description = "Systematic review tools."
 authors = [
     {name = "Kevin Quinn"}
 ]
@@ -9,22 +9,21 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.12,<4.0"
 dependencies = [
-    "langchain (>=0.3.21,<0.4.0)",
-    "langchain-text-splitters (>=0.3.7,<0.4.0)",
-    "langchain-community (>=0.3.20,<0.4.0)",
-    "langgraph (>=0.3.19,<0.4.0)",
-    "langchain-chroma (>=0.2.2,<0.3.0)",
+    "numpy (>=2.2.5,<3.0.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "matplotlib (>=3.10.1,<4.0.0)",
     "jupyter (>=1.1.1,<2.0.0)",
-    "langchain-ollama (>=0.3.0,<0.4.0)",
-    "pypdf (>=5.4.0,<6.0.0)",
-    "nltk (>=3.9.1,<4.0.0)",
-    "unstructured[pdf] (>=0.17.2,<0.18.0)",
-    "langchain-unstructured (>=0.1.6,<0.2.0)",
-    "pymupdf (>=1.25.5,<2.0.0)",
-    "pillow (>=11.2.0,<12.0.0)",
+    "langchain (>=0.3.25,<0.4.0)",
+    "langchain-community (>=0.3.23,<0.4.0)",
+    "langchain-ollama (>=0.3.2,<0.4.0)",
     "langchain-huggingface (>=0.1.2,<0.2.0)",
-    "torch (>=2.6.0,<3.0.0)",
-    "soundfile (>=0.13.1,<0.14.0)"
+    "langchain-unstructured (>=0.1.6,<0.2.0)",
+    "pypdf (>=5.4.0,<6.0.0)",
+    "pymupdf (>=1.25.5,<2.0.0)",
+    "pillow (>=11.2.1,<12.0.0)",
+    "torch (>=2.7.0,<3.0.0)",
+    "langgraph (>=0.4.1,<0.5.0)",
+    "unstructured[pdf] (>=0.17.2,<0.18.0)",
 ]
 
 
