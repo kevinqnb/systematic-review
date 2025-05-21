@@ -37,6 +37,7 @@ titles = list(papers.keys())
 model_path = hf_hub_download(
     repo_id="google/gemma-3-27b-it-qat-q4_0-gguf",
     filename="gemma-3-27b-it-q4_0.gguf",
+    cache_dir = '../huggingface/hub'
 )
 
 llm = LlamaCpp(
