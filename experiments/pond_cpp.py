@@ -38,11 +38,6 @@ papers = {
     'Fake 3: Improving the definition of a coastal habitat: Putting the salt back into saltmarsh' :
     'papers/examples/fake3.pdf',
 }
-
-papers = {
-    'Pond 1: Specificity of zooplankton distribution in meteorite craterponds (Morasko, Poland)' :
-    'papers/examples/ponds1.pdf'
-}
 titles = list(papers.keys())
 
 # Load the language model
