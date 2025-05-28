@@ -85,8 +85,9 @@ class PdfChat:
         )
         context = state["context"]
         query = (
-            "Does this page contain a scientific definition for classifying either ponds or lakes?"
-            "The definition should specify measurable or descriptive attributes that distinguish ponds from lakes."
+            "Does this page contain a definition for either ponds or lakes?"
+            "A definition should specify distinguishing attributes or descriptive characteristics."
+            "The definition may be for either ponds or lakes, but not other types of waterbodies."
         )
         messages = self.prompt_template.invoke(
             {"instructions": instructions, "context": context, "query": query}
@@ -115,8 +116,9 @@ class PdfChat:
         )
         context = state["context"]
         query = (
-            "What scientific definition does the context give for classifying either ponds or lakes?"
-            "The definition should specify measurable or descriptive attributes that distinguish ponds from lakes."
+            "What definition does the context give for either ponds or lakes?"
+            "A definition should specify distinguishing attributes or descriptive characteristics."
+            "The definition may be for either ponds or lakes, but not other types of waterbodies."
         )
         messages = self.prompt_template.invoke(
             {"instructions": instructions, "context": context, "query": query}
@@ -145,6 +147,9 @@ class PdfChat:
         query = (
             "Does this page include a table containing data related to "
             "physical, chemical, or biological attributes of individual ponds or lakes?"
+            "Data must be reported in a table format, and should only be given for individually "
+            "studied ponds or lakes, instead of aggregate statistics for groups of waterbodies. "
+            "Examples include but are not limited to depth, surface area, temperature, or pH."
         )
 
         messages = self.prompt_template.invoke(

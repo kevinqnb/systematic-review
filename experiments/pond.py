@@ -55,5 +55,5 @@ for title, file_path in papers.items():
         pdf_chat.fit(page, title, i)
         pdf_chat.record()
 
-outfile = "experiments/data/pond_screening2.csv"
+outfile = "experiments/data/pond_screening3.csv"
 pdf_chat.save(outfile)
