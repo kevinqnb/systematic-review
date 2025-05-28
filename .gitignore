@@ -180,3 +180,5 @@ edi/*
 documents/ponds
 examples/older
 pond_data
+*.sh
+*.txt
