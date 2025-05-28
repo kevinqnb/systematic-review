@@ -1,8 +1,8 @@
-from .documents import (
-    DocumentDB,
+from .document import (
+    PdfDocument,
 )
 
 from .chat import (
-    Chat
+    PdfChat
 )
 

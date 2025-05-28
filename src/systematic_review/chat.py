@@ -1,58 +1,38 @@
-import pandas as pd
-from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline
-from langchain_core.prompts import ChatPromptTemplate
-from langgraph.graph import START, END, StateGraph
-from langchain.schema import HumanMessage, AIMessage, SystemMessage
+from langchain_ollama import ChatOllama
+from langchain_core.prompts import PromptTemplate
 from pydantic import BaseModel, Field
-from typing import Callable
-from typing_extensions import List, TypedDict
+from langgraph.graph import START, END, StateGraph
+from typing import List, Callable
+from typing_extensions import TypedDict
 from langchain_core.documents import Document
-from .documents import DocumentDB
+import pandas as pd
+from .document import PdfDocument
 
 
-class StructuredResponse(BaseModel):
+class BooleanResponse(BaseModel):
     """
-    Manages a structured response from a language model.
+    Manages a structured, boolean response from a language model.
     """
-    response : bool = Field(
+    content : bool = Field(
         description = 
-            "Respond with False for a negative or unknown answer. "
-            "Respond True only if the question is answered affirmitavely. "
-    )
-    
-    reason : str = Field(
-        description = 
-            "Specify location or excerpt "
-            "from the text to justify your reasoning. "
+            "Respond with False if the answer is No or Unknown. "
+            "Respond True only if the answer is Yes. "
     )
 
-    '''
-    values: list[float] = Field(
-        description="Array of all numerical data found for the property. " \
-                    "Exctract all values seen in the context. "
-    )
-    units: list[str] = Field(
-        description="Array with units of measurement for each value extracted. "
-                    "Include a unit for every data point extracted. " \
-                    "This could mean repeating a unit if its values appear multiple times."
-    )
-    '''
 
-
-
+# State for an individual page
 class State(TypedDict):
-    name : str
-    retrieval_query : str
-    prompt : str
-    context : List[Document]
-    answer : StructuredResponse
+    context : Document
+    definition_bool : bool
+    definition : str
+    table_bool : bool
 
 
-class Chat:
+class PdfChat:
     """
     Base class used for managing a data extraction chat with a language model.
     """
-    def __init__(self, llm : Callable, n_documents : int = 1):
+    def __init__(self, llm : Callable):
         """
         Args:
             llm (Callable): Language model to use for the chat.
@@ -60,150 +40,178 @@ class Chat:
         Attrs:
             documents (DocumentDB): Document database to use for the chat.
         """
-        self.llm = llm.with_structured_output(StructuredResponse)
-        self.n_documents = n_documents
-        self.documents = None
+        self.llm = llm
+        self.boolean_llm = llm.with_structured_output(BooleanResponse)
 
-        self.instructions = (
-            "You will be given contextual information from a scientific research paper "
-            "and asked to accurately answer questions about its contents. "
-            "If applicable, point to a specific location or excerpt "
-            "from the text to justify your reasoning."
+        self.prompt_template = PromptTemplate.from_template(
+            "<start_of_turn>user\n{instructions}<end_of_turn>\n"
+            "<start_of_turn>user\n{context}<end_of_turn>\n"
+            "<start_of_turn>user\n{query}<end_of_turn>\n"
+            "<start_of_turn>model\n"
         )
 
-        self.prompt_template = ChatPromptTemplate([
-            ("system", self.instructions),
-            ("human", "Context : {context} \n\n Question : {prompt} \n\n Answer :"),
-        ])
-
         graph_builder = StateGraph(State)
-        graph_builder.add_node("retrieve", self.retrieve)
-        graph_builder.add_node("generate", self.generate)
-        graph_builder.add_edge(START, "retrieve")
-        graph_builder.add_edge("retrieve", "generate")
-        graph_builder.add_edge("generate", END)
+        graph_builder.add_node("screen_definition", self.screen_definition)
+        graph_builder.add_node("extract_definition", self.extract_definition)
+        graph_builder.add_node("screen_table", self.screen_table)
+        graph_builder.add_edge(START, "screen_definition")
+        graph_builder.add_conditional_edges(
+            "screen_definition",
+            self.definition_routing,
+            {True : "extract_definition", False: "screen_table"}
+        )
+        graph_builder.add_edge("extract_definition", "screen_table")
+        graph_builder.add_edge("screen_table", END)
         self.graph = graph_builder.compile()
-        self.screening_messages = None
-        self.screening_data = []
+        self.response = None
+        self.data = []
 
 
-    def retrieve(self, state: State):
+    def screen_definition(self, state: State):
         """
-        Retrieve documents from the document database based on the retrieval query.
-        NOTE: This function is called by the graph and should not be called directly.
-
-        Args:
-            state (State): Current state of the chat.
-        Returns:
-            state (State): Updated state with retrieved documents.
-        """
-        print("Retrieving documents...")
-        retrieved_docs = self.documents.retrieve(state["retrieval_query"], k = self.n_documents)
-        return {"context": retrieved_docs}
-
-
-    def generate(self, state: State):
-        """
-        Generate a response using the language model based on the retrieved documents.
-        NOTE: This function is called by the graph and should not be called directly.
+        Screen the current page for a scientific definition.
 
         Args:
             state (State): Current state of the chat.
         Returns:
             state (State): Updated state with generated response.
         """
-        docs_content = "\n\n".join(doc.page_content for doc in state["context"])
-        
+        instructions = (
+            "You will be given contextual information from a page of a scientific research paper "
+            "and asked to accurately answer questions about its contents. Please answer only "
+            "for the information shown on the current page, and not the paper as a whole."
+            "Your answer should be a boolean value with a value of False if the "
+            "answer is No or Unknown and a value of True only if the answer is Yes. "
+        )
+        context = state["context"]
+        query = (
+            "Does this page contain a scientific definition for classifying either ponds or lakes?"
+            "The definition should specify measurable or descriptive attributes that distinguish ponds from lakes."
+        )
         messages = self.prompt_template.invoke(
-            {"prompt": state["prompt"], "context": docs_content}
+            {"instructions": instructions, "context": context, "query": query}
         )
-        print("Generating response...")
+        response = self.boolean_llm.invoke(messages)
+        return {"definition_bool": response.content}
+    
+
+    def definition_routing(self, state : State):
+        return state['definition_bool']
+    
+
+    def extract_definition(self, state: State):
+        """
+        Extract a scientific definition from the given page.
+
+        Args:
+            state (State): Current state of the chat.
+        Returns:
+            state (State): Updated state with generated response.
+        """
+        instructions = (
+            "You will be given contextual information from a page of a scientific research paper "
+            "and asked to accurately answer questions about its contents. Please answer only "
+            "for the information shown on the current page, and not the paper as a whole."
+        )
+        context = state["context"]
+        query = (
+            "What scientific definition does the context give for classifying either ponds or lakes?"
+            "The definition should specify measurable or descriptive attributes that distinguish ponds from lakes."
+        )
+        messages = self.prompt_template.invoke(
+            {"instructions": instructions, "context": context, "query": query}
+        )
         response = self.llm.invoke(messages)
-        print("Response generated.")
-        return {"answer": response}
+        return {"definition": response.content}
     
 
-    def fit(self, documents: DocumentDB, title : str = None):
+    def screen_table(self, state: State):
         """
-        Fit the chat model to the given documents.
+        Screen the current page for tabular data.
 
         Args:
-            documents (DocumentDB): Document database to use for the chat.
-        """
-        self.documents = documents
-        self.title = title
-
-
-    def screen(
-            self,
-            name : str,
-            retrieval_query : str,
-            prompt : str
-        ):
-        """
-        Screen the given prompt using the language model.
-
-        Args:
-            name (str) : Name for the prompt (for recording purposes).
-            retrieval_query (str) : Query to pass to the vector DB retriever.
-            prompt (str): Prompt to screen.
-
+            state (State): Current state of the chat.
         Returns:
-            StructuredResponse: Response from the language model.
+            state (State): Updated state with generated response.
         """
-        if self.documents is None:
-            raise ValueError("Documents not loaded. Please load documents before screening.")
-        self.screening_messages = self.graph.invoke(
-            {
-                "name" : name,
-                "retrieval_query": retrieval_query,
-                "prompt" : prompt,
-            }
+        instructions = (
+            "You will be given contextual information from a page of a scientific research paper "
+            "and asked to accurately answer questions about its contents. Please answer only "
+            "for the information shown on the current page, and not the paper as a whole."
+            "Your answer should be a boolean value with a value of False if the "
+            "answer is No or Unknown and a value of True only if the answer is Yes. "
         )
-        return self.screening_messages['answer']
+        context = state["context"]
+        query = (
+            "Does this page include a table containing data related to "
+            "physical, chemical, or biological attributes of individual ponds or lakes?"
+        )
+
+        messages = self.prompt_template.invoke(
+            {"instructions": instructions, "context": context, "query": query}
+        )
+        response = self.boolean_llm.invoke(messages)
+        return {"table_bool": response.content}
     
 
-    def extract(self):
+    def table_routing(self, state : State):
+        return state['table_bool']
+    
+
+    def fit(self, document: Document, title : str, page_num: int):
         """
-        Extract data from the documents using the language model.
+        Fit the chat model to a given document.
+
+        Args:
+            document (Document): Document to use for the chat.
+            title (str): Title of the document. Defaults to None.
+            page_num (int): Page number of the document to use for the chat.
 
         Returns:
-            str: Extracted data from the documents.
+            response (dict): Response from the language model.
         """
-        if self.documents is None:
-            raise ValueError("Documents not loaded. Please load documents before extracting.")
-        pass
+        self.document = document
+        self.title = title
+        self.page_num = page_num
+        self.response = self.graph.invoke({"context" : self.document.page_content})
+        return self.response
 
 
-    def screen_record(self):
+    def record(self):
         """
-        Record the screening results.
+        Record the results for the current page.
         """
-        if self.screening_messages is None:
+        if self.response is None:
             raise ValueError(
-                "No screening messages to record. Please run screening before recording."
+                "No response to record. Please run the chat before recording."
             )
-        question_name = self.screening_messages['name']
-        response = self.screening_messages['answer'].response
-        reason = self.screening_messages['answer'].reason
-        docs = self.screening_messages['context']
-        pages = [int(d.metadata['page']) for d in docs]
-        self.screening_data.append([self.title, question_name, response, False, reason, pages])
+        
+        definition = None
+        if self.response["definition_bool"]:
+            definition = self.response["definition"]
+
+        self.data.append([
+            self.title,
+            self.page_num,
+            self.response["definition_bool"],
+            definition,
+            self.response["table_bool"]
+        ])
 
 
-    def screen_save(self, fname : str):
+    def save(self, fname : str):
         """
         Save the screening results.
 
         Args:
             fname (str): Filename to save the results.
         """
-        if len(self.screening_data) == 0:
-            raise ValueError("No screening data to save. Please run screening before saving.")
+        if len(self.data) == 0:
+            raise ValueError("No response data to save. Please run the chat before saving.")
         
         df = pd.DataFrame(
-            self.screening_data,
-            columns = ["title", "question", "response", "truth", "reason", "pages"]
+            self.data,
+            columns = ["title", "page", "definition_bool", "definition", "table_bool"]
         )
         df.to_csv(fname)
         

@@ -42,9 +42,9 @@ titles = list(papers.keys())
 
 # Load the language model
 model_path = hf_hub_download(
-    repo_id="google/gemma-3-27b-it-qat-q4_0-gguf",
-    filename="gemma-3-27b-it-q4_0.gguf",
-    cache_dir = '../huggingface/hub'
+    repo_id="google/gemma-3-12b-it-qat-q4_0-gguf",
+    filename="gemma-3-12b-it-q4_0.gguf",
+    #cache_dir = '../huggingface/hub'
 )
 
 llm = ChatLlamaCpp(
@@ -53,9 +53,9 @@ llm = ChatLlamaCpp(
     temperature=0,
     max_tokens=1000,
     n_ctx=2000,
-    n_gpu_layers = 1,
+    n_gpu_layers = 10,
     n_batch = 500,
-    #f16_kv=True,  # MUST set to True, on Mac
+    f16_kv=True,  # MUST set to True, on Mac
 )
 
 instructions = (
