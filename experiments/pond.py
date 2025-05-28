@@ -29,15 +29,10 @@ papers = {
     'Fake 3: Improving the definition of a coastal habitat: Putting the salt back into saltmarsh' :
     'papers/examples/fake3.pdf',
 }
-papers = {
-    'Pond 1: Specificity of zooplankton distribution in meteorite craterponds (Morasko, Poland)' :
-    'papers/examples/ponds1.pdf'
-}
-titles = list(papers.keys())
 
 # Load the language model
 llm = ChatOllama(
-    model="gemma3:12b-it-qat",
+    model="gemma3:27b-it-qat",
     temperature=0
 )
 pdf_chat = PdfChat(llm=llm)
