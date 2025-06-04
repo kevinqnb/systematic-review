@@ -245,7 +245,7 @@ class ChatWithHistory:
                 "The llm must be a callable with an 'invoke' method."
             )
         self.llm = llm
-        self.history = {}
+        self.history = []
 
 
     def invoke(
@@ -271,7 +271,7 @@ class ChatWithHistory:
             Union[str, dict]: Response from the model or graph.
         """
         if identifier is None:
-            identifier = "query " + str(len(self.history))
+            identifier = {"query" : len(self.history)}
 
         response = self.llm.invoke(query)
         if ignore is not None:
@@ -281,7 +281,8 @@ class ChatWithHistory:
             else:
                 raise ValueError("Response must be a dictionary to filter ignored objects.")
             
-        self.history[identifier] = response
+        id_response = identifier | response
+        self.history.append(id_response)
         return response 
         
 
@@ -295,10 +296,7 @@ class ChatWithHistory:
         if len(self.history) == 0:
             raise ValueError("No response data to save. Please run the chat before saving.")
         
-        df = pd.DataFrame.from_dict(
-            self.history,
-            orient="index"
-        )
+        df = pd.DataFrame(self.history)
         df.to_csv(fname)
         return df
 

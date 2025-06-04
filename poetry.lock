@@ -5737,6 +5737,23 @@ doc = ["intersphinx_registry", "jupyterlite-pyodide-kernel", "jupyterlite-sphinx
 test = ["Cython", "array-api-strict (>=2.0,<2.1.1)", "asv", "gmpy2", "hypothesis (>=6.30)", "meson", "mpmath", "ninja ; sys_platform != \"emscripten\"", "pooch", "pytest", "pytest-cov", "pytest-timeout", "pytest-xdist", "scikit-umfpack", "threadpoolctl"]
 
 [[package]]
+name = "semanticscholar"
+version = "0.10.0"
+description = "Unofficial Python client library for Semantic Scholar APIs."
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+files = [
+    {file = "semanticscholar-0.10.0-py3-none-any.whl", hash = "sha256:28a572eb8504d493ab5671bc3ce76f84ae70534a5828ec0cd38a26f27e66bd02"},
+    {file = "semanticscholar-0.10.0.tar.gz", hash = "sha256:82f907265aebcb1d9432b1cdd880d706230444515a4b94017358b938d007dbec"},
+]
+
+[package.dependencies]
+httpx = "*"
+nest_asyncio = "*"
+tenacity = "*"
+
+[[package]]
 name = "send2trash"
 version = "1.8.3"
 description = "Send file to trash natively under Mac OS X, Windows and Linux"
@@ -7113,4 +7130,4 @@ cffi = ["cffi (>=1.11)"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12,<4.0"
-content-hash = "55848f9a212957bac3801c8107064d2c7d1653dd8e223b157627fd9c76af73b8"
+content-hash = "545cebc0243f2fb0f1bbafdadcdfedf844d5542b2f848fbfe39fb3648daad71c"

@@ -177,8 +177,9 @@ cython_debug/
 
 edi/*
 
-documents/ponds
-examples/older
-pond_data
+collection/pdfs/*
+collection/processed/*
+!collection/pdfs/.gitkeep
+!collection/processed/.gitkeep
 *.sh
 *.txt

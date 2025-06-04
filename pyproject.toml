@@ -25,6 +25,7 @@ dependencies = [
     "unstructured[pdf] (>=0.17.2,<0.18.0)",
     "langchain-huggingface (>=0.2.0,<0.3.0)",
     "grobid-client-python (>=0.0.9,<0.0.10)",
+    "semanticscholar (>=0.10.0,<0.11.0)",
 ]
 
 

@@ -43,10 +43,42 @@ boolean_llm = LLM.with_structured_output(schema = BooleanResponse)
 # Define the states and functions to be used in the state graph
 
 class State(TypedDict):
-    context : str
+    abstract : str
+    text : str
+    abstract_bool : bool
     definition_bool : bool
     definition : str
     table_bool : bool
+
+
+def screen_abstract(state: State):
+    """
+    Screen the abstract of the current paper for relevance to ponds or lakes.
+
+    Args:
+        state (State): Current state of the chat.
+    Returns:
+        state (State): Updated state with generated response.
+    """
+    # Check that abstract has not already been screened
+    if state.get("abstract_bool") is None:
+        instructions = (
+            "You will be given contextual information from the title and abstract of a "
+            "scientific research paper and asked to accurately infer information about "
+            "the paper's contents. Your answer should be a boolean value with a value "
+            "of False if the answer is No or Unknown and a value of True only if the answer is Yes. "
+        )
+        context = state["abstract"]
+        query = (
+            "Does this paper study or discuss freshwater ponds or lakes in some capacity?"
+        )
+        messages = prompt_template.invoke(
+            {"instructions": instructions, "context": context, "query": query}
+        )
+        response = boolean_llm.invoke(messages)
+        return {"abstract_bool": response.content}
+    else:
+        return state
 
 
 def screen_definition(state: State):
@@ -65,7 +97,7 @@ def screen_definition(state: State):
         "Your answer should be a boolean value with a value of False if the "
         "answer is No or Unknown and a value of True only if the answer is Yes. "
     )
-    context = state["context"]
+    context = state["text"]
     query = (
         "Does this page contain a definition for either ponds or lakes?"
         "A definition should specify distinguishing attributes or descriptive characteristics."
@@ -96,7 +128,7 @@ def extract_definition(state: State):
         "and asked to accurately answer questions about its contents. Please answer only "
         "for the information shown on the current page, and not the paper as a whole."
     )
-    context = state["context"]
+    context = state["text"]
     query = (
         "What definition does the context give for either ponds or lakes?"
         "A definition should specify distinguishing attributes or descriptive characteristics."
@@ -125,7 +157,7 @@ def screen_table(state: State):
         "Your answer should be a boolean value with a value of False if the "
         "answer is No or Unknown and a value of True only if the answer is Yes. "
     )
-    context = state["context"]
+    context = state["text"]
     query = (
         "Does this page include a table containing data related to "
         "physical, chemical, or biological attributes of individual ponds or lakes?"
@@ -149,13 +181,19 @@ def table_routing(state : State):
 # Build the state graph
 
 graph_builder = StateGraph(State)
+graph_builder.add_node("screen_abstract", screen_abstract)
 graph_builder.add_node("screen_definition", screen_definition)
 graph_builder.add_node("extract_definition", extract_definition)
 graph_builder.add_node("screen_table", screen_table)
-graph_builder.add_edge(START, "screen_definition")
+graph_builder.add_edge(START, "screen_abstract")
+graph_builder.add_conditional_edges(
+    "screen_abstract",
+    lambda state: state['abstract_bool'] if state.get('text') is not None else False,
+    {True: "screen_definition", False: END}
+)
 graph_builder.add_conditional_edges(
     "screen_definition",
-    definition_routing,
+    lambda state: state['definition_bool'],
     {True : "extract_definition", False: "screen_table"}
 )
 graph_builder.add_edge("extract_definition", "screen_table")

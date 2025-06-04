@@ -84,12 +84,18 @@ class XmlDocument:
     """
     Base class used for managing text from xml files.
     """
-    def __init__(self):
+    def __init__(self, doi: str = None):
         """
         Attrs:
+            doi (str): DOI of the document, if available.
+            title (str): Title of the document, if available.
+            title_abstract (str): Title and abstract of the document, if available.
             pages (List[str]): List of pages loaded from the xml document, where each page
                 is a string containing the text content of the document.
         """
+        self.doi = doi
+        self.title = None
+        self.title_abstract = None
         self.pages = None
 
 
@@ -118,9 +124,11 @@ class XmlDocument:
         back = root.find(".//tei:back", namespaces=ns)
 
         title_text = title.text.strip() if title is not None else ""
+        self.title = title_text
         title_text = "# " + title_text + "\n"
         abstract_text = ''.join(abstract.itertext()).strip() if abstract is not None else "\n"
         abstract_text = "## Abstract\n" + abstract_text + "\n\n"
+        self.title_abstract = title_text + abstract_text
 
         body_text = ""
         for div in body.findall(".//tei:div", namespaces=ns):
