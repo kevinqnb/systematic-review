@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Net Heterotrophy in Small Danish Lakes: A Widespread Feature Over Gradients in Trophic Status and Land Cover</title>
+				<funder>
+					<orgName type="full">Danish Natural Science Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2009-01-13">13 January 2009</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Kaj</forename><surname>Sand-Jensen</surname></persName>
+							<email>ksandjensen@bio.ku.dk</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Freshwater Biological Laboratory</orgName>
+								<orgName type="department" key="dep2">Biological Institute</orgName>
+								<orgName type="institution">University of Copenhagen</orgName>
+								<address>
+									<addrLine>Helsingørsgade 51</addrLine>
+									<postCode>3400</postCode>
+									<settlement>Hillerød</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Peter</forename><forename type="middle">A</forename><surname>Staehr</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Freshwater Biological Laboratory</orgName>
+								<orgName type="department" key="dep2">Biological Institute</orgName>
+								<orgName type="institution">University of Copenhagen</orgName>
+								<address>
+									<addrLine>Helsingørsgade 51</addrLine>
+									<postCode>3400</postCode>
+									<settlement>Hillerød</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Net Heterotrophy in Small Danish Lakes: A Widespread Feature Over Gradients in Trophic Status and Land Cover</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Ecosystems</title>
+						<title level="j" type="abbrev">Ecosystems</title>
+						<idno type="ISSN">1432-9840</idno>
+						<idno type="eISSN">1435-0629</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">12</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="336" to="348"/>
+							<date type="published" when="2009-01-13">13 January 2009</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">46CE90EB2DC010E5A9F37794865C4700</idno>
+					<idno type="DOI">10.1007/s10021-008-9226-0</idno>
+					<note type="submission">Received 31 March 2008; accepted 3 December 2008;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Nineteen small lakes located in open landscapes or deciduous forests in nutrient-rich calcareous moraines in North Zealand, Denmark, were all net heterotrophic having negative net ecosystem production and predominant CO 2 supersaturation and O 2 undersaturation of lake waters. Forest lakes were poorer in nutrients, phytoplankton, and primary production, but richer in dissolved organic matter and CO 2 than open lakes with more light available. The modeled annual balance between gross primary production and community respiration (GPP/R COM ) averaged 0.60 in forest lakes and 0.76 in open lakes and the ratio increased significantly with phosphorus concentration and phytoplankton biomass but decreased with colored dissolved organic matter. The negative daily rates of ecosystem production resembled estimates of oxygen uptake from the atmosphere to the lakes, whereas estimates of CO 2 emission were 7.2-fold higher. Although CO 2 -rich groundwater and anaerobic respiration support greater molar release of CO 2 than uptake of O 2 , we suggest CO 2 emission is overestimated. Possible explanations include CO 2 enrichment of the air film above small wind-sheltered lakes. The observed metabolism and gas exchange show that exogenous organic matter is an important supplementary energy source to community respiration in these small lakes and that forest lakes, in addition, experience pronounced light attenuation from trees and dissolved colored organic matter constraining primary production.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Small lakes have several physico-chemical and biological features in common because small sur-face areas statistically are linked to shallow water, wind shelter, and low mixing depth, while they possess a long shore line for input of airborne terrestrial organic matter relative to lake surface area and volume <ref type="bibr" target="#b45">(Straskraba 1980;</ref><ref type="bibr" target="#b13">Duarte and Kaff 1989;</ref><ref type="bibr">Fee and others 1996)</ref>. The hydrological input of organic matter and nutrients across the terrestrial-aquatic boundary is also high relative to surface area in lakes of similar character when the drainage ratio (catchment area/lake area) is high. Small lakes are, in addition, grossly influenced by shading from the terrestrial vegetation and by soil richness and land-use in the immediate surroundings <ref type="bibr" target="#b38">(Sand-Jensen and Staehr 2007)</ref>. In broad-scale comparisons of Danish lakes, small lakes are generally richer in nutrients, dissolved organic matter, and free CO 2 than large lakes located in the same surroundings <ref type="bibr">(Søndergaard and others 2005;</ref><ref type="bibr" target="#b38">Sand-Jensen and Staehr 2007)</ref>.</p><p>Small lakes in forest catchments have reduced inputs of light and easily accessible dissolved nutrients for phytoplankton production compared to lakes in fertilized agricultural landscapes <ref type="bibr" target="#b28">(Larsen and others 1995)</ref>. Forest cover should, therefore, be associated with lower nutrient status, phytoplankton biomass, and gross primary production (GPP) in the lakes <ref type="bibr" target="#b19">(Jackson and Hecky 1980)</ref>. Input of organic detritus from the forest, on the other hand, stimulates growth and metabolism of bacteria and zooplankton, enhances community respiration (R COM ), and constrains phytoplankton production due to greater background shading from colored dissolved organic matter (CDOM; <ref type="bibr">Christensen and others 1996;</ref><ref type="bibr" target="#b27">Krause-Jensen and Sand-Jensen 1998;</ref><ref type="bibr">Jonsson and</ref><ref type="bibr">others 2001, 2003)</ref>. Consequently, brown-colored forest lakes should display stronger net heterotrophy than open, clear-water lakes (Del <ref type="bibr">Giorgio and others 1999;</ref><ref type="bibr" target="#b42">Sobek and others 2002)</ref>. Although increasing nutrient richness is believed to stimulate autotrophy more than heterotrophy <ref type="bibr">(Cole and others 2000)</ref>, input of easily degradable organic matter will have the opposite effect <ref type="bibr">(Schindler and others 1997)</ref>. It is, therefore, possible that small eutrophic lakes can still exhibit distinct net heterotrophy, but these aspects have not been thoroughly tested so far.</p><p>In this study, we compared phytoplankton biomass, particulate and dissolved organic matter, metabolic rates, and exchanges of CO 2 and O 2 with the atmosphere in small, alkaline seepage lakes in either predominantly open agricultural landscapes or deciduous forests in the rich moraine landscape in North Zealand, Denmark. Our main hypothesis was that these small, meso-eutrophic lakes can be net heterotrophic and release CO 2 to the atmosphere because of respiration of exogenous dissolved organic matter or processes related to this input. Our additional hypothesis was that nutrient concentration, phytoplankton biomass, and gross primary production are higher and dissolved organic matter and net heterotrophy are lower in open lakes than in forest lakes. Thus, supersaturation and emission of CO 2 to the atmosphere and undersaturation and influx of O 2 to the water as indices of net heterotrophy should be higher in forest lakes than in open lakes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Sites and Sampling</head><p>We examined 19 small, alkaline lakes (0.3-22 ha, median 10.5; 2.7-6.1 meq l -1 , median 2.6) located in calcareous, nutrient-rich moraines near the town of Hillerød in North Zealand, Denmark (Table 1). Mean pH-values in surface waters ranged from 7.2 to 8.2 because of CO 2 supersaturation and were markedly lower than the pH of 8.2-8.5 attained at CO 2 equilibrium with atmospheric air <ref type="bibr" target="#b47">(Stumm and Morgan 1996)</ref>. Land use was determined from air photographs in a 200 m zone around the lakes. Forest cover ranged from 1% to 96% among the lakes. Lakes were fed by groundwater, rainwater, and intermittent surface flow and, except for three lakes (that is, Slotssø, Teglga ˚rdssø, and Strødam Engsø) they lacked permanent stream inputs. Water residence time and loading with organic matter and nutrients were not known for most lakes. In small forest lakes, shed leaves were the main input of exogenous particulate organic matter. All lakes were shallow with mean depths ranging from 1 to 3.5 m. The water had measured mean vertical light attenuation coefficients (K D , 400-700 nm) ranging from 1.0 to 5.2 m -1 (Table <ref type="table" target="#tab_0">1</ref>). Light attenuation coefficients in all lakes on all sampling dates were calculated from measurements (see below) of total suspended dry matter (TSM), algal biomass (Chl a), and absorbance of colored dissolved organic matter (CDOM) by applying the optical model described in Sand- <ref type="bibr" target="#b38">Jensen and Staehr (2007)</ref>. Small lakes surrounded by tall forest trees experience very pronounced shading from the trees. The reduction of surface irradiance (SI) has previously been quantified in the region as a function of lake size across the size range studied here <ref type="bibr" target="#b38">(Sand-Jensen and Staehr 2007)</ref>. This model was used to calculate surface irradiance in the present set of lakes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Water Chemistry, Clarity, and Phytoplankton Pigments</head><p>Lakes were sampled eight times from November 2000 to November 2001. All physico-chemical and biological measurements were made in triplicate. Water temperatures were between 1°C and 24°C during this period and lakes were ice-free during sampling. Temperature was measured and water sampled at 0.3 m depth in the center of the homogeneously mixed lakes between 10 and 12 o'clock. Water for chemical and physical measurements was transferred to 10 l plastic containers and analyzed on the same day or frozen for later anal-Net Heterotrophy in Small Lakes yses of total-nitrogen (TN) and total-phosphorus (TP) according to <ref type="bibr" target="#b46">Strickland and Parsons (1968)</ref>. Total suspended dry matter (TSM) was determined by filtration on pre-weighed GF/C-filters followed by drying at 105°C and weighing. The filtrate was further filtered (&lt;0.2 lm) to remove bacteria and other fine particles and absorbance of colored dissolved organic matter (CDOM) was measured at several wavelengths (340-460 nm) in a 5-cm cuvette in a Shimadzu spectrophotometer (UV-160A) and expressed as CDOM absorption (m -1 ) as recommended by Cuthbert and del <ref type="bibr" target="#b9">Giorgio (1992)</ref> and <ref type="bibr" target="#b25">Kirk (1994)</ref> by multiplying with 2.3 (from log 10 to log e ) and dividing by the optical path length (0.05 m). CDOM absorption at 360 nm is presented here, whereas the highly reproducible logarithmic decline of absorption from 340 to 460 nm was used to calculate mean absorption for the photosynthetic range (400-700 nm) in the optical model <ref type="bibr" target="#b38">(Sand-Jensen and Staehr 2007)</ref>. In comprehensive measurements from Danish eutrophic lakes and streams, DOC concentrations (mg C l -1 ) increased linearly with CDOM absorption at 360 nm (m -1 ) according to the equation: DOC = 0.454 CDOM 360 + 1.9 (r 2 = 0.80, n = 399, Stedmon, unpublished). Samples for chlorophyll a and pheopigments were collected on AdvantecÒ GC-50 filters, extracted with 96% ethanol for 24 h and measured according to the method described by <ref type="bibr">Parsons and others (1984)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Metabolism and Gas Exchange</head><p>Measurements just before noon approximately represent the daily average concentrations of CO 2 and O 2 (Sand-Jensen and Staehr 2007). Water for determination of O 2 , pH, and calculations of CO 2 was transferred to closed, dark glass bottles to avoid CO 2 and O 2 exchange with the air and prevent photosynthesis before measurement in the laboratory within 2 h. pH was measured with radiometer equipment (accuracy 0.01 pH unit) and O 2 with stirring insensitive Clark-type microelectrodes (Unisense; accuracy 0.01 mg O 2 l -1 ). Measurements of ionic strength, alkalinity, and pH were used to calculate concentrations of free CO 2 according to Rebsdorf <ref type="bibr">(1972)</ref>. The calculated CO 2 concentrations have previously been shown to be in close agreement with direct CO 2 measurements on an IRGA using a headspace equilibration technique (Sand-Jensen and Frost-Christensen 1998).</p><p>The pH-alkalinity approach was used because we were able to analyze the large number of samples with better reproducibility than by the IRGA approach.</p><p>Percent saturation of O 2 and CO 2 was calculated as the ratio of the measured gas concentration and the gas concentration in water in equilibrium with the atmosphere at ambient temperature. A standard table was used to compute oxygen saturation from water temperature. CO 2 saturation was calculated as a function of mean CO 2 partial pressure (380 ppm) in air at the time of investigation and water temperature according to <ref type="bibr" target="#b33">Plummer and Busenberg (1982)</ref>.</p><p>Gas fluxes of O 2 and CO 2 across the air-water interface were calculated as the product of the gas exchange coefficient (piston velocity, k, cm h -1 ) and the concentration gradient: D = k ([gas] meas -[gas] sat ). Piston velocity was estimated from k 600 and the ratio of Schmidt numbers as k = k 600 *((Sc/600) -0.5 ) according to <ref type="bibr">Jahne and others (1987)</ref>. k 600 (k for a Schmidt number (Sc) of 600) was estimated as a function of wind speed at 10 m above the lake surface as: k 600 (cm h -1 ) = 2.07 + 0.215wind 1.7 according to <ref type="bibr" target="#b6">Cole and Caraco (1998)</ref>. Measurements during several years in some of these small lakes have confirmed that wind speed is indeed low (0-3 m s -1 ) for more than 90% of the time <ref type="bibr" target="#b5">(Closter 2007)</ref>. We therefore applied a wind speed of 2 m s -1 for all dates. The flux equation for CO 2 is analogous to that of O 2 but includes a factor, a, which represents the chemical enhancement of diffusion, which occurs at high pH and during low wind speeds when the stagnant layer is thick. We used the approach in <ref type="bibr" target="#b1">Bade and Cole (2006)</ref> to compute a.</p><p>Metabolic rates in the pelagic waters were measured in triplicate by standard oxygen experiments in closed glass bottles (25 ml) mounted on a rotating wheel in a temperature-constant incubator set at ambient temperature. Net oxygen production at light saturation (NP max ) of the plankton community was determined as the increase of oxygen concentrations in the water exposed to a saturating irradiance of 400 lmol photons m -2 s -1 for 6-18 h. Respiration of the plankton (R) was measured as the decline of oxygen concentrations in dark bottles for 18-42 h. Long incubations were used when rates were lowest. Oxygen concentrations were measured using the microelectrode equipment. Gross primary production at light saturation (GPP max ) was calculated in the conventional way as the sum of NP max and R assuming that dark respiration continues at unaltered rates in the light.</p><p>Benthic respiration was measured in triplicate sediment cores retrieved in Kajak Perspex cylinders (5.2 cm in diameter) from the central part of the lakes in April-May and incubated in the dark at 12°C for 1-2 days. Oxygen consumption was Net Heterotrophy in Small Lakes determined as the rate of decline of dissolved O 2 in the enclosed water volume overlying the sediment. Water was stirred by a magnetic stirrer bar during incubation. Benthic respiration was corrected for respiration in the water overlying the sediment cores by parallel incubation of water alone. Benthic respiration measurements were assumed to be representative for the entire lake and the full year. This is obviously a crude assumption which does not account for spatial and temporal variability in the amount of labile organic matter. We regard the incubation temperature of 12°C as a suitable choice because if respiration rates change with temperature with a standard Q 10 -value of 2.0, annual means of respiration rates corrected to monthly temperatures over the year available for two lakes in the region <ref type="bibr" target="#b5">(Closter 2007</ref>) yielded values within ±5% of the value at 12°C.</p><p>Total daily lake respiration (R COM ) was calculated by multiplying hourly rates of volumetric pelagic respiration with 24 h and mean water depth and adding benthic respiration. Pelagic waters were usually well mixed and had little spatial variability, whereas greater spatial variability is expected for benthic respiration which may, as already mentioned, generate uncertainty by up-scaling to the entire lake ecosystem. Total daily gross primary production (GPP) was calculated from maximum light-saturated gross production in the pelagic waters (GP max , mol O 2 m -3 h -1 ), the attenuation coefficient (K D , m -1 ), number of light hours per day (LDH, h day -1 , Jensen 2000) according to the empirical model of <ref type="bibr">Talling 1957, (his Eq. 5)</ref>, but modified to correct for forest shading by multiplying by mean irradiance at the lake surface as a proportion of irradiance in the open (SI):</p><formula xml:id="formula_0">GPP ¼ GP max ln2=1:33K D ð ÞÂLDH Â SI</formula><p>Daily rates were integrated over the year by linear interpolation between successive measurements. The contribution of submerged macrophytes and benthic microalgae was not included in our estimate of ecosystem production. Emergent macrophytes were present in shallow water of the lakes but they exchange O 2 and CO 2 with the atmosphere during their photosynthetic production, whereas they decompose in the water upon senescence like the input of terrestrial organic matter. The growth of submerged macrophytes was negligible in most lakes. There will, however, be a certain contribution of benthic microalgae to ecosystem production <ref type="bibr">(Vadeboncoeur and</ref><ref type="bibr">others 2001, 2003)</ref>, although high shading from forest trees surrounding the small lakes and high light attenuation in the plankton-rich and brown-colored water will restrict this productivity as well. Thus, we acknowledge that ecosystem GPP and GPP/R values are probably underestimated by not including the benthic production of microalgae.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistics</head><p>To determine the correlations between forest cover,</p><p>season, physico-chemical and biological variables a Pearson correlation matrix was established. To specifically evaluate the influence of forest cover and season, lakes were first divided into 11 predominantly open lakes (1-42% forest cover, median 27%) and 8 predominantly forest lakes (50-96% forest cover, median 64%) with no overlap in forest cover between the two groups and no difference in lake size. Data were log-transformed, when necessary, to fulfill the requirements of parametric analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Water Chemistry, Organic Matter, and Forest Cover</p><p>All 19 small lakes had high nutrient concentrations (seasonal means: 25-285 lg TP l -1 , 521-2489 lg TN l -1 ) and phytoplankton biomasses (seasonal means: 8-100 lg Chl l -1 ) corresponding to mesotrophic to very eutrophic conditions (Figure <ref type="figure">1</ref>). Nutrient concentrations (TN and TP) were higher (P &lt; 0.088) in open lakes than in shaded forest lakes (Figure <ref type="figure">1</ref>) and negative correlations of nutrient concentrations to forest cover among lakes were significant (Table <ref type="table" target="#tab_3">2</ref>). Total suspended matter (TSM) and phytoplankton biomass (Chl a) in pelagic water declined significantly with higher forest cover, whereas CDOM absorption, CDOM/Chl a, and free CO 2 concentrations increased (Table <ref type="table" target="#tab_3">2</ref>). Phytoplankton biomass increased significantly with TP (Table <ref type="table" target="#tab_3">2</ref>). All lakes were strongly supersaturated with CO 2 during autumn and winter, whereas CO 2 supersaturation during summer was weaker (Figure <ref type="figure">1</ref>). CO 2 concentrations were lowest in forest lakes in early May and in open lakes in June-July. Among eight forest lakes, 97% of CO 2 measurements displayed supersaturation with an annual median value of about 975% air saturation. Among 11 open lakes, 87% of the measurements showed CO 2 -supersaturation and the annual median value was about 710% air saturation. O 2 concentrations in surface waters were greatly undersaturated during autumn and winter, close to atmospheric equilibrium in May and June, and only supersaturated in July (Figure <ref type="figure">1</ref>). Forest lakes and open lakes were undersaturated with O 2 in 75% of measurements. The extent of CO 2 supersaturation was significantly positively correlated with the extent of O 2 undersaturation (Table <ref type="table" target="#tab_3">2</ref>).</p><p>Concentrations of free CO 2 declined significantly with TSM and increased highly significantly with CDOM absorption according to a hyperbolic relationship (Table <ref type="table" target="#tab_3">2</ref>, Figure <ref type="figure">2</ref>). The range of mean CDOM absorption (6-34 m -1 ) among the lakes corresponds to dissolved organic carbon concentrations (DOC) between approximately 4 and 18 mg C l -1 according to the general empirical relationship of DOC to CDOM absorption (see section ''Materials and Methods''). In multiple regression analyses (log transformed data) only the positive relationship to CDOM contributed significantly to the prediction of daily mean CO 2 concentrations, whereas the positive influence of forest cover and the negative influence of phytoplankton biomass were not significant but may exert their influence through inter-correlations with CDOM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Production and Respiration</head><p>For the entire lake ecosystem, daily gross primary production (GPP) and community respiration (R COM ) were significantly positively related to TP, Chl a, and TSM (Table <ref type="table" target="#tab_3">2</ref>). R COM increased along with GPP, being a main source of respiratory substrates, and in most cases R COM exceeded GPP (Figure <ref type="figure">3</ref>). Benthic respiration was responsible for 44 ± 5% (mean ± 95% CL) of community respi-  ration in open lakes and 37 ± 5% in forest lakes, whereas pelagic respiration accounted for the remainder. The GPP/R COM -ratio declined with forest cover (Table <ref type="table" target="#tab_3">2</ref>), but the difference between forest lakes and open lakes was only significant when seasonal changes were accounted for (data not shown). The GPP/R COM -ratio increased significantly with TP, TSM, and phytoplankton biomass, and declined significantly with CDOM and CDOM/ Chl a (Table <ref type="table" target="#tab_3">2</ref>). Gross primary production was much higher during summer than during autumn and winter (Figure <ref type="figure">4</ref>). Although community respiration dis-played the same overall seasonal pattern, differences between summer and winter were less pronounced (Figure <ref type="figure">4</ref>). This is in part due to the application of a constant sediment respiration, but seasonal changes in the pelagic community were also larger for phytoplankton net production (coefficient of variation, CV: 61%) than plankton community respiration (CV: 48%). Annual means of GPP/R COM were higher in open lakes (avg. 0.76) than forest lakes (0.60) and the ratios were lowest during autumn and winter in both lake types and higher than 1.0 only during summer in open lakes (Figure <ref type="figure" target="#fig_2">5</ref>). R com (mmol O 2 m -2 d -1 ) 1 10 100 GPP (mmol O 2 m -2 d -1 ) 1 10 100 Forest Open Figure 3. Relationship between daily gross primary production and community respiration in forest lakes (closed circles) and open lakes (open circles). The line shows GPP equal to R COM and zero net community production. The GM-regression line follows the equation: log GPP = 1.04 log R COM -0.30 (r 2 = 0.55, P &lt; 0.0001). CO 2 = -0.1 + 0.12 ln CDOM r 2 = 0.50, p&lt;0.001 CDOM (m -1 ) 0 1 0 2 0 3 0 4 0 CO 2 (mM) 0.0 0.1 0.2 0.3 0.4 0.5 Figure 2. Daily mean CO 2 concentration in 19 small lakes over the year as a function of mean CDOM absorption. Error bars are standard errors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gas Fluxes and Net Heterotrophy</head><p>Net heterotrophy was prominent as most of the lakes were supersaturated with CO 2 , undersaturated with O 2 , and had GPP/R COM -ratios below 1.0 during most of the year (Figures <ref type="figure">1</ref> and <ref type="figure">4</ref>). Estimated CO 2 emissions were higher during autumn-winter than summer and annual mean CO 2 emission was 43.0 mol m -2 y -1 in forest lakes and 27.3 mol m -2 y -1 in open lakes (Table <ref type="table" target="#tab_4">3</ref>). Estimated influxes of O 2 were complementary to CO 2 emissions being higher during autumn-winter than summer and annual values were slightly higher in forest lakes (5.1 mol O 2 m -2 y -1 ) than in open lakes (4.4 mol O 2 m -2 y -1 ). A highly significant inverse relationship was observed between CO 2 and O 2 fluxes among lakes over time in accordance with the complementary role of the two gases in photosynthesis and aerobic respiration (Figure <ref type="figure" target="#fig_2">5</ref>). It is noteworthy, that a positive CO 2 -efflux was estimated at a zero O 2 -flux and that the slope of O 2 -flux versus CO 2 -flux was -0.41 and significantly less negative than -1.0 implying that, on a molar basis, estimated CO 2 emission was much higher than estimated O 2 uptake. Emission of CO 2 and uptake of O 2 both increased with falling GPP/R COM -ratio and more negative net ecosystem production (NEP = GPP -R COM ). The absolute rate of O 2 uptake from the atmosphere into the lakes is at the same level as the negative net ecosystem production, whereas the rate of CO 2 emission is much greater than what the surplus of community respiration can account for (Table <ref type="table" target="#tab_4">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Influence of Forest Cover and Dissolved Organic Matter</head><p>The small lakes examined here exhibited significantly declining concentrations of nutrients and phytoplankton biomass with greater forest cover, whereas CDOM absorption and CO 2 supersaturation increased (Table <ref type="table" target="#tab_3">2</ref>). Input of soil nutrients is generally much lower in lakes located in forests than in open lakes located in cultivated landscapes <ref type="bibr" target="#b28">(Larsen and others 1995)</ref>. Input of leaves and dissolved organic matter, on the other hand, is high from forested catchments and can support microbial growth and microbial respiration in forest lakes contributing to their profound CO 2 supersaturation <ref type="bibr" target="#b51">(Tranvik 1992</ref>). These conditions can account for the observed differences between forest lakes and open lakes. In addition, extra input of dissolved organic matter will impede phytoplankton biomass due to the enhanced background light attenuation which competes with phytoplankton pigments for available light as shown by phytoplankton growth models and laboratory tests under nutrient replete conditions <ref type="bibr" target="#b18">(Huisman and Weissing 1994;</ref><ref type="bibr" target="#b27">Krause-Jensen and Sand-Jensen 1998)</ref>. In Long Lake, Wisconsin, for example, an increase of refractory Gross primary production (GPP, mol O 2 m -2 y -1 ) 11.9 ± 6.5 14.1 ± 5.8 Community respiration (R com , mol O 2 m -2 y -1 ) 22.0 ± 7.7 22.7 ± 7.9 Net ecosystem production (NEP, mol O 2 m -2 y -1 ) -10.1 ± 2.1 -8.7 ± 3.8 GPP: R com 0.60 ± 0.07 0.76 ± 0.16 O 2 exchange rate (mol O 2 m -2 y -1 ) -5.1 ± 2.9 -4.4 ± 2.6 CO 2 exchange rate (mol CO 2 m -2 y -1 ) 43.0 ± 15.0 27.3 ± 8.3</p><p>Mean ± 95% CL. DOC from 5 to 17 mg l -1 , resembling the DOC range in our lake comparison, was estimated to reduce phytoplankton biomass and primary production corresponding to a 10-fold decline of the external P-loading rate <ref type="bibr">(Carpenter and others 1998)</ref> because higher phytoplankton biomass (and more P) is required to absorb the same proportion of incident irradiance. In our lake comparison, CDOM absorption was negatively related to GPP/ R COM (Table <ref type="table" target="#tab_3">2</ref>). The quotient CDOM/Chl a directly reflects the competition between background absorption and photosynthetic pigment absorption (Krause-Jensen and Sand-Jensen 1998) and it was significantly negatively related to GPP and GPP/ R COM (Table <ref type="table" target="#tab_3">2</ref>). We, therefore, agree with <ref type="bibr" target="#b31">Pace and others (2007)</ref> that CDOM/Chl a could be a suitable and easily measurable predictor of the balance between allochthonous and autochthonous carbon to plankton consumers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lake Metabolism and Net Heterotrophy</head><p>Community respiration exceeded gross primary production in all lakes stressing the net heterotrophic character of both nutrient-rich open lakes and forest lakes with high input of allochthonous organic carbon. Exogenous organic substrates offer an additional source to R COM that may explain why CO 2 is emitted to the atmosphere and O 2 is taken up and why their magnitudes are positively related to CDOM (Table <ref type="table" target="#tab_3">2</ref>, Figure <ref type="figure">2</ref>). This finding corresponds well with the positive relationship of CO 2 to DOC of boreal lakes <ref type="bibr">(Sobek and others 2005)</ref>. Gross primary production and community respiration both increased significantly under more nutrient-rich conditions in lakes having high phosphorus and chlorophyll concentrations (Table 2). The close relationship of community respiration to phytoplankton biomass and production (Table <ref type="table" target="#tab_3">2</ref>, Figure <ref type="figure">3</ref>) can result from a direct role of phytoplankton in the respiratory budget and an indirect role when phytoplankton carbon is consumed by bacteria and animals. GPP increased more than R COM by increasing nutrient richness supporting earlier suggestions of greater stimulation of autotrophy than heterotrophy <ref type="bibr">(Schindler and others 1997;</ref><ref type="bibr">Cole and others 2000;</ref><ref type="bibr" target="#b14">Duarte and Prairie 2005)</ref>. Uptake of O 2 from the atmosphere declined under more nutrient-rich conditions, though not significantly (P = 0.10).</p><p>It is noteworthy that net ecosystem production remained negative in both open lakes <ref type="bibr">(-8.7</ref>) and forest lakes (-10.1 mol O 2 m -2 y -1 ) consistent with GPP/R COM annual means of 0.76 and 0.60, respectively (Table <ref type="table" target="#tab_4">3</ref>). These annual balances are estimated by a combined optical-photosynthesis model using measurements of pelagic metabolism and attenuating TSM, CDOM, and Chl a on eight occasions during the year, but only one measurement series of benthic respiration. No contribution of benthic production was included. Despite these uncertainties, the calculations gain credibility by showing the same systematic pattern among lakes that all had negative NEP-values and of the same magnitude as O 2 influx from the atmosphere calculated independently.</p><p>Predominantly negative net ecosystem productivity is associated with unproductive aquatic ecosystems, including lakes, in the compilation by <ref type="bibr" target="#b12">Duarte and Agusti (1998)</ref>. CO 2 supersaturation in the majority of numerous lake measurements <ref type="bibr">(Cole and others 1994)</ref>, in 23 of 25 tundra lakes <ref type="bibr">(Kling and others 1991)</ref> and in boreal forest lakes <ref type="bibr" target="#b11">(Dillon and Molot 1997;</ref><ref type="bibr">Jonsson and others 2003)</ref> also supports the predominance of negative NEP due to degradation of organic matter from land and from wetland plants along the lake shore, although inflow of CO 2 supersaturated water contributes to the CO 2 emission to the atmosphere. Experiments directly demonstrate that removal of leaf input to forest ponds reduces R COM and makes NEP less negative <ref type="bibr">(Rubbo and others 2006)</ref>. Moreover, experimental addition of inorganic 13 C to entire lakes and subsequent measurements of d 13 C in different pelagic organic pools confirm the relatively greater support by terrestrially derived organic carbon to planktonic consumers as lake size and trophy decrease and dissolved organic color increases <ref type="bibr" target="#b31">(Pace and others 2007)</ref>. The 19 small lakes included in our analysis all have a close contact to land and a substantial input of both airborne and waterborne terrestrial organic matter that can support respiratory processes in the lakes. We confirm that negative NEP-values are a widespread feature over gradients in trophic status and land cover of small Danish lakes, including very eutrophic ones.</p><p>Organic matter dissolved in the water flowing to forest lakes in our study region showed a mean degradability of 1.5 mmol C l -1 over 10 months (Sand-Jensen, unpublished) which would give rise to annual CO 2 emission rates from the lakes of 0.75-3.0 mol m -2 for typical water retention times of 0.5-2 years <ref type="bibr">(Algesten and others 2003)</ref>. Degradable particulate organic matter of about one-third this magnitude may be carried by surface flow <ref type="bibr" target="#b37">(Sand-Jensen and Pedersen 2005)</ref>. Annual airborne leaf input from deciduous forest vegetation typically amounts to 250-500 g C per m along the lake shore <ref type="bibr" target="#b16">(Fisher and Likens 1973)</ref> corresponding to 0.4-2.7 mol C m -2 for our main range Net Heterotrophy in Small Lakes of lake sizes (0.3-3.1 ha). This yields a maximum annual input of organic carbon available for degradation of about 7 mol m -2 which is of the same order of magnitude as our estimate of mean NEP in forest lakes (-10.1 mol O 2 m -2 ) and the estimates of annual CO 2 -emission rates from tundra lakes (avg. 7.7 mol m -2 , Kling and others 1991), Scandinavian boreal lakes (avg. 5.3 mol m -2 , Jonsson and others 2007), and forest lakes in mid-Sweden (3.5-4.9 mol m -2 in catchments 19-21, <ref type="bibr">Algesten and others 2003)</ref>. In contrast, our estimates of CO 2 emission rates are much higher.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gas Fluxes and Excessive CO 2 Emission</head><p>We estimated much greater molar rates of CO 2emission than O 2 -uptake in our lakes. The regression slope between CO 2 emission and O 2 uptake was 2.4. If aerobic degradation of exogenous organic matter in the lakes is the main source of this CO 2 emission and O 2 uptake we should expect a molar ratio of CO 2 /O 2 close to 1.0. Anaerobic sediment respiration by use of alternative electron acceptors (nitrate, sulfate, and oxidized iron and manganese) and input of supersaturated groundwater would support greater molar release of CO 2 than uptake of O 2 <ref type="bibr" target="#b49">(Torgersen and Branco 2007)</ref>. Anaerobic sediment processes in a small, shallow, and rapidly flushed Connecticut pond (for example, denitrification and fermentation) have been invoked to explain the imbalance between the much greater annual release of 29.2 and 30.3 mol CO 2 m -2 from the pond surface to the atmosphere in 2 years than the uptake of only 2.7 mol O 2 m -2 in 1 year and release of 9.1 mol O 2 m -2 in the other year <ref type="bibr" target="#b50">(Torgersen and Branco 2008)</ref>. We find it more likely for our small Danish lakes that the high CO 2 /O 2 ratio and the high emission rate of CO 2 hide an error in the CO 2 -emission estimate because the estimated inputs of groundwater CO 2 , the internal CO 2 release by loss of alkalinity, and the degradation of external input of organic matter, approximately matching O 2 uptake from the atmosphere, are not sufficiently large to account for the CO 2 -emission estimate. Groundwater in the region is greatly supersaturated with free CO 2 (400-1000 lM, Sand-Jensen and others 1995) which corresponds to annual emissions of 0.2-2 mol CO 2 m -2 of lake surface at typical water retention times of 0.5-2 years which is too low to account for the high estimates of CO 2 emission rates, though it will contribute to CO 2 /O 2 exchange ratios with the atmosphere above 1.0 (Figure <ref type="figure" target="#fig_2">5</ref>). An additional CO 2 source is loss of alkalinity by precipitation and permanent burial of CaCO 3 and silicate minerals in the lake sediments <ref type="bibr">(McConnaughey and others 1994)</ref>. Permanent sedimentation of CaCO 3 is low, however, in these predominantly CO 2 supersaturated lakes.</p><p>Accordingly, our CO 2 emission rates are perhaps overestimated because piston velocities or CO 2 gradients from water to air are overestimated or both. Piston velocities for O 2 and CO 2 used here resembled each other <ref type="bibr" target="#b29">(Liss and Merlivat 1986)</ref>, but direct comparisons are needed for small, wind sheltered lakes where organic surface layers can be prominent <ref type="bibr">(Frew and others 2004)</ref>. CO 2 gradients across the water-air interface are overestimated if pre-noon CO 2 concentrations in the water exceed daily averages and if CO 2 in the stagnant air film exceeds standard atmospheric concentrations. No CO 2 measurements are available for air films, but values of 150-200% saturation have been measured 1 m above the water surface of CO 2 supersaturated streams on 5 calm mornings, whereas values close to 100% saturation were recorded on 13 mornings with more wind <ref type="bibr" target="#b3">(Christensen 2000)</ref>. Future continuous measurements of CO 2 and O 2 in lake water and atmospheric air and direct measurements of piston velocity are needed to improve measurements of whole-lake metabolism and evaluate potential errors in gas exchange rates with the atmosphere.</p><p>In conclusion, our results demonstrate that the small Danish lakes are systematically net heterotrophic, that even very eutrophic lakes remain net heterotrophic and that O 2 uptake corresponds to the negative net ecosystem productivity probably driven by input of organic matter from land. Although CO 2 input from groundwater and surface flow, internal CO 2 generation by anaerobic respiration and precipitation of minerals support higher CO 2 emission than O 2 uptake, the presented CO 2 emission rates are probably overestimated and deserve future attention.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Figure 1. Seasonal variations in forest lakes and open lakes of phytoplankton (Chl), total suspended matter (TSM and Chl/TSM), colored dissolved organic matter (CDOM), total nutrients (TP and TN), and % saturation of CO 2 and O 2 . Mean values (±SE) are shown.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 4 .Figure 3 .Figure 2 .</head><label>432</label><figDesc>Figure 4. Seasonal variations of daily rates of gross primary production (GPP, panel A), community respiration (R COM , panel B), and the ratio between them (panel C) in forest lakes and open lakes. Mean values (±SE).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Relationship between daily estimated fluxes of CO 2 and O 2 (mmol m -2 d -1 ) across the air-water interface of eight forest lakes (closed circles) and eleven open lakes (open circles) at eight different times during the year. Positive values are effluxes. The geometric mean regression is: O 2 -flux = 24.5 -0.41 CO 2 -flux (r 2 = 0.19, P &lt; 0.01).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Surface Area and Mean Depth of the 19 Small Danish Lakes and Forest Cover Measured in a 200 m Wide Zone Along the Lake Shore</figDesc><table><row><cell>Lake Size (m 2 ) Mean Forest pH ANC Chl a TN TP K D TSM</cell><cell>depth (m) cover (%) (meq l -1 ) (lg l -1 ) (lg l -1 ) (lg l -1 ) (m -1 ) (mg l -1 )</cell><cell>Agertoften 6,061 1 58 7.2 ± 0.1 2.2 ± 0.1 11.7 ± 2.8 1040 ± 20 72 ± 10 4.1 ± 0.2 2.8 ± 0.5</cell><cell>Badstuedam 28,039 1 46 8.2 ± 0.2 2.8 ± 0.2 14.2 ± 3.4 836 ± 72 52 ± 4 1.3 ± 0.1 3.4 ± 0.6</cell><cell>Bendstrup Sø 2,615 1 1 7.6 ± 0.3 2.4 ± 0.1 101.3 ± 29.1 1575 ± 221 285 ± 43 2.4 ± 0.3 11.3 ± 3.2</cell><cell>Brededam 2,2719 1.3 73 7.5 ± 0.1 2.9 ± 0.1 12.7 ± 1.6 522 ± 52 51 ± 18 1.4 ± 0.2 2.7 ± 0.2</cell><cell>Bøllemose 4,601 0.8 11 7.8 ± 0.1 3.3 ± 0.2 43.9 ± 8.7 699 ± 64 48 ± 3 1.5 ± 0.1 13.7 ± 4.7</cell><cell>Favrholm Sø 1,0476 1.5 1 7.9 ± 0.2 2.4 ± 0.2 20.7 ± 6.0 819 ± 53 67 ± 17 1.3 ± 0.2 9.3 ± 3.4</cell><cell>Fønstrup dam 6,826 1.6 96 7.4 ± 0.2 2.7 ± 0.1 19.6 ± 5.2 794 ± 60 55 ± 6 2.0 ± 0.2 4.8 ± 1.2</cell><cell>Hesteskodam 5,246 1.5 30 7.5 ± 0.1 1.6 ± 0.0 40.6 ± 6.3 1332 ± 126 93 ± 11 2.1 ± 0.4 9.2 ± 2.9</cell><cell>Karlsø 2,9082 1.1 49 7.3 ± 0.0 2.1 ± 0.1 27.0 ± 9.8 986 ± 86 96 ± 9 5.2 ± 0.5 3.9 ± 0.7</cell><cell>Praestevang Kirke Sø 6,763 1.5 23 7.6 ± 0.1 2.7 ± 0.1 19.0 ± 7.3 756 ± 50 47 ± 7 1.6 ± 0.2 3.4 ± 0.6</cell><cell>Selskovsvej Sø 22,876 3 43 7.7 ± 0.1 3.7 ± 0.1 14.9 ± 3.9 963 ± 94 82 ± 13 1.1 ± 0.1 4.8 ± 1.5</cell><cell>Slotssø 220,728 3.5 15 8.1 ± 0.2 2.6 ± 0.1 52.6 ± 42.2 945 ± 153 192 ± 23 1.5 ± 0.4 9.9 ± 5.4</cell><cell>Sortedam 5,028 1.2 29 7.1 ± 0.1 1.2 ± 0.1 38.7 ± 11.1 1236 ± 289 109 ± 38 2.5 ± 0.2 9.6 ± 3.7</cell><cell>Sortedam v. C. vej 3,942 1 48 7.4 ± 0.1 2.6 ± 0.2 12.3 ± 1.3 585 ± 42 70 ± 26 1.6 ± 0.1 3.6 ± 0.4</cell><cell>Spejldam 3,755 1 42 7.8 ± 0.1 2.6 ± 0.0 31.3 ± 12.1 955 ± 188 168 ± 130 1.0 ± 0.2 7.9 ± 3.1</cell><cell>Store Funkedam 15,643 1.5 72 7.5 ± 0.1 2.1 ± 0.2 8.1 ± 0.6 577 ± 26 25 ± 4 1.9 ± 0.1 3.0 ± 0.8</cell><cell>Strødam Engsø 175,730 1 27 7.9 ± 0.1 5.4 ± 0.4 13.7 ± 5.4 2489 ± 1097 306 ± 51 1.7 ± 0.2 12.2 ± 3.7</cell><cell>Teglga ˚rdssø 53,177 1 34 7.5 ± 0.1 2.3 ± 0.1 21.0 ± 3.0 954 ± 23 54 ± 17 2.9 ± 0.2 8.3 ± 2.9</cell><cell>Ødam 31,249 1 38 8.1 ± 0.1 3.1 ± 0.1 21.1 ± 5.1 668 ± 47 67 ± 18 4.8 ± 1.2 1.2 ± 0.1</cell><cell>D ), and total suspended Characteristics of the surface waters including pH, alkalinity (ANC: acid neutralizing capacity), chlorophyll a concentration, total-nitrogen (TN), total-phosphorus (TP), vertical light attenuation coefficient (K</cell><cell>matter (TSM) are also given. Mean values ± SE.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 .</head><label>2</label><figDesc>Pearson Correlation Coefficients Among Forest Cover, Nutrients (TP and TN), Limnological Variables (Chl</figDesc><table><row><cell>a, Temperature, TSM, CDOM,</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 .</head><label>3</label><figDesc>Annual Rates of Metabolism and Gas Exchange Rates in 8 Predominantly Forest Lakes and 11 Predominantly Open Lakes</figDesc><table><row><cell>Parameter</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>This project was funded by a grant from the <rs type="funder">Danish Natural Science Research Council</rs> to KSJ. We are grateful for technical assistance from <rs type="person">Birgit Kjøller</rs> and helpful comments to improve the manuscript by <rs type="person">Anders Jonsson</rs> and <rs type="person">Jeremy Testa</rs>. We are impressed by the insight and constructiveness of <rs type="person">Stephen Carpenter</rs>, <rs type="person">Jonathan Cole</rs>, and three anonymous referees.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Role of lakes for organic carbon cycling in the boreal zone</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Algesten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sobek</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bergstro ¨m A-K</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Tranvik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob Chang Biol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="141" to="147" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Impact of chemically enhanced diffusion on dissolved inorganic carbon stable isotopes in a fertilized lake</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Bade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Geophys Res</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Impact of dissolved organic carbon, phosphorus, and grazing on phytoplankton biomass and production in experimental lakes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Kitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="73" to="80" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">CO 2 in streams, concentrations and fluxes</title>
+		<author>
+			<persName><forename type="first">Jcb</forename><surname>Christensen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>Freshwater Biological Laboratory, University of Copenhagen</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">MS Thesis</note>
+	<note>in Danish</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Pelagic responses to changes in dissolved organic carbon following division of a seepage lakes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Cottingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Le-Bouton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Schindler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Voichick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="553" to="559" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Influence of weather and expected future changes on thermal stratification and anoxia in Danish lakes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Closter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Copenhagen</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Atmospheric exchange of carbon dioxide in a low-wind oligotrophic lake measured by the addition of SF 6</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Caraco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="647" to="656" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Carbon dioxide supersaturation in the surface waters of lakes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Caraco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Kling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Kratz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">265</biblScope>
+			<biblScope unit="page" from="1568" to="1570" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Persistence of net heterotrophy in lakes during nutrient addition and food web manipulation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Kitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1718" to="1730" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Toward a standard method of measuring color in freshwater</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Cuthbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giorgio</forename><forename type="middle">P</forename><surname>Del</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1319" to="1326" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Linking planktonic biomass and metabolism to net gas fluxes in northern temperate lakes</title>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Giorgio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Caraco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="1422" to="1431" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Dissolved organic and inorganic carbon mass balances in central Ontario lakes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Dillon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Molot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biogeochemistry</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="29" to="42" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The CO 2 balance of unproductive aquatic ecosystems</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Duarte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Agusti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">281</biblScope>
+			<biblScope unit="page" from="234" to="236" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The influence of catchment geology and lake depth on phytoplankton biomass</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Duarte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kaff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="27" to="40" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Prevalence of heterotrophy and atmospheric CO 2 emissions from aquatic ecosystems</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Duarte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T</forename><surname>Prairie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="862" to="870" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Effects of lake size, water clarity, and climatic variability on mixing depths in Canadian Shield lakes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Fee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Hecky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sem</forename><surname>Kasian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Cruikshank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="912" to="920" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Energy flow in Bear Brook, New Hampshire: an integrative approach to stream ecosystem metabolism</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Likens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Monogr</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="421" to="439" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Air-sea gas transfer: its dependence on wind stress, small-scale roughness, and surface films</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Frew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Bock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Schimpf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Haussecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Edson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Mcgillis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Mckenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Uz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jahne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Geophys Res</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="issue">8S17</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Light-limited growth and competition for light in well-mixed aquatic environments</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huisman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Weissing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="507" to="520" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Depression of primary productivity by humic matter in lake and reservoirs of the boreal forest zone</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Hecky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Fish Aquat Sci</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2300" to="2317" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">On the parameters influencing air-water gas exchange</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ja ¨hne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Mu ¨nnich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bo</forename><surname>¨singer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dutzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Libner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Geophys Res</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1937" to="1949" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Agroclimate at Taastrup 2000</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agrohydrology and Bioclimatology</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Copenhagen</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Agricultural Science. Life, University of Copenhagen</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Wholelake mineralization of allochthonous and autochthonous organic carbon in a large humic lake (O ¨rtra ¨sket, N. Sweden)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A-K</forename><surname>Bergstrøm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Others</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1691" to="1700" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Sources of carbon dioxide supersaturation in clearwater and humic lakes in northern</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Karlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sweden. Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="224" to="235" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Integrating aquatic carbon fluxes in a boreal catchment carbon budget</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Algesten</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bergstro ¨m A-K</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sobek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Tranvik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hydrol</title>
+		<imprint>
+			<biblScope unit="volume">334</biblScope>
+			<biblScope unit="page" from="141" to="150" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Light and photosynthesis in aquatic ecosystems. 2nd edn</title>
+		<author>
+			<persName><forename type="first">Jto</forename><surname>Kirk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Arctic lakes and streams as gas conduits to the atmosphere-implications for tundra carbon budgets</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Kling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Kipphut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">251</biblScope>
+			<biblScope unit="page" from="298" to="301" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Light attenuation and photosynthesis of aquatic plant communities</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Krause-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1038" to="1050" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Ferske vandomra ˚der-vandløb og kilder (in Danish). Vandmiljøplanens Overva ˚gningsprogram</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Others</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1995. 1994</date>
+			<publisher>Danmarks Miljøundersøgelser</publisher>
+			<pubPlace>Denmark; Silkeborg</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The role of air-sea gas exchange in geochemical cycling</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Liss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Merlivat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Netherlands: D Reidel</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Baut-Menard</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note>Air-sea gas exchange rates: introduction and synthesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Carbon budget for a groundwater-fed lake: calcification supports summer photosynthesis</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Mcconnaughey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Labaugh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1319" to="1332" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>Rosenberry DO, and others</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Does terrestrial organic carbon subsidize the planktonic food web in a clearwater lake?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Others</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="2177" to="2189" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">A manual of chemical and biological methods for seawater analysis</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Parsons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Maita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Lalli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Pergamon</publisher>
+			<pubPlace>New York, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The solubilities of calcite, aragonite and vaterite in CO 2 -H 2 O solutions between 0°C and 90°C, and an evaluation of the aqueous model for the system CaCO 3 -CO 2 -H 2 O</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Plummer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Busenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geochim Cosmochim Acta</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1011" to="1040" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">The carbon dioxide system in freshwater</title>
+		<author>
+			<persName><forename type="first">Rebsdorf</forename><surname>Aa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<pubPlace>Denmark</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Freshwater Biological Laboratory, University of Copenhagen</orgName>
+		</respStmt>
+	</monogr>
+	<note>Booklet of tables</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Terrestrial subsidies of organic carbon support net ecosystem production in temporary forest ponds: evidence from an ecosystem experiment</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Rubbo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kiesecker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1170" to="1176" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Photosynthesis of amphibious and obligately submerged plants in CO 2 -rich lowland streams</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Frost-Christensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oecologia</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="31" to="39" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Differences in temperature, organic carbon and oxygen consumption among lowland streams</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Pedersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshw Biol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1927" to="1937" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Scaling of pelagic metabolism to size, trophy and forest cover in small Danish lakes</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Staehr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="128" to="142" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Plants and CO 2 supersaturation in streams (in Danish)</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brodersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Madsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Jeppesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kjøller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vand og Jord</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="72" to="77" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Net Heterotrophy in Small Lakes</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Influence of food web structure on carbon exchange between lakes and the atmosphere</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Schindler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Kitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">277</biblScope>
+			<biblScope unit="page" from="248" to="251" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The catchment and climate regulation of pCO 2 in boreal lakes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sobek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Algesten</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bergstro ¨m A-K</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Others</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob Chang Biol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="630" to="641" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Temperature independence of carbon dioxide supersaturation in global lakes</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sobek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Tranvik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob Biogeochem Cycles</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Pond or lake: does it make any difference?</title>
+		<author>
+			<persName><forename type="first">Søndergaard</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jeppesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="143" to="165" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">The effects of physical variables on freshwater production: analyses based on models</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Straskraba</surname></persName>
+		</author>
+		<editor>la Cren ED, Lowe-McConnell RH</editor>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="13" to="84" />
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The functioning of freshwater ecosystems</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">A practical handbook of seawater analysis</title>
+		<author>
+			<persName><forename type="first">Jdh</forename><surname>Strickland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Parsons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fish Res Bd Can</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<date type="published" when="1968">1968</date>
+			<pubPlace>Ottawa, Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Aquatic chemistry: chemical equilibria and rates in natural waters</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Stumm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Morgan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Wiley-Interscience</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>3rd edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The phytoplankton population as a compound photosynthetic system</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Talling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Phytol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="133" to="149" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Carbon and oxygen dynamics of shallow aquatic systems: process vectors and bacterial productivity</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Torgersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Branco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Geophys Res</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page">3016</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Carbon and oxygen fluxes from a small pond to the atmosphere: temporal variability and the CO 2 /O 2 imbalance</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Torgersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Branco</surname></persName>
+		</author>
+		<idno>WO2417</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Water Resour Res</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Allochthonous dissolved organic matter as an energy source for pelagic bacteria and the concept of the microbial loop</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Tranvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">229</biblScope>
+			<biblScope unit="page" from="107" to="114" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Whole-lake fertilization effects on distribution of primary production between benthic and pelagic habitats</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Vadeboncoeur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="1065" to="1077" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">From Greenland to green lakes: cultural eutrophication and the loss of benthic pathways in lakes</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Vadeboncoeur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jeppesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Vander Zanden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Schierup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Christoffersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lodge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1408" to="1418" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

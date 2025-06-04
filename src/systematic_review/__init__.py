@@ -1,8 +1,10 @@
 from .document import (
     PdfDocument,
+    XmlDocument
 )
 
 from .chat import (
-    PdfChat
+    PdfChat,
+    ChatWithHistory
 )
 

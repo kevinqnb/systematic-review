@@ -1,59 +1,46 @@
-from langchain_ollama import ChatOllama
-import pandas as pd
+from model import LLM, GRAPH
 from systematic_review import *
 
-# Papers
+chat = ChatWithHistory(llm = GRAPH)
+token_size = 1000
+
+# Ideally you'll want to do this so that the files are taken generally from a directory, 
+# and the titles are parsed with the XML loader.
 papers = {
     'Pond 1: Specificity of zooplankton distribution in meteorite craterponds (Morasko, Poland)' :
-    'papers/examples/ponds1.pdf',
+    'papers/processed/ponds1.grobid.tei.xml',
     'Pond 2: Environmental Conditions and Macrophytes of Karst Ponds' :
-    'papers/examples/ponds2.pdf',
+    'papers/processed/ponds2.grobid.tei.xml',
     'Pond 3: Drivers of carbon dioxide and methane supersaturation in small, temporary ponds' :
-    'papers/examples/ponds3.pdf',
+    'papers/processed/ponds3.grobid.tei.xml',
     'Lake 1: Lake metabolism scales with lake morphometry and catchment conditions' :
-    'papers/examples/lakes1.pdf',
+    'papers/processed/lakes1.grobid.tei.xml',
     'Lake 2: Net Heterotrophy in Small Danish Lakes: A Widespread Feature  Over Gradients in Trophic Status and Land Cover' :
-    'papers/examples/lakes2.pdf',
+    'papers/processed/lakes2.grobid.tei.xml',
     'Lake 3: Patterns in the Species Composition and Richness of Fish Assemblages in Northern Wisconsin Lakes' :
-    'papers/examples/lakes3.pdf',
+    'papers/processed/lakes3.grobid.tei.xml',
     'Definition 1: Eutrophication: are mayflies (Ephemeroptera) good bioindicators for ponds?' :
-    'papers/examples/definitions1.pdf',
+    'papers/processed/definitions1.grobid.tei.xml',
     'Definition 2: The importance of small waterbodies for biodiversity and ecosystem services: implications for policy makers' :
-    'papers/examples/definitions2.pdf',
+    'papers/processed/definitions2.grobid.tei.xml',
     'Definition 3: Agricultural Freshwater Pond Supports Diverse and Dynamic Bacterial and Viral Populations' :
-    'papers/examples/definitions3.pdf',
+    'papers/processed/definitions3.grobid.tei.xml',
     'Fake 1: Quantifying saltmarsh vegetation and its effect on wave height dissipation: Results from a UK East coast saltmarsh' :
-    'papers/examples/fake1.pdf',
+    'papers/processed/fake1.grobid.tei.xml',
     'Fake 2: Methane and Carbon Dioxide Fluxes in a Temperate Tidal Salt Marsh: Comparisons Between Plot and Ecosystem Measurements' :
-    'papers/examples/fake2.pdf',
+    'papers/processed/fake2.grobid.tei.xml',
     'Fake 3: Improving the definition of a coastal habitat: Putting the salt back into saltmarsh' :
-    'papers/examples/fake3.pdf',
+    'papers/processed/fake3.grobid.tei.xml',
 }
 
-# Load the language model
-llm = ChatOllama(
-    model="gemma3:27b-it-qat",
-    temperature=0
-)
-pdf_chat = PdfChat(llm=llm)
-
-# Reference headings to remove
-reference_headings = [
-    "References",
-    "Works Cited",
-    "Bibliography"
-]
-
-# Load and process documents as individual pages:
+# Load and process documents as chunks with specified token size:
 for title, file_path in papers.items():
-    pdf = PdfDocument()
-    pdf.load(file_path)
-    pdf.trim(reference_headings)
+    doc = XmlDocument()
+    doc.load(file_path, token_size = token_size)
 
-    for i,page in enumerate(pdf.pages):
-        print(f"Processing {title[:25]}... Page {i+1}/{len(pdf.pages)}")
-        pdf_chat.fit(page, title, i)
-        pdf_chat.record()
+    for i,page in enumerate(doc.pages):
+        print(f"Processing {title[:25]}... Page {i+1}/{len(doc.pages)}")
+        chat.invoke({'context' : page}, identifier = title, ignore = ['context'])
 
-outfile = "experiments/data/pond_screening3.csv"
-pdf_chat.save(outfile)
+outfile = "experiments/data/pond_screening4.csv"
+chat.save(outfile)

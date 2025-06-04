@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Improving the definition of a coastal habitat: Putting the salt back into saltmarsh</title>
+				<funder>
+					<orgName type="full">Scottish Environment Protection Agency</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-09-14">14 September 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Stewart</forename><surname>Angus</surname></persName>
+							<email>s.angus@hw.ac.uk</email>
+							<idno type="ORCID">0000-0002-4845-9270</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Life and Earth Sciences</orgName>
+								<orgName type="institution">Heriot-Watt University</orgName>
+								<address>
+									<postCode>EH14 4AS</postCode>
+									<settlement>Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tom</forename><surname>Dargie</surname></persName>
+							<email>drtom.dargie@gmail.com</email>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Boreas Ecology</orgName>
+								<orgName type="department" key="dep2">Loch Fleet View</orgName>
+								<address>
+									<addrLine>Skelbo Street</addrLine>
+									<postCode>IV25 3QQ</postCode>
+									<settlement>Dornoch</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Improving the definition of a coastal habitat: Putting the salt back into saltmarsh</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Estuarine, Coastal and Shelf Science</title>
+						<title level="j" type="abbrev">Estuarine, Coastal and Shelf Science</title>
+						<idno type="ISSN">0272-7714</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">309</biblScope>
+							<biblScope unit="page">108954</biblScope>
+							<date type="published" when="2024-09-14">14 September 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">023456E90834800601EAC5E0A482AC99</idno>
+					<idno type="DOI">10.1016/j.ecss.2024.108954</idno>
+					<note type="submission">Received 19 January 2024; Received in revised form 11 August 2024; Accepted 12 September 2024 Estuarine, Coastal and Shelf Science 309 (2024) 108954</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Phytosociology Salinity Halophytes Estuaries Zonation Scotland UK</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Definitions of saltmarsh vary, with approaches based on the European Union Water Framework Directive (WFD) and the Habitats Directive differing from major definitions in the literature, and from each other, giving rise to confusion and differing approaches to calculations of extent. Habitats Directive definitions also differ across Europe. This paper's main aim is to derive a detailed definition of the saltmarsh habitat that satisfies the ecological principles of saltmarsh as defined in the literature. This is then related to the Directives by examining each Directive in the context of phytosociology and UK and European Ellenberg Numbers for Salinity. A definition is offered that is precise in vegetational terms and complies with most literature definitions, notably in respect of the importance of halophytes. Although our method has been applied to the UK National Vegetation Classification, the technique can be extended to any vegetation type for which a salt tolerance index is available. Conflation of saltmarsh definition and conservation is reviewed and removed in a way that retains the ability to protect the habitat in its wider context. It is essential that all accounts of saltmarsh, and especially those that quantify extent, specify their terms of reference.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>A recent, comprehensive work on saltmarsh notes that "there is no universally accepted technical definition as to what comprises a saltmarsh" <ref type="bibr" target="#b14">(Chatters, 2017)</ref>. A proliferation of habitat classifications and two European Union Directives have led to considerable confusion as to how saltmarsh can be defined, posing problems for comparisons of attributes such as extent. Without defining his terms, <ref type="bibr" target="#b20">Davidson (2018)</ref> calculated that the UK supported 34.7% of European saltmarsh, more than any other country, although the largest contiguous saltmarsh was the Wadden Sea (27.6%) extending across three countries. We review the definitions provided by both Directives for the UK and for the Habitats Directive on the Wadden Sea, thus covering 62.3% of European saltmarsh. There is no agreement on spelling, so that multiple online searches are required: there is a choice of saltmarsh, salt marsh or salt-marsh. The first is favoured here. Annex I of the Habitats Directive also uses the term 'salt meadow', and some UK sites are referred to as 'saltings'.</p><p>Most of the contemporary confusion appears to arise from different approaches by the Habitats Directive and the Water Framework Directive (WFD), with authors of reports associated with the Directives rarely mentioning that alternative definitions of the habitat are available. This lack of precision gives rise to particular confusion when the habitat is quantified, especially where area comparisons are involved. In theory this should not matter so long as saltmarsh is clearly defined but often the definition is vague or missing. The scale of the problem is illustrated by the significant difference between statistics for saltmarsh extent submitted on behalf of the UK Government: the UK Office of National Statistics (ONS, 2016) gave a UK saltmarsh area of 44,512 ha while the UK Joint Nature Conservation Committee (JNCC) reported an aggregate area of 36,132 ha for the four UK coastal Annex I saltmarshes under Article 17 reporting for the period <ref type="bibr" target="#b24">2013</ref><ref type="bibr">-2018</ref><ref type="bibr">(JNCC, 2019))</ref>, a discrepancy of 8380 ha. Recent figures for saltmarsh area in <ref type="bibr">England are closer: 35,505 ha (Environment Agency, 2022)</ref> and 32,462 ha (Natural <ref type="bibr" target="#b35">England and RSPB, 2019)</ref>, a difference of 3043 ha.</p><p>When reporting in respect of both Directives, employing Biodiversity Net Gain metrics or (in time) the Greenhouse Gas Inventory, this confusion risks undermining conservation management, so it is essential to alert the audience for such documents to the existence of this ambiguity, and ideally to remove the ambiguity entirely. Habitat mapping and estimations of extent rely on the identification of fixed boundaries within an environmental continuum; for any such system to be effective, a pragmatic approach is required, in turn requiring a high level of knowledge of the habitat(s) involved, especially in respect of their definition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head><p>Literature definitions of saltmarsh were examined and common and/ or prominent themes identified, chief of which was that saltmarsh should comprise mainly halophytic (salt-tolerant) intertidal vegetation. Published accounts of saltmarsh by or for the UK conservation agencies were then used to identify vegetation types associated with differences between EU Directives using the UK National Vegetation Classification <ref type="bibr">(Rodwell, 1995</ref><ref type="bibr">(Rodwell, , 2000))</ref>. These types were typically associated with more brackish situations or terrestrial transitions. Each vegetation type was then reviewed for halophytic affinity using UK and European Ellenberg Values for salinity <ref type="bibr" target="#b29">(Hill et al., 2004;</ref><ref type="bibr" target="#b55">Tichý et al., 2023)</ref> for all species having a constancy of III or more (present in more than 40% of stands). This enabled the identification of halophytic UK vegetation types and from this their European equivalents, and the provision of a precise definition of saltmarsh in terms of vegetation types. The UK approach to the Habitats Directive was then compared to that of the Wadden Sea to evaluate consistency within that Directive.</p><p>Following convention, original species names used in the names of NVC vegetation types are retained throughout <ref type="bibr">(Rodwell, 1995</ref><ref type="bibr">(Rodwell, , 2000))</ref>, but otherwise updated nomenclature is applied, following <ref type="bibr" target="#b52">Stace (2019)</ref>. Quoted text is retained as originally presented. NVC vegetation types cited here are referred to their European equivalents, based on the EuroVegChecklist (EVC) hierarchical system of <ref type="bibr" target="#b34">Mucina et al. (2016)</ref>, listing the EVC alliance code and name. This allows our focus on UK saltmarsh vegetation associated with confusion of definitions to be applied more widely, and our use of prominent halophytic vegetation to identify saltmarsh habitat can be employed for any vegetation type provided an index of salt tolerance is available, as is the case for all of Europe <ref type="bibr" target="#b55">(Tichý et al., 2023)</ref>. It is emphasised that this paper addresses coastal saltmarsh and does not attempt to cover inland saltmarshes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Saltmarsh in the literature</head><p>Work associated with either of the Directives is excluded from this section. The Oxford English Dictionary (2023) defines salt marsh (sic) as "Marsh overflowed or flooded by the sea". The classic sources in the ecological literature are largely helpful. <ref type="bibr" target="#b54">Tansley (1953)</ref> describes saltmarsh as "essentially composed of halophytes". <ref type="bibr" target="#b13">Chapman (1960)</ref> defines saltmarshes as "areas of land bordering on the sea, more or less covered with vegetation, and subject to periodic inundation by the tide." The salinity of the tide and how halophytic the vegetation might be are not included. <ref type="bibr" target="#b8">Beeftink (1977)</ref> is more meticulous, stating "Salt-marsh can be defined as natural or semi-natural halophytic grassland and dwarf brushwood on the alluvial sediments bordering saline water bodies whose water level fluctuates either tidally or non-tidally. The salinity of the adjacent water bodies may vary from &gt;38‰ [sic] to 5‰: if the salinity is below 5‰, however, salt-marsh is replaced by reed and rush marshes, willow coppice and tall herbage, etc. … salt-marshes find their upper limit where saline influences are so far reduced that halophytes are in the minority or are totally lacking". <ref type="bibr" target="#b12">Burd (1989)</ref> defined saltmarsh as "vegetation types described in the draft saltmarsh chapter of the National Vegetation Classification, and previously largely described by <ref type="bibr" target="#b0">Adam (1981)</ref>, as occurring within tidal limits, although excluding Zostera and Ruppia". <ref type="bibr" target="#b0">Adam (1981)</ref> defined saltmarsh as "an area in which the vegetation is predominantly phanerogamic (but excluding Zostera spp.) and which is subject to direct tidal influence". Dijkema <ref type="bibr">(1984)</ref> noted that saltmarsh vegetation "is characterised by its tolerance of the saline conditions and consists of halophytes". <ref type="bibr" target="#b1">Adam (1990)</ref> gave "areas, vegetated by herbs, grasses or low shrubs, bordering saline water bodies". <ref type="bibr" target="#b2">Allen (2000)</ref> defined saltmarsh as "areas of land covered chiefly by halophytic vegetation which are regularly flooded by the sea". <ref type="bibr">Rodwell (2000)</ref> noted that "Communities consisting predominantly or entirely of halophytes can sensibly be termed salt-marsh vegetation types but, towards the upper marsh limit and, in some areas (like the grazed marshes of the north and west of the UK) more extensively, communities consisting mainly or exclusively of glycophytes also occur in the salt-marsh habitat … Deciding whether a particular vegetation type is more closely related to a mainstream salt-marsh community or a predominantly inland community is sometimes very difficult".</p><p>Four of the nine definitions cited above supply clarity in specifying "halophyte", excluding tidal but non-saline water, or excluding nonhalophytic vegetation such as reeds and rushes, i.e. confining saltmarsh to vegetation subject to saline influence. 'Saline' is defined by the Venice System <ref type="bibr" target="#b6">(Anonymous, 1959)</ref> as a salinity above 30, with salinities below 30 regarded as 'mixohaline' (brackish). Two more, those of <ref type="bibr" target="#b12">Burd (1989)</ref> and her source (an early draft of <ref type="bibr">Rodwell, 2000)</ref>, emphasise the role of halophytes but allow for the presence of glycophytes within the vegetation. The remaining three, <ref type="bibr" target="#b13">Chapman (1960)</ref> and <ref type="bibr" target="#b0">Adam (1981</ref><ref type="bibr" target="#b1">Adam ( , 1990) )</ref> allow for the inclusion of tidal non-saline vegetation but do not actually require it, and such areas tend to occur in the upper parts of estuaries and are not quite "bordering on the sea" or "bordering saline water bodies" as they describe. Furthermore, geomorphologists (e.g. <ref type="bibr" target="#b9">Bird, 2003;</ref><ref type="bibr" target="#b7">Bartholdy, 2012)</ref> tend to define saltmarsh in terms of the vegetation, although of the two only Bird stresses the significance of halophytes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Water Framework Directive saltmarsh</head><p>Saltmarsh reporting for the EU Water Framework Directive (WFD) is driven by a need to report on the status of transitional water bodies (estuaries) rather than the saltmarsh habitat per se. The Water Framework Directive -United Kingdom Technical Advisory Group (WFD-UKTAG) (2014) used a combination of metrics addressing extent, zonation and diversity for its environmental reporting tool and required a "fully functioning saltmarsh" to "have all its major zones". Five zones are defined in respect of England and Wales, and it is suggested that there might be fewer distinct zones in Scotland (Table <ref type="table">1</ref>): Scottish saltmarshes often lack a pioneer zone <ref type="bibr" target="#b12">(Burd, 1989;</ref><ref type="bibr" target="#b27">Haynes, 2016)</ref>, a situation that appears to be entirely natural in origin.</p><p>Clearly any metric for extent is dependent on the range of vegetation included, but also on the ability to represent this on maps, so that the gradual reduction in the density of Salicornia as the saltmarsh gives way down-shore to sediment flats, requires an arbitrary boundary. <ref type="bibr" target="#b41">Phelan et al. (2011)</ref> recommend the mapping of only areas of "discrete" pioneer vegetation. <ref type="bibr" target="#b26">Hambidge and Phelan (2014)</ref> expanded on the zonation concept, sub-dividing the zones and allocating NVC types to each. Only two Swamp types (S) were listed: S4 Phragmites was allocated to Zone 5 as would be expected, and S21 Scirpus maritimus (Bolboschoenus maritimus) was allocated to High Marsh Zone 4. <ref type="bibr" target="#b41">Phelan et al. (2011)</ref> also included S19 Eleocharis palustris and S20 Scirpus lacustris ssp. tabernaemontani (Schoenoplectus tabernaemontani), yet defined saltmarsh as "any discrete marsh, or reed bed, subject to tidal inundation from saline waters" (italics inserted here). <ref type="bibr" target="#b28">Hill et al. (1999</ref><ref type="bibr" target="#b29">Hill et al. ( , 2004) )</ref> gave Ellenberg values on a scale of 0-9 for a range of environmental attributes, including salt tolerance, slightly modified for the UK. These values represented affinity for salinity and make no direct reference to numerical values of salinity. On this scale, 0 represented intolerance of salinity and 9 represented tolerance of "extremely saline conditions". Average European Ellenberg values (using the same scale) were provided by <ref type="bibr" target="#b55">Tichý et al. (2023)</ref>. These values were applied to the main species associated with the S (Swamp) NVC types included in WFD definitions of saltmarsh (Table <ref type="table">2</ref>). <ref type="bibr" target="#b29">Hill et al. (2004)</ref> associated a value for salt tolerance of 4 with "species of salt meadows and upper saltmarsh, mostly subjected to only very occasional tidal inundation (includes species of brackish conditions, i.e. of consistent but low salinity)", and only species with a value of 4 or above were considered here as halophytic. Their list of species with a value of 4 includes Triglochin maritima and Lysimachia maritima which are regarded as saltmarsh species associated with SM13, SM15 and SM16 NVC types <ref type="bibr">(Rodwell, 2000)</ref>. An Ellenberg salinity value of 3 applies to "species most common in coastal sites … that are not obviously salt-affected".</p><p>In S19 Eleocharis palustris swamp, only the S19c Agrostis stolonifera sub-community contains species with an Ellenberg value for salinity of 4 or more (both 4, Table <ref type="table">2</ref>) but both of these, Triglochin maritima and Lysimachia maritima, have a constancy of only III (present in 41-60% of samples) and the species with maximum constancy in S19 (Eleocharis palustris and Agrostis stolonifera) have very low Ellenberg salinity values (1), so that S19 and even S19c cannot justifiably be regarded as halophytic vegetation. In transition from saltmarsh to sand dune, swamp (S) habitat develops in association with the freshwater dune aquifer, with complicated mosaics mingling wet upper saltmarsh (SM19, SM20), swamp (S19c) and wet grassland (MG11, MG13 and occasionally MG12), described by <ref type="bibr">Rodwell (2000)</ref> as the influence of salinity being gradually joined by the influence of waterlogging. The only vegetation in Table <ref type="table">2</ref> that appears to qualify as halophytic is S21 Bolboschoenus maritimus swamp, where the nominate species has an Ellenberg salinity value of 4. Although the Juncus gerardii of S21 has a lower constancy and an Ellenberg salinity value of only 3 in the UK, this rises to a more convincing 5.6 in a European context.</p><p>The statutory nature conservation body Scottish Natural Heritage (SNH, now NatureScot) and the Scottish Environment Protection Agency (SEPA), organisations reporting for the Habitats Directive and WFD respectively, specified that the contractor for their jointly commissioned Scottish Saltmarsh Survey should distinguish between fresh-water reedbeds S4 Phragmites and reedbeds influenced by saline input. Haynes (2016) reported that the task was problematic, as halophytes tended to disappear within 2 m of the edge of the reedbed and devised a method of distinguishing the two types on the basis of adjacent landward vegetation, but also noted that saline influence could extend into reedbeds via excavated channels. Full sea water usually has a salinity of around <ref type="bibr">34-35, and Chapman (1960)</ref> gives the maximum salinity "tolerated" by Phragmites as 27.5. <ref type="bibr" target="#b38">Packer et al. (2017)</ref> reported that Phragmites australis becomes stressed at salinities greater than 12 and is killed by salinity exceeding 30, i.e. by saline water. Phragmites australis has a complex osmoregulatory mechanism which can also be influenced by microbial activity around its rhizomes <ref type="bibr" target="#b10">(Borruso et al., 2014)</ref>. <ref type="bibr" target="#b29">Hill et al. (2004)</ref> give Phragmites australis a salinity Ellenberg value of 2, while <ref type="bibr" target="#b55">Tichý et al. (2023)</ref> give it a value of 1.6. The highest value recorded by the latter across Europe was 3.0 in France and Italy.</p><p>Although Phragmites dominates the S4 reedswamp there are subtypes that merit more detailed consideration. <ref type="bibr">Rodwell (1995)</ref> listed four sub-communities. Unusually, one of these (S4d) has variants, and one of these (S4dii) often contains two halophytes with UK Ellenberg values of 5: Puccinellia maritima and Tripolium pannonicum, with European values even higher (Table <ref type="table">3</ref>). There is thus a variant of S4 reedswamp that merits consideration as saltmarsh, although the variant is unlikely to survive prolonged exposure to full salinity sea water. S4dii contains one species with a European salinity value of 5.6 (Juncus gerardii, Table <ref type="table">3</ref>) but is absent from many stands. However, given that the nominate species of S4dii and SD4ii, Phragmites australis, has a constancy of V in all types of S4 reedswamp, and is not viable in 'saline' water (salinity above 30) it is difficult to justify the inclusion of any S4 vegetation within the definition of saltmarsh.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 1</head><p>WFD-UKTAG saltmarsh zones (as given by WFD-UKTAG, 2014). Elymus replaces Elytrigia in the original.</p><p>1. Pioneer: Salicornia and pioneer species 2. Spartina dominant marsh 3. Mid-Low marsh mix (Atriplex, Puccinellia) 4. High marsh (Festuca rubra, Elymus dominant marsh, Bolboschoenus, Juncus dominant marsh) 5. Brackish water reedbeds (Phragmites).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 2</head><p>Ellenberg values for salinity for species of S (Swamp) NVC types included in WFD definitions of saltmarsh, with maximum constancy in any sub-community given in brackets where this is III (present in 41-60% of stands) or above. Source: <ref type="bibr" target="#b29">Hill et al. (2004)</ref>, with values (where given) from <ref type="bibr" target="#b55">Tichý et al. (2023)</ref> in brackets. The S4 reedswamp is shown in more detail in Table <ref type="table">3</ref>. Species data from <ref type="bibr">Rodwell (1995)</ref>. EuroVegChecklist equivalents to NVC types taken from <ref type="bibr" target="#b34">Mucina et al. (2016)</ref>.</p><p>NVC (EVC equivalent) Species Ellenberg salinity S4 Phragmites australis swamp and reedbeds (PHR-01 A Phragmition communis) Phragmites australis (V) 2 (1.6) S19 Eleocharis palustris swamp (PHR-06 A Eleocharito palustris -Sagittarion sagittifoliae)</p><formula xml:id="formula_0">Eleocharis palustris (V) 1 (0.7) Agrostis stolonifera (V) 1 (0.7) Littorella uniflora (IV) 0 Equisetum fluviatile (III) 0 (0.1) Juncus bulbosus (III) 0 (0.2) Potentilla anserina (III) 2 (1.4) Lysimachia maritima (III) 4 (5.</formula><p>8) Triglochin maritima (III) 4 (6.7) S20 Scirpus lacustris ssp. Tabernaemontani swamp (PHR-01 A Phragmition communis) Schoenoplectus tabernaemontani (V) 3 Agrostis stolonifera (V) 1 (0.7) S21 Scirpus maritimus swamp (PHR-02 A Scirpion maritimi) Bolboschoenus maritimus (V) 4 (3.7) Atriplex prostrata (V) 2 (2.1) Juncus gerardii (III) 3 (5.6) Potentilla anserina (V) 2 (1.4)</p><p>Table 3 UK Ellenberg values for salinity (from Hill et al., 2004) with European averages (where given) from Tichý et al. (2023) in brackets, for species in S4 reedswamp with a constancy of III (present in 41-60% of stands) or above as listed by Rodwell (1995). Phragmites australis itself has a maximum constancy of V (present in 81-99% of stands) and an Ellenberg value of 2 (Table 2). In S4a all species other than Phragmites australis have a constancy of I (present in only 1-20% of stands). NVC Species Constancy Ellenberg S4b Galium palustre IV 0 (0.2) Mentha aquatica III 0 (0.3) S4c Menyanthes trifoliata IV 0 (0.0) Equisetum fluviatile IV 0 (0.1) Carex rostrata IV 0 (0.0) Nymphaea alba III 0 (0.0) Potentilla palustris III 0 S4di Atriplex prostrata V 2 (2.1) S4dii Puccinellia maritima V 5 (7.3) Atriplex prostrata III 2 (2.1) Tripolium pannonicum III 5 (7.2) S4diii Agrostis stolonifera V 1 (0.7) Atriplex prostrata III 2 (2.1) Juncus gerardii III 3 (5.6) <ref type="bibr" target="#b41">Phelan et al. (2011)</ref> attempted to distinguish their saltmarsh reedbeds from freshwater reedbeds by using Highest Astronomical Tide (HAT). HAT is not currently available as a national dataset in Scotland, but it should be noted that the vegetation map produced by <ref type="bibr" target="#b27">Haynes (2016)</ref> showed the innermost identifiable halophytic vegetation in major inlets as occurring some 20 km downstream of Normal Tidal Limit (NTL) as identified on Ordnance Survey maps. Retention of reedbeds within a saltmarsh definition involves real difficulties in distinguishing saline from non-saline reedbed, either in the field or using remote sensing. <ref type="bibr" target="#b27">Haynes (2016)</ref> reported stands of Carex recta and its hybrid Carex recta x aquatilis in brackish conditions at Bonar Bridge, at the head of the Dornoch Firth, and in the estuary of the River Wick, in the extreme NE of the Scottish mainland. Carex salina was found in mid-marsh creeks in the Puccinellia zone in three sites. These types tend to occur at the boundary of saline and brackish vegetation but are extremely rare, are difficult to map or classify in phytosociological terms at their Scottish locations <ref type="bibr" target="#b27">(Haynes, 2016)</ref>, and their extent is negligible in national (Scottish or UK) terms. Of the vegetation listed in Tables <ref type="table">2</ref> and <ref type="table">3</ref>, only S21 yields persuasive evidence of saltmarsh status.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Habitats Directive saltmarsh</head><p>Although the UK has left the EU, the contents of the Habitats Directive have been largely retained via Statutory Instruments (Scottish Government, 2019; <ref type="bibr" target="#b56">UK Government, 2019)</ref>. The Habitats Directive Interpretation Manual (European Commission, 2013) lists 4 types of saltmarsh that occur in the UK (Table <ref type="table" target="#tab_2">4</ref>).</p><p>Thus UK saltmarsh as defined by the Habitats Directive covers only vegetation described as SM (saltmarsh) by the National Vegetation Classification (NVC) <ref type="bibr">(Rodwell, 2000)</ref>. SM1 and SM2 are seagrasses, and would be excluded by all saltmarsh definitions, but the omission of SM3, SM22-SM24, SM26, and SM28 is more puzzling. Applying the JNCC criteria rigidly would then raise the question of where these other SM vegetation types should sit in terms of Annex I habitat, as well as how S (swamp) types would be allocated. The former issue is addressed here and the latter in the Discussion. The JNCC's Common Standards Monitoring Guidance for saltmarsh <ref type="bibr">(JNCC, 2004</ref>) used a definition that embraced all SM vegetation types from SM4 to SM28 but did not extend to any S communities.</p><p>Almost all the main species of the NVC types listed in Table <ref type="table">5</ref> have Ellenberg values of 4 or more, apart from SM3, SM28, one out of four in SM23, and one out of three in SM24. SM3 Eleocharis parvula is very rare in the UK and has negligible extent. The NVC description for SM3 <ref type="bibr">(Rodwell, 2000)</ref> is brief and suggests that this species occurs with a range of associates and in a range of positions on the saltmarsh, so it is difficult to categorise, but the larger of the two Scottish sites, at the head of the Cromarty Firth, is clearly brackish, and there is insufficient evidence to justify including SM3 within saltmarsh. <ref type="bibr">Rodwell (2000)</ref> does not give floristic details for SM27 so it could not be included in Table <ref type="table">5</ref>, so is addressed in more detail below using additional information.</p><p>Observations of SM27 Ephemeral salt-marsh vegetation with Sagina maritima on the Dee Estuary, on the NE boundary between England and Wales <ref type="bibr" target="#b18">(Dargie, 2001)</ref> and at the Morrich More, at the mouth of the Dornoch Firth in NE Scotland <ref type="bibr" target="#b19">(Dargie, 2017)</ref> suggested that this vegetation is not confined to saltmarsh from which turf has been cut or other disturbed areas as <ref type="bibr">Rodwell (2000)</ref> described but can occur in the driest upper saltmarsh zone where there is little or no organic strand deposition. At the Morrich More, SM27 occurs at the upper marsh edge in transition to sand dune, and as outliers on transitions to old linear embryo dunes with Elymus junceiformis (SD4) which were left surrounded by saltmarsh as the strandplain prograded seawards until the last two decades <ref type="bibr" target="#b19">(Dargie, 2017)</ref>. Because this situation in the uppermost zone is possibly transitional, the saltmarsh status of SM27 is reviewed in the same way as other transitional vegetation. Attributes of this vegetation are listed in Table <ref type="table" target="#tab_3">6</ref>.</p><p>In SM27 (Table <ref type="table" target="#tab_3">6</ref>), four of the seven constant species from the Dee Estuary have Ellenberg S values of 4 or more, while five have European S values of 3.8 or more. At the Scottish site, only two of the ten species listed have an Ellenberg S value (UK and Europe) of 4, with a third species having a European value of 5.4, so that saltmarsh status for SM27 cannot be allocated at the Morrich More. This is possibly explained by location within the tidal profile. At sites on the Dee Estuary where SM27 is associated with disturbed saltmarsh vegetation which it then displaces, it falls within the saltmarsh expanse and is subject to saltmarsh processes. At the Morrich More, the vegetation is within the transitional zone and contains fewer halophytes, conforming to the characteristics of other vegetation at this level in terms of Ellenberg salinity. We conclude that SM27 should be allocated to saltmarsh where it occurs within the expanse of halophytic vegetation, but where it occurs near the terrestrial margin, it should be allocated to transition marsh. SM27 is scarce and has restricted area, so this will usually be feasible. <ref type="bibr" target="#b39">Petersen et al. (2014)</ref> used a system based on Habitats Directive Annex I habitats to map habitats in the Wadden Sea. Their 1330 Atlantic saltmarsh was divided into 19 categories, including Phragmites swamp, Bolboschoenus swamp, brackish flooded grassland and ruderal vegetation, all of which are excluded from the UK definition of 1330. This classification was used in reporting saltmarsh extent by <ref type="bibr" target="#b23">Esselink et al. (2017)</ref> who added 'summer polders' despite concluding that "Strictly speaking … most summer polders cannot be considered as salt marsh". There are thus European-level saltmarsh definition conflicts within Annex I of the Habitats Directive, over and above any conflicts between this Directive and the WFD.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Other classifications and definitions</head><p>Phase 1 habitat survey involves only very basic and rapid habitat classification, and saltmarsh is barely described (JNCC, 2010). Because the classification is very broad, output from Phase 1 survey has limited application in saltmarsh survey. The UK Biodiversity Action Plan (BRIG, 2011) describes saltmarsh as having a lower limit indicated by the lowest pioneer plants and an upper limit 1 m above the level of the highest astronomical tide (HAT) so as to include transitions. HAT would extend to NTL, thus embracing much non-halophytic tidal marsh. UKHab <ref type="bibr" target="#b58">Ltd (2023)</ref> includes saltmarsh within a 'Primary' (Level 2) category of "Marine inlets and transitional waters" which initially suggests an affinity with the Water Framework Directive, then opts for "Littoral sediment" as Level 3 and "Coastal Saltmarsh" as Level 4, which it refers to the UK Biodiversity Action Plan, with Level 5 specifying the Habitats Directive Annex I habitat, so that at detailed level the system most closely resembles the Habitats Directive approach.</p><p>IHS (Integrated Habitat System) (Somerset Environmental Records Centre, 2007) is a proprietary system developed by a local authority records centre, and is used mainly by local authorities. It aims to deliver maps of BAP habitats and Annex I habitats so is closest in approach to the Habitats Directive. Data obligations in respect of the EU Habitats Directive require the employment of EUNIS (European Nature Information System) <ref type="bibr" target="#b21">(Davies et al., 2004)</ref>, itself based on Annex I of the Habitats Directive and the earlier CORINE system (European Environment Agency, 1994). Accordingly, most of the conservation organisations have compiled detailed concordances for the NVC and EUNIS; the version used by NatureScot has been published <ref type="bibr" target="#b53">(Strachan, 2017)</ref>. <ref type="bibr" target="#b47">Rodwell et al. (2002)</ref> linked EUNIS categories to European phytosociological alliances. <ref type="bibr" target="#b53">Strachan (2017)</ref> allocated "saltmarsh" to Level 1 Category A (marine habitats) but divided swamps between category B (coastal habitats) and category C (fringing open waters). A spreadsheet giving correspondences between the categories in the various classifications (Phase 1, UKHab, NVC, EUNIS and HIS) has been produced by the UK Habitat Classification Working Group (2018). This concordance enables cross-compliance between classifications but it does not overcome the fundamental problem of multiple definitions for saltmarsh. The issue is not which of the many survey methods should be used but of a lack of agreed definition overall.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.1.">Mapping</head><p>Ultimately all attempts at producing accurate figures for extent of coastal habitats are no more than a "best assessment" based on a snapshot in time. Firstly, coastal environments are dynamic, so all interpretations of extent must accommodate this. Secondly, there will always be [scale-dependent] areas of the selected habitat that are smaller than the mapping base, so that totals will under-record the incidence of the habitat. Thirdly, habitat survey is highly subjective and Table <ref type="table">5</ref> UK Ellenberg values for salinity of main species (constancy III-Vpresent in at least 41% of stands) of SM NVC Communities omitted from JNCC saltmarsh definitions (source of values <ref type="bibr" target="#b29">Hill et al., 2004, with</ref> European averages (where given) from <ref type="bibr" target="#b55">Tichý et al. (2023)</ref> in brackets. Species listings and constancy values from <ref type="bibr">Rodwell (2000)</ref>. SM27 requires more detailed coverage and is shown in Table <ref type="table" target="#tab_3">6</ref>.</p><p>NVC (EVC equivalent, Mucina et al., 2016) Species Ellenberg salinity SM3 Eleocharis parvula community (RUP-01 A Ruppion maritimae) Eleocharis parvula 3 (4.0) SM22 Halimione portulacoides -Frankenia laevis community (JUN-03C Armerion maritimae) Frankenia laevis (V) 5 (5.7) Atriplex portulacoides (IV) 6 (7.3) Puccinellia maritima (IV) 5 (7.3) Armeria maritima (III) 3 (2.3) Spergularia media (III) 5 (6.6) SM23 Spergularia marina -Puccinellia distans community (coastal only) (JUN-03 B Puccinellio maritimae -Spergularion salinae) Spergularia marina (V) 5 (7.5) Puccinellia maritima (V) 5 (7.3) Salicornia agg. (III) 9 (8.5) Suaeda maritima (III) 7 (8.3) SM24 Elymus pycnanthus community (JUN-02 A Agropyrion pungentis) Elymus athericus (V) 4 (6) Atriplex portulacoides (III) 6 (7.3) Festuca rubra (III) 2 (0.7) SM26 Inula crithmoides on salt-marshes (JUN-01 A Juncion maritimi) Inula crithmoides (V) 5 (6.0) Atriplex portulacoides (V) 6 (7.3) Puccinellia maritima (V) 5 (7.3) Salicornia agg. (V) 9 (8.5) Limonium vulgare (V) 6 (7.3) Elymus athericus (IV) 4 (6.0) Plantago maritima (III) 3 (6.0) Armeria maritima (III) 3 (2.3) Suaeda maritima (III) 7 (8.3)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SM28 Elymus repens community (CAK-01C</head><p>Agropyro-Rumicion)</p><formula xml:id="formula_1">Elymus repens (V) 2 (1.0) Festuca rubra (V) 2 (0.7) Agrostis stolonifera (IV) 1 (0.7) Atriplex prostrata (IV) 2 (2.1) Potentilla anserina (III) 2 (1.4)</formula><p>thus observer-dependent, with the additional complication of delivering many polygons with intermediate vegetation or containing two or more NVC types, some reflecting gradual transitions or nuanced local topographic variations: a map imposes a hard boundary on a blurred reality. Unless large, complex legends are employed, polygons containing multiple habitats can only be mapped by assigning hierarchies to the vegetation, introducing yet more observer bias. Fourthly, habitats occasionally occur in the 'wrong' place, e.g. relict vegetation. Highly localised circumstances create small areas of other habitats nested within the wider extent. Formulaic approaches to mapping habitat extent must thus be tempered with a large amount of pragmatism, ideally informed by field knowledge of the habitats involved and site history, if not experience of the site(s) involved, which is rarely achievable. That is not to suggest that such surveys do not have value: they are important tools in assessing the national status of any habitat, but consistent methodology, together with an understanding of habitat function, are required to enable repeat surveys to detect change and trends reliably, an understanding that is essential where Biodiversity Net Gain or habitat restoration are contemplated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.2.">Importance of salinity</head><p>The words 'saline' and 'halophytic' are critical in saltmarsh definition, and the first syllable of 'saltmarsh' occasionally loses its relevance in how the term is applied. It could be argued that without saline influence and the presence of halophytes, saltmarsh is just marsh. It has to be conceded that the UK Ellenberg Values for salinity used here <ref type="bibr" target="#b29">(Hill et al., 2004)</ref> were reached "on basis of subjective opinion", potentially opening to question our exclusion of at least some types of tidal non-saline vegetation. <ref type="bibr" target="#b50">Smart and Scott (2004)</ref> recognised bias in Ellenberg values but concluded that individual values were unaffected by this, and that such bias as existed was more likely to be due to errors in environmental measurements. <ref type="bibr" target="#b31">Jarvis et al. (2016)</ref> argued that the Ellenberg approach was essentially circular, but admitted its applicability at community level, which is what has been attempted here by listing values for all the main species in each community and using all of these to assess halophytic affinities of the vegetation, albeit with additional weighting to the most frequent species.</p><p>A slightly extended Habitats Directive definition, using all SM vegetation types from SM4 to SM26 is the easier Directive-based approach to use if the mapping base is the NVC, provided that S21 Scirpus maritimus (Bolboschoenus maritimus) is added. However, this leaves the problem of the allocation of S (Swamp) tidal marsh vegetation, especially S4 Phragmites beds. These are assumed to be included in Annex I habitat 1130 Estuaries <ref type="url" target="https://sac.jncc.gov.uk/habitat/H1130/">https://sac.jncc.gov.uk/habitat  /H1130/</ref>which defines the habitat as "the downstream part of a river valley, subject to the tide and extending from the limit of brackish water". However, this still allows for reedbeds to be overlooked: there is no mention of them in the JNCC citation for the Firth of Tay and Eden Estuary Special Area of Conservation in Scotland (included within the definition cited) despite the site supporting the largest reedbed in the UK.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.3.">Water Framework Directive</head><p>The WFD definition of saltmarsh has been widely adopted and is associated with some influential publications (e.g. <ref type="bibr">Hudson et al., 2021;</ref><ref type="bibr" target="#b42">Pontee et al., 2021)</ref>. The zonation element is regarded as important in the WFD approach, yet is absent from the Habitats Directive counterpart, at least as far as definition is concerned. There has been no zonation reporting from Scotland in respect of the WFD, mainly because of the difficulty of allocating zones from existing Scottish datasets. The WFD UK TAG inclusion of Phragmites beds within saltmarsh is problematic in mapping terms due to difficulties distinguishing freshwater reedbeds from brackish ones, but Phragmites swamp also falls outside generally accepted literature definitions of saltmarsh <ref type="bibr" target="#b54">(Tansley, 1953;</ref><ref type="bibr" target="#b8">Beeftink, 1977;</ref><ref type="bibr">Dijkema, 1984;</ref><ref type="bibr" target="#b2">Allen, 2000)</ref>, which require a saline as well as a tidal element.</p><p>There are halophytic elements within vegetation types that have been categorised here as tidal marsh, e.g. S19 Eleocharis palustris (Table <ref type="table">2</ref>). <ref type="bibr" target="#b41">Phelan et al. (2011)</ref> include S19 in their definition of saltmarsh, but even although halophytes are present, the dominant vegetation types within these communities or sub-communities are not halophytic, strongly suggesting that the vegetation type (as opposed to some of its component species) cannot persist in truly saline conditions. The same argument could also apply to even the variants of S4d that include halophytes because the dominant species of the vegetation types -Phragmites australisis unable to tolerate salinities &gt;30. Although <ref type="bibr" target="#b46">Rodwell (2006)</ref> raised the variants of the S4d to sub-community level, there remains a real difficulty in distinguishing the more saline S4 type from tidal marsh reedbeds via fieldwork or the use of remote sensing, although the reduced height (approx. 75 cm) of the Phragmites in the S4dii variant <ref type="bibr">(Rodwell, 1995)</ref> suggests that this might be possible using LiDAR or aerial photogrammetry.</p><p>S4 Phragmites swamp is easily identified and mapped using remote sensing. The ability to use LiDAR to distinguish the brackish variant S4dii is untested, while overlay of a Highest Astronomical Tide line as a proxy for this is currently precluded at UK level as it has not yet been derived for the Scottish coastline and is in any case too inclusive of freshwater reedswamp and other non-halophytic tidal marsh in Scotland at least. <ref type="bibr" target="#b41">Phelan et al. (2011)</ref> experienced difficulty separating fresh water reedbeds from those influenced by higher salinities. Furthermore, although survey methodology is moving increasingly towards Earth Observation (EO), classification of data will remain reliant on a robust and consistent habitat definition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.4.">Habitats Directive</head><p>The Habitats Directive requires reporting in terms of Favourable Conservation Status, of which extent forms only part. Reporting on structure and function is also mandatory. Here the implementation of the Directive is influenced by its own highly compartmentalised approach, wherein reporting is on the basis of individual Annex I habitats, an approach that even extends to site safeguard, where developers and conservation authorities tend to concentrate almost exclusively on extent. Structure and function operate at a broader level, that of the ecosystem, which in the case of saltmarsh would be most of the estuary or embayment. This would include tidal (but non-saline) marsh and should also include the sediment flat that fronts the saltmarsh and any seagrass beds, as well as consideration of the role played by any coastal defences and nearshore morphology or habitats. Extent is naturally variable, involving exchanges of area between saltmarsh and sediment flat via the 'alternative stable state' (e.g. <ref type="bibr" target="#b49">Silinski et al., 2016)</ref>. A focus on extent can be additionally problematic, in that once a societal value has been assigned to extent, as in (for example) a Greenhouse Gas Inventory, any diminution of extent is likely to be perceived as a problem, no matter how natural that diminution might be, and any interventionist response aimed at countering loss of extent could result in new problems arising in respect of structure and function. Natural variability of extent thus justifies greater prioritisation of structure and function.</p><p>If pragmatism is introduced to quantitative reporting of habitat extent, then it is even more essential that informed pragmatism must be applied to the interpretation of data and information derived from such studies. This challenge can be reduced, but not eliminated, by standardising survey and reporting methodologies, but the pragmatic element of survey interpretation can only be standardised so far.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.5.">Resolving the conflicts</head><p>It is not unknown for organisations working to the Water Framework Directive and the Habitats Directive to employ different definitions (e.g. <ref type="bibr" target="#b36">Newton et al., 2014)</ref> to the extent that mutually exclusive areas or extents might be involved (e.g. <ref type="bibr" target="#b5">Angus, 2016)</ref> but at least with transitional waters and saline lagoons, different terminology is employed (transitional waters and estuaries v. Saline lagoons respectively). When agencies employ the same term but apply it differently, as with saltmarsh, confusion is inevitable, and this becomes particularly problematic in the context of quantitative studies. Even when original studies define their terms, subsequent citations often overlook the importance of the scope of the terms.</p><p>A definition of 'true' or 'core' saltmarsh habitat that accords adequate recognition to the first syllable of the habitat name might arguably extend only to SM4-SM26 plus S21 and some SM27. All other S vegetation within tidal but low salinity sections of estuaries would be termed tidal or transitional marsh rather than saltmarsh. <ref type="bibr" target="#b40">Pethick (1992)</ref> noted the importance of the entire intertidal profile and cautioned against separating vegetated and unvegetated sediment flats, as did van <ref type="bibr" target="#b59">Regteren et al. (2020)</ref>. In functional terms the habitat would comprise core saltmarsh + tidal marsh + sediment flats + seagrass beds + nearshore morphology/habitats + other inland transitions + effect of any sheltering sediment ridge + hydrological context -effectively most of the estuary or embayment except for any dune or shingle systems at the estuary mouth that extend beyond a sheltering role.</p><p>Our definition requires an intertidal situation. This excludes inland saltmarshes but also coastal perched saltmarshes, beyond the altitudinal limits of tides and overwash as described by <ref type="bibr" target="#b15">Cooper and Power (2003)</ref> and <ref type="bibr" target="#b27">Haynes (2016)</ref>. Perched saltmarshes occur in exposed situations, and any halophytic element of the vegetation is established by spray. Perched saltmarshes tend to be small and, although they support saltmarsh vegetation such as SM16 they are arguably not saltmarsh habitat because of the absence of important saltmarsh processes such as tidal inundation and sediment deposition. There is a parallel for this on machair, a coastal grassland confined globally to Scotland and Ireland where depressions in a generally flat vegetation surface support dune slack vegetation but are not structurally or functionally dune slacks <ref type="bibr" target="#b17">(Dargie, 1998;</ref><ref type="bibr" target="#b4">Angus, 2001)</ref>. Where appropriate, studies can add perched saltmarsh to their coverage of saltmarshes, provided that this is specified and, if extent is involved, quantified.</p><p>Transitions between saltmarsh and terrestrial vegetation can be very important in nature conservation <ref type="bibr" target="#b43">(Rees et al., 2010)</ref>. By definition, transitions are neither one thing nor the other, but something in between. Pragmatic approaches to habitat mapping can allocate transitions to one habitat or the other on the basis of relative abundance or importance, and they can be linked to one or other or both in any conservation management, via the need to accommodate structure and function, but including a transitional area within the extent of a habitat does not require its inclusion within the definition of the habitat. Any extent figures that involve habitat beyond the defined habitat should themselves be defined. It is essential, however, to ensure that reedswamp and other tidal marsh is adequately covered by the Habitats Directive and does not fall between designations. Just as tidal marsh is not saltmarsh but tidal marsh, brackish marsh is not saltmarsh but brackish marsh, which would feature mainly species with Ellenberg salinity values in the range 1-3.</p><p>Boundaries between saltmarsh and adjacent habitats are often nuanced, and are mapped using intermediate or 'mosaic' polygons, containing more than one vegetation sub-community or community. These transitional zones can be very important to ecosystem function, but pose obvious problems for mapping and calculation of extent. Where only saltmarsh is under consideration, it is possible to allocate the entire extent of all polygons containing any saltmarsh vegetation types to saltmarsh, provided that the process is transparent. Where more than one habitat is being mapped, the polygon can be allocated to the habitat better or best represented in the polygon but, if they are equally represented, a value judgement is the only option. Although it is possible to divide the polygon area between the vegetation types for calculation of extent, this is more of an arithmetic exercise than an ecological one, given that each vegetation type occurs throughout the polygon, albeit with reduced cover, and the entire polygon is subject to the processes that operate in all habitats present.</p><p>For mapping habitat extent, the upstream/inland limit of saltmarsh, where the habitat gives way to tidal marsh or transition marsh, would be defined as the upstream/inland margin of the polygon(s) containing any amount of the vegetation defined here as core saltmarsh. Except where they are extensive, pragmatism allows for polygons of vegetation not defined here as saltmarsh that are nested within core saltmarsh extent to be recorded as saltmarsh in extent terms if they are subject to saltmarsh processes, but not if they are isolated from these, e.g. by elevation.</p><p>The issue of parallel but different approaches to reporting saltmarsh in respect of European Directives is probably inevitable, but the confusion that has resulted is entirely avoidable, simply by specifying which definition and Directive has been used, and noting the existence of the other. As long as the definition is specified and consistency is maintained, there need be no confusion. Much of the confusion could be avoided simply by renaming the WFD habitat 'estuarine marsh', which is arguably more accurate and appropriate in any case, given that the estuary is the water body involved. UK Annex I definitions of saltmarsh are currently under review, and expanding these slightly as described here would enable academic research on saltmarsh to align with the Habitats Directive, with both of these in turn contributing to a wider WFD category of estuarine marsh.</p><p>The approach advocated here has the advantage of being simple and is largely compliant with the Habitats Directive, at least as currently applied in the UK. It can also be applied retrospectively to any saltmarsh vegetation geospatial dataset. Although arguments for definition expansion to assist conservation exist, these confuse habitat definition with habitat conservation. Annex I of the Habitats Directive compartmentalises the environment, but the wider Directive addresses functionality and context via the concept of Favourable Conservation Status (FCS). Expanding definitions beyond conventional limits in the name of conservation is unnecessary if FCS is employed. Ultimately saltmarsh is a component of the functional estuary, not a synonym for it.</p><p>Although the UK Habitats Directive approach is arguably more accurate than the Water Framework Directive approach, in that the former includes only halophytic vegetation while the latter and Wadden Sea Habitats Directive add non-halophytic Swamp vegetation (i.e. tidal marsh rather than saltmarsh), the WFD saltmarsh tool was designed to align with the classification and functionality of water bodies rather than the habitat per se (M Best, pers. comm.) and it is unrealistic to expect the WFD adherents to amend their definition. Although confusion can be easily avoided by specifying the terms of 'saltmarsh' in the introduction to all reports and publications where terms are open to more than one interpretation, it might be easier (as well as more accurate) to describe the habitat monitored for WFD as "estuarine marsh" rather than "saltmarsh". Ecologists who are not bound by either of the Directives have the freedom to employ a more realistic definition of the saltmarsh habitat … as long as they state clearly what that comprises.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.6.">Saltmarsh definition</head><p>Saltmarsh is defined here as intertidal vegetation dominated by halophytic vascular plants (other than seagrasses). It tends to establish on fine substrates in sheltered situations but is not restricted to these. The surface is often interrupted by creeks (channels) and pans (pools) that are important to structure and function. Transitions to adjacent habitats tend to be gradual, complex, and dynamic. Saltmarsh is usually one component of a metaecosystem and operates at the structural and functional level of a wider estuary or inlet. The issue of the functional context can also be addressed via habitat nomenclature. There is a precedent for this with machair: the Annex I machair habitat is referred to as "machair grassland" while its wider, functional context is referred to as the "machair system" <ref type="bibr" target="#b16">(Curtis, 1991;</ref><ref type="bibr" target="#b3">Angus, 1994)</ref>. A similar approach is advocated here, separating the halophytic "core saltmarsh" from the wider "saltmarsh ecosystem" thus.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.7.">Core saltmarsh</head><p>• 1310 SM7, SM8, SM9. SM27 (some), S21 • 1320 SM4, SM5, SM6 • 1330 SM10-SM20, SM22-24, SM26, S21 • 1420 SM25, SM21 </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>•</head><figDesc>Core saltmarsh SM4-SM26, some SM27, S21 • Sediment flats plus seagrasses SM1-SM2 • Nearshore morphology and/or vegetation • Tidal marsh -SM3, upstream S (swamp, except S21), M (marsh) and inundation grasslands (e.g. MG11) • Transition marsh SM28, some SM27, and landward S, M and MG (except S21) • Dune and/or shingle ridges sheltering core saltmarsh • Hydrological context • Land use including coastal defences</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4</head><label>4</label><figDesc>NVC allocations for Habitats Directive saltmarsh Annex I types occurring in the UK (sources as in links). These also follow the EU Interpretation Manual(European Commission, 2013). 1410 Mediterranean salt meadow also occurs, but not in the UK.</figDesc><table><row><cell>Annex 1 Type</cell><cell>NVC (EVC equivalent, Mucina</cell><cell>Link</cell></row><row><cell></cell><cell>et al., 2016)</cell><cell></cell></row><row><cell>1310 Salicornia and other</cell><cell>SM7 Arthrocnemum perenne</cell><cell>https://sac.</cell></row><row><cell>annuals colonising mud</cell><cell>stands</cell><cell>jncc.gov.uk/h</cell></row><row><cell>and sand</cell><cell>(SAL-01 A Salicornion</cell><cell>abitat/H1310/</cell></row><row><cell></cell><cell>fruticosae)</cell><cell></cell></row><row><cell></cell><cell>SM8 Annual Salicornia</cell><cell></cell></row><row><cell></cell><cell>community</cell><cell></cell></row><row><cell></cell><cell>(THE-01 B Salicornion</cell><cell></cell></row><row><cell></cell><cell>dolichostachyo-fragilis)</cell><cell></cell></row><row><cell></cell><cell>SM9 Suaeda maritima</cell><cell></cell></row><row><cell></cell><cell>community</cell><cell></cell></row><row><cell></cell><cell>(THE-01 A Therosalicornion)</cell><cell></cell></row><row><cell></cell><cell>SM27 Ephemeral salt-marsh</cell><cell></cell></row><row><cell></cell><cell>vegetation with Sagina</cell><cell></cell></row><row><cell></cell><cell>maritima</cell><cell></cell></row><row><cell></cell><cell>(SAG-01 A Saginion maritimae)</cell><cell></cell></row><row><cell>1320 Spartina swards</cell><cell>SM4 Spartina maritima</cell><cell>https://sac.</cell></row><row><cell>(Spartinion maritimae)</cell><cell>community</cell><cell>jncc.gov.uk/h</cell></row><row><cell></cell><cell>(SPA-01 A Spartinion glabrae)</cell><cell>abitat/H1320/</cell></row><row><cell></cell><cell>SM5 Spartina alterniflora</cell><cell></cell></row><row><cell></cell><cell>community</cell><cell></cell></row><row><cell></cell><cell>(SPA-01 A Spartinion glabrae)</cell><cell></cell></row><row><cell></cell><cell>SM6 Spartina anglica</cell><cell></cell></row><row><cell></cell><cell>community</cell><cell></cell></row><row><cell></cell><cell>(SPA-01 A Spartinion glabrae)</cell><cell></cell></row><row><cell>1330 Atlantic salt meadows</cell><cell>SM10 Transitional low-marsh</cell><cell>https://sac.</cell></row><row><cell>(Glauco-Puccinellietalia</cell><cell>vegetation with Puccinellia</cell><cell>jncc.gov.uk/h</cell></row><row><cell>maritimae)</cell><cell>maritima, annual Salicornia</cell><cell>abitat/H1330/</cell></row><row><cell></cell><cell>species and Suaeda maritima</cell><cell></cell></row><row><cell></cell><cell>(THE-01 A Therosalicornion)</cell><cell></cell></row><row><cell></cell><cell>SM11 Aster tripolium var.</cell><cell></cell></row><row><cell></cell><cell>Discoideus community</cell><cell></cell></row><row><cell></cell><cell>(JUN-03 A Festucion</cell><cell></cell></row><row><cell></cell><cell>maritimae)</cell><cell></cell></row><row><cell></cell><cell>SM12 Rayed Aster tripolium on</cell><cell></cell></row><row><cell></cell><cell>salt-marshes</cell><cell></cell></row><row><cell></cell><cell>(JUN-03 A Festucion</cell><cell></cell></row><row><cell></cell><cell>maritimae)</cell><cell></cell></row><row><cell></cell><cell>SM13 Puccinellia maritima</cell><cell></cell></row><row><cell></cell><cell>community</cell><cell></cell></row><row><cell></cell><cell>(JUN-03 A Festucion</cell><cell></cell></row><row><cell></cell><cell>maritimae)</cell><cell></cell></row><row><cell></cell><cell>SM14 Halimione portulacoides</cell><cell></cell></row><row><cell></cell><cell>community</cell><cell></cell></row><row><cell></cell><cell>(JUN-03 A Festucion</cell><cell></cell></row><row><cell></cell><cell>maritimae)</cell><cell></cell></row><row><cell></cell><cell>SM15 Juncus maritimus -</cell><cell></cell></row><row><cell></cell><cell>Triglochin maritima community</cell><cell></cell></row><row><cell></cell><cell>(JUN-01 A Juncion maritimi)</cell><cell></cell></row><row><cell></cell><cell>SM16 Festuca rubra community</cell><cell></cell></row><row><cell></cell><cell>(JUN-03C Armerion maritimae)</cell><cell></cell></row><row><cell></cell><cell>SM17 Artemisia maritima</cell><cell></cell></row><row><cell></cell><cell>community</cell><cell></cell></row><row><cell></cell><cell>(JUN-03C Armerion maritimae)</cell><cell></cell></row><row><cell></cell><cell>SM18 Juncus maritimus</cell><cell></cell></row><row><cell></cell><cell>community</cell><cell></cell></row><row><cell></cell><cell>(JUN-01 A Juncion maritimi)</cell><cell></cell></row><row><cell></cell><cell>SM19 Blysmus rufus community</cell><cell></cell></row><row><cell></cell><cell>(JUN-03C Armerion maritimae)</cell><cell></cell></row><row><cell></cell><cell>SM20 Eleocharis uniglumis</cell><cell></cell></row><row><cell></cell><cell>community</cell><cell></cell></row><row><cell></cell><cell>(JUN-03C Armerion maritimae)</cell><cell></cell></row><row><cell>1420 Mediterranean and</cell><cell>SM25 Suaeda vera drift-line</cell><cell>https://sac.</cell></row><row><cell>thermo-Atlantic</cell><cell>community</cell><cell>jncc.gov.uk/h</cell></row><row><cell>halophilous scrubs</cell><cell>(SAL-01 A Salicornion</cell><cell>abitat/H1420/</cell></row><row><cell>(Sarcocornetea fruticosi)</cell><cell>fruticosae)</cell><cell></cell></row><row><cell></cell><cell>SM21 Suaeda vera -Limonium</cell><cell></cell></row><row><cell></cell><cell>binervosum community</cell><cell></cell></row><row><cell></cell><cell>(SAL-01 A Salicornion</cell><cell></cell></row><row><cell></cell><cell>fruticosae)</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 6</head><label>6</label><figDesc>Floristic tables for SM27 Ephemeral salt-marsh vegetation with Sagina maritima (SAG-01 A Saginetea maritimae https://onlinelibrary.wiley.com/doi/pdf/10.1111/avsc .12257) from two UK locations. Sources for Ellenberg Values of salt tolerance as in Table5.</figDesc><table><row><cell></cell><cell cols="2">Dee Estuary (Dargie, 2001)</cell><cell cols="2">Morrich More 1988 &amp; 2019 Quadrats 10Q</cell><cell cols="3">Morrich More Permanent quadrats 1992-2023 61Q</cell></row><row><cell>Species</cell><cell>Constancy</cell><cell>Domin range</cell><cell>Constancy</cell><cell>Domin range</cell><cell>Constancy</cell><cell>Domin range</cell><cell>Ellenberg S</cell></row><row><cell>Sagina maritima</cell><cell>V</cell><cell>3-5</cell><cell>V</cell><cell>2-6</cell><cell>V</cell><cell>2-5</cell><cell>4 (3.8)</cell></row><row><cell>Agrostis stolonifera</cell><cell>IV</cell><cell>2-5</cell><cell>IV</cell><cell>3-6</cell><cell>V</cell><cell>2-8</cell><cell>1 (0.7)</cell></row><row><cell>Festuca rubra</cell><cell>IV</cell><cell>2-7</cell><cell>IV</cell><cell>5-9</cell><cell>V</cell><cell>4-8</cell><cell>2 (0.7)</cell></row><row><cell>Parapholis strigosa</cell><cell>IV</cell><cell>3-5</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3 (2.3)</cell></row><row><cell>Plantago maritima</cell><cell>III</cell><cell>1-3</cell><cell>III</cell><cell>3-7</cell><cell>V</cell><cell>1-8</cell><cell>3 (6.0)</cell></row><row><cell>Puccinellia maritima</cell><cell>IV</cell><cell>2-4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>5 (7.3)</cell></row><row><cell>Armeria maritima</cell><cell>II</cell><cell>3-5</cell><cell>IV</cell><cell>2-5</cell><cell>IV</cell><cell>1-7</cell><cell>3 (2.3)</cell></row><row><cell>Juncus gerardii</cell><cell></cell><cell></cell><cell>II</cell><cell>2-5</cell><cell>IV</cell><cell>2-5</cell><cell>3 (5.6)</cell></row><row><cell>Carex flacca</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>III</cell><cell>1-8</cell><cell>0 (0.6)</cell></row><row><cell>Elymus junceiformis</cell><cell>I</cell><cell>4</cell><cell>III</cell><cell>3-4</cell><cell></cell><cell></cell><cell>3 (5.4)</cell></row><row><cell>Lysimachia maritima</cell><cell>I</cell><cell>2</cell><cell>III</cell><cell>2-7</cell><cell>III</cell><cell>1-7</cell><cell>4 (5.8)</cell></row><row><cell>Plantago coronopus</cell><cell>III</cell><cell>4-6</cell><cell>III</cell><cell>2-4</cell><cell>III</cell><cell>1-6</cell><cell>2 (3.1)</cell></row><row><cell>Poa humilis</cell><cell></cell><cell></cell><cell>II</cell><cell>2-5</cell><cell>III</cell><cell>2-7</cell><cell>2</cell></row><row><cell>Trifolium repens</cell><cell></cell><cell></cell><cell>II</cell><cell>2-5</cell><cell>III</cell><cell>3-9</cell><cell>0 (0.7)</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>Generous feedback on a previous version of this paper was provided by <rs type="person">Mike Best</rs> (<rs type="affiliation">Environment Agency</rs>), <rs type="person">Cathy Tilbrook</rs>, <rs type="person">Alistair Rennie</rs> and <rs type="person">Corallie Hunt</rs> (NatureScot), <rs type="person">Angus Garbutt</rs> (<rs type="affiliation">Centre for Ecology and Hydrology</rs>), <rs type="person">Rachael Mills</rs>, <rs type="person">Graham Weaver</rs> and <rs type="person">Louise Denning</rs> (<rs type="affiliation">Natural England</rs>), and <rs type="person">Heather Lewis</rs> (<rs type="affiliation">Natural Resources Wales</rs>). Janet Khan of the <rs type="funder">Scottish Environment Protection Agency</rs> (SEPA) kindly provided background on SEPA WFD reporting while <rs type="affiliation">Clare Maynard of the University of St Andrews</rs> gave helpful comments on the concepts involved. Further assistance was provided by <rs type="person">Paul Longbottom</rs>, Librarian in NatureScot.</p></div>
+			</div>
+			
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This research did not receive any specific grant from funding agencies in the public, commercial or not-for-profit sectors. CRediT authorship contribution statement Stewart Angus: Writingreview &amp; editing, Writingoriginal draft, Investigation, Conceptualization. Tom Dargie: Writingreview &amp; editing, Investigation.</p></div>
+			</div>
+
+
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>No data was used for the research described in the article.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>SA is employed part-time as Coastal Ecology Manager in NatureScot, which reports to the Habitats Directive (as amended). The paper has been written in an independent capacity, with minor facilitation by but no influence from NatureScot. Views within the paper are not necessarily the views of NatureScot.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The vegetation of British saltmarshes</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Adam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Phytol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="143" to="196" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Adam</surname></persName>
+		</author>
+		<title level="m">Saltmarsh Ecology</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Morphodynamics of holocene salt marshes: a review sketch from the atlantic and southern north sea coasts of Europe</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R L</forename><surname>Allen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quat. Sci. Rev</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1155" to="1231" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The conservation importance of the machair systems of the Scottish islands, with particular reference to the Outer Hebrides</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Angus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Islands of Scotland: a Living Marine Heritage</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Usher</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Baxter</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="95" to="120" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">The Outer Hebrides: Moor and Machair</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Angus</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>White Horse Press</publisher>
+			<pubPlace>Harris and Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Monitoring and surveillance of a highly variable habitat: the challenge posed by Scottish saline lagoons</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Angus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Studies in Marine Science</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="20" to="26" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Final resolution: the Venice System for the classification of marine waters according to salinity</title>
+		<author>
+			<persName><surname>Anonymous</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Oceanogr. Limnol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="243" to="248" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. ment suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Salt marsh sedimentation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bartholdy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Principles of Tidal Sedimentology</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Davis</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Dalrymple</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="151" to="186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The Coastline</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Beeftink</surname></persName>
+		</author>
+		<editor>Barnes, R.S.K.</editor>
+		<imprint>
+			<date type="published" when="1977">1977. 1977</date>
+			<publisher>Wiley</publisher>
+			<biblScope unit="page" from="93" to="121" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Salt-marshes</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Coastal Geomorphology of Great Britain</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bird</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geological Conservation Review</title>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>May</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hansom</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="517" to="642" />
+			<date type="published" when="2003">2003. 2003</date>
+			<publisher>NCC Peterborough</publisher>
+		</imprint>
+	</monogr>
+	<note>Saltmarshes</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Rhizosphere effect and salinity competing to shape microbial communities in Phragmites australis</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Borruso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bacci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mengoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Philippis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brusetti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cav.) Trin. ex-Steud. FEMS (Fed. Eur. Microbiol. Soc.) Microbiol. Lett</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="193" to="200" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">UK biodiversity action plan: priority habitat descriptions</title>
+		<author>
+			<persName><surname>Brig</surname></persName>
+		</author>
+		<ptr target="https://hub.jncc.gov.uk/assets/" />
+	</analytic>
+	<monogr>
+		<title level="j">JNCC</title>
+		<imprint>
+			<date type="published" when="1432">2011. 2728792c-c8c6-4b8c-9ccd-a908cb0 f1432</date>
+			<pubPlace>Peterborough</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The Saltmarsh Survey of Great Britain -an Inventory of British Saltmarshes. Research And Survey In Nature Conservation No. 17</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Burd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Conservancy Council</title>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<pubPlace>Peterborough</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Chapman</surname></persName>
+		</author>
+		<title level="m">Salt Marshes and Salt Deserts of the World</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Leonard Hill</publisher>
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chatters</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<pubPlace>Bloomsbury, London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Perched salt marshes on a high energy coast: implications for sea level reconstructions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A G</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Power</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Coast Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="357" to="363" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">A Guide to the Sand Dunes of Ireland. Compiled for the 3rd Congress of the European Union for Dune Conservation and Coastal Management</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G F</forename><surname>Curtis</surname></persName>
+		</author>
+		<editor>Quigley, M.B.</editor>
+		<imprint>
+			<date type="published" when="1991">1991. 1991</date>
+			<biblScope unit="page" from="6" to="17" />
+			<pubPlace>Galway</pubPlace>
+		</imprint>
+	</monogr>
+	<note>A site inventory of the sandy coasts of Ireland: their types and distribution</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Sand dune vegetation survey of Scotland: western isles</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C D</forename><surname>Dargie</surname></persName>
+		</author>
+		<idno>No. 96</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Scottish Natural Heritage Research, Survey and Monitoring</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">NVC Survey of the Saltmarsh and Other Habitats in the Dee &amp; Clwyd Estuaries 2000</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dargie</surname></persName>
+		</author>
+		<idno>No. 450</idno>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Countryside Council for Wales</publisher>
+			<pubPlace>Bangor</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">CCW Science Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Morrich more coastal change analysis 1987 to 2015</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dargie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Scottish Natural Heritage Commissioned Report No. 927. Battleby, Scottish Natural Heritage</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">European tidal saltmarshes</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Everard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Irvine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Mcinnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Middleton</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Dam</surname></persName>
+		</author>
+		<editor>A.A., Davidson, N.C.</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="959" to="972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">EUNIS Habitat Classification Revised</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Topic Centre on Nature Protection and Biodiversity</title>
+		<imprint>
+			<date type="published" when="2004">2004. 2004</date>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Environment Agency, 2022. The extent and zonation of saltmarsh in England</title>
+		<ptr target="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1097875/The_extent_and_zonation_of_saltmarsh_in_England_2016-2019_-_report.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature and Natural Resources</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Dijkema</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">178</biblScope>
+			<biblScope unit="page" from="2016" to="2019" />
+			<date type="published" when="1984">1984</date>
+			<pubPlace>Strasbourg, France</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Salt Marshes in Europe Council of Europe, European Committee for the Conservation of</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Salt marshes</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Esselink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Van Duin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bunje</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cremer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Folmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Frikke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Glahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>De Groot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Hellwig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Körber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stock</surname></persName>
+		</author>
+		<ptr target="https://qsr.waddensea-worldheritage.org/reports/salt-marshes" />
+	</analytic>
+	<monogr>
+		<title level="m">Wadden Sea Quality Status Report</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Kloepper</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wilhelmshaven, Germany</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>Common Wadden Sea Secretariat</orgName>
+		</respStmt>
+	</monogr>
+	<note>Last updated 21.12.2017</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<ptr target="https://circabc.europa.eu/ui/group/3" />
+		<title level="m">Natura 2000 interpretation manual of European Union habitats. EUR28. European Commission, DG Environment</title>
+		<imprint>
+			<publisher>European Commission</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>f466d71-92a7-49eb-9c63-6cb0fadf29dc/library/37d9e6d9-b7de -42ce-b789-622e9741b68f/details</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<ptr target="https://www.eea.europa.eu/publications/COR0-part1" />
+		<title level="m">CORINE land cover</title>
+		<imprint>
+			<publisher>European Environment Agency</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Saltmarsh mapping standardisation for the water Framework directive</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hambidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Phelan</surname></persName>
+		</author>
+		<ptr target="https://www.nmbaqcs.org/media/5fjpq2qj/saltmarsh-mapping-standard_140814_final-1.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">NMBAQC Scheme</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Scottish saltmarsh survey -national report</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Haynes</surname></persName>
+		</author>
+		<ptr target="https://www.nature.scot/doc/naturescot-commissioned-report-786-scottish-saltmarsh-survey-national-report" />
+	</analytic>
+	<monogr>
+		<title level="m">Report to SNH and SEPA. Scottish natural heritage commissioned report No. 786. Scottish natural heritage, battleby</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Ellenberg&apos;s indicator values for British plants</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Mountford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G H</forename><surname>Bunce</surname></persName>
+		</author>
+		<ptr target="https://nora.nerc.ac.uk/id/eprint/6411/" />
+	</analytic>
+	<monogr>
+		<title level="j">Technical Annex. Institute of Terrestrial Ecology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">PLANTATT -attributes of British and Irish plants: status, size, life history, geography and habitats</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Preston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Roy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Centre for Ecology &amp; Hydrology, Abbotts Ripton. PLANTATT -Attributes of British and Irish Plants -Spreadsheet | Biological</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>Records Centre (brc.ac.uk</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Saltmarsh Restoration Handbook: UK and Ireland</title>
+	</analytic>
+	<monogr>
+		<title level="j">Environment Agency</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Hudson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Kenworthy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Best</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<pubPlace>Bristol, UK.</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Empirical realised niche models for British coastal plant species</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Jarvis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Rowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Henrys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Smart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garbutt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Coast Conserv</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="107" to="116" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Common Standards Monitoring guidance for saltmarsh habitats</title>
+		<author>
+			<orgName type="collaboration">Joint Nature Conservation Committee</orgName>
+		</author>
+		<ptr target="https://hub.jncc.gov.uk/assets/760" />
+		<imprint>
+			<date type="published" when="2004-08">2004. August 2004</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+	<note>d9-4660-9dda-0e538334ed86</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Fourth report by the United Kingdom under Article 17 on the implementation of the Directive from January 2013 to December</title>
+		<author>
+			<orgName type="collaboration">Joint Nature Conservation Committee</orgName>
+		</author>
+		<ptr target="https://jncc.gov.uk/our-work/article-17-habitats-directive-report-2019-habitats/#marine-coastal-and-halophytic-habitats" />
+	</analytic>
+	<monogr>
+		<title level="m">Conservation status for the habitats H1310, H1320, H1330, H1420</title>
+		<meeting><address><addrLine>Peterborough</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010. 2019. 2018</date>
+		</imprint>
+	</monogr>
+	<note>Handbook for Phase 1 habitat surveya technique for environmental audit 07b-e018-4c66-9c1b-47110f14df2a/Handbook-Phase1-HabitatSurvey-Revised-2016.pdf. Joint Nature Conservation Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Vegetation of Europe: hierarchical floristic classification system of vascular plant, bryophyte, lichen, and algal communities</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mucina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bültmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dierßen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Theurillat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Raus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Čarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Šumberová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Willner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dengler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chytrý</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hájek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Pietro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Iakushenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pallas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J A</forename><surname>Daniëls</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bergmeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Guerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ermakov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Valachoviĉ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H J</forename><surname>Schaminée</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lysenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">P</forename><surname>Didukh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pignatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Rodwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Capelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Solomeshch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dimopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Aguiar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hennekens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tichý</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Veg. Sci</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="3" to="264" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Climate Change Adaptation Manual -Evidence to Support Nature Conservation in a Changing Climate</title>
+		<author>
+			<persName><forename type="first">Natural</forename><surname>England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rspb</forename></persName>
+		</author>
+		<ptr target="http://publications.naturalengland.org.uk/publication/56791978488627" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<pubPlace>York, UK</pubPlace>
+		</imprint>
+	</monogr>
+	<note>second ed. Natural England</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">An overview of ecological status, vulnerability and future perspectives of European large shallow, semi-enclosed coastal systems, lagoons and transitional waters</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Icely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cristina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Colijn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Riva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gertz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Holmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ivanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Leppäkoski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Canu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mocenni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mudge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pejrup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Razinkovas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Reizopoulou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pérez-Ruzafa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schernewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schubert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Solidoro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Viaroli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Zaldívar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Estuar. Coast Shelf Sci</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="95" to="122" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><surname>Ons</surname></persName>
+		</author>
+		<ptr target="https://www.ons.gov.uk/economy/environmentalaccounts/methodologies/scopingukcoastalmarginecosystemaccounts#s,coping-the-extent-account" />
+		<title level="m">Scoping UK coastal margin ecosystem accounts</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Biological flora of the British isles. Phragmites australis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Packer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Meyerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Skálová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pyšek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kueffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ecology</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="1123" to="1162" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">TMAP-typology of coastal vegetation in the Wadden Sea area. Version 1.0.4. Wadden Sea Secretariat</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stock</surname></persName>
+		</author>
+		<ptr target="https://www.waddensea-worldheritage.org/sites/default/files/" />
+		<imprint>
+			<date type="published" when="2014">2014. 2014</date>
+			<pubPlace>Wilhelmshaven</pubPlace>
+		</imprint>
+	</monogr>
+	<note>_Ecosystem32_salt% 20marsh%20typology.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Saltmarsh geomorphology</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pethick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Saltmarshes: Morphodynamics, Conservation and Engineering Significance</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R L</forename><surname>Allen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Pye</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="41" to="62" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Phelan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baylis</surname></persName>
+		</author>
+		<ptr target="https://assets.publishing.service.gov.uk/media/" />
+		<title level="m">The Extent of Saltmarsh in England and Wales: 2006-2009. Environment Agency, Bristol</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>d1ce5274a7b7e32132c/LIT_5799_a4e627.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pontee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Blott</surname></persName>
+		</author>
+		<idno>14049b/FRS17187_What_is_coastal_squeeze_-_report __1_.pdf</idno>
+		<ptr target="https://assets.publishing.service.gov.uk/media/6038fafde" />
+		<title level="m">What Is Coastal Squeeze? Project No. FRS17187. Environment Agency</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Transitional habitats and coastal species in England: their conservation value and management</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garbutt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Houston</surname></persName>
+		</author>
+		<ptr target="https://core.ac.uk/download/pdf/132492454.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">International Workshop on the Management of Dune Polder and Dune Marshland Transition Zones: Proceedings. Knokke-Heist (Belgium)</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Dewulf</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Van Nieuwenhuyse</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Herrier</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2010-10-07">2010. 7 October 2010</date>
+			<biblScope unit="page" from="125" to="156" />
+		</imprint>
+	</monogr>
+	<note>Agentschap voor Natuur en Bos: Brussel</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m">British Plant Communities. Aquatic Communities, Swamps and Tall-Herb Fens</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Rodwell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">British Plant Communities. Maritime Communities and Vegetation of Open Habitats, ume 5</title>
+		<editor>Rodwell, J.S.</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">NVC Users&apos; Handbook, JNCC</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Rodwell</surname></persName>
+		</author>
+		<ptr target="https://hub.jncc.gov.uk/assets/a407ebfc-2859-49cf-9710-" />
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="28" to="35" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The Diversity of European Vegetation. An Overview of Phytosociological Alliances and Their Relationships to EUNIS Habitats. National Reference Centre for Agriculture</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Rodwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H J</forename><surname>Schamineé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mucina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pignatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature and Fisheries</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Wageningen)</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">The conservation (natural habitats, &amp;c.) (EU exit) (Scotland) (amendment) regulations</title>
+		<author>
+			<persName><forename type="first">Scottish</forename><surname>Government</surname></persName>
+		</author>
+		<ptr target="https://www.legislation.gov.uk/ssi/2019/113/contents/made" />
+		<imprint>
+			<date type="published" when="2019">2019. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Quantifying critical conditions for seaward expansion of tidal marshes: a transplantation experiment</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Silinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Belzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fransen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Bouma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Troch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Temmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Estuar. Coast Shelf Sci</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page" from="227" to="237" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Bias in Ellenberg indicator values: problems with detection of the effect of vegetation type</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Smart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Scott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Veg. Sci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="843" to="846" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">IHS definitions version 2-001</title>
+		<ptr target="//www.somerc.com/wp-content/uploads/2019/01/IHS-Definitions.pdf" />
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>Somerset Environmental Records Centre htt ps</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">New Flora of the British Isles</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Stace</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>C&amp;M Floristics</publisher>
+		</imprint>
+	</monogr>
+	<note>Fourth Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Manual of terrestrial EUNIS habitats in Scotland</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Strachan</surname></persName>
+		</author>
+		<ptr target="https://www.nature.scot/landscapes-and-habitats/habitat-map-scotland" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Scottish Natural Heritage Commissioned Report No. 766, Version 2</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Tansley</surname></persName>
+		</author>
+		<title level="m">The British Islands and Their Vegetation</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1953">1953</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tichý</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Axmanová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dengler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Guarino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Midolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Nobis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Van Meerbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aćić</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Attorre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bergmeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Biurrun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bonari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bruelheide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Čarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chiarucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ćuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ćušterevska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Didukh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dítě</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Dítě</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dziuba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fanelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fernández-Pascual</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Garbolino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Gavilán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-C</forename><surname>Gégout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Graf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Güler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hájek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hennekens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Jandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jašková</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jiménez-Alfaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Julve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kambach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Karger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Karrer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kavgacı</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Knollová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kuzemko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Küzmič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Landucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lengyel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lenoir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Marcenò</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Moeslund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Novák</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pérez-Haase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Peterka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pielech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pignatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rašomavičius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rūsin ¸a</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saatkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Šilc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ž</forename><surname>Škvorc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Theurillat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wohlgemuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chytrý</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Veg. Sci</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">The conservation of habitats and species (amendment) (EU exit) regulations</title>
+		<author>
+			<persName><surname>Uk Government</surname></persName>
+		</author>
+		<ptr target="https://www.legislation.gov.uk/uksi/2019/579/contents/made" />
+		<imprint>
+			<date type="published" when="2019">2019. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">The UK habitat classification</title>
+		<author>
+			<orgName type="collaboration">UK Habitat Classification Working Group</orgName>
+		</author>
+		<ptr target="http://ecountability.co.uk/ukhabworkinggroup-ukhab" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">UK habitat classification version 2</title>
+		<author>
+			<persName><forename type="first">Ukhab</forename><surname>Ltd</surname></persName>
+		</author>
+		<ptr target="https://www.ukhab.org" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Where does the salt marsh start? Field-based evidence for the lack of a transitional area between a gradually sloping intertidal flat and salt marsh</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Regteren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Amptmeijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>De Groot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Baptist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Elschot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Estuar. Coast Shelf Sci</title>
+		<imprint>
+			<biblScope unit="volume">243</biblScope>
+			<biblScope unit="page">106909</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<ptr target="http://www.wfduk.org/sites/default/files/Media/" />
+		<title level="m">UKTAG transitional and coastal water assessment method. Angiosperms. Saltmarsh Tool. WFD UK TAG. Stirling</title>
+		<imprint>
+			<publisher>WFD-UKTAG</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+		<respStmt>
+			<orgName>Water Framework Directive -United Kingdom Technical Advisory Group</orgName>
+		</respStmt>
+	</monogr>
+	<note>Characterisation%20of%20the%20water%20environment /Biological%20Method%20Statements/TraC%20Saltmarsh%20Tool%20UKTAG%</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Pdf</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

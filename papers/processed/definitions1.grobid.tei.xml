@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Eutrophication: are mayflies (Ephemeroptera) good bioindicators for ponds?</title>
+				<funder ref="#_uKrXE2C">
+					<orgName type="full">&apos;&apos;Office of Environment and Energy&apos;&apos; of the canton of Luzern</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2007-12-25">2007-12-25</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">N</forename><surname>Menetrey</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Sartori</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ae</forename><forename type="middle">A</forename><surname>Wagner</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Lachavanne</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">B. Oertli Ecole d&apos;Inge ´nieurs de Lullier</orgName>
+								<orgName type="laboratory">Laboratory of Ecology and Aquatic Biology</orgName>
+								<orgName type="institution">University of Geneva</orgName>
+								<address>
+									<addrLine>Ch. des Clochettes 18</addrLine>
+									<postCode>1206</postCode>
+									<settlement>Geneva</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Museum of Zoology</orgName>
+								<orgName type="institution">University of Applied Sciences of Western Switzerland</orgName>
+								<address>
+									<addrLine>150 rte de Place Riponne 6</addrLine>
+									<postCode>1254 1014</postCode>
+									<settlement>Presinge Jussy Geneva Lausanne</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Eutrophication: are mayflies (Ephemeroptera) good bioindicators for ponds?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Hydrobiologia</title>
+						<title level="j" type="abbrev">Hydrobiologia</title>
+						<idno type="ISSN">0018-8158</idno>
+						<idno type="eISSN">1573-5117</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">597</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="125" to="135"/>
+							<date type="published" when="2007-12-25" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">D17674D255AC52D375625F5322115387</idno>
+					<idno type="DOI">10.1007/s10750-007-9223-x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Ephemeroptera larvae</term>
+					<term>Aquatic macroinvertebrates</term>
+					<term>Small waterbodies</term>
+					<term>Eutrophication</term>
+					<term>Water quality</term>
+					<term>Biomonitoring</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Ephemeroptera larvae are recognized worldwide for their sensitivity to oxygen depletion in running waters, and are therefore commonly used as bioindicators in many monitoring programmes. Mayflies inhabiting lentic waters, like lakes and ponds, in contrary have been poorly prospected in biomonitoring. For this purpose, a better understanding of their distribution in lentic habitats and of the relations of species presence with environmental conditions are needed. Within this framework, 104 ponds were sampled in Switzerland. The Ephemeroptera are found to be an insect order particularly well represented in the ponds studied here (93% of the lowland ponds). Nevertheless, in terms of diversity, they are relatively poorly represented (mean species number = 1.9). Two species dominated: Cloeon dipterum (Baetidae) and Caenis horaria (Caenidae). The investigations contributed to the updating of the geographical distribution of the species in Switzerland, as many of the observations appear to be from new localities. The trophic state of ponds appears here to be important for Ephemeroptera communities. First, there is a negative relationship between total phosphorus (TP) concentrations and species richness. Second, the presence of Caenis horaria or Cloeon dipterum is dependent on the trophic state. Caenis horaria is most closely associated with low levels of TP concentrations, while Cloeon dipterum appears to be less sensitive, and is most frequently found in hypertrophic conditions. A probable consequence of these relations, is that Baetidae are always present when Caenidae are also present. Contrastingly, Baetidae is observed as the only mayflies family present in several ponds.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Mayflies are considered as ''keystone'' species and their presence is believed to be an important environmental indicator of oligotrophic to mesotrophic (i.e. low to moderately productive) conditions in running waters <ref type="bibr" target="#b2">(Barbour et al., 1999;</ref><ref type="bibr" target="#b3">Bauernfeind &amp; Moog, 2000)</ref>. A high sensitivity of mayfly taxa to oxygen depletion, acidification, and various contaminants including metals, ammonia and other chemicals was demonstrated in both observational and experimental studies <ref type="bibr" target="#b18">(Hubbard &amp; Peters, 1978;</ref><ref type="bibr" target="#b39">Resh &amp; Jackson, 1993;</ref><ref type="bibr" target="#b30">Moog et al., 1997;</ref><ref type="bibr" target="#b16">Hickey &amp; Clements, 1998)</ref>. Various Biological Indices including mayflies to assess water quality have been developed over the years <ref type="bibr" target="#b22">(Lenat, 1988;</ref><ref type="bibr" target="#b28">Metcalfe, 1989;</ref><ref type="bibr" target="#b20">Kerans &amp; Karr, 1994)</ref>. Subsequently, many of the biological water quality assessment methods for streams include Ephemeroptera, as for example the EPT (Ephemeroptera + Plecoptera + Trichoptera) taxa richness <ref type="bibr" target="#b23">(Lenat &amp; Penrose, 1996)</ref> which has been incorporated into studies in the United States and in many other countries. Other examples include the River InVertebrate Prediction and Classification System (RIVPACS) for the UK <ref type="bibr" target="#b48">(Wright et al., 1998)</ref> and the Indice Biologique Global Normalise ´(IBGN) for France <ref type="bibr" target="#b0">(AFNOR, 1992)</ref>. A major EU project with 14 participating member states entitled STAndardisation of River Classifications (STAR) has now been established, which will calibrate different biological survey results against ecological quality classifications that have to be developed for the Water Framework Directive of 2000 <ref type="bibr" target="#b14">(Furse et al., 2006)</ref>.</p><p>On the contrary, mayflies inhabiting lentic waters (e.g. lakes and ponds), have been poorly used in biomonitoring programmes (see however <ref type="bibr" target="#b25">Madenjian et al., 1998)</ref>. Nevertheless, in such environments, we could expect that mayflies also adequately integrate some aspects of water quality. Ephemeroptera have also other advantages for monitoring: they are highly visible, relatively easy to sample and are represented by only a few species in such habitats, which makes identification easier. In Lake Erie, Ephemeroptera are successfully used in biomonitoring, following the example of a recent study that showed burrowing mayfly nymphs (Hexagenia spp.) to be associated with an improvement of the ecosystem health <ref type="bibr" target="#b42">(Schloesser &amp; Nalepa, 2002)</ref>. In smaller waterbodies like ponds, the water quality is rarely assessed. Nevertheless, with the implementation of the directive, such procedures will be developed. This is already the case in some European states (UK, see <ref type="bibr" target="#b4">Biggs et al., 2000;</ref><ref type="bibr">Catalonia, see Boix et al., 2005</ref>; Switzerland, see <ref type="bibr" target="#b27">Menetrey et al., 2005)</ref>.</p><p>For the purpose of better understanding the importance of Ephemeroptera in the assessment of water quality in lentic habitats and especially in ponds, a better understanding is needed of: (i) the distribution of mayflies in such habitats and (ii) the relations of species presence with environmental conditions. In this study, the distribution of mayflies is investigated for 104 ponds from Switzerland. In a second step, their presence is assessed in relation to environmental variables, particularly the trophic state indicators (total phosphorus (TP), total nitrogen (TN) and conductivity). Finally, we will examine whether a new metric using Ephemeroptera can be proposed for inclusion in rapid bioassessments methods for swiss ponds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study area</head><p>Table <ref type="table">1</ref> shows the location of the 104 permanent small water bodies sampled within the following four altitudinal vegetation belts in Switzerland: colline, montane, subalpine, and alpine. They vary in size from 5 m 2 to 10 ha (Table <ref type="table" target="#tab_2">2</ref>), with a mean depth comprising between 15 and 910 cm. We will further refer to these small water bodies as ''ponds'', since most of them correspond to the criteria of the definition of a pond presented by <ref type="bibr">Oertli et al. (2005a)</ref>. Only one third of these ponds are known to have a natural origin with an age exceeding 4,000 years (last glacial retreat). The others, with</p><p>Table 1 Number of sampled ponds per altitudinal vegetation belt <ref type="bibr">(colline (200-800 m)</ref>, montane (600-1,400 m), subalpine (1,300-2,000 m), alpine ([1,800 m)) and trophic state (based on the concentration of total phosphorus (TP) and total nitrogen (TN) as described by <ref type="bibr">OECD (1982)</ref> and <ref type="bibr" target="#b47">Wetzel (1983)</ref> Colline Montane Subalpine Alpine n = total of ponds</p><p>Oligotrophic 1 (1) 1 (1) 1 (1) 11(2) 14 (5) Mesotrophic 4 (4) 7 (7) 9 (4) 6 (1) 26 (16) Eutrophic 19 (19) 12 (11) 0 (0) 1 (0) 32 (30) Hypertrophic 20 (17) 7 (5) 4 (3) 1 (0) 32 (25) n = total of ponds 44 (41) 27 (24) 14 (8) 19 (3) 104 (76)</p><p>In brackets: number of ponds of each type containing Ephemeroptera various ages (1-900 years), are artificial, linked to past or present human activities (gravel or clay extraction, fish production, nature conservation, etc.). The range of altitude is from 210 to 2,757 m. The trophic state varies between oligotrophic and hypertrophic (Table <ref type="table">1</ref>). Additionally, each pond was characterised with environmental and geo-morphological data (Table <ref type="table" target="#tab_2">2</ref>) (site details are available on request).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sampling</head><p>Each pond was sampled once during the summer months (June to early August) from 1996 to 2005 following the PLOCH method <ref type="bibr">(Oertli et al., 2005b)</ref>. Mayflies were collected using a small hand-net (rectangular frame 14 9 10 cm, mesh size 0.5 mm).</p><p>For each sample, the net was swept intensively through the pre-selected dominant habitats for 30 s. In all cases, the collected material was preserved in either 4% formaldehyde or 70% alcohol solutions and then sorted in the laboratory.</p><p>The physico-chemistry of the water was measured during winter and summer months, as described by <ref type="bibr" target="#b36">Oertli et al. (2000)</ref>, by establishing a profile using WTW field probes down to the deepest point of the pond (to measure conductivity, pH and oxygen concentration). The transparency was additionally recorded from a surface water sample using a Snellen tube. Laboratory analyses of the content of TP and TN were made with winter water samples. TP concentrations and TN concentrations were then used to classify each pond into one of the four following trophic categories: oligotrophic, mesotrophic, eutrophic or hypertrophic, as described by the Organization for Economic <ref type="bibr">Cooperation and Development (1982)</ref> and <ref type="bibr" target="#b47">Wetzel (1983)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>Statistical analyses were performed exclusively on 71 out of the 104 ponds from the colline and montane vegetation belts. The remaining 33 ponds from the subalpine and alpine belts were excluded from this dataset because of the particularity of their mayfly assemblages: only 11 ponds contained Ephemeroptera (Table <ref type="table">1</ref>). In addition, Cloeon dipterum and Caenis horaria, the two most abundant species present in many lowland ponds, were much less common at these altitudes. Indeed, most of the mayflies that are present in the subalpine and alpine belts were rare species.</p><p>A between-class Principal Component Analysis (PCA) was performed to test if there was an overall difference between the ponds containing Caenidae + Baetidae (33 ponds) and those with Baetidae only (31 ponds) for 12 relevant selected environmental and physico-chemical variables. Three of these variables were log-transformed: area, mean depth and sinuosity of the shoreline; five were transformed in categories: TP, TN, conductivity, transparency and altitudinal vegetation belt; and the last four were not transformed: presence versus absence of fishes, % of natural zone surrounding the waterbody, % of catchment area and macrophytes species richness.</p><p>A non-parametric Mann-Whitney U test was conducted to test if there was a significant difference for three trophic state variables considered separately (concentrations of TP, TN or conductivity) between ponds where Cloeon dipterum or Caenis horaria were present or absent, respectively. In addition, a non-parametric Mann-Whitney U test was performed to analyse the differences in the mayfly species richness between groups of ponds based upon their trophic state (being defined separately by TP, TN or conductivity values). Furthermore, Generalized Additive Models (GAMs) were used to model the occurrence of Cloeon dipterum, or of Caenis horaria with the purpose of (i) identifying the physico-chemical and environmental variables explaining the presence of these species in the ponds, and (ii) building predictive models of their occurrence. GAMs are nonparametric regressions that lead to complex response curves, which differ from the linear and parabolic responses; therefore, non-normally distributed data (including binomial distributions) can be modelled. GAMs were carried out with S-PLUS software using a set of functions developed to perform generalized regression analyses and spatial predictions (GRASP) <ref type="bibr" target="#b21">(Lehmann et al., 2002)</ref>. After an exploratory stepwise procedure of the same twelve selected variables as the ones taken for PCA, the least contributive were discarded to avoid an over-parameterization of the models. This means that the final model was built around the five most relevant variables: altitude, log of area, TP (expressed as four trophic categories), log of mean depth, and macrophytes species richness.</p><p>The diagnostic procedure for the GAMs included: (1) the most relevant variables retained in the two final regression models at P = 0.05 level, (2) the contributions of each explanatory variable expressed as a deviance reduction associated to dropping the variable from the model, (3) the percentage of the deviance explained by the models, (4) a linear correlation ratio (r) between observed and predictive values derived from a cross-validation procedure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ephemeroptera species distribution in ponds</head><p>Mayflies were found to be present in 76 of the 104 sampled ponds. Of the 85 species (and 11 families) of Ephemeroptera present in Switzerland, 12 species from five families were identified (Table <ref type="table" target="#tab_3">3</ref>). This list included logically a majority of lentic species; however, lotic species were also found to be present (i.e. Baetis rhodani, Centroptilum luteolum, Ephemera danica and Siphlonurus aestivalis), which could be explained by the presence of tributaries. The lotic species Baetis alpinus was additionally found in one alpine pond, and this independently of the presence of a tributary. An explanation for the presence of lotic species in lentic ecosystem is that in alpine ponds, the physico-chemical conditions (oxygen, nutrient content, T °C) are similar to those observed in streams <ref type="bibr" target="#b17">(Hieber et al., 2005)</ref>.</p><p>Amongst the 12 identified species, four are mentioned in the red list of threathened species for Switzerland <ref type="bibr" target="#b41">(Sartori et al., 1994)</ref>: Centroptilum luteolum, Cloeon simile, Ephemera danica (all three potentially endangered) and Siphlonurus aestivalis (endangered). The finding of Habrophlebia fusca was a first for Switzerland, while Habrophlebia lauta was observed for the first time in the Canton of Graubu ¨nden.</p><p>The 28 ponds where Ephemeroptera were absent included a set of ponds situated at an altitude over 1,410 m (22 ponds) or another set with hypertrophic conditions (six ponds). However, mayflies were not always absent from ponds with hypertrophic conditions. Baetidae were observed in 26 hypertrophic ponds, and of these, 15 ponds also contained Caenidae. Likewise, mayflies were not always absent from ponds over an altitude of 1,410 m: nine ponds over 1,410 m contained mayflies, mostly from the Baetidae or Caenidae families.</p><p>When present in a pond, the Ephemeroptera community diversity was low (see Table <ref type="table" target="#tab_3">3</ref> and Fig. <ref type="figure" target="#fig_0">1</ref>) and composed of only a few taxa (mean species number = 1.9 and mean family number = 1.6). The dominant lentic species were Cloeon dipterum (in 93% of the ponds containing Ephemeroptera) and Caenis horaria (in 45%). In 43% of the cases, ponds included only one family, generally the Baetidae with, in most of these cases, Cloeon dipterum being found alone. Otherwise, there was one case each where Cloeon simile was found alone or both together with Cloeon dipterum. For 55% of the ponds containing Ephemeroptera, two families were recorded, with Baetidae (Cloeon dipterum) present in all cases. One pond included three families. Therefore, Baetidae appeared as the most common mayfly family to be found in Swiss ponds. An interesting observation was that Caenidae were only present when Baetidae were present (with one exception). However, considering the selected environmental and physico-chemical variables, these were found to have no relevance in differentiating the ponds between sites with the presence of both Baetidae and Caenidae and sites with Baetidae alone. Only 3% of the variability given by the between-class PCA could be explained by environmental and physico-chemical variables. The Monte Carlo Pvalue was not significant for the parameters tested (P = 0.654).</p><p>Out of the 40 ponds containing Caenidae, Caenis horaria was found once alone, while in most cases (52%, Fig. <ref type="figure" target="#fig_0">1</ref>) its presence was associated with the Red list for Switzerland <ref type="bibr" target="#b41">(Sartori et al., 1994)</ref>: nd, status not defined; 3 = endangered; 4 = potentially endangered. le, lentic taxa; lo, lotic taxa Baetidae + another family than Caenidae, one pond with Leptophlebiidae only and one pond with three families: Baetidae, Caenidae and Leptophlebiidae</p><p>Baetidae family. Otherwise, with the presence of Baetidae in most cases, C. luctuosa was observed together with Caenis horaria (12% of cases, only once alone). Caenis robusta was associated with Caenis horaria (17%) or without (13%). Cloeon simile could be observed alone, or in combination with Cloeon dipterum, and/or Caenis horaria, and/or Caenis robusta and/or even Caenis luctuosa. But Caenis luctuosa and Caenis robusta were never found in the same pond together.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mayflies and eutrophication</head><p>There was no significant difference in the values of the trophic state variables (concentration of TP, TN or conductivity) between the group of ponds with Cloeon dipterum (or Caenis horaria) present and the group of ponds without the species (Mann-Whitney U test; P [ 0.05, see Table <ref type="table" target="#tab_4">4</ref>). Nevertheless the relationship between TP and Cloeon dipterum was near to being significant (P = 0.085).</p><p>There was also no significant difference of the mayfly species richness present between the groups of ponds based upon their trophic state (TP, TN or conductivity). However, the relationship between eutrophic and hypertrophic ponds for TP (Fig. <ref type="figure" target="#fig_1">2</ref>) was also almost significant (Mann-Whitney U test; P = 0.096).</p><p>Generalised Additive Model regressions were calculated for the two most frequent taxa, Caenis horaria and Cloeon dipterum. Table <ref type="table" target="#tab_5">5</ref> presents the most relevant variables (two variables for Cloeon dipterum, four for Caenis horaria) retained in the two final regression models at P = 0.05 level and their relative contributions. Cross-validation ratios were high for both models, with r above 0.7. Consequently, regarding r 2 values, more than 50% of the species' distribution could be explained by the two, respectively the four variables retained in the models. The models explained between 14.6% and 32.1% of the deviance for Cloeon dipterum and Caenis horaria respectively. The response curves for the variables retained in the models are presented in Fig. <ref type="figure">3</ref>. Confidence intervals were usually wider at both ends of all gradients where there were fewer observations. For both species, the regression models showed one similar trend: the linear positive influence of area. This finding indicates that the two species were more frequently associated with larger sized ponds than with smaller ones. Also for both species, the trophic state of the pond was a significant variable, although the shape of the response curve was different for each species explaining that Caenis horaria was mostly present in oligotrophic ponds, while Cloeon dipterum was associated mainly with eutrophic ponds. The model for Caenis horaria incorporated two more variables: mean depth which showed a complex response curve that seemed incoherent; and macrophytes species richness which showed a bell-shaped response curve: Caenis horaria seemed therefore to be associated with species-rich ponds.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Ephemeroptera species distribution in ponds</p><p>The Ephemeroptera are particularly well represented, being observed in 93% of the lowland ponds (colline and montane). Nevertheless, in terms of species richness, they are relatively poorly represented (mean species number = 1.9). This is mainly due to the fact that most mayflies are adapted to living in running waters where the environmental conditions are drastically different from those of standing waters. Both Caenidae and Baetidae families contain some of the most resistant species to organic pollution and to low levels of oxygen <ref type="bibr" target="#b24">(Macan, 1973;</ref><ref type="bibr" target="#b6">Bro ¨nmark &amp; Hansson, 2000)</ref>. Two species dominate our data group: Cloeon dipterum and Caenis horaria, both of which are known to be very resistant to eutrophic conditions (group 6 in Solda ´n et al., 1998, or groups E-G in <ref type="bibr" target="#b19">Kelly-Quinn &amp; Bracken, 2000)</ref>. Only a few additional mayfly species could potentially be observed in Swiss ponds. These are: n, number of ponds where the species was present. area = log e transformed m 2 ; total phosphorus (TP) = transformed into one of the four trophic categories as described by <ref type="bibr">OECD (1982)</ref>; mean depth = log e transformed cm; macrophyte species richness = not transformed Fig. <ref type="figure">3</ref> Response curves for the variables incorporated in the Generalized Additive Models (GAMs) calculated for the presence of (a) Cloeon dipterum and (b) Caenis horaria. The dashed lines are approximate 95% confidence intervals around the smooth function lines. area = log e transformed m 2 ; total phosphorus (TP) = transformed into one of the four trophic categories as described by <ref type="bibr">OECD (1982)</ref>; mean depth = log e transformed cm; macrophyte species richness = not transformed. Vertical axes are scaled according to the dimensionless linear predictor</p><p>Leptophlebia marginata, Leptophlebia verspertina, Rhithrogena loyolaea (above altitude of 2,800 m), Ephemera glaucops (recently discovered in one location in eastern Switzerland); Ecdyonurus sp. (in drift conditions or at altitude), Paraleptophlebia werneri (elsewhere) and perhaps Arthroplea congener (although at present only found in Germany and Austria). Interestingly, all these species mentioned are rare species and found in special conditions. Many of our observations include new localities for Switzerland's Ephemeroptera, and therefore will contribute to the updating of the geographical distribution of the species presented in <ref type="bibr" target="#b40">Sartori and Landolt (1999)</ref>. Furthermore, altitudinal ranges presented by these authors will be largely revised, with new data for 7 out of the 12 species found in the sampled ponds (see Table <ref type="table" target="#tab_3">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mayflies and eutrophication</head><p>Ephemeroptera species richness has a negative relationship with an increase of eutrophication (based on TP). Nevertheless, the presence of Ephemeroptera species in the studied ponds cannot be explained by the trophic state alone, since all simple direct relationships between the presence of Caenis horaria and Cloeon dipterum and the trophic state of water are not significant. However, in the model, taking into account the other predominant environmental variables (i.e. altitude, area, mean depth and macrophyte species richness), trophic state, based on TP, is significant. The two species appear to avoid hypertrophic ponds. Their optimum conditions are oligotrophic for Caenis horaria and eutrophic for Cloeon dipterum. This relationship with trophic conditions has already often been demonstrated in running water studies. For example, in <ref type="bibr" target="#b46">Tachet et al. (2000)</ref>, the biological traits for Caenis sp. indicate that mesotrophic conditions are optimal for this genera. Contrastingly, Cloeon sp. could be found in either mesotrophic or eutrophic habitats. Furthermore, Baetidae appears as one of the Ephemeropteran families the most tolerant to organic pollution. For example, Cloeon dipterum is the European species that exhibits the greatest saprobic index among mayflies (SI = 2.6) making it a characteristic element of b-a mesosaprobic conditions. Caenis horaria and C. robusta are ranked as less tolerant (SI = 2.2) and more confined to b mesosaprobic environments <ref type="bibr" target="#b29">(Moog, 1995;</ref><ref type="bibr" target="#b30">Moog et al., 1997)</ref>.</p><p>Following these relations, a really interesting observation was made on the association of the two most common families observed in the ponds sampled. Baetidae is observed as the only Ephemeroptera family present in several ponds. This is not the case for Caenidae, which are found only if Baetidae are already present. This particularity has also been observed for several sets of water-bodies in the French Rho ˆne and Ain floodplains <ref type="bibr" target="#b9">(Castella et al., 1984</ref><ref type="bibr" target="#b10">(Castella et al., , 1991;;</ref><ref type="bibr" target="#b8">Castella, 1987)</ref>.</p><p>The presence of Caenidae alongside Baetidae, could be important for bioassessment work. As the potential number of mayfly species in such environment is normally low (five in general), the occurrence of an additional species from the Caenidae family may have some significance with regard to environmental conditions. On the contrary, the presence of rare species in ponds seems to depend more on special conditions than on trophic states. This finding represents an important development for the use of Ephemeroptera as bioindicators in Switzerland. Therefore, frequently observed species like Caenis sp. and Cloeon sp. seem to be more suitable to assess the trophic state of ponds (as demonstrated in this study).</p><p>The fact that Caenidae are more often absent from sampled ponds than Baetidae could be a discrepancy in the sampling dates among ponds. One hypothesis could be that Caenidae were not present in ponds sampled in late summer because the adult emergence occurs earlier in the season and before the sampling session. Caenis sp. shows large variations in their life history patterns as demonstrated for Caenis luctuosa by <ref type="bibr" target="#b11">Cayrou &amp; Cereghino (2003)</ref> and for Caenis horaria and Caenis luctuosa by <ref type="bibr" target="#b35">Oertli (1992)</ref> and Ba ¨nziger (2000). Nevertheless, the population dynamics presented by these authors demonstrate that individuals of Caenis sp. are present in the water throughout the year (even if their repartition in size classes largely varies); This being the case, the time of sampling is probably not an explanation for the absence of this taxa. An alternative explanation could be the capacity of dispersion and colonisation since it is known that this capacity is greater for Baetidae than for Caenidae. Furthermore, Cloeon dipterum is relatively well known as a pioneering coloniser of new waterbodies and of temporary habitats <ref type="bibr" target="#b40">(Sartori &amp; Landolt, 1999)</ref>. The explanation of Cloeon dipterum's ''success story'' is to be found in its peculiar biology, ecology, and physiology. It is one of the rare ovoviviparous species in Europe, with females having an unusual life span of about 2 weeks during which the whole embryonic development takes place in the genital ducts <ref type="bibr" target="#b13">(Degrange, 1959;</ref><ref type="bibr" target="#b44">Solda ´n, 1979)</ref>. Females are often found quite far from the waterbody where they were born and disperse actively towards new habitats, making it a true colonizer species. Finally nymphs are detritivorous <ref type="bibr" target="#b7">(Brown, 1961;</ref><ref type="bibr" target="#b12">Cianciara, 1980)</ref> and can afford very low levels of oxygen concentration, even anoxia in some conditions <ref type="bibr">(Nagell, 1977a, b;</ref><ref type="bibr" target="#b33">Nagell &amp; Fagerstro ¨m, 1978)</ref> and seem tolerant to rapid temperature changes <ref type="bibr" target="#b26">(McKee &amp; Atkinson, 2000)</ref>. These traits enable C. dipterum to be very successful in small ponds where it encounters few competitors. In fact, this species is known to be relatively independent of environmental factors. Another hypothesis is that ponds where only Baetidae are present are young ponds or temporary ponds. However, this is not supported by our data since only 12 of the 71 ponds containing Baetidae are younger than 25 years old. Furthermore they are all permanent ponds. Therefore, the most likely explanation of this singularity is the trophic state of ponds as discussed in the previous section.</p><p>In conclusion, our study has demonstrated that there is a great potential in using mayflies as bioindicators for the management of the water quality of ponds. Indeed, a relationship with the trophic state of ponds is hereby revealed for Ephemeroptera species richness and for the presence of Caenis horaria and Cloeon dipterum. These findings allow us to propose two new metrics for the water assessment of Swiss ponds: first, the Ephemeroptera species richness and second the presence of Caenidae associated with Baetidae. Nevertheless, these metrics need to be tested before being integrated into routine monitoring. Furthermore, other investigations must be made to confirm the suitability of these pond bioindicators for areas outside of Switzerland. Moreover, as these two metrics are only based on a small number of species, it would be necessary to use them in conjunction with other metrics to enable accurate assessments. Other such metrics, based on species or families richness (from macroinvertebrates and macrophytes assemblages), are currently in development <ref type="bibr" target="#b15">(Hering et al., 2004;</ref><ref type="bibr" target="#b27">Menetrey et al., 2005;</ref><ref type="bibr" target="#b14">Furse et al., 2006)</ref>. These should help to put into practice a scientific-based management of water quality in ponds as required for other waterbodies by the European Water Framework Directive.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Distribution of the mayflies among the 76 ponds containing Ephemeroptera. n = number of ponds. cahor = Caenis horaria; caluc = Caenis luctuosa; carob = Caenis robusta. The case of ''other combinaisons'' comprises: three ponds with</figDesc><graphic coords="5,106.30,343.28,334.56,162.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Differences near level of significance (Mann-Whitney U test; P = 0.096) in mayfly species richness (box-plots) between groups of ponds based upon the trophic state of TP. Oligotrophic and mesotrophic box-plots are not showed, thus they were no significant difference for these trophic states. n = 71 ponds (from colline and montane vegetation belts). Each box represents the interquartile distance (25-75%) with the horizontal lines indicating the median. Upper error bars indicate the non-outlier maximum. Lower error bars indicate the non-outlier minimum</figDesc><graphic coords="6,284.88,59.24,209.76,146.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="7,165.91,224.79,334.56,282.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Mean values and ranges of selected variables characterising the 104 ponds</figDesc><table><row><cell></cell><cell cols="4">Mean Median Minimum Maximum</cell></row><row><cell>Altitude (m a.s.l.)</cell><cell cols="2">1069 733</cell><cell>210</cell><cell>2757</cell></row><row><cell>Area (m 2 )</cell><cell cols="2">8619 2328</cell><cell>6</cell><cell>96200</cell></row><row><cell>Mean depth (cm)</cell><cell cols="2">175.5 113</cell><cell>15</cell><cell>910</cell></row><row><cell cols="3">Maximal depth (cm) 343 210</cell><cell>40</cell><cell>2400</cell></row><row><cell>Age (years)</cell><cell cols="2">1258 68</cell><cell>1</cell><cell>4000</cell></row><row><cell>Total nitrogen (TN)</cell><cell cols="2">1.07 0.55</cell><cell>0.04</cell><cell>8.79</cell></row><row><cell>(mg N/l)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Total phosphorus (TP)</cell><cell>65</cell><cell>26</cell><cell>1</cell><cell>611</cell></row><row><cell>(lg P/l)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="3">Conductivity (lS/cm) 350 360</cell><cell>3</cell><cell>1367</cell></row><row><cell>Hardness</cell><cell cols="2">174 175</cell><cell>0.8</cell><cell>884</cell></row><row><cell>(CaCo 3 mg/l)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Transparence</cell><cell>44</cell><cell>54</cell><cell>3</cell><cell>60</cell></row><row><cell>(Snellen, cm)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Number of habitats</cell><cell>4</cell><cell>4</cell><cell>1</cell><cell>9</cell></row><row><cell>sampled</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sinuosity of the</cell><cell>1.5</cell><cell>1.3</cell><cell>1</cell><cell>3.3</cell></row><row><cell>shoreline</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Macrophyte species</cell><cell>11</cell><cell>10</cell><cell>0</cell><cell>34</cell></row><row><cell>richness</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Macroinvertebrate</cell><cell>19</cell><cell>18</cell><cell>3</cell><cell>44</cell></row><row><cell>family richness</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>List of the 12 Ephemeroptera species sampled in 104 ponds from Switzerland, with frequency of observation and altitudinal range</figDesc><table><row><cell>Families</cell><cell>Species</cell><cell>Current</cell><cell>nb of</cell><cell>Red</cell><cell cols="2">Altitudinal range (m) in Switzerland</cell></row><row><cell></cell><cell></cell><cell>(preference)</cell><cell>ponds</cell><cell>list</cell><cell>Known (Sartori &amp;</cell><cell>Observed</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Landolt, 1999)</cell><cell>(our study)</cell></row><row><cell>Baetidae</cell><cell>Baetis rhodani (Pictet, 1843)</cell><cell>lo</cell><cell>2</cell><cell>nd</cell><cell>200-1900</cell><cell>458-910</cell></row><row><cell></cell><cell>Baetis alpinus (Pictet, 1843)</cell><cell>lo</cell><cell>1</cell><cell>nd</cell><cell>200-2600</cell><cell>2191</cell></row><row><cell></cell><cell cols="2">Centroptilum luteolum (Mu ¨ller, 1776) lo</cell><cell>1</cell><cell>4</cell><cell>300-1100</cell><cell>910</cell></row><row><cell></cell><cell>Cloeon dipterum (Linne ´, 1761)</cell><cell>le</cell><cell>71</cell><cell>nd</cell><cell>300-1500</cell><cell>210-1855</cell></row><row><cell></cell><cell>Cloeon simile (Eaton, 1870)</cell><cell>le</cell><cell>9</cell><cell>4</cell><cell>300-1000</cell><cell>350-1813</cell></row><row><cell>Caenidae</cell><cell>Caenis horaria (Linne ´, 1758)</cell><cell>le</cell><cell>34</cell><cell>nd</cell><cell>200-1200</cell><cell>210-1813</cell></row><row><cell></cell><cell>Caenis luctuosa (Burmeister, 1839)</cell><cell>le</cell><cell>6</cell><cell>nd</cell><cell>300-600</cell><cell>350-725</cell></row><row><cell></cell><cell>Caenis robusta (Eaton, 1884)</cell><cell>le</cell><cell>12</cell><cell>nd</cell><cell>300-500</cell><cell>419-1685</cell></row><row><cell>Ephemeridae</cell><cell>Ephemera danica (Mu ¨ller, 1764)</cell><cell>lo</cell><cell>1</cell><cell>4</cell><cell>200-1200</cell><cell>838</cell></row><row><cell cols="2">Leptophlebiidae Habrophlebia fusca (Curtis, 1834)</cell><cell>lo</cell><cell>2</cell><cell>nd</cell><cell>-</cell><cell>425-910</cell></row><row><cell></cell><cell>Habrophlebia lauta (Eaton, 1884)</cell><cell>lo</cell><cell>2</cell><cell>nd</cell><cell>200-1200</cell><cell>930-1907</cell></row><row><cell>Siphlonuridae</cell><cell>Siphlonurus aestivalis (Eaton, 1903)</cell><cell>lo</cell><cell>1</cell><cell>3</cell><cell>200-800</cell><cell>665</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4</head><label>4</label><figDesc>Signification (P-values) of the differences for three trophic state variables between the group of ponds with Cloeon dipterum (or Caenis horaria) present and the group of ponds without the species (Mann-Whitney U test)</figDesc><table><row><cell>Trophic state variables</cell><cell>Cloeon dipterum</cell><cell>Caenis horaria</cell></row><row><cell>Total phosphorus (TP)</cell><cell>0.085</cell><cell>n.s.</cell></row><row><cell>(lg P/l)</cell><cell></cell><cell></cell></row><row><cell>Total nitrogen (TN)</cell><cell>n.s.</cell><cell>n.s.</cell></row><row><cell>(mg N/l)</cell><cell></cell><cell></cell></row><row><cell>Conductivity</cell><cell>n.s.</cell><cell>n.s.</cell></row><row><cell>(lS/cm)</cell><cell></cell><cell></cell></row></table><note><p>n.s. = not statistically significant (P [ 0.05). Value of P is indicate if near to significance (0.05 \ P \ 0.10). n = 71 ponds (from colline and montane vegetation belts)</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5</head><label>5</label><figDesc>Contributions of the explanatory variables and diagnostic parameters for the GAM of Cloeon dipterum and Caenis horaria at P = 0.05 level. GAMs included 71 ponds from colline and montane vegetation belts</figDesc><table><row><cell>Taxon</cell><cell>n</cell><cell cols="2">Explanatory variables</cell><cell></cell><cell></cell><cell cols="2">Diagnostic parameters</cell></row><row><cell></cell><cell></cell><cell>Area</cell><cell>Total</cell><cell>Mean depth</cell><cell>Macrophyte</cell><cell>Explained</cell><cell>Linear</cell></row><row><cell></cell><cell></cell><cell></cell><cell>phosphorus (TP)</cell><cell></cell><cell>species richness</cell><cell>deviance (%)</cell><cell>correlation</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>ratio (r 2 )</cell></row><row><cell>Cloeon dipterum</cell><cell>63</cell><cell>5.4</cell><cell>5.5</cell><cell>-</cell><cell>-</cell><cell>14.6</cell><cell>0.748</cell></row><row><cell>Caenis horaria</cell><cell>29</cell><cell>4.5</cell><cell>2.5</cell><cell>2.5</cell><cell>2.7</cell><cell>32.1</cell><cell>0.716</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="128" xml:id="foot_0"><p> Hydrobiologia (2008) 597:125-135   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="132" xml:id="foot_1"><p> Hydrobiologia (2008) 597:125-135   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Hydrobiologia (2008) 597:125-135   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements We are grateful to our collaborators <rs type="person">Christiane Ilg</rs>, <rs type="programName">He ´le `ne Hinden</rs>, <rs type="person">Marc Pellaud</rs>, <rs type="person">Gilles Carron</rs>, <rs type="person">Amae ¨l Paillex</rs> and <rs type="person">Dominique Auderset-Joye</rs> for their help in the field and laboratory work. The authors appreciate also the great help and constructive comments from <rs type="person">Emmanuel Castella. Thanks</rs> to the <rs type="institution">CSCF</rs> for the access to the Swiss databanks on fauna, <rs type="person">Swiss National Park</rs> for collaboration studies, <rs type="person">Nathalie Rimann</rs> and <rs type="person">Emilie Hafner</rs> for access to a subset of the pond data. Thanks to <rs type="person">David McCrae</rs> for his great help in improving the English style. Previous help in identification was provided by <rs type="person">Diana Cambin</rs>. We are also grateful to the <rs type="projectName">Bourse Augustin Lombard of the ''Socie´te´de physique et d'histoire naturelle de Gene`ve (SPHN)'' and the</rs> <rs type="funder">''Office of Environment and Energy'' of the canton of Luzern</rs> for their financial support. Finally, thanks to the water agencies of the cantons of <rs type="institution">Geneva and Vaud</rs> for completing some of the chemical analyses of the water samples. The database was in great part provided by the previous PLOCH study, financially supported by the ''<rs type="institution">Swiss Agency for the Environment, Forests and Landscape''</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_uKrXE2C">
+					<orgName type="project" subtype="full">Bourse Augustin Lombard of the &apos;&apos;Socie´te´de physique et d&apos;histoire naturelle de Gene`ve (SPHN)&apos;&apos; and the</orgName>
+					<orgName type="program" subtype="full">He ´le `ne Hinden</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">De ´termination de l&apos;Indice Biologique Global Normalise ´(IBGN)</title>
+		<author>
+			<persName><surname>Afnor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Association franc ¸aise de normalization</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Norme franc ¸aise T 90-350</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Spatio-temporal distribution of size classes and larval instars of aquatic insects (Ephemeroptera, Trichoptera and Lepidoptera) in a Potamogeton pectinatus L. bed</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ba ¨nziger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revue Suisse de Zoologie</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="139" to="151" />
+			<date type="published" when="2000">2000</date>
+			<publisher>Lake</publisher>
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Rapid Bioassessment Protocols for Use in Streams and Wadeable Rivers: Periphyton, Benthic Macroinvertebrates and Fish, 2nd edn</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Barbour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gerritsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Stribling</surname></persName>
+		</author>
+		<idno>EPA 841-B-99-002</idno>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Office of Water, U.S. Environmental Protection Agency</publisher>
+			<pubPlace>Washington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bauernfeind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Moog</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mayflies (Insecta: Ephemeroptera) and the assessment of ecological integrity: a methodological approach</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">422</biblScope>
+			<biblScope unit="page" from="71" to="83" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Biological techniques of still water quality assessment: phase 3. Method development. P. Action</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biggs</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">R&amp;D Technical Report E56. Environment Agency</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Williams</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">R&amp;D Technical Report E56. Environment Agency</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Whitfield</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">R&amp;D Technical Report E56. Environment Agency</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fox</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">R&amp;D Technical Report E56. Environment Agency</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nicolet</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">R&amp;D Technical Report E56. Environment Agency</orgName>
+			</affiliation>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Bristol</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A new index of water quality assessment in Mediterranean wetlands based on crustacean and insect assemblages: the case of Catalunya (NE Iberian peninsula)</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gascon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martinoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gifre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">D</forename><surname>Quintana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Conservation: Marine and Freshwater Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="635" to="651" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The biology of Lakes and Ponds</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bro ¨nmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Hansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Biology of Habitats, 285 Sidor</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Crawley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Little</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">R E</forename><surname>Southwood</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Ulfstrand</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The food of the larvae of Cloeon dipterum L. and Baetis rhodani (Pictet) (Insecta, Ephemeroptera)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Animal Ecology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="55" to="75" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Recherches methodologiques sur le Haut-Rho ˆne franc ¸ais</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Castella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Apport des macroinverte ´bre ´s aquatiques au diagnostic e ´cologique des e ´cosyste `mes abandonne ´s par les fleuves</title>
+		<meeting><address><addrLine>Lyon</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+		<respStmt>
+			<orgName>Universite ´Claude Bernard -Lyon 1</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Macroinvertebrates as describers of morphological and hydrological types of aquatic ecosystems abandoned by the Rhone River</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Castella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Richardot-Coulet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Richoux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="219" to="226" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Aquatic macroinvertebrate assemblages of two contrasting floodplains: the Rho ˆne and Ain rivers</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Castella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Richardot-Coulet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Richoux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">France. Regulated Rivers: Research &amp; Management</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="289" to="300" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Life history, growth and secondary production of Caenis luctuosa and Cloeon simile (Ephemeroptera) in a small pond</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cayrou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cereghino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SW France. Aquatic Insects</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="191" to="201" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Food preference of Cloeon dipterum (L. larvae and dependence of their development and growth on the type of food</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cianciara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Polskie Archiwum Hydrobiologii</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="143" to="160" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">L&apos;ovolarviparite ´de Cloeon dipterum (L.) (Ephemereptera, Baetidae)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Degrange</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin de la Socie ´te ´Zoologique de France</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="94" to="100" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Furse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Moog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verdonschot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sandin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Brabec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gritzalis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buffagni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Friberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Murray-Bligh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kokes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Alber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Usseglio-Polatera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Haase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sweeting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Szoszkiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Soszka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Springe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sporka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Krno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The STAR project: context, objectives and approaches</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">566</biblScope>
+			<biblScope unit="page" from="3" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Overview and application of the AQEM assessment system</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Moog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sandin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F M</forename><surname>Verdonschot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">516</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Effects of heavy metals on benthic macroinvertebrate communities in New Zealand streams</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Hickey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Clements</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Toxicology and Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="2338" to="2346" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A comparison of benthic macroinvertebrate assemblages among different types of alpine streams</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hieber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Uehlinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Ward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshwater Biology</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="2087" to="2100" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Environmental requirements and pollution tolerance of Ephemeroptera</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hubbard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Peters</surname></persName>
+		</author>
+		<idno>EPA 600-4-78-061</idno>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<pubPlace>U.S. Environmental Protection Agency, Cincinnati, OH, VI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kelly-Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Bracken</surname></persName>
+		</author>
+		<title level="m">Ephemeropteran assemblages in Ireland. Verhandlungen Internationale Vereinigung fu ¨r Theoretische und Angewandte Limnologie</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="963" to="969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A benthic index of biotic integrity (B-Ibi) for rivers of the Tennessee valley</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Kerans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Karr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="768" to="785" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">GRASP: generalized regression analysis and spatial prediction</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Overton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Leathwick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Modelling</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="189" to="207" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Water quality assessment of streams using a qualitative collection method for benthic macroinvertebrates</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Lenat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the North American Benthological Society</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="222" to="233" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">History of the EPT taxa richness metric</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Lenat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Penrose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin of the North American Benthological Society</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="305" to="306" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Macan</surname></persName>
+		</author>
+		<editor>Lakes. G. A. U. Ltd.</editor>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Population models of burrowing mayfly recolonization in western Lake Erie</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Madenjian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schloesser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Krieger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1206" to="1212" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The influence of climate change scenarios on populations of the mayfly Cloeon dipterum</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mckee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Atkinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">441</biblScope>
+			<biblScope unit="page" from="55" to="62" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Looking for metrics to assess the trophic state of ponds. Macroinvertebrates and amphibians</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Menetrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">&amp; J.-B</forename><surname>Lachavanne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Conservation: Marine and Freshwater Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="653" to="664" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Biological water quality assessment of running waters based on macroinvertebrate communities: history and present status in Europe</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Metcalfe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Pollution</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="101" to="139" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Katalog zur auto ¨kologischen Einstufung Aquatischer Organismen Osterreichs</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Moog</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Moog. Fauna aquatica Austriaca. Abteilung fu ¨r Hydrobiologie, Fischereiwirtschaft und Aquakultur des Universita ¨t fu ¨r Bodenkultur</title>
+		<meeting><address><addrLine>Wien</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>Fauna aquatica Austriaca</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The use of Ephemeroptera as saprobic indicators in Austria</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Moog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bauernfeind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Weichselbaumer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ephemeroptera &amp; Plecoptera</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Landolt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Sartori Fribourg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Mauron</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="254" to="260" />
+		</imprint>
+	</monogr>
+	<note>Tinguely &amp; Lachat SA</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Phototactic and thermotactic responses facilitating survival of Cloeon dipterum (Ephemeroptera) larvae under winter anoxia</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nagell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oikos</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="342" to="247" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Survival of Cloeon dipterum (Ephemeroptera) larvae under anoxic conditions in winter</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nagell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oikos</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="161" to="165" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Adaptations and resistance to anoxia in Cloeon dipterum (Ephemeroptera) and Nemoura cinerea (Plecoptera)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nagell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fagerstro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oikos</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="95" to="99" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Eutrophication of Waters: Monitoring, Assessment and Control. Organization of Economic Cooperation and Development</title>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>OECD</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">L&apos;influence de trois substrats (Typha, Chara, feuilles mortes) d&apos;un e ´tang forestier sur la densite ´, la biomasse et la production des macroinverte ´bre ´s aquatiques</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Faculte ´des Sciences</title>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>LEBA Universite ´de Gene `ve</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Joye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Castella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Juge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">&amp; J.-B</forename><surname>Lachavanne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Diversite ´biologique et typologie e ´cologique des e ´tangs et petits lacs de Suisse</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>LEBA Universite ´de Gene `ve, Gene `ve</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cereghino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Grillas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jolly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">&amp; J.-B</forename><surname>Lachavanne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conservation and monitoring of pond biodiversity: introduction</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="535" to="540" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">PLOCH: a standardized method for sampling and assessing the biodiversity in ponds</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Joye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Castella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Juge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">&amp; J.-B</forename><surname>Lachavanne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Conservation: Marine and Freshwater Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="665" to="679" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Rapid assessment approaches to biomonitoring using benthic macroinvertebrates</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Resh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Jackson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Freshwater Biomonitoring and Benthic Macroinvertebrates</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Rosenberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Resh</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chapmann and Hall</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="159" to="194" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Atlas de distribution des e ´phe ´me `res de Suisse (Insecta, Ephemeroptera). Neucha ˆtel, Centre suisse de cartographie de la faune (CSCF/SZKF)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sartori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Landolt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Fauna Helvetica</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Liste rouge des e ´phe ´me `res de Suisse (Ephemeroptera)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sartori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Landolt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Zurwerra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Liste rouge des espe `ces animales menace ´es de Suisse</title>
+		<title level="s">des fore ˆts et du paysage</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Duelli</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berne</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="72" to="74" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Comparison of 5 benthic samplers to collect burrowing mayfly nymphs (Hexagenia spp: Ephemeroptera: Ephemeridae) in sediments of the Laurentian Great Lakes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schloesser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Nalepa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the North American Benthological Society</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="487" to="501" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">System of water quality from the biological point of view</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sladecek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Beiheft Ergebnisse der Limnologie</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1" to="218" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+	<note>Archiv fur Hydrobiologie</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The structure and development of the female internal reproductive system in six European species of Ephemeroptera</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Solda ´n</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Entomologica Bohemoslovaca</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="353" to="365" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Distributional and quantitative patterns of Ephemeroptera and Plecoptera in the Czech republic: a possibility of detection of long-term environmental changes of aquatic biotopes</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Solda ´n</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zahradkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Helesic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dusek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Landa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Folia Facultatis Scientiarum Naturalium Universitatis Masarykianae Brunensis</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="1" to="305" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tachet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Richoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bournaud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Usseglio-Polatera</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>CNRS Editions</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Inverte ´bre ´s d&apos;eaux douces. Syste ´matique, biologie, e ´cologie</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Limnology, 2nd edn</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Wetzel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>CBS College Publishing</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">River classification using invertebrates: RIVPACS applications</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Furse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Conservation: Marine and Freshwater Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="617" to="631" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

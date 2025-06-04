@@ -3,6 +3,8 @@ from langchain_unstructured import UnstructuredLoader
 from langchain_core.documents import Document
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.vectorstores import InMemoryVectorStore
+from lxml import etree
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from typing import List
 
 class PdfDocument:
@@ -77,3 +79,138 @@ class PdfDocument:
         self.chunks = self.chunks[:i]
 
 
+
+class XmlDocument:
+    """
+    Base class used for managing text from xml files.
+    """
+    def __init__(self):
+        """
+        Attrs:
+            pages (List[str]): List of pages loaded from the xml document, where each page
+                is a string containing the text content of the document.
+        """
+        self.pages = None
+
+
+    def parse(self, filepath: str):
+        """
+        Parses the XML document from the given path and extracts text from its 
+        title, abstract, body, and back sections.
+
+        Args:
+            filepath (str): Path to the document.
+        
+        Returns:
+            full_text (str): Parsed text content of the document.
+        """
+        tree = etree.parse(filepath)
+        root = tree.getroot()
+        ns = {
+            'tei': 'http://www.tei-c.org/ns/1.0',
+            'xlink': 'http://www.w3.org/1999/xlink',
+            'xsi': 'http://www.w3.org/2001/XMLSchema-instance',
+        }
+
+        title = root.find('.//tei:title', ns)
+        abstract = root.find('.//tei:abstract', ns)
+        body = root.find(".//tei:body", namespaces=ns)
+        back = root.find(".//tei:back", namespaces=ns)
+
+        title_text = title.text.strip() if title is not None else ""
+        title_text = "# " + title_text + "\n"
+        abstract_text = ''.join(abstract.itertext()).strip() if abstract is not None else "\n"
+        abstract_text = "## Abstract\n" + abstract_text + "\n\n"
+
+        body_text = ""
+        for div in body.findall(".//tei:div", namespaces=ns):
+            # Header:
+            head = div.find("tei:head", namespaces=ns)
+            header_text = head.text.strip() if head is not None else "Untitled Section"
+            header_num = head.get("n", "") if head is not None else ""
+            count = header_num.count(".")
+            if count == 0:
+                header_style = "##"
+            else:
+                header_style = "#" * (count + 1)
+            body_text += f"{header_style} {header_text}\n"
+
+            # Get all paragraphs in the section
+            paragraphs = div.findall("tei:p", namespaces=ns)
+            for p in paragraphs:
+                paragraph_text = "".join(p.itertext()).strip()
+                body_text += paragraph_text + "\n"
+
+            if len(paragraphs) > 0:
+                body_text += "\n"  # Add a newline after each section
+
+        for fig in body.findall(".//tei:figure", namespaces=ns):
+            # Get header for the figure
+            head = fig.find("tei:head", namespaces=ns)
+            header_text = head.text.strip() if head is not None else "Untitled Figure"
+            body_text += f"### {header_text}\n"
+
+            # Get caption for the figure
+            caption = fig.find("tei:figDesc", namespaces=ns)
+            caption_text = caption.text.strip() if caption is not None else "No caption"
+            body_text += f"**Caption:** {caption_text}\n"
+
+            body_text += "\n"  # Add a newline after each section
+
+
+        back_text = ""
+        for div in back.findall(".//tei:div", namespaces=ns):
+            head = div.find("tei:head", namespaces=ns)
+            if head is not None:
+                header_text = head.text.strip()
+                header_num = head.get("n", "")
+                count = header_num.count(".")
+                if count == 0:
+                    header_style = "##"
+                else:
+                    header_style = "#" * (count + 1)
+                back_text += f"{header_style} {header_text}\n"
+
+                # Get all paragraphs in the section
+                paragraphs = div.findall("tei:p", namespaces=ns)
+                for p in paragraphs:
+                    paragraph_text = "".join(p.itertext()).strip()
+                    back_text += paragraph_text + "\n"
+
+                back_text += "\n"  # Add a newline after each section
+
+        full_text = title_text + abstract_text + body_text + back_text
+        return full_text
+        
+
+    def split(self, text, token_size):
+        """
+        Splits the content into smaller chunks based on the specified token size.
+
+        Args:
+            text (str): The text content to be split into chunks of tokens.
+            token_size (int): The maximum number of tokens per chunk.
+        Returns:
+            pages (List[str]): List of text chunks.
+        """
+        text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
+            encoding_name="cl100k_base",
+            chunk_size=token_size,
+            chunk_overlap=0,
+            separators = ["\n\n"]
+        )
+        pages = text_splitter.split_text(text)
+        return pages
+
+
+    def load(self, filepath: str, token_size: int = 4096):
+        """
+        Loads the XML document from the given path and extracts text from its 
+        title, abstract, body, and back sections.
+
+        Args:
+            filepath (str): Path to the document.
+
+        """
+        full_text = self.parse(filepath)
+        self.pages = self.split(full_text, token_size)

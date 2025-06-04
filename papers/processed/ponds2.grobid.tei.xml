@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Environmental Conditions and Macrophytes of Karst Ponds</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Igor</forename><surname>Zelnik</surname></persName>
+							<email>igor.zelnik@bf.uni-lj.si</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Biology</orgName>
+								<orgName type="department" key="dep2">Biotechnical Faculty</orgName>
+								<orgName type="institution">University of Ljubljana</orgName>
+								<address>
+									<addrLine>Večna pot 111</addrLine>
+									<postCode>1000</postCode>
+									<settlement>Ljubljana</settlement>
+									<country key="SI">Slovenia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mateja</forename><surname>Potisek</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Biology</orgName>
+								<orgName type="department" key="dep2">Biotechnical Faculty</orgName>
+								<orgName type="institution">University of Ljubljana</orgName>
+								<address>
+									<addrLine>Večna pot 111</addrLine>
+									<postCode>1000</postCode>
+									<settlement>Ljubljana</settlement>
+									<country key="SI">Slovenia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alenka</forename><surname>Gaberščik</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Biology</orgName>
+								<orgName type="department" key="dep2">Biotechnical Faculty</orgName>
+								<orgName type="institution">University of Ljubljana</orgName>
+								<address>
+									<addrLine>Večna pot 111</addrLine>
+									<postCode>1000</postCode>
+									<settlement>Ljubljana</settlement>
+									<country key="SI">Slovenia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Environmental Conditions and Macrophytes of Karst Ponds</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">96BFBFB30C3AB61F656179AB7C67440E</idno>
+					<note type="submission">Received: 19 December 2011 Accepted: 13 June 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:15+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Karst</term>
+					<term>pond</term>
+					<term>environmental parameter</term>
+					<term>floristic composition</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Man-made karst ponds are the only surface water bodies in the Karst region (SW Slovenia, NE Italy) and support variable biotic communities, depending on ecological parameters and human activities. The aim of our study was to establish the relationship between environmental conditions (land-use of the catchment, vegetation of the banktop zone, morphological properties of the ponds, water quality parameters, the presence of fish) and aquatic macrophyte species composition and abundance. The survey of 28 ponds was performed in the peak vegetation period in 2009. The most abundant emergent macrophytes found were Typha latifolia, Alisma plantago-aquatica, Eleocharis palustris agg., and Alisma lanceolatum, while the most common hydrophytes were Lemna minor, Chara spp., Nymphaea alba, and Potamogeton natans. About 15% of all species found in ponds are included in the "Red" list of endangered plant species of Slovenia. The presence of fish, water transparency, pH, land-use of the pond catchment and quality of shore substrate were detected as the most influential factors determining aquatic macrophyte communities.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Ponds are small lentic ecosystems that permanently or temporarily hold water <ref type="bibr" target="#b0">[1]</ref>. They are shallow and their size ranges from a few square metres to several hectares. They can be natural or man-made. Their number is much higher than that of large lakes, which constitute a small percentage of the total number of lakes <ref type="bibr" target="#b1">[2]</ref>. Despite this, studies of lentic ecosystems have concentrated mainly on moderately large lakes <ref type="bibr" target="#b1">[2]</ref>.</p><p>Ponds differ functionally from larger lakes <ref type="bibr" target="#b2">[3]</ref>, since their littoral structure and its productivity dominates the ecosystem <ref type="bibr" target="#b1">[2]</ref>. Despite their small size they contain a significant part of aquatic biodiversity on the landscape scale <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. Humans have created millions of ponds for multiple purposes <ref type="bibr" target="#b1">[2]</ref>, but today they serve as refugia for a variety of freshwater biota <ref type="bibr" target="#b4">[5]</ref> and are, as such, an irreplaceable type of habitat <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>.</p><p>The biotic communities that develop in ponds depend on environmental conditions and human activity. Several studies document clear associations between the communities and a variety of environmental gradients, such as hydro-period <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>, surface area <ref type="bibr" target="#b10">[11]</ref>, and water properties like water transparency, nutrient availability, and pH <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>. Compared to rivers and lakes, ponds exhibit greater environmental and, consequently, biotic amplitudes <ref type="bibr" target="#b14">[15]</ref>.</p><p>Macrophytes are important components of aquatic ecosystems (including ponds), affecting their function through energy flow, nutrient cycling, sedimentation processes, and habitat provision <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>. Their presence and abundance reflect the quality of the ecosystem as a whole. Aquatic macrophytes not only are affected by water quality, but they also affect water quality and provide food and refugia for aquatic invertebrates and fish <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b18">19]</ref>. Their growth is controlled by a variety of factors, namely water quality, water depth, water movement, substrate characteristics, and biotic interactions <ref type="bibr" target="#b19">[20,</ref><ref type="bibr" target="#b20">21]</ref>. Therefore, a survey of aquatic macrophytes is important from the point of view of plant species diversity, as well as of factors explaining the diversity of other groups (e.g. macro-invertebrates, periphyton) <ref type="bibr" target="#b21">[22]</ref> and as indicators of water and habitat quality [e.g. <ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref>. Deterioration of the physical environment and eutrophication of water bodies result in changes in macrophyte distribution, a decline in aquatic macrophyte species richness, and a greater abundance of more resistant species <ref type="bibr" target="#b28">[29]</ref>.</p><p>Karst ponds are of human origin, presenting an outstanding natural and cultural heritage <ref type="bibr" target="#b29">[30]</ref>. Following mass regulation of rivers and streams all over Europe, man-made systems have become a substitute habitat for numerous organisms <ref type="bibr" target="#b5">[6]</ref>. This is the case in the karst ponds, which provide an important network of water-bodies in the Karst Region. The fact, that they are the only surface water-bodies on the Karst Plateau <ref type="bibr" target="#b30">[31]</ref> makes them even more important.</p><p>The aims of our study were to examine the habitat characteristics and/or ecological conditions in karst ponds, as well as surveying the presence and abundance of aquatic macrophyte species. We also aimed to establish the relations between habitat characteristics and aquatic macrophyte species composition. The specific questions addressed were: • Which environmental conditions significantly influence aquatic macrophyte species composition in karst ponds? • How much of the variation of aquatic macrophyte species composition is explained by considered environmental conditions and how do they affect macrophytes species richness?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Area</head><p>Twenty-eight karst ponds were investigated in the Karst region in SW Slovenia. The ponds are distributed on the Karst Plateau along the border with Italy (from 13º38'08'' E, 45º50'43'' N to 13º59'36'' E, 45º39'54'' N) (Table <ref type="table" target="#tab_0">1</ref>). The climate is sub-Mediterranean, annual precipitation is 1,500 mm <ref type="bibr" target="#b31">[32]</ref> (about two-fold higher than evapotranspiration). The largest amount of precipitation occurs in November, and the least in the peak of the vegetation period in July <ref type="bibr" target="#b31">[32]</ref>. The mean annual temperature is 11ºC <ref type="bibr" target="#b32">[33]</ref>. The altitude ranges from 195 to 420 m a.s.l.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aquatic Macrophyte Survey</head><p>The abundance of aquatic macrophytes was evaluated using a 5-degree estimation scale <ref type="bibr" target="#b33">[34]</ref>:</p><formula xml:id="formula_0">1 = very rare 2 = infrequent 3 = common 4 = frequent 5 = abundant, predominant</formula><p>The whole pond was a sampling unit. Plants were identified using the following keys: Martinčič et al. <ref type="bibr" target="#b34">[35]</ref> and Preston <ref type="bibr" target="#b35">[36]</ref>. Plants whose reproductive organs were not present at the time of sampling are listed by genus (e.g. Bidens, Epilobium, Sparganium). The survey was performed in July and August in 2009. The nomenclature of ferns and flowering plants follows <ref type="bibr">Martinčič et al. [35]</ref>. The definition of aquatic macrophytes is in accordance with Hutchinson <ref type="bibr" target="#b36">[37]</ref> and Wetzel <ref type="bibr" target="#b1">[2]</ref>, therefore woody species and other non-hygrophilous species were excluded from analyses.</p><p>Plant species richness in the ponds was calculated as species number (N) per surface area and/or approximate volume of the studied water bodies. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assessment of Environmental Conditions</head><p>Parameters were recorded in the field, measured and/or calculated in the laboratory (Table <ref type="table">2</ref>). Independent environmental variables were tested for their significance in shaping aquatic macrophyte species composition. These variables can be classified into three groups <ref type="bibr" target="#b37">[38]</ref>: quantitative variables, semiquantitative estimates, and categorical variables. Quantitative variables include morphometric parameters of the specific pond (length, width or diameter (m), surface (m 2 ), depth (m), approximate volume (m 3 ), surface:depth ratio (S/d)), and water quality parameters (pH, temperature <ref type="bibr">(T)</ref>, conductivity (EC), O 2 concentration, O 2 saturation, transparency, chlorophyll-a). Semiquantitative estimates include habitat characteristics (land-use of the catchment, bottom substrate, shore substrate, type of vegetation in banktop zone, width of woody and/or wetland banktop zone). Categorial variables include data about the presence/absence of: fish, filamentous algae, slime, woody species in the pond.</p><p>Water samples were taken from each pond in August 2009. The majority of the water quality parameters (pH, O 2 concentration, O 2 saturation, T and EC of water) were measured in situ using the portable multi-meter PCD 650 (Eutech Instruments, Singapore). Water transparency and concentration of chlorophyll-a were analyzed spectrophotometrically in the laboratory on the same day.</p><p>Habitat characteristics were assessed as semiquantitative estimates in a similar way as in many studies of aquatic ecosystems <ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref>. The estimated gradients were as follows: </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analyses</head><p>Detrended correspondence analysis (DCA) was used for exploratory data analysis. The eigenvalue for the first DCA axis was greater than 0.4 and indicated strong unimodality <ref type="bibr" target="#b41">[42]</ref>, therefore canonical correspondence analysis (CCA) was chosen. Relationships between site conditions and vegetation were analyzed using direct gradient analysis (CCA). Separate CCAs for each environmental variable were performed to test the significance of its influence and the explanation of species composition variation. The analysis was run with scaling for inter-sample distances, and bi-Table <ref type="table">2</ref>. Ecological parameters (morphometric and water quality parameters) of the studied karst ponds. 1-7: species-poor "walled" ponds with prevailing hydrophytes, 8-22: species-rich ponds with prevailing emergent plants, 23-28: ponds without macrophytes.</p><p>Pond No. plot scaling to relate gradients in floristic composition to the explanatory variables. Forward selection of explanatory variables was used to provide a ranking of the relative importance of the specific variables and to avoid co-linearity <ref type="bibr" target="#b42">[43]</ref>. We used the unrestricted Monte Carlo test with 999 permutations to test the statistical significance of the variables and canonical axes. Another CCA was done with a subset of selected variables only (p&lt;0.1), and the proportions of variance explained by these variables were calculated. Some of the variables were not normally distributed so the data were log transformed. Ordination of the ponds according to the most important environmental parameters was made using CCA. The whole set of analyses was performed using CANOCO 4.5 <ref type="bibr" target="#b43">[44]</ref>. Differences in environmental parameters between ponds with and without macrophytes were tested for significance using t-test. Species richness was correlated with environmental parameters using Spearman coefficient in SPSS version 17.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aquatic Macrophyte Survey</head><p>Different growth forms of plants were found: submerged hydrophytes, floating hydrophytes, helophytes, marsh species, and flood-meadow species (Table <ref type="table" target="#tab_1">3</ref>). The most abundant aquatic macrophyte species found in karst ponds were: Typha latifolia, Lemna minor, Alisma plantago-aquatica, Eleocharis palustris, Chara spp., Alisma lanceolatum, and Potamogeton natans. Species from the Red List of Slovenia <ref type="bibr" target="#b44">[45]</ref> are relatively numerous, constituting 15% of the total of 50 plant species recorded in ponds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Floristically Defined Types of Karst Ponds</head><p>Leaving aside the smaller group of ponds that contained no aquatic macrophytes, the ordination plot based on results of preliminary DCA showed clustering of the ponds according to floristic composition. Two groups of ponds that were ecologically sound were delineated -a group of seven less similar species-poorer, mostly walled ponds, and the larger group of 15 species-richer ponds with loamy shores.</p><p>The group of walled ponds was species-poorer and characterized by the presence of different pond-weeds (Potamogeton crispus, P. nodosus, P. natans, P. trichoides) and a higher proportion of other submerged and/or floating hydrophytes, which constitute half of the species. The group of relatively shallow ponds was characterized by a significantly higher total number of plant taxa, with Typha latifolia, Alisma lanceolata, Eleocharis palustris agg., Juncus inflexus, J. effusus, and other emergent macrophytes and marsh species. Emergent species constitute a quarter of all species, hydrophytes only 12%, and marsh species were most common, constituting 36% of the plant taxa. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Environmental Conditions and Gradients</head><p>A preliminary DCA revealed a first gradient length of 6.49 SD, which indicates strong unimodality, so CCA was chosen. Separate CCAs for each environmental variable revealed that some of the variables influence floristic composition significantly: fish presence, water transparency, pH, land-use of the catchment, and shore substrate.</p><p>Analysis with forward selection provided a ranking of the relative importance of the specific significant variables (Table <ref type="table" target="#tab_3">4</ref>).</p><p>The presence of fish, water transparency, pH, land-use of the catchment area of the pond, and shore substrate were revealed to be the most influential factors determining aquatic macrophyte communities, explaining species variation significantly. These variables explain 32% of the total variation of the data set. CCA with these five variables (Table <ref type="table" target="#tab_3">4</ref>) was performed, allowing the distribution of the ponds according to floristic composition along the most important environmental gradients to be shown in an ordination diagram (Fig. <ref type="figure" target="#fig_0">1</ref>). Ponds with prevailing hydrophytes are distributed on the upperright side of the diagram in the direction of fish presence (and transparency), which indicates oxic conditions throughout the year in the permanent water phase. Hypoxic conditions normally occur in ponds with a strong input of allochthonous leaf litter in autumn. Species-rich ponds with abundant emergent and marsh species are distributed in the lower-left part of the diagram in the direction of finer shore substrate, enabling the growth of the mentioned species. Arrows representing water transparency and land-use indicate relative correlation that was expected, since the higher proportion of forest or permanent grassland in the catchment area of a pond would result in clearer water.</p><p>Species number was significantly correlated with surface/depth ratio, shore substrate, surface area of the pond and width of littoral zone (Table <ref type="table" target="#tab_4">5</ref>). The ponds with loamy shores and/or wider littoral zone were not only richer in total species number, but also harboured more Red list species, which were also more abundant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Environmental Factors in Different</head><p>Pond Types</p><p>The main differences in environmental conditions between ponds without macrophytes and those with more or less abundant macrophytes, are the type of shore-substrate (p = 0.014) and of bottom-substrate (p = 0.099), as well as the pH of the water (p = 0.078). The mean recorded pH value in ponds without macrophytes was 7.2, while in ponds with plants it was 6.7. The differences were most significant in the case of shore substrate (p &lt; 0.05), which was concrete, or a stone wall in the first case and mostly loamy, or a mixture of stones and loam, in the latter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Floristic Gradients and Environmental Parameters</head><p>The variation of floristic composition is best explained by the following environmental variables: fish presence/absence, water transparency, pH, land-use of the catchment of the pond, and substrate of the shore. Mentioned parameters explained 32% of the variance in plant species composition that was similar to the results obtained for aquatic macrophytes in karstic watercourses in western Slovenia <ref type="bibr" target="#b45">[46]</ref>, where a similar set of the studied variables explain 28% of the variation. Capers et al. <ref type="bibr" target="#b12">[13]</ref> obtained a similar result (27%), while the results by McElarney et al. <ref type="bibr" target="#b46">[47]</ref> revealed higher value (56%). The unexplained variation may also be explained by sampling errors, other non-measured parameters, and by the fact that the species-specific recruitment from the soil seed bank and its persistence has a significant impact on the structure and maintenance of the plant-species diversity in wet habitats <ref type="bibr" target="#b47">[48]</ref>.</p><p>Floristic composition was most strongly correlated by fish-presence (7.9% of total variance was explained by this parameter) which, in contrast, had no influence on species richness or the presence of Red List species. A strong role of fish was also found in the study of peri-urban eutrophic ponds by De Backer et al. <ref type="bibr" target="#b13">[14]</ref>. Water transparency explained 6.6% of species variance, in accordance with studies showing the importance of submerged macrophytes in maintaining the clear-water state <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b48">49,</ref><ref type="bibr" target="#b49">50]</ref>. The amount of phytoplankton, measured as the concentration of chlorophyll-a, was very variable and did not significantly affect plant species composition or abundance, as was shown by Bakker et al. <ref type="bibr" target="#b50">[51]</ref>.</p><p>The number of plant taxa found in 28 karst ponds was 50, which was high compared to the 53 plant taxa found in 9 streams flowing through the agricultural landscape of Eastern Slovenia, and were considered to support rich aquatic macrophyte communities <ref type="bibr" target="#b51">[52]</ref>. The percentage of Red List species was relatively high (15%) and similar to results published by Chappuis et al. <ref type="bibr" target="#b52">[53]</ref>. Some studies relate the ratio of submerged to emerged macrophyte species with the level of eutrophication <ref type="bibr" target="#b50">[51]</ref>. In our study the abundance of helophytes prevailed over that of submerged species. This was not necessarily the consequence of nutrient availability since, in many case, this parameter does not function as a primary factor shaping the aquatic macrophyte community; other factors affecting ecological conditions, such as water depth and fluctuation, could be of greater importance <ref type="bibr" target="#b53">[54]</ref>. However, if we take into account the aquatic macrophyte indicator values for ponds proposed by Sager and Lachavanne <ref type="bibr" target="#b26">[27]</ref>, the surveyed ponds were shown to host species indicating a mesotrophic as well as a mesotrophic to eutrophic state.</p><p>Water pH was expected to have a significant influence on aquatic macrophyte assemblages, as indicated by a study of alpine ponds <ref type="bibr" target="#b11">[12]</ref>.</p><p>Land-use practices may affect pond characteristics <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b54">55,</ref><ref type="bibr" target="#b55">56]</ref>, and these changes of the pond environment (e.g. water/sediment quality) may affect aquatic organisms, their species richness, and abundance. Dodson <ref type="bibr" target="#b55">[56]</ref> also concluded that land-use was a good predictor of pond biodiversity. In our study, land-use of the catchment of the pond was not significantly correlated with species-richness, but with species composition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Differences in Environmental Factors between Pond Types</head><p>As expected, the type of shore substrate provided the most significant difference between ponds with and without macrophytes. The semi-natural types of shore, with finely textured substrate (clay, silt and/or loam), were suitable sites (microhabitats) for emergent macrophytes, while in the case of concrete or stony shores, rooted aquatic macrophytes were scarce.</p><p>The difference in pH between ponds with macrophytes and "empty" ponds also was evident (p = 0.078). The higher pH of the water in non-colonizd ponds could be due to the contribution of Ca-rich concrete and/or stony substrate.</p><p>Species number did not correlate with depth, but was significantly correlated with size/depth ratio and surface. In the case of alpine lakes <ref type="bibr" target="#b11">[12]</ref> depth did not affect biodiversity, while a significant influence of pond size on the aquatic macrophyte community was shown by Bagella et al. <ref type="bibr" target="#b56">[57]</ref>, who studied Mediterranean temporary ponds. They also established the important role of disturbances. The main disturbances in the ponds studied here are water level fluctuations, since the conditions of ponds in the Karst region depends directly on precipitation <ref type="bibr" target="#b29">[30]</ref>, which is unequally distributed over the year <ref type="bibr" target="#b31">[32]</ref>. In many cases disturbances also could be the consequence of the land-use in the surroundings of the ponds, i.e. trampling, erosion, and invasive species <ref type="bibr" target="#b49">[50]</ref>. In our survey invasive alien plant species were not detected in the ponds and were not abundant in the littoral zone. The most abundant species was the invasive tree species Robinia pseudacacia, which is widespread in the Karst region and is important from the point of nitrogen enrichment of ponds <ref type="bibr" target="#b57">[58]</ref>.</p><p>The ponds with more suitable measures (e.g. loamy shores, wider littoral zone) were not only richer in total species number, but also harbored more Red list species, which also were more abundant. To mitigate adverse effects on plant communities, Akasaka et al. <ref type="bibr" target="#b49">[50]</ref> suggests that management should focus on the creation of buffer zones.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Understanding the environmental conditions that maintain high aquatic macrophyte species richness in karst ponds, together with the main disturbances threatening them, is crucial for the conservation of this important heritage. Land-use in the catchment area and the presence of fish-influenced plant species composition. Concrete shores and bottoms, as well as stony walls, prevented the development of complex aquatic macrophyte communities and the increase of species richness. We conclude that reinforcement of the shores with concrete is the main reason for species impoverishment in karst ponds. On the other hand, some species (Potamogeton crispus, P. nodosus) were found only in walled ponds and that contributes to gamma diversity. As was established for alpine lakes <ref type="bibr" target="#b11">[12]</ref>, karst ponds need a special approach due to the particular water regime in the Karst area. The present findings should be considered in restoration projects, in order to preserve diversity at all levels.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>( 1 )</head><label>1</label><figDesc>land-use of the pond catchment, according to decreasing human influence (1 = settlement or arable land/vineyard or road, 2 = mixed arable land and grassland, 3 = grassland, 4 = mixed grassland and forest, 5 = forest) (2) the type and/or structure of the shore substrate, according to decreasing coarseness of the substrate (1 = concrete, 2 = stone-wall, 3 = stones and stone-wall, 4 = stones, 5 = loam and clay) (3) of the bottom (1 = concrete, 2 = stones and concrete, 3 = stones, 4 = stones and loam, 5 = loam and clay) (4) width of the littoral zone (1 = &lt;1 m, 2 = 1-5 m, 3 = &gt;5 m) (5) vegetation of the banktop zone, according to decreasing human influence (1 = absent, 2 = ruderals, 3 = perennial herbs and grasses, 4 = pioneer woody species (Salix sp., Populus sp.), 5 = climax species of trees and shrubs).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Ordination diagrams of karst ponds based on Canonical Correspondence analysis (CCA), with most important environmental variables. Eigenvalues of the first two axes were 0.5 and 0.45, respectively. Fig. 1a: □ = species-poor "walled" ponds with prevailing hydrophytes, • = species-rich ponds with prevailing emergent plants. Fig. 1b: Abbreviations of taxon names: Agr sto = Agrostis stolonifera agg., Ali lan = Alisma lanceolatum, Ali pla = Alisma plantago-aquatica, Bid sp. = Bidens sp., Bol mar = Bolboschoenus maritimus, Car hir = Carex hirta, Car otr = Carex otrubae, Cer dem = Ceratophyllum demersum, Cha sp. = Chara spp., Ech cru = Echinochloa crusgali, Ele pal = Eleocharis palustris agg., Epi hir = Epilobium hirstum, Epi par = Epilobium parviflorum, Epil sp. = Epilobium sp., Gal pal = Galium palustre, Iri pse = Iris pseudacorus, Jun art = Juncus articulatus, Jun com = Juncus compresus, Jun eff = Juncus effusus, Jun inf = Juncus inflexus, Jun ten = Juncus tenuis, Lem min = Lemna minor, Lyc eur = Lycopus europaeus, Lys num = Lysimachia nummularia, Men ver = Mentha x verticillata, Nym alb = Nymphaea alba, Pha aru = Phalaris arundinacea, Phr aus = Phragmites australis, Pol lap = Polygonum lapathifolium, Pol mit = Polygonum mite, Pol per = Polygonum persicaria , Pol sp. = Polygonum sp. , Pot cri = Potamogeton crispus, Pot nat = Potamogeton natans, Pot nod = Potamogeton nodosus, Pot tri = Potamogeton trichoides, Pot sp. = Potamogeton sp., Pot rep = Potentilla reptans, Ror pal = Rorripa palustris, Ror sil = Rorripa silvestris, Rum con = Rumex conglomeratus, Rum cri = Rumex crispus, Rum sp. = Rumex sp., Sch lac = Schoenoplectus lacustris, Sch tab = Schoenoplectus tabernaemontani, Sol dul = Solanum dulcamara, Spa sp. = Sparganium sp., Sta pal = Stachys palustris, Typ lat = Typha latifolia, Typ ang = Typha angustifolia.</figDesc><graphic coords="6,177.27,431.57,241.25,213.29" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Locations of the studied karst ponds (y,x: Gauss-Krüger coordinates).</figDesc><table><row><cell>No.</cell><cell>Location</cell><cell>y</cell><cell>x</cell></row><row><cell>1</cell><cell>Brje</cell><cell>400900</cell><cell></cell></row><row><cell>2</cell><cell>Dutovlje</cell><cell>410018</cell><cell></cell></row><row><cell>3</cell><cell>Gorjansko</cell><cell>399759</cell><cell></cell></row><row><cell>4</cell><cell>Klanec</cell><cell>398653</cell><cell></cell></row><row><cell>5</cell><cell>Kobjeglava</cell><cell>408070</cell><cell></cell></row><row><cell>6</cell><cell>Lukovec</cell><cell>408706</cell><cell></cell></row><row><cell>7</cell><cell>Pliskovica</cell><cell>404645</cell><cell></cell></row><row><cell>8</cell><cell>Ponikve</cell><cell>411870</cell><cell></cell></row><row><cell>9</cell><cell>Dobravlje</cell><cell>413580</cell><cell></cell></row><row><cell>10</cell><cell>Coljava</cell><cell>405687</cell><cell></cell></row><row><cell>11</cell><cell>Gorjansko</cell><cell>400565</cell><cell></cell></row><row><cell>12</cell><cell>Kobjeglava</cell><cell>407750</cell><cell></cell></row><row><cell>13</cell><cell>Kobjeglava</cell><cell>407593</cell><cell></cell></row><row><cell>14</cell><cell>Lukovec</cell><cell>408368</cell><cell></cell></row><row><cell>15</cell><cell>Komen</cell><cell>403264</cell><cell></cell></row><row><cell>16</cell><cell>Lipa</cell><cell>399416</cell><cell></cell></row><row><cell>17</cell><cell>Škrbina</cell><cell>401753</cell><cell></cell></row><row><cell>18</cell><cell>Škrbina</cell><cell>402083</cell><cell></cell></row><row><cell>19</cell><cell>Komen</cell><cell>403383</cell><cell></cell></row><row><cell>20</cell><cell>Coljava</cell><cell>405481</cell><cell></cell></row><row><cell>21</cell><cell>Coljava</cell><cell>405481</cell><cell></cell></row><row><cell>22</cell><cell>Tomaj</cell><cell>411472</cell><cell></cell></row><row><cell>23</cell><cell>Dutovlje</cell><cell>410096</cell><cell></cell></row><row><cell>24</cell><cell>Lipa</cell><cell>399319</cell><cell></cell></row><row><cell>25</cell><cell>Matavun</cell><cell>421734</cell><cell></cell></row><row><cell>26</cell><cell>Škocjan</cell><cell>421942</cell><cell></cell></row><row><cell>27</cell><cell>Škrbina</cell><cell>401070</cell><cell></cell></row><row><cell>28</cell><cell>Tomaj</cell><cell>411110</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 .</head><label>3</label><figDesc>Floristic composition of the studied ponds. 1-7 species-poor "walled" ponds with prevailing hydrophytes, 8-22: species-rich ponds with prevailing emergent plants.</figDesc><table><row><cell>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28</cell><cell>surface (m 2 ) 32 177 65 130 79 127 213 28 603 85 745 9 52 35 547 391 255 72 269 64 50 131 98 79 228 51 7 87</cell><cell>depth (m) 0.7 1.5 0.3 1.2 3.3 0.4 0.8 0.2 1.3 0.6 3.0 0.7 0.5 0.4 0.5 0.6 1.0 1.1 0.3 0.2 0.3 0.9 2.6 2.2 1.0 0.9 0.3 1.3</cell><cell>volume (appr.) (m 3 ) 22 265 18 156 255 51 170 5 783 51 2235 6 26 13 274 234 247 79 67 11 14 118 255 173 228 47 2 113</cell><cell>surface/depth ratio (S/d) 45 118 232 108 24 318 266 156 464 141 248 13 103 92 1095 651 262 65 1075 353 186 146 38 36 228 55 24 67</cell><cell>pH 7.2 6.3 6.5 6.9 6.4 6.5 6.1 6.0 6.0 6.4 7.0 7.2 8.2 6.9 6.5 7.6 6.8 7.2 6.3 6.7 6.2 6.3 6.5 7.2 8.3 7.9 6.7 6.5</cell><cell>T water (ºC) 21.7 22.9 18.5 23.8 24.6 17.9 29.0 19.9 27.1 26.5 23.7 23.1 22.2 19.9 20.5 27.9 25.7 25.1 20.7 22.5 22.1 19.3 24.4 22.4 28.5 26.8 23.3 19.5</cell><cell>conductivity (µs/cm) 144 195 367 167 290 305 66 202 300 209 132 212 124 138 188 213 226 106 279 430 134 765 189 275 152 128 225 222</cell><cell>O 2 (mg/l) 11.3 1.6 0.2 12.6 2.0 1.0 14.7 2.8 10.3 11.0 7.3 8.9 14.7 8.1 5.5 21.9 7.0 8.2 1.7 3.5 8.4 0.2 6.5 7.3 19.2 11.3 9.8 3.1</cell><cell>O saturation (%)</cell><cell>transparency 0.09 0.01 0.60 0.01 0.02 0.07 0.07 0.00 0.03 0.01 0.13 0.01 0.35 0.28 0.01 0.03 0.05 0.02 0.078 0.03 0.03 0.09 0.01 0.01 0.122 0.06 0.00 0.01</cell><cell>Chl a (µg/l) 0.86 27.11 9.24 36.33 58.38 35.03 116.76 6.81 157.60 22.87 16.97 0.95 708.07 4.87 311.36 0.57 1.52 36.49 65.19 49.26 0.01 13.34 9.34 27.80 98.27 7.78 0.28 2.24</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Continued.</figDesc><table><row><cell>Pond No.</cell><cell cols="22">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22</cell></row><row><cell>No. of plant taxa</cell><cell cols="22">2 4 4 3 2 3 5 9 16 5 12 7 7 4 17 14 9 15 17 12 9 11</cell></row><row><cell>Epilobium hirstum</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="4">. 1 1 .</cell><cell cols="4">. 2 1 .</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Epilobium parviflorum</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 3 .</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 1 .</cell><cell>.</cell><cell>.</cell></row><row><cell>Juncus tenuis</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 1 .</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Lysimachia nummularia</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 3 .</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Mentha x verticillata</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 1 .</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Polygonum mite</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="6">. 2 1 . 1 .</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 1 .</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="2">. 2</cell></row><row><cell>Polygonum persicaria</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 1 .</cell><cell cols="5">. 1 . 1 .</cell><cell cols="3">. 2 .</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Potentilla reptans</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 2 .</cell><cell>.</cell></row><row><cell>Rorripa silvestris</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="4">. 1 1 .</cell><cell>.</cell><cell>.</cell><cell>.</cell></row><row><cell>Rumex conglomeratus</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="6">. 2 . 1 1 .</cell><cell cols="5">. 1 . 1 2</cell></row><row><cell>Rumex crispus</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="2">. 1</cell></row><row><cell>Solanum dulcamara</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 2 .</cell><cell>.</cell><cell>.</cell><cell cols="5">. 2 . 2 .</cell><cell cols="3">. 1 3</cell></row><row><cell>Epilobium sp.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="2">. 2</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="3">Other taxa</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Polygonum sp.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 1 .</cell></row><row><cell>Potamogeton sp.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="3">. 2 .</cell><cell>.</cell></row><row><cell>Rumex sp.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell cols="4">. 1 1 .</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell><cell>.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Canonical Correspondence analysis statistics of 22 karstic ponds. Parameters listed explained 32% of the variation in aquatic macrophyte communities composition (%TVE = percentage of the total variance explained).</figDesc><table><row><cell>Variable</cell><cell>%TVE</cell><cell>p</cell><cell>F</cell></row><row><cell>Fish presence</cell><cell>7.3</cell><cell>0.002</cell><cell>1.72</cell></row><row><cell>Transparency</cell><cell>6.6</cell><cell>0.046</cell><cell>1.45</cell></row><row><cell>pH</cell><cell>5.9</cell><cell>0.062</cell><cell>1.36</cell></row><row><cell>Land-use of the catchment</cell><cell>5.9</cell><cell>0.068</cell><cell>1.34</cell></row><row><cell>Bank substrate</cell><cell>5.7</cell><cell>0.079</cell><cell>1.35</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>Statistically significant correlations between environmental factors and plant species richness, calculated using Spearman correlation coefficients.</figDesc><table><row><cell></cell><cell>Surface</cell><cell>Depth</cell><cell>Surface/depth</cell><cell>Shore substrate</cell><cell>Width of littoral</cell></row><row><cell>N</cell><cell>0.468*</cell><cell>n.s.</cell><cell>0.608**</cell><cell>0.562**</cell><cell>0.427*</cell></row><row><cell>N /log Surface</cell><cell>n.s.</cell><cell>n.s.</cell><cell>n.s.</cell><cell>0.541**</cell><cell>n.s.</cell></row><row><cell>N / log Volume</cell><cell>n.s.</cell><cell>-0.536*</cell><cell>n.s.</cell><cell>0.623**</cell><cell>n.s.</cell></row></table><note><p>**p &lt; 0.01, * = p &lt; 0.05, n.s. = not significant</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We thank <rs type="person">Prof. Roger Pain</rs> for correction of the language. We also thank <rs type="person">Dragan Abram</rs> for his technical assistance in the field and in the laboratory. We are grateful for critical comments and suggestions of the reviewer that helped to improve the quality of the paper.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Ponds and pools as model systems in conservation biology</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Demeester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Declerck</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stoks R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Louette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Van De Meutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Debie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Michels</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Brendonck L</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ecology and evolutionary biology. Aquat. Conserv.: Mar. Freshwater Ecosyst</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Lake and river ecosystems</title>
+		<author>
+			<persName><forename type="middle">G</forename><surname>Wetzel R</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Limnology</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Academic press</publisher>
+			<pubPlace>San Diego</pubPlace>
+		</imprint>
+	</monogr>
+	<note>3 rd edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Pond or lake: does it make any difference?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sondergaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jeppesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Where hides the aquatic biodiversity in The Canton of</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Angélibert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Indermuehle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Luchier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Perfetta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>Geneva (Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Arch. des Sci. 59, 225</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The ecology of European ponds: defining the characteristics of a neglected freshwater habitat</title>
+		<author>
+			<persName><surname>Céréghino R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Declerck S</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">597</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Water quality and macrophyte community changes in the Komarnik accumulation lake (Slovenia)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Horvat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Urbanc-Berčič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gaberščik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Wastewater treatment, plant dynamics and management in constructed and natural wetlands</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Vymazal</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="13" to="22" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">How can we make new ponds biodiverse? -a case study monitored over 8 years</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Whitfield</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Biggs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">597</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ecology and conservation status of temporary and fluctuating ponds in two areas of southern England</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Bilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Mcabendroth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nicolet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bedford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Rundle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Foggo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ramsay</forename><forename type="middle">P M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Conserv.: Mar. Freshwater Ecosyst</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Patterns of composition and species richness of crustaceans and aquatic insects along environmental gradients in mediterraean waterbodies</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gascón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Badosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brucet</surname></persName>
+		</author>
+		<author>
+			<persName><surname>López-Flores R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martinoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gifre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">D</forename><surname>Quintana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">597</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Macrophyte diversity and physico-chemical characteristics of Tyrrhenian coast ponds in central Italy: implications for conservation</title>
+		<author>
+			<persName><forename type="first">Bella</forename><forename type="middle">V</forename><surname>Della</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bazzanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Dowgiallo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iberite M</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">597</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Biodiversity and distribution patterns of freshwater Invertebrates in farm ponds of a southwestern French agricultural landscape</title>
+		<author>
+			<persName><surname>Céréghino R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruggiero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marty</forename><forename type="middle">P</forename><surname>Angélibert S</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">597</biblScope>
+			<biblScope unit="page">43</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Alpine pond biodiversity: what are the related environmental variables?</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hinden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Menetrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Lachavanne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Conserv.: Mar. Freshwater Ecosyst</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">613</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The relative importance of local conditions and regional processes in structuring aquatic plant communities</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Capers</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Selsky R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Bugbee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshwater Biol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page">952</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Influence of submerged vegetation and fish abundance on water clarity in peri-urban eutrophic ponds</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>De Backer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Onsem S</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Triest L</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">656</biblScope>
+			<biblScope unit="page">255</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Making agricultural landscapes more sustainable for freshwater biodiversity: a case study from southern England</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thompson S</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Conserv.: Mar. Freshwater Ecosyst</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Detritus and nutrient dynamics in the shore zone of lakes: a review</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Piezynska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">251</biblScope>
+			<biblScope unit="page">49</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A mass balance assessement of the contribution of floating-leaved macrophytes in nutrient stocks in an eutrophic macrophyte dominated lake</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Marion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paillisson J.-M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Bot</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page">249</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">River Plants of Western Europe. The macrophytic vegetation of watercourses of the European Economic Community</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Haslam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The relationships between hydrochemical environmental-factors and the aquatic macrophytic vegetation in stagnant and slow flowing waters. 1. water-quality and distribution of aquatic associations</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Papastergiadou</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Babalonas D</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">475</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Effect of allogenic processes on successional rates in former river channels</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bornette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Amoros</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Chessel D</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Veg. Sci</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Macrophyte diversity and composition in relation to substratum characteristics in regulated and unregulated Danish streams</title>
+		<author>
+			<persName><surname>Baattrup-Pedersen A</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Riis T</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshwater Biol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Exploring differences in macroinvertebrate communities from emergent, floating-leaved and submersed vegetation in shallow ponds</title>
+		<author>
+			<persName><surname>Van De Meutter F</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cottenie</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De Meester L</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fundam. Appl. Limnol</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Aquatic macrophyte communities as bioindicators of eutrophication in calcareous oligosaprobe stream waters</title>
+		<author>
+			<persName><surname>Carbiener R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Trémolières</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Mercier</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ortscheit A</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page">71</biblScope>
+			<pubPlace>Upper Rhine plain, Alsace</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Trophic Index of Macrophytes (TIM) -a New Tool for Indicating the Trophic State of Running Waters</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Melzer A</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. Rev. Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page">49</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Ecological classification of macrophytes and phytobenthos for rivers in Germany according to the Water Framework Directive</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schaumburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schranz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Foerster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gutowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hofmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Meilinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Schmedtje</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnologica</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">283</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Macrophyte distribution pattern in the Krka River -the role of habitat quality</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Germ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Urbanc-Berčič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Janauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Filzmoser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Exler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gaberščik A</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fundam. Appl. Limnol</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page">145</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Suppl.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The M-NIP: a macrophyte-based Nutrient Index for Ponds</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Lachavanne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">634</biblScope>
+			<biblScope unit="page">43</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Development of a River Macrophyte Index (RMI) for assessing river ecological status</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kuhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Germ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gaberščik</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Urbanič G</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnologica</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">235</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Macrophyte decline in Danish lakes and streams over the past 100 years</title>
+		<author>
+			<persName><surname>Sand-Jensen K</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Riis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vestergaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Larsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page">1030</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Inventory of karstic ponds and their importance for biotic diversity</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Čelik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Zelnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Babij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vreš</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pirnat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Seliškar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Drovenik B</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kras: water and life in a rocky landscape</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Mihevc</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ljubljana</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="72" to="82" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Hydrogeological characteristics of Kras</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Petrič</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kras: water and life in a rocky landscape</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Mihevc</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ljubljana</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="21" to="28" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">The amount of precipitation: period 1961-1990. Institute for Hydrometeorology of Slovenia</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zupančič</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Climatography</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Slovenia</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<pubPlace>Ljubljana</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Climatography of Slovenia 1961-1990. Air temperature. Institute for Hydrometeorology of Slovenia</title>
+		<author>
+			<persName><forename type="first">Mekinda-Majaron T</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<pubPlace>Ljubljana</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The Methodology of aquatic Macrophytes Survey in Streams</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kohler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Janauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Manual of applied Limnology. VIII-1.1.3. Ecomed Verlag, Landsberg/Lech</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">E W</forename><surname>Steinberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Bernhardt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Klapper</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="3" to="22" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Flora of Slovenia. A key for determination of ferns and flowering plants</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Martinčič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wraber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Podobnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Turk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vreš</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ravnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Frajman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Str-Gulc-Krajšek S</forename><surname>Trčak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bačič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Eler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Surina B</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tehniška Založba Slovenije</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>Ljubljana</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Pondweeds of Great Britain and Ireland. Botanical Society of the British Isles</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Preston</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">A treatise on limnology</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Hutchinson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<publisher>Limnological Botany. Wiley</publisher>
+			<biblScope unit="volume">III</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Multivariate analysis of ecological data using CANOCO</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lepš</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Šmilauer P</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The RCE: a Riparian, channel, and environmental inventory for small streams in the agricultural landscape</title>
+		<author>
+			<persName><forename type="middle">C</forename><surname>Petersen R</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshwater Biol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Stream visual assessment protocol. National Water and Climate Center Technical Note 99-1. United States Department of Agriculture</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pringle</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bjorkland R</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Natural Resources Conservation Service</title>
+		<imprint>
+			<biblScope unit="page">36</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">River habitat quality. The physical character of rivers and streams in the UK and Isle of Man</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Raven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T H</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J A</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Everard</forename><forename type="middle">M</forename><surname>Fozzard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Rouen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Environ. Agency</publisher>
+			<biblScope unit="page">86</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Canonical correspondence analysis and related multivariate methods in aquatic ecology</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J F</forename><surname>Ter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F M</forename><surname>Verdonschot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Sci</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Historical changes in herbaceous wetland distribution induced by hydrological conditions in Lake Saint-Pierre</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hudon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gagnon</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Amyot J.-P</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Letourneau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Plant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rioux</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Deschenes M</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">539</biblScope>
+			<biblScope unit="page">205</biblScope>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>St. Lawrence River, Quebec, Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">CANOCO reference manual and CanoDraw for Windows user &apos;s guide. Software for Canonical Community Ordination (version 4.5)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J F</forename><surname>Ter</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Šmilauer P</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Microcomputer Power</publisher>
+			<pubPlace>Ithaca</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Red List of Ferns and Flowering plants</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wraber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Skoberne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Seliškar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vreš</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Babij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Čarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Čušin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dakskobler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Surina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Šilc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Zelnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Žagar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaligarič</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bavcon</surname></persName>
+		</author>
+		<idno>82-4055/02</idno>
+	</analytic>
+	<monogr>
+		<title level="s">Decree about classification of Endangered Plant and Animal Species on Red Lists, Uradni list Republike Slovenije</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The quality of the aquatic environment and macrophytes of karstic watercourses</title>
+		<author>
+			<persName><surname>Šraj-Kržič N</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Germ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Urbanc-Berčič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kuhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Janauer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gaberščik A</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Ecol</title>
+		<imprint>
+			<biblScope unit="volume">192</biblScope>
+			<biblScope unit="page">107</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Response of aquatic macrophytes in Northern Irish softwater lakes to forestry management; eutrophication and dissolved organic carbon</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">R</forename><surname>Mcelarney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">H</forename><surname>Foy R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Bot</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page">227</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Inter-annual variation in the soil seed bank of flood-meadows over two years with different flooding patterns</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hölzel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Otte A</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Ecol</title>
+		<imprint>
+			<biblScope unit="volume">174</biblScope>
+			<biblScope unit="page">279</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Influence of freshwater macrophytes on the littoral ecosystem structure and function of a young Colorado reservoir</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cronin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Lewis Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Schiehser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Bot</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Effects of land use on aquatic macrophyte diversity and water quality of ponds</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Akasaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Takamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mitsuhashi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kadono Y</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshwater Biol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Effect of macrophyte community composition and nutrient enrichment on plant biomass and algal blooms</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Bakker</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Donk E</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A J</forename><surname>Declerck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Helmsing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hidding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Nolet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Basic Appl. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">432</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Distribution of macrophytes and condition of the physical environment of streams flowing through agricultural landscape in north-eastern Slovenia</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kuhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gregorc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Renčelj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Šraj-Kržič</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gaberščik A</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnologica</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page">146</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Aquatic macrophytes and vegetation in the Mediterranean area of Catalonia: patterns across an altitudinal gradient</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chappuis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ballesteros</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gacia E</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phytocoenologia</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">An assessment of macrophyte community metrics in the determination of the ecological condition and total phosphorus concentration of Mediterranean ponds</title>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Pozo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fernandez-Alaez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fernandez-Alaez M</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Bot</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page">55</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Ecological characteristics of small ponds: associations with land-use practices at different spatial scales</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Declerck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Debie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ercken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hampel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schrijvers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vanwichelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gillard</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mandiki R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Losson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bauwens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Keijers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Vyverman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Goddeeris</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De Meester L</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brendonck</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Martens K</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Conserv</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Biodiversity in southern Wisconsin stormwater retention ponds: Correlations with watershed cover and productivity</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Dodson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lake Reserv. Manage</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Identifying key environmental factors related to plant and crustacean assemblages in Mediterranean temporary ponds</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bagella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gascon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Caria</forename><forename type="middle">M C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sala</forename><forename type="middle">J</forename><surname>Mar-Iani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Boix D</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biodivers. Conserv</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">1749</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Effects of exotic invasive trees on nitrogen cycling: a case study in Central Spain</title>
+		<author>
+			<persName><surname>Castro-Diez P</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gonzalez-Munoz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alonso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gallardo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Poorter L</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Invasions</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="1973">1973. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">PATTERNS IN THE SPECIES COMPOSITION AND RICHNESS OF FISH ASSEMBLAGES IN NORTHERN WISCONSIN LAKES&apos;</title>
+				<funder ref="#_5P5JV6G">
+					<orgName type="full">Wisconsin Department of Natural Resources (Dingell-Johnson</orgName>
+				</funder>
+				<funder ref="#_FWbT2Mf">
+					<orgName type="full">Wisconsin Alumni Research Foundation</orgName>
+				</funder>
+				<funder ref="#_gDTZ3Fn">
+					<orgName type="full">National Science Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Brittingham Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">William</forename><forename type="middle">M</forename><surname>Tonn</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Zoology</orgName>
+								<orgName type="laboratory">Laboratory of Limnology</orgName>
+								<orgName type="institution">University of Wisconsin-Madison</orgName>
+								<address>
+									<postCode>53706</postCode>
+									<settlement>Madison</settlement>
+									<region>Wisconsin</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><forename type="middle">J</forename><surname>Magnuson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Zoology</orgName>
+								<orgName type="laboratory">Laboratory of Limnology</orgName>
+								<orgName type="institution">University of Wisconsin-Madison</orgName>
+								<address>
+									<postCode>53706</postCode>
+									<settlement>Madison</settlement>
+									<region>Wisconsin</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">PATTERNS IN THE SPECIES COMPOSITION AND RICHNESS OF FISH ASSEMBLAGES IN NORTHERN WISCONSIN LAKES&apos;</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1328D645F1A4CC3E03EF3CFE6BFA9DC1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>centrarchid-Esox</term>
+					<term>disturbance</term>
+					<term>fish assemblages</term>
+					<term>habitat complexity</term>
+					<term>insular</term>
+					<term>migration</term>
+					<term>multivariate analysis</term>
+					<term>predation</term>
+					<term>productivity</term>
+					<term>refuges</term>
+					<term>Umbra-cyprinid</term>
+					<term>Wisconsin lakes</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Fish assemblage structure, and factors and mechanisms appearing important in the ecological maintenance of these structures, were examined for 18 small lakes in northern Wisconsin during summer and winter. The study was focused around the following questions. Are there discrete, repeatable groups of fish assemblages? If so, are they temporally stable? What are the relations between fish assemblage structure and habitat complexity, physical disturbance, biotic interactions, and the insular nature of small lakes? A comparative approach was used to generate hypotheses and propose explanations concerning the roles of these factors in structuring the assemblages.</p><p>Multivariate classification, ordination, and discriminant analyses helped discern two assemblage types: Umbra-cyprinid and centrarchid-Esox. Each had a distinctive species composition and seasonal change in composition. Environmental characteristics of the lakes occupied by each assemblage type also differed consistently.</p><p>The type of assemblage present in a lake appeared related to oxygen concentrations in winter, interacting with the availability of refuges from either a severe physical environment (low oxygen during winter) or from large piscivores. Centrarchid-Esox assemblages occurred in lakes with high winter oxygen levels, and also in lakes with low oxygen levels if a stream or connecting lake could provide a refuge from these conditions in winter. When no refuge was present, low winter oxygen lakes lacked piscivorous fishes, but contained Umbra-cyprinid assemblages.</p><p>The relationships between species richness in summer and environmental factors were generally similar for the two assemblage types, but the relative importance of individual factors differed. In winter, richness relationships in centrarchid-Esox assemblages for most environmental factors were reversed from those of summer. No significant seasonal change occurred in the Umbra-cyprinid assemblages.</p><p>Habitat complexity factors, particularly vegetation diversity, were significantly related to summer species richness in both assemblage types. Lake area was also related to summer richness for both types, but the slope of the species-area regression was much steeper for Umbra-cyprinid assemblages than for those in centrarchid-Esox lakes. Species richness relationships with winter oxygen concentration were negative in both seasons in Umbra-cyprinid lakes, but the relationship was positive for centrarchid-Esox assemblages in winter. A measure of lake connectedness was related to summer richness in centrarchid-Esox lakes. These patterns suggest that centrarchid-Esox assemblages are in ecological equilibrium but that a disturbance-induced disequilibrium occurs in Umbra-cyprinid assemblages.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Our paper examines patterns in the species composition, richness (diversity), and seasonal dynamics of the fish assemblages in 18 small lakes in northern Wisconsin, and discusses factors and mechanisms which appear important in the ecological maintenance of assemblage structure. We addressed the following questions:</p><p>1) Are there discrete types of fish assemblages that are repeatable in many lakes?</p><p>2) If so, are they temporally stable in the face of seasonally (and probably unpredictably) harsh environmental conditions?</p><p>3) What are the relations between fish assemblage structure and habitat complexity, physical disturbance and biotic interactions'?</p><p>1 Manuscript received 21 January 1981; revised <ref type="bibr">15 September 1981;</ref><ref type="bibr">accepted 29 September 1981. 4)</ref> To what extent does the insular nature of small lakes contribute to the composition and structure of their fish assemblages?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species diversity theories</head><p>The ecological literature provides a plethora of theories and hypotheses to explain differences in species diversity among communities. Although all hypotheses are somewhat distinct, they can be grouped together into two major theories; one proposes mechanisms based on equilibrium conditions, the other on the absence of equilibrium (see discussions in <ref type="bibr" target="#b66">Mac Arthur 1972</ref><ref type="bibr" target="#b36">, Connell 1978</ref><ref type="bibr" target="#b55">, Huston 1979)</ref>.</p><p>Equilibrium-based mechanisms are inseparably linked to niche structure in communities. In saturated communities, richness is proposed to be a function of the number of discrete resources available, the tolerable niche overlap and minimum niche size possible along a resource gradient, or both <ref type="bibr" target="#b78">(Pianka 1975</ref><ref type="bibr">, 1978</ref><ref type="bibr" target="#b71">, Menge and Sutherland 1976</ref><ref type="bibr" target="#b36">, Connell 1978)</ref>. If the tolerable niche overlap and minimum niche size are relatively constant <ref type="bibr" target="#b81">(Roughgarden 1974</ref><ref type="bibr" target="#b92">, Werner 1977)</ref>, species richness should depend upon habitat complexity. Similarly, more productive habitats allow greater dietary specialization and should support more species <ref type="bibr" target="#b66">(Mac Arthur 1972)</ref>. Equilibrium theories also predict higher diversities in more stable and/or predictable environments <ref type="bibr" target="#b88">(Slobodkin and Sanders 1969)</ref>. Some ecologists have questioned how often communities meet the assumptions and conditions of equilibrium and propose that nonequilibrium mechanisms dominate (e.g., <ref type="bibr" target="#b99">Wiens 1977</ref><ref type="bibr" target="#b36">, Connell 1978</ref><ref type="bibr" target="#b55">, Huston 1979</ref>). Under nonequilibrium conditions, less efficient or poorly adapted species can persist without competitive exclusion, thereby increasing diversity. Competition-induced specialization cannot evolve over ecological time, so if competition does occur under equilibrium conditions, diversity will be reduced by competitive exclusion. At intermediate levels of disturbance a "dynamic equilibrium" of increased diversity can be maintained <ref type="bibr" target="#b36">(Connell 1978</ref><ref type="bibr" target="#b55">, Huston 1979)</ref>.</p><p>At these levels, disturbances are sufficiently frequent or intense to prevent the community from reaching equilibrium, but still allow some populations to recover.</p><p>A severe environment that might otherwise be expected to produce a depauperate community may instead produce a more diverse community if refuges are present, reducing the severity. Refuges can also reduce the impact of predation and competition <ref type="bibr" target="#b43">(Dodson 1970</ref><ref type="bibr" target="#b40">, Dayton 1971</ref><ref type="bibr" target="#b90">, Thomson and Lehner 1976)</ref>, resulting in increased diversity. <ref type="bibr" target="#b102">Woodin (1978)</ref> identified five categories of spatial and temporal refuges and argued that communities could be viewed as combinations of species successfully exploiting these refuges.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lakes as islands</head><p>Another set of factors that should be considered in the examination of fish assemblage structure in small lakes is their insular nature <ref type="bibr" target="#b30">(Barbour and Brown 1974</ref>, <ref type="bibr" target="#b68">Magnuson 1976</ref><ref type="bibr" target="#b34">, Browne 1981)</ref>. One important insular parameter of small lakes is isolation. Relative isolation of an island depends on the likely mode of colonization (flight, drift in ocean currents, etc.). Certainly, seepage lakes without permanent inlets or outlets are more isolated for fishes than are drainage lakes. Measuring the degree of isolation (or connectedness) in drainage lakes is not as straightforward as for oceanic islands.</p><p>Factors to be considered include the length of the interconnecting waterways and size of the watershed, the degree of differences in habitat between the lakes and connecting streams, and the presence of marked barriers (e.g., waterfalls) between lakes <ref type="bibr" target="#b68">(Magnuson 1976)</ref>.</p><p>As with oceanic islands, population size in lakes should be a function of area. Larger lakes should have larger populations, lower probabilities of local extinction, and therefore more species than should smaller lakes <ref type="bibr" target="#b68">(Magnuson 1976)</ref>.</p><p>Other components of assemblage structure Knowledge of species diversity alone is insufficient for understanding the organization, dynamics, and controlling mechanisms of assemblages. Assemblages may differ in species composition, reflecting differences in the seasonal responses, environmental regimes, dominance relationships, and controlling factors <ref type="bibr" target="#b39">(Coull and Fleeger 1977)</ref>. Compositional differences can also result from differential dispersal abilities and extinction probabilities among the potentially available species <ref type="bibr" target="#b87">(Simberloff and Connor 1981)</ref>.</p><p>Dynamic properties of the species structures are also important. Cycling of species suites <ref type="bibr" target="#b39">(Coull and Fleeger 1977)</ref>, differences in seasonal fluctuations of populations <ref type="bibr" target="#b90">(Thomson and Lehner 1976)</ref> or historical components <ref type="bibr" target="#b76">(Osman 1977</ref><ref type="bibr" target="#b76">(Osman , 1978) )</ref> can also contribute information about the structure and function of assemblages.</p><p>A lake system and an approach Our study lakes possess a variety of sizes, shapes, and environmental conditions. During the winter, the extent of low dissolved oxygen conditions varies among the lakes, providing a gradient of environmental disturbance. Different lakes have different morphometries, substrates, and macrophyte vegetation so that the role of habitat complexity in structuring the fish assemblages can be evaluated. Trophic types range from eutrophic and mesotrophic to dystrophic.</p><p>The lakes are relatively close together and exposed to the same species pool but differ in surface area and degree of connectedness, providing a perspective for considering the insular biogeography of fish assemblages.</p><p>The investigation of how environmental factors (physical and biotic) determine the structure of natural assemblages has benefitted greatly from the "natural experiments" of comparative studies (e.g., <ref type="bibr" target="#b35">Cody 1974</ref><ref type="bibr" target="#b41">, Diamond 1978</ref><ref type="bibr" target="#b97">, Werner et al. 1978)</ref>. This method can relatively quickly generate and test hypotheses, assess mechanisms, and produce acceptable explanations for community-level problems under a wide variety of conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>STUDY AREA</head><p>The 18 study lakes (Table <ref type="table">I</ref>) are in Vilas County, Wisconsin, USA, the center of the Northern Highlands Lake District of Wisconsin and Michigan <ref type="bibr" target="#b58">(Juday and Birge 1930;</ref><ref type="bibr">Fig. 1)</ref>. This area is one of the most concentrated lake districts in the world (Vilas County alone has over 1300 lakes) and is well suited for comparative studies in aquatic ecology.</p><p>In choosing a lake we considered the following ma-   <ref type="table" target="#tab_8">7 3.0 1.6 1.5 22 57 7.2 0 M  2. Aurora D 38.0 4.7 1.2 1.4 2.2 40 89 6.8 + M</ref>, <ref type="table">S</ref>, <ref type="table" target="#tab_8">G  3. Blueberry S 4.9 0.5 8.2 0.5 1.5 2 15 5.8 0 M</ref>, <ref type="table" target="#tab_8">S  4. Camp 2 S 5.7 0.5 1.5 0.3 1.1 2 16 5.9 + M  5. Gateway S 3.2 0.3 2.4 0.3 1.5 36 145 7.5 + ?  6. Grassy Spr 42.9 1.6 1.2 1.6 2.5 38 85 7</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head><p>We sampled during two 9-wk periods in 1978, one during January-March (winter) and one during June-August (summer). Each lake was sampled once per season. Preliminary sampling had occurred during <ref type="bibr">June-August 1977. Two lakes (Grassy and 33-13)</ref> were re-sampled in <ref type="bibr">August 1978, and one (Mill)</ref> in August 1979, to examine sampling replicability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fish sampling</head><p>Winter.-In each lake, 15 regularly spaced stations along 3-4 transects were selected. A 25 cm diameter hole was drilled through the ice and a pair of Gee's wire minnow traps (44.5 cm long, 23 cm at largest diameter, 2.5 cm funnel diameter, 6 mm square mesh), baited with bread and liver, was placed in the water.</p><p>One trap was set just under the ice-water interface, the other 1.5 m below the first or on the bottom, whichever was shallower. Two small fyke nets (4.6 m leads, four 0.76 m diameter hoops per net, 10 cm throat diameter, 5 mm square mesh) were also used in most lakes, at water depths under the ice of 1-2 m.</p><p>Four lakes <ref type="bibr">(Aurora,</ref><ref type="bibr">Mill,</ref><ref type="bibr">Little Rice,</ref><ref type="bibr">and Camp 2)</ref> were too shallow for fyke nets. Traps and nets were set in each lake for approximately 48 h, usually concurrently, but always within 24 h of each other.</p><p>Summer.-Sampling in summer was similar to the winter. Minnow traps were placed in approximately the same locations and fyke nets were set perpendicularly from shore, immediately shoreward from where they were set in winter. All lakes were sampled with fyke nets during the summer. A trammel net (30.5 x 1.2 m; 18 and 2.5 cm square mesh) was added to increase the variety of sampling gear, and thus to examine the thoroughness of the methods. All gear were set concurrently for 48 h. In August 1979, Mill was resampled, doubling the number of fyke and trammel nets, also to examine sampling thoroughness.</p><p>Fishes were identified to species and counted in the field; a subsample was preserved to verify identification. Identification followed keys of <ref type="bibr" target="#b44">Eddy and Underhill (1974)</ref> and <ref type="bibr" target="#b31">Becker and Johnson (1970)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Environmental sampling</head><p>In addition to data from <ref type="bibr" target="#b33">Black et al. (1963;</ref><ref type="bibr"></ref>  In winter, an inshore and an offshore station were selected in each lake. At each station, a hole was carefully drilled through the ice so as not to disturb the water below (the last bit of ice was gently tapped out Nvith an ice chisel). Water samples were collected 1-3 cm below the ice-water interface with a siphon sampler <ref type="bibr" target="#b69">(Magnuson and Stuntz 1970)</ref>, and with a Kemmerer bottle centered at 1 m below the interface, if depth permitted. For oxygen analyses, duplicate samples from each depth at each station were fixed immediately in the field and titrated (Winkler method, azide modification, American Public Health Association 1976) in the laboratory later the same day. Conductivity measurements were also made on the same day in the laboratory, using a Hach conductivity meter, Model #2510, (Hach Chemical Company, Loveland, Colorado) on samples taken at each of the two stations, warmed to 20'C. Total dissolved solids were measured on 100-mL water samples, filtered through 0.45-jim filters and evaporated at 1030. In summer, habitat structure was measured for three variables: depth, substrate type, and macrophytes. Measurements were made along the same transects used for the minnow traps, with 15-25 stations in small and/or structurally simple lakes, and 25-35 stations in larger, more complex lakes. At each station, water depth was measured to the nearest 1 cm, later grouped into five categories (Table 2). A substrate sample was</p><p>taken with an Ekman dredge, and the bottom material was classified on a five-point scale, based on the proportion of muck, sand, gravel, and litter that was present, estimated by visual and tactile inspection (Table <ref type="table" target="#tab_4">2</ref>). Within an estimated 5 m radius of each sampling station, the macrophytes were classified on a presence/absence basis for submergent, floating, and emergent forms (Table <ref type="table" target="#tab_4">2</ref>), from visual inspection.</p><p>Where the lake bottom was not visible, presence/absence of submergent plants was determined by 2-4 dredge samples. Macrophyte measurements were not made for Aurora until June 1980.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Preliminary analyses</head><p>Several preliminary analyses were performed on the data to identify unknown biases prior to analyzing for fish assemblage structure. For these and all subsequent analyses, P S .05 was used as the level of statistical significance. Rank correlations <ref type="bibr" target="#b86">(Siegel 1956)</ref> were performed on the sampling sequence of the lakes against dissolved oxygen, surface area, watershed size, pH and alkalinity. These correlations revealed no significant trends. Thus sampling sequence should not bias conclusions relating these variables to fish assemblage data.</p><p>Preliminary analysis of the fish data addressed the question: did fish samples accurately represent the available assemblages? Evidence for the adequacy of sampling comes from the two lakes (Grassy and 33-</p><p>13) sampled twice during the summer, 1978, and from Mill, where in 1979 a resampling with twice the effort was done. Czekanowski's similarity coefficients, S., were calculated from presence/absence data by the formula: This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to <ref type="url" target="https://about.jstor.org/terms">https://about.jstor.org/terms</ref>  was that any sampling inadequacy was relatively minor, similar for all lakes, and did not significantly bias comparisons among lakes.</p><p>The numbers of individuals caught did not appear to influence species richness in our sampling. When we correlated species richness against the numbers of individuals and In (individuals) for each season only the correlation with In (winter individuals) was significant. If four lakes with 0 or I individuals (and thus no degrees of freedom for species richness) were excluded, this one correlation lost its significance.</p><p>Finally, to test for a time trend in sample species richness, a one-sample runs test and a Spearman rank correlation <ref type="bibr" target="#b86">(Siegel 1956</ref>) of sample richness with sampling sequence were performed. Both tests showed that there was no significant time trend for either sampling season.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fish assemblage analyses</head><p>We used multivariate techniques of classification and ordination to detect assemblage patterns in the fish data. In the matrices, the lakes were rows (entities) and the species were columns (attributes). Classifications were from the CLUSTAN IC package <ref type="bibr" target="#b101">(Wishart 1975)</ref>. Association analysis <ref type="bibr" target="#b100">(Williams and Lambert 1959)</ref>, with sum of chi-square as the maximum attribute sum on which cluster division was based, was used. Ordinations were Bray-Curtis types <ref type="bibr" target="#b33">(Bray and</ref><ref type="bibr">Curtis 1957, Post et al. 1973</ref>). 1.0-S, (Czekanowski's coefficient) was employed as the distance measure; regression was used for endpoint selection <ref type="bibr" target="#b80">(Post et al. 1973)</ref>. Hypotheses generated by the classification-ordination analyses were examined using discriminant analysis programs <ref type="bibr" target="#b82">(Schlater and</ref><ref type="bibr">Learn 1974, Dixon and</ref><ref type="bibr" target="#b42">Brown 1979</ref>).</p><p>Czekanowski's similarity coefficients, Se, between winter and summer fish assemblages were calculated for each lake. These were used as measurements of the seasonal stability of the species compositions. To standardize sampling effort for these summer-winter comparisons, data from gear not used in both seasons were excluded: summer fyke net catches in four lakes (see Fish sampling, above) and all summer trammel net catches.</p><p>Habitat diversities were calculated for each lake with the Shannon-Wiener formula, H' = -1pi In (pi) <ref type="bibr">(Shannon and Weaver 1948)</ref>, where pi is the proportion of all stations in the ith habitat category (from Table <ref type="table" target="#tab_4">2</ref>). Diversities were calculated for the three habitat factors (depth, substrate, vegetation) separately, all two-factor combinations of the three factors, and for the three factors combined, using the components of diversity method <ref type="bibr" target="#b79">(Pielou 1977)</ref>.</p><p>We derived a connectedness parameter for the lake "islands." For seepage lakes, these values were equal to the lakes' watershed areas (Table <ref type="table" target="#tab_0">1</ref>). For drainage lakes, the values also included the watershed areas of the next adjacent lake both upstream and downstream, obtained from <ref type="bibr" target="#b33">Black et al. (1963)</ref>. For Maple and Spruce, seepage lakes with intermittent outlets, we added only one-half of the downstream watershed area. We believe that these connectedness values, while admittedly somewhat arbitrary, are meaningful ecologically because fishes in drainage lakes have the connecting lakes and streams as both potential refuges during severe conditions, and as source areas for potential immigrants.</p><p>To examine the relationships between fish species richness and the lake environments, single and stepwise multiple linear regressions were performed on richness vs. the morphometric, limnological, and habitat diversity factors across all lakes, for each season.</p><p>Multiple regressions were performed on 15 available  (1963; Table <ref type="table" target="#tab_0">1</ref>), and all factors measured in this study (Table <ref type="table" target="#tab_5">3</ref>), except mean depth. Because some factors (pH and the habitat diversity measures) were in a logarithmic form, and because many different units of measurements were used, a log10 transformation was used on all other environmental data. A log-log model was also used on the richness vs. lake area regressions, since this is the most standard way of presenting species-area relationships <ref type="bibr">(Connor and McCoy 1979)</ref>.</p><p>A P = .05 level was used as the entering and leaving criterion for all multiple regressions.</p><p>In addition to the standard stepwise procedure, in which the independent variable that is most highly correlated with the dependent variable is always first to enter the model, the multiple regressions were also run by starting with each independent variable as a base variable <ref type="bibr" target="#b29">(Allen and Learn 1973)</ref>. For this, the regression began with the base variable already included in the model, regardless of its correlation with the dependent variable. In this way, a combination of independent variables more successful (in terms of the probability level of the model's F ratio) than that chosen by the standard route could be identified. Correlations were also calculated among the environmental factors (Appendix I).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fish assemblage composition</head><p>We caught a total of 23 species, 18 in winter and 22 in summer (Appendix II).</p><p>Summer.-In the ordination of summer fish assemblages (Fig. <ref type="figure" target="#fig_2">2a</ref>), the first two axes accounted for 79% of the variation. An association analysis, which divided the assemblages hierarchically into progressively more similar groups, based on the presence and absence of key species, corresponded closely to the results of the ordination. The classification results at the four-group level are demarcated in Fig. <ref type="figure" target="#fig_2">2a</ref>, and <ref type="figure">the</ref> "key" and abundant species of each group are listed in Table <ref type="table">4</ref>.</p><p>The first division of the association analysis was based on the presence of the central mudminnow.   <ref type="table" target="#tab_0">1</ref>). For drainage lakes, the values also included the watershed areas of the next adjacent lake both upstream and downstream.</p><p>t Mean depth was determined by averaging the depths measured at 15-35 sampling stations in each lake (see text). It was not used in the multiple regression analyses. t These were calculated using the general formula H' =-pi In (pi), where pi is the proportion of a habitat category described in Table <ref type="table" target="#tab_4">2</ref> (see text).</p><p>? Maple and Spruce have intermittent outlets. One-half of the adjacent downstream watershed was added to their watershed area from Table <ref type="table" target="#tab_0">1</ref>.</p><p>assemblages with the bullhead, Table <ref type="table">4</ref>). The third division (Fig. <ref type="figure" target="#fig_2">2a</ref>) split the assemblages with mudminnows into Group III (one assemblage with northern pike) and Group IV (six lakes without pike, Table <ref type="table">4</ref>).</p><p>All four Group I assemblages (Table <ref type="table">4</ref>) contained largemouth bass, three contained yellow perch, and three the bluegill. Three Group I lakes are dystrophic, small, seepage, and relatively deep, with much of their shorelines formed from sphagnum mat. They contained 2-4 species. The fourth lake (Maple) also has a considerable proportion of sphagnum shoreline, but is larger, somewhat shallower and connected to a relatively large watershed via an intermittent outlet. With 7 species, Maple's summer assemblage was richer than the other three Group I lakes.</p><p>The seven Group II assemblages (Table <ref type="table">4</ref>), without mudminnow but with black bullhead, had summer richnesses ranging from 5-10 species. Other abundant species were northern pike, white sucker, yellow perch, and pumpkinseed sunfish. All seven lakes are drainage or spring-fed lakes with relatively high levels of conductivity, pH, and other edaphic-productivity related characteristics of mesotrophic to eutrophic lakes.</p><p>The Group IV assemblages had richnesses of 1-1 1 species. All six contained mudminnow, four had yellow perch, and four contained at least two minnow species (Cyprinidae; Table <ref type="table">4</ref>). In contrast with the oth-er groups, these assemblages contained neither large piscivores (pike, bass) nor sunfishes (Centrarchidae). Group IV lakes included four seepage lakes and two drainage lakes with small watersheds. All were shallow, with low to moderate winter dissolved oxygen levels (Tables <ref type="table" target="#tab_1">1</ref>, <ref type="table" target="#tab_5">3</ref>).</p><p>The single Group III assemblage with both mudminnow and pike had a relatively rich summer assemblage of eight species (Table <ref type="table">4</ref>). It shared compositional similarities both with the other lakes with mudminnows (Group IV, e.g., two cyprinids) and the lakes without mudminnows (especially Group II, e.g., pike, black bullhead, pumpkinseed).</p><p>Winter.-The results of the classification and the ordination of the winter assemblages showed little agreement. We felt that the ordination resulted in better patterns (Fig. <ref type="figure" target="#fig_2">2b</ref>). Still, within-group compositional similarity was not high; only 51% of the variation was accounted for by the first two axes. From the ordination, four assemblage groups were subjectively distinguished (Fig. <ref type="figure" target="#fig_2">2b</ref>). Their characteristic species are summarized in Table <ref type="table">4</ref>.</p><p>The four winter groups did not correspond well to the four summer groups. Taken alone, the pattern of winter assemblages yielded few insights. However, as with the species richness patterns (see below), they did show that the relatively clear assemblage relationships of the summer broke down during winter.</p><p>This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to <ref type="url" target="https://about.jstor.org/terms">https://about.jstor.org/terms</ref> 4 UMBRA-CYPRINID 3 ................. Y .. ,., , , ~~~~~~~~~~~~~~~........ ........ LLCO. , , , , , I _ o 0.1 0.3 05 0.7 0.9 m~ 4 C EN T RA RC HID -E SOX 0.0 0.2 0.4 0.6 0.8 1.0 SEASONAL SI M ILAR ITY (SC ) FIG. 3. Seasonal (summer/winter) similarities (Se) for Umbra-c yprinid (above) and centrarchid-Esox (below) fish assemblages, based on an equal sampling effort (see Methods).</p><p>Summer-winter (combined). -Although the two single-season analyses differed greatly, we were interested in obtaining a more complete, year-round picture of the fish assemblages. To do this, the classification and ordination analyses were run with summer and winter data sets combined. The classification results</p><p>with the combined data were identical to those of the summer. The ordination (Fig. <ref type="figure" target="#fig_2">2c</ref>), however, did show influence of the winter assemblages (e.g., Aurora, Maple, and Mill were not especially similar in either season alone, but, showing a similar summer-winter response, they were grouped closely together). Two assemblage types were distinguished from the ordination (Fig. <ref type="figure" target="#fig_2">2c</ref>).</p><p>The six assemblages with mudminnow but without pike during summer (Group IV, Fig. <ref type="figure" target="#fig_2">2a</ref>) maintained their integrity as a group especially well on the first axis of the combined ordination. This axis accounted for 36% of the variation, the first two axes 56%. The presence of mudminnow in both seasons appeared to be a key factor. These six lakes appeared to form a distinct fish assemblage type. We call them "Umbracyprinid assemblages" in Fig. <ref type="figure" target="#fig_2">2c</ref>, after their characteristic component species.</p><p>The other 12 lakes made up the second major group, which we call "centrarchid-Esox assemblages" in Fig. <ref type="figure" target="#fig_2">2c</ref>. The two groups without mudminnow in summer (Groups I and II, Fig. <ref type="figure" target="#fig_2">2a</ref>) were not as distinct when winter data were included. The single Group III lake in Fig. <ref type="figure" target="#fig_2">2a</ref> also grouped with these 11 lakes when the winter data were included (Fig. <ref type="figure" target="#fig_2">2c</ref>).</p><p>Seasonal  <ref type="table">4</ref>. A summary of species composition of the four fish assemblage groups from the summer sampling (upper) and the winter sampling (lower) identified by the ordination-classification analyses of Figs. 2a and 2b, respectively. Species listed include those denoted as "key" species by the association analysis and those that were numerically abundant in a majority of lakes of each group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summer</head><p>Group I Group II Group III Group IV (2-7 species) (5-10 species) ( <ref type="formula">8</ref>species) (1-11 species) Largemouth bass Black bullhead Mudminnow Mudminnow Yellow perch Northern pike Northern pike Yellow perch Bluegill White sucker Black bullhead Golden shiner Yellow perch Yellow bullhead Redbelly dace Pumpkinseed Pumpkinseed Winter Group I Group II Group III Group IV (() I species) (1-4 species) (1-7 species) (4-6 species) Pumpkinseed Yellow perch Mudminnow Mudminnow or no species present Black bullhead Pearl dace Golden shiner Yellow perch This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to <ref type="url" target="https://about.jstor.org/terms">https://about.jstor.org/terms</ref>  Separation of the two groups was distinct in the plot of the 18 assemblages along the discriminant function (Fig. <ref type="figure">4a</ref>). All Umbra-cyprinid and centrarchid-Esox assemblages were correctly classified. The summer occurrences of mudminnow and redbelly dace and the winter presence of mudminnow best defined the Umbra-cyprinid assemblage type, while the summer presence of northern pike, pumpkinseed sunfish, and white sucker best defined the centrarchid-Esox assemblage type, as indicated by F ratios from univariate F tests <ref type="bibr" target="#b91">(Tonn 1980)</ref>. The summer presence of mudminnow, golden shiner, and bluntnose minnow provided the greatest discriminatory power to the discriminant function.</p><p>A discriminant analysis also was applied to the logtransformed environmental data on the Umbra-cyprinid and the centrarchid-Esox lakes. Our purpose was to evaluate the environmental distinctness between the two groups of lakes, and to help identify environmental factors contributing to their separation. Lakes were plotted in the reduced discriminant space, after <ref type="bibr" target="#b48">Green and Vascotto (1978)</ref>. Lakes were classified by the type of fish assemblage present, from the previous analyses. A clear separation of the two groups resulted (Fig. <ref type="figure">4b</ref>), with all lakes correctly classified. Individual factors which best defined the two groups included our lake connectedness measurement, lake area, and substrate diversity. The three-component habitat complexity variable (depth, substrate, and vegetation) depth-vegetation diversity and depth-substrate diversity contributed most to the discriminatory power of the discriminant function.</p><p>Thus, we found two groups of lakes having both distinctive fish species compositions and environments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fish species richness</head><p>Summer.-The relationships between species richness and some environmental factors were similar in summer for the Umbra-cyprinid and centrarchid-Esox assemblages (Table <ref type="table" target="#tab_8">5</ref>). For example, vegetation diversity appeared as the most important single component of habitat structure in both assemblage types. Lake area was also significantly related to richness for both assemblage types.</p><p>Other environmental factors were significantly related to richness in one assemblage type but not the other. Lake connectedness was significantly related to summer richness in centrarchid-Esox assemblages but not for the Umbra-cyprinid type (Table <ref type="table" target="#tab_8">5</ref>). Similarly, pH, conductivity, and alkalinity were also significantly related to richness in the centrarchid-Esox lakes, but not for Umbra-cyprinid assemblages (Table <ref type="table" target="#tab_8">5</ref>). The three-component habitat complexity factor and winter oxygen were significantly related to richness for the Umbra-cyprinid assemblage type, but they were not for centrarchid-Esox assemblages (Table <ref type="table" target="#tab_8">5</ref>). However, except for depth and depth-substrate diversity, the correlation coefficients between species richness and each environmental factor had the same sign in both assemblage types during summer. ences between the two assemblage types. For Umbracyprinid assemblages lake area and winter oxygen levels accounted for the most variation (Table <ref type="table" target="#tab_8">5</ref>).</p><p>Species richness increased with lake area and decreased with increasing winter oxygen levels. For centrarchid-Esox assemblages lake connectedness and depth diversity explained the most variation (Table <ref type="table" target="#tab_8">5</ref>).</p><p>Species richness increased with lake connectedness and with depth diversity.</p><p>Winter. -The winter relationships in centrarchid-Esox assemblages were quite different from their summer patterns (Table <ref type="table" target="#tab_8">5</ref>). Species richness increased significantly with maximum depth and with winter dissolved oxygen levels, instead of decreasing as it did in summer (Table <ref type="table" target="#tab_8">5</ref>). Although the regressions for other factors were not statistically significant, 13 of 15</p><p>were opposite in sign from their summer patterns (Table <ref type="table" target="#tab_8">5</ref>). When we correlated the differences in richness within a lake between summer and winter (corrected for equal sampling) with the environmental variables, significant correlations were found with vegetation diversity, the three-factor habitat complexity, alkalinity, lake connectedness, and winter oxygen levels. In the multiple linear regression, maximum depth and alkalinity were included in the model (Table <ref type="table" target="#tab_8">5</ref>). Richness was greater in centrarchid-Esox lakes with greater depths and higher alkalinities.</p><p>For Umbra-cyprinid assemblages, relationships between species richness in winter and environmental factors were similar to those for the summer, although only substrate-vegetation diversity was statistically significant (Table <ref type="table" target="#tab_8">5</ref>). Richness increased with substrate-vegetation diversity. The within-lake differences in species richness between summer and winter were not significantly related to any environmental factor. In the multiple regression analysis only substrate-vegetation diversity was entered (Table <ref type="table" target="#tab_8">5</ref>).</p><p>Thus the two assemblage types, identified initially by differences in species composition, also differ in their species richness patterns, particularly in the seasonal changes in richness. These species richness differences might easily have gone unnoticed if only summer patterns in richness had been investigated. These richness differences undoubtedly reflect differences in the assemblage structuring mechanisms and/or show that the same mechanisms can have opposite consequences in two different assemblage types of the same region.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The ecological maintenance of the assemblage types</p><p>We found two discrete fish assemblage types, "Umbra-cyprinid" and "centrarchid-Esox," each having broadly repeatable patterns of species composition and seasonal stability. Both species composition and richness were seasonally stable in Umbra-cyprinid assemblages, but were seasonally dissimilar in centrar-</p><p>1 2 -I ? E z CENTRARCHID-W _ ESOX LAKES o 6--UMBRA-CYPRINID Z 4_ LAKES 2-61 3 I 0 0.5 1.0 1.5 2.0 2.5 LOG (LAKE CONNECTEDNESS + I)</p><p>FIG. <ref type="figure">5</ref>. A direct gradient ordination of the 18 study lakes. Lakes with Umbra-cyprinid fish assemblages are those with low levels of oxygen during winter and low connectedness. Lakes with centrarchid-Esox assemblages either have high winter oxygen levels or are connected to large watersheds via inlet or outlet streams which can serve as refuges from low oxygen conditions. chid-Esox assemblages, especially in those occurring in productive, low winter oxygen, drainage lakes.</p><p>What causes the occurrence of these two discrete fish assemblage types? We believe that a combination of winter oxygen concentration and lake connectedness is most clearly related to the type of fish assemblage that was present. This can be seen in a "direct gradient analysis" ordination <ref type="bibr" target="#b98">(Whittaker 1973)</ref>, plotting the lakes in winter oxygen vs. lake connectedness space (Fig. <ref type="figure">5</ref>).</p><p>Where winter oxygen levels are high, centrarchid-Esox assemblages occur, with largemouth bass as the usual top predator. In lakes with low oxygen levels, the type of fish assemblage present appears to depend on the presence or absence of a connection to a large watershed, whose streams or lakes can act as refuges from the low oxygen conditions. Lakes having direct connections to a stream or lake had centrarchid-Esox assemblages in summer. Northern pike tended to be the top predator in these lakes. During winter, as oxygen levels dropped, we hypothesize that most fish migrate out of these lakes into stream or lake refuges. In low oxygen lakes without such a refuge, Umbracyprinid assemblages occur.</p><p>Species inhabiting the Umbra-cyprinid lakes are, in general, better able to survive in lakes with low winter oxygen levels than species restricted to centrarchid-Esox lakes <ref type="bibr" target="#b73">(Moore 1942</ref><ref type="bibr" target="#b38">, Cooper and Washburn 1946</ref><ref type="bibr" target="#b77">, Petrosky and Magnuson 1973</ref><ref type="bibr" target="#b46">, Gee et al. 1978</ref><ref type="bibr" target="#b62">, Klinger et al. 1982</ref> The redistribution of fish under the ice in lakes of reduced oxygen levels has previously been observed <ref type="bibr">(Moyle and</ref><ref type="bibr">Clothier 1959, Mills 1972</ref>, J. J. Magnuson, personal observation), including the aggregation around inlet/outlet streams <ref type="bibr" target="#b38">(Cooper and</ref><ref type="bibr">Washburn 1946, Johnson and</ref><ref type="bibr" target="#b56">Moyle 1969)</ref>. The actual migration of fish out of a low oxygen lake into the outlet has also been observed <ref type="bibr" target="#b56">(Johnson and Moyle 1969</ref>, J. J. Magnuson, personal observation). <ref type="bibr" target="#b56">Johnson and Moyle (1969)</ref> observed the migration of northern pike, which was a prominent summer component in all of our centrarchid-Esox drainage lake assemblages, but which was never caught in these lakes during winter.</p><p>A similar pattern, involving a switching of assemblage composition from one type to another, was noted by <ref type="bibr" target="#b57">Jones (1973)</ref>. When a large creek was disconnected from a shallow, heavily vegetated lake which often experienced low winter oxygen levels, the fish assemblage in the lake was reduced from 11 to 4 species. The species composition changed from one similar to our centrarchid-Esox assemblages to one like our Umbra-cyprinid pattern. <ref type="bibr" target="#b57">Jones (1973)</ref> attributed the change to the removal of the creek refuge as a source for annual repopulation of the lake by the centrarchid-Esox assemblage after winter. Other changes in species composition as a result of severe winterkill have been reported in Michigan <ref type="bibr" target="#b32">(Beckman 1948)</ref> and Illinois lakes <ref type="bibr" target="#b33">(Bennett 1948)</ref>.</p><p>While this low winter oxygen disturbance/stream refuge hypothesis can explain why centrarchid-Esox species are absent from Umbra-cyprinid lakes (and from their low-oxygen drainage lakes during winter), it does not address the complementary pattern: why are Umbra-cyprinid species rare or absent from centrarchid-Esox lakes'? A number of factors may be involved, including predation and/or competition, working together with differences in habitat complexity.</p><p>One of the most readily apparent ecological differ- With the exception of brook stickleback, species found primarily in Umbra-cyprinid assemblages are small, soft-rayed forms while their "replacements,"</p><p>those species restricted to centrarchid-Esox lakes, are chiefly larger, spiney-rayed forms. Most species present in both assemblage types also have spines (yellow perch and black bullhead) or become large (white sucker). Because spines are antipredator devices <ref type="bibr" target="#b53">(Hoogland et al. 1957)</ref>, they could promote coexistence with large predators. Likewise, if both spiney and spineless species co-occurred with piscivores, the spineless species should be selected by the predators <ref type="bibr" target="#b53">(Hoogland et al. 1957</ref><ref type="bibr" target="#b65">, Lewis et al. 1961</ref>) and would more likely be eliminated from the lake.</p><p>As an alternative hypothesis, centrarchids might competively exclude the Umbra-cyprinid species from centrarchid-Esox lakes. These sunfishes are generalized foragers, taking a wide variety of invertebrates from the sediments, vegetation, and open water, while the cyprinids often specialize on prey in the plankton (e.g., golden and blacknose shiners), on vegetation (e.g., redbelly dace), or even detritus (fathead minnow) <ref type="bibr" target="#b61">(Keast and Webb 1966</ref><ref type="bibr" target="#b59">, Keast 1970</ref><ref type="bibr">, 1978</ref><ref type="bibr" target="#b93">, Werner and Hall 1976</ref><ref type="bibr">, 1977</ref><ref type="bibr">, 1979</ref><ref type="bibr">, Gascon and Leggett 1977</ref><ref type="bibr">, Werner et al. 1977</ref><ref type="bibr">, Hall et al. 1979)</ref>. Sunfishes should also eat a wider variety of prey sizes than the smaller cyprinids, mudminnow, or stickleback (Werner 1979). This generalization of foraging site, prey type, and prey size has contributed to the general success of sunfishes in small glacial lakes <ref type="bibr">(Werner et al. 1977, Werner and</ref><ref type="bibr">Hall 1979)</ref>. The particular combination of habitat structure and prey types and sizes present in centrarchid-Esox lakes may be well suited to the sunfishes, and resulting competition may lead to the exclusion of the Umbra-cyprinid specialists.</p><p>However, many of these hypothesized cyprinid-centrarchid competitors successfully coexist in other types of lakes <ref type="bibr">(Werner et al. 1977</ref><ref type="bibr" target="#b59">, Keast 1978</ref><ref type="bibr">, Hall et al. 1979)</ref>.</p><p>This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to <ref type="url" target="https://about.jstor.org/terms">https://about.jstor.org/terms</ref> </p><p>The predation hypothesis appears to offer the simplest explanation as to why the Umbra-cyprinid species were rarely found in the centrarchid-Esox lakes. Thus, we feel that combinations of physical and biological disturbances and refuges from these disturbance agents are the major factors responsible for the ecological maintenance of these two assemblage types. Specifically, disturbances come in the forms of low oxygen levels during winter, and predation. Refuges are provided by connections to well oxygenated streams or by the absence of predators due to low winter oxygen conditions. In lakes with predators, heavy densities of macrophytes may provide limited refuges from predation, allowing small populations of some Umbra-cyprinid species to persist. Because of these combinations of disturbances and refuges, we agree with <ref type="bibr" target="#b102">Woodin (1978)</ref> that communities can be viewed as "compilations of species successfully exploiting refuges in space and/or time."</p><p>Species richness in the twvo assemblage types</p><p>Productivity and habitat complexity.-Summer species richness in both assemblage types was highly correlated with measurements related to habitat complexity, particularly vegetation diversity (Table <ref type="table" target="#tab_8">5</ref>).</p><p>Summer richness in centrarchid-Esox assemblages, but not in the Umbra-cyprinid lakes, was significantly related to factors related to productivity (pH, alkalinity, conductivity, total dissolved solids; Table <ref type="table" target="#tab_8">5</ref>).</p><p>Habitat complexity has often been implicated as an important determinant of species richness in aquatic habitats. <ref type="bibr" target="#b97">Werner et al. (1978)</ref>, in a comparison of centrarchid lakes with similar structures from two different regions (Michigan and Florida), suggested the assemblages were "saturated," and that habitat structure and morphometry strongly influenced the numbers of fish species that could coexist. <ref type="bibr" target="#b59">Keast (1978)</ref> came to similar conclusions about many of the smaller, glacierformed lakes in North America. Niche segregation and complementarity have been observed in centrarchiddominated assemblages <ref type="bibr">(Werner et al. 1977</ref><ref type="bibr">, 1978</ref><ref type="bibr">, Keast et al. 1978)</ref>. Since most species' niches proved distinct with regard to one or more habitat factors, the number of coexisting fish species should increase with increased habitat complexity and heterogeneity.</p><p>Species diversity in several stream fish assemblages is also closely related to habitat complexity <ref type="bibr" target="#b85">(Sheldon 1968</ref><ref type="bibr" target="#b91">, Tramer and Rogers 1973</ref><ref type="bibr" target="#b47">, Gorman and Karr 1978)</ref>.</p><p>If the habitat complexity: niche complementarity:</p><p>species richness relationship applies in our assemblages, vegetation diversity should be identified as a major factor related to species richness. Because we limited the range of substrates and depths by our selection of lakes, ranges of diversity were relatively small for these habitat factors. Thus, if habitat complexity contributed to species richness, vegetation represents the primary habitat dimension along which niche segregation and species packing could be demonstrated in our study. Also, we noted previously that vegetation may provide refuges from predation in centrarchid-Esox lakes and contribute to higher species richness.</p><p>More productive habitats should allow for greater dietary specialization under conditions of evolutionary equilibrium <ref type="bibr" target="#b66">(Mac Arthur 1972)</ref>. Certain resources in productive habitats may be able to support a species when they would be unable to do so in unproductive habitats <ref type="bibr" target="#b66">(Mac Arthur 1965)</ref>. Productivity, particularly associated with increased benthic and planktonic food levels, has been related to fish species diversity elsewhere <ref type="bibr" target="#b75">(Nakashima et al. 1977)</ref>. The reason(s) why productivity-related factors appear important in centrarchid-Esox assemblages but not in Umbra-cyprinid assemblages is not known, but might be related to a dichotomy between equilibrium and nonequilibrium assemblage types. This idea will be discussed below.</p><p>Environmental disturbance.-In Umbra-cyprinid lakes higher species richness in summer was associated with lower levels of dissolved oxygen in winter.</p><p>This may imply a disturbance-related mechanism. The lowest oxygen levels (0.07 mg/L in Gateway, 0.52 mg/ L in Grassy, 0.56 mg/L in Mystery) are usually considered "severe," capable of killing many species <ref type="bibr">(Moore 1942, Cooper and</ref><ref type="bibr" target="#b38">Washburn 1946)</ref>. Yet these lakes were the richest of the Umbra-cyprinid lakes.</p><p>Environmental disturbance, including severity, instability, and unpredictability, has been associated</p><p>with both increased and decreased diversity in many aquatic and terrestrial systems. <ref type="bibr" target="#b63">Kushlan (1976)</ref>, <ref type="bibr" target="#b70">Mahon and Balon (1977)</ref> and <ref type="bibr" target="#b54">Horwitz (1978)</ref> all found lower fish species diversity in unstable environments. <ref type="bibr" target="#b97">Werner et al. (1978)</ref> felt that some of the differences in fish assemblages between their lakes derived from fluctuations in water level. <ref type="bibr" target="#b47">Gorman and Karr (1978)</ref> found that their significantly positive relationships between habitat diversity and fish species diversity broke down in stream environments that were unstable due to flooding or human activities.</p><p>At "intermediate" levels of frequency or intensity, environmental disturbance can promote species richness <ref type="bibr" target="#b36">(Connell 1978</ref><ref type="bibr" target="#b55">, Huston 1979</ref>). An excellent example is the work on a marine epifaunal community by <ref type="bibr" target="#b76">Osman (1977)</ref>. Diversity was highest on intermediate-sized rocks because of their "optimal" frequency of disturbance. <ref type="bibr" target="#b90">Thomson and Lehner (1976)</ref> indicated that environmental instability may have favored increased diversity in an intertidal fish assemblage. In spite of the growing theoretical discussions and field evidence from a variety of communities, we are unaware of any studies that demonstrate, or even implicate, environmental disturbance as a major mechanism promoting species richness in freshwater fish assemblages. This cannot be due to the absence of  <ref type="bibr" target="#b64">Larimore et al. 1959</ref><ref type="bibr" target="#b63">, Kushlan 1976</ref><ref type="bibr" target="#b47">, Gorman and Karr 1978</ref><ref type="bibr" target="#b52">, Harrell 1978</ref><ref type="bibr" target="#b54">, Horwitz 1978</ref>), low winter oxygen levels in "winterkill" lakes <ref type="bibr" target="#b49">(Greenbank 1945</ref><ref type="bibr" target="#b38">, Cooper and Washburn 1946</ref><ref type="bibr" target="#b83">, Schneberger 1970)</ref>, seasonal fluctuations in the abundance and distribution of critical resources in temperate lakes <ref type="bibr">(Hall and</ref><ref type="bibr">Werner 1977, Keast 1978)</ref> or the effects of human activities (e.g., <ref type="bibr" target="#b47">Gorman and Karr 1978)</ref>.</p><p>Low winter oxygen levels might increase species richness simply by acting as a rarefying agent, reducing population levels below saturation so that species coexistence is possible at less intense competition.</p><p>This would particularly be likely if the most susceptible species to winterkill are the dominant predators or competitors of the assemblage (W. M. Tonn, personal observation). <ref type="bibr" target="#b32">Beckman (1948)</ref> and <ref type="bibr" target="#b33">Bennett (1948)</ref> found that growth increased in fish surviving population reductions caused by a severe winterkill and attributed this to increased food per fish. Apparently, competition for food had been reduced.</p><p>In winter, richness in centrarchid-Esox assemblages was higher in lakes with higher winter oxygen levels (Table <ref type="table" target="#tab_8">5</ref>). Thus, richer winter assemblages of this type occurred in the more "benign" environments in terms of oxygen concentrations, the opposite of that found in Umbra-cyprinid assemblages. Winter oxygen levels were as low in Umbra-cyprinid lakes as in the depauperate centrarchid-Esox lakes, though they were apparently not as "severe" to the more tolerant Umbracyprinid species, and thus did not supress winter richness. This also implicates an "intermediate" disturbance mechanism operating to increase richness in Umbra-cyprinid assemblages.</p><p>Lake environments with low oxygen levels may be "severe" for the centrarchid-Esox species, reducing winter richness in the lakes themselves. However, the availability of stream/lake refuges may effectively eliminate any significant "disturbance" to the populations, so that when the fish return to the lake in the spring, the summer species richness of the lake returns to its relatively high level. Thus, although the seasonal richness patterns in the lakes themselves were measured to be unstable, the equilibria of the populations might be maintained.</p><p>Insular factors.-The second factor included in the multiple regression analysis of richness in Umbra-cyprinid assemblages was surface area (Table <ref type="table" target="#tab_8">5</ref>). <ref type="bibr" target="#b30">Barbour and Brown (1974)</ref> were the first to look at fish species richness in lakes as a problem of island biogeography. Their analysis of species-area curves, primarily in large lakes, yielded slopes of the log-log regressions that tended to be lower for lake fishes than for plants and animals on oceanic islands. They attributed this to either the relative homogeneity of lake environments as compared to isolated terrestrial habitats, and/ or to historical events that may tend to prevent large lakes from acquiring as many species as they can support ecologically.</p><p>The summer species-area slope for the Uinbra-cyprinid assemblages was 0.62, much higher than the range discussed by <ref type="bibr" target="#b30">Barbour and Brown (1974)</ref> for assemblages with greater than equilibrial numbers of species. For centrarchid-Esox assemblages, the slope was 0.29, in the middle of the range noted by Barbour and Brown for lakes whose fish assemblages are in equilibrium between colonization and extinction.</p><p>While the cause(s) of these different species-area relationships are not known, the values are consistent with the hypothesis that centrarchid-Esox assemblages are in ecological equilibrium, while disturbance-induced disequilibrium characterizes Umbra-cyprinid assemblages.</p><p>Summer species richness in the centrarchid-Esox assemblages was also significantly related to the biogeographically important factor of insular connectedness (Table <ref type="table" target="#tab_8">5</ref>). A lake which has greater insular connectedness should have an increased immigration rate and a richer assemblage at equilibrium <ref type="bibr">(Mac Arthur and</ref><ref type="bibr">Wilson 1967, Magnuson 1976</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUMMARY AND CONCLUSIONS</head><p>We summarize the structural characteristics of the fish assemblages in our small lakes by a list of assembly patterns. Some were directly supported by our results (as indicated by a "D" following the pattern).</p><p>Others received only partial or indirect support (as indicated by an "I") and require further investigation for direct confirmation, modification, or refutation.</p><p>1) Large piscivorous fishes are absent from lakes with low concentrations of dissolved oxygen in winter and no stream refuges from these conditions (D). 2) In lakes with high concentrations of dissolved oxygen in winter, or with refuges from low oxygen conditions provided by streams or connecting lakes, large piscivores are present in the summer (D).</p><p>3) Small species tolerant to low oxygen, such as the mudminnow and several cyprinids, form important year-round components of the fish assemblages in lakes without piscivores (D). 4) In those lakes containing large piscivores, the remaining fishes are dominated by medium-sized, spiney-rayed species such as centrarchids, bullheads and yellow perch. The small, soft-rayed species of the piscivore-free assemblages are either rare or absent in lakes with large piscivores, just as centrarchids, along with piscivores, are absent from low winter oxygen lakes (D).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5)</head><p>In small seepage lakes with high winter oxygen levels, the top predator tends to be largemouth bass. The fish assemblages are similar in summer and winter (D). 7) Winter oxygen level is an important determinant of species richness in "Umbra-cyprinid" lakes in both summer and winter. The relationship is negative and suggests a disturbance-related mechanism operating to increase richness. The species-area slope for these assemblages also is consistent with the hypothesis that disturbance-induced rarefaction is maintaining greater than equilibrial numbers of species in the richer of these assemblages (I).</p><p>8) Productivity, habitat complexity, and lake connectedness are significantly related to summer species richness in "centrarchid-Esox" lakes.</p><p>These are basic components of equilibrium theories of diversity. The species-area slope of these assemblages is in the range of lakes whose fish assemblages are hypothesized to be at equilibrium (I).</p><p>The identification of these assembly patterns describes what we feel are ecologically striking fish assemblage structures which appear to result from deterministic mechanisms of assemblage maintenance.</p><p>Only now that these patterns have been described can meaningful, specific hypotheses be tested by intensive autecological or experimental studies.</p><p>Lakecy z E &amp;-^-' D u c* X ' t e 1. Apeekwa W S S 2. Aurora S S S S 3. Blueberry 4. Camp 2 * * * 5. Gateway * 5 * 5 * 6. Grassy * * 5 * * * 7. Johnson W S S 8. Landing S * 5 9. Little Rice S 10. Maple S 11. Mill W S S S 12. Mystery * * * * 13. Nixon S 1 4. Spruce 15. Whitney S W 16. Whynot W 17. 33-6 * 18. 33-13 * Appendix II Continued. _E _E~~~~~~~~~~~~~~~~~ cL -. z -v E 5 * 5 * 5 * 5 C-E 5 S * S C-E * 5 * * C-E * U-C * ~~~~~~~~~~~~~~~U-C </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>jor factors: a history of low oxygen concentration in This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to https://about.jstor.org/terms</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>-13 S 2.8 2.6 3.0 0.2 1.8 12 25 6.0 ? ? * D = drainage lake, having an inlet and outlet; Spr = or outlet. t Shoreline development factor = S/2VaTh, where S = length of shoreline and a = area of lake. t + = known or suspected history of winterkill; 0 = no history of winterkill; ? = no information on winterkill history. ? M = muck; S = sand; G = gravel; ? = no information. I Maple and Spruce have intermittent outlets. winter, water source (drainage or spring-fed vs. seepage), surface area, maximum depth, and predominant substrate type. Eight lakes had a history of low winter oxygen conditions. Ten lakes were drainage or springfed (and thus had inlets and/or outlets) and eight lakes were seepage (no inlets or outlets), though two of the seepage lakes had intermittent outlets (P. Brenner, personal communication; W. M. Tonn, personal observation). An attempt was made to select lakes spanning a variety of surface areas while keeping maximum depths and predominant substrate types of all study lakes similar.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FIG. 2 .</head><label>2</label><figDesc>FIG. 2. Bray-Curtis ordinations of fish assemblages for the 18 study lakes in 1978. Lakes are numbered as in Table 1. (a) Summer. Key species, on whose presence or absence the first three divisions of the association analysis are based, are given for the four groups distinguished; (b) Winter; and (c) Summer and winter combined.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>imum depth, alkalinity, and pH from Black et al.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>(</head><figDesc>Scientific names for all species are provided in Appendix II.) The 7 assemblages with mudminnow had richnesses of 1-11 species (x = 5.6), while the 11 assemblages without mudminnow ranged from 2-10 (xt = 6. 1) species. The second division (Fig. 2a) split assemblages without mudminnows into Group I (four assemblages without black bullhead), and Group II (seven This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to https://about.jstor.org/terms</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc>similarity.-The within-lake similarities in species composition between winter and summer (based on equal sampling; see Methods) were greater in Umbra-cyprinid assemblages (S. = .90) than in centrarchid-Esox assemblages (S. = .35, Fig.3); the two assemblage types were significantly different (Wilcoxon rank sum test). Thus, Umbra-cyprinid assemblages were not only similar in their species compositions, but also in the seasonal stability of their compositions. The significantly lower seasonal similarities of centrarchid-Esox assemblages generally resulted from reduced species richness during the winter.Discriminant analyses.-To describe quantitatively the separation of the two assemblage types identified above (Umbra-cyprinid and centrarchid-Esox) we applied discriminant analysis to the combined summerwinter data on species presence/absence. Lakes were assigned to one of the two assemblage types from the classification-ordination analyses, and the percentages TABLE</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><figDesc>Multiple linear regressions between summer rich-This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to https://about.jstor.org/terms ness and environmental factors also revealed differ-</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><figDesc>, J. J.Magnuson, personal observation). In This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to https://about.jstor.org/terms our study, all 12 species caught in Umbra-cyprinid lakes during the summer were also caught in these lakes during winter, at oxygen concentrations &lt;1.0 mg/L. Several centrarchid-Esox lakes also had low levels of dissolved oxygen during winter, but they were distinguished by having greatly reduced, or even nonexistent, winter fish assemblages. Although sampling biases may have contributed to the depauperate winter assemblages, we believe that seasonal emigration accounts for most cases. The evidence, though indirect, comes from several independent lines. Many of the species missing in these centrarchid-Esox drainage lakes during the winter were caught with the same gear in Urnbra-cyprinid lakes and other centrarchid-Esox lakes. Thus they were susceptible to the gear when present. For these centrarchid-Esox drainage lakes, similarities (S..) between seasons were significantly lower than for centrarchid-Esox seepage lakes (Wilcoxon rank sum test).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><figDesc>ences between the two assemblage types is the presence of large piscivorous species (largemouth bass and/or northern pike) in all 12 centrarchid-Esox assemblages, and their complete absence in Umbra-cyprinid lakes (Appendix II). Do these top predators eliminate the minnows, mudminnows, and sticklebacks from centrarchid-Esox lakes? Are Umbra-cyprinid lakes refuges from predation just as centrarchid-Esox lakes appear to provide refuges from low winter oxygen conditions? Perhaps predators lowered population levels to the point of local extinction<ref type="bibr" target="#b103">(Zaret and Paine 1973)</ref>. Possibly the habitat in most of the centrarchid-Esox lakes offers little refuge from predation. The few centrarchid-Esox lakes in which species characteristic of Umbra-cyprinid assemblages occurred had the most rooted macrophytes, and this dense cover may have provided sufficient refuge to allow the coexistence of small populations of cyprinids or mudminnows.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><figDesc>these conditions. Disequilibria actually or potentially occur due, for example. to floods and droughts (Star-This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to https://about.jstor.org/terms rett 195 1,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>6</head><figDesc>) Conversely, in larger drainage lakes with low winter oxygen levels, the top predator tends to be northern pike. The fish assemblages are seasonally unstable, being much reduced in richness during This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to https://about.jstor.org/terms winter. Most populations apparently emigrate from these drainage lakes during winter, obtaining refuge from the low oxygen conditions (I).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><figDesc>This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to https://about.jstor.org/terms</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 .</head><label>1</label><figDesc>Morphometric and limnological characteristics of the 1</figDesc><table><row><cell>1963).</cell></row><row><cell>Shore-</cell></row><row><cell>Maxi-line Conduc-History Pre-</cell></row><row><cell>mum develop-Alkalinity tivity of low dominant</cell></row><row><cell>Water Area Watershed depth Length ment (CaCO3 (QS/cm) winter substrate</cell></row><row><cell>Lake source* (ha) (kM2) (m) (km) factor mg/L) at 20'C pH oxygen types?</cell></row><row><cell>1. Apeekwa D 76.1 33.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 )</head><label>1</label><figDesc>, several physical, chemical, and habitat complexity factors were measured for each lake during the 48-h</figDesc><table><row><cell>A X 6 1 0 L ~~0 6 6 C0</cell></row><row><cell>FIG.~~~~~ ~ ~~ 1. Ma fVlsCutWsosn i ony</cell></row><row><cell>study ~ ~ ~ ~ ~ ~ ~~~7 laeCr oae.Suylks(oihlakaes r ubrda nTbe1</cell></row><row><cell>fish sampling periods. Each factor was measured in</cell></row><row><cell>one season only, but all measurements occurred at</cell></row><row><cell>midday, 1100-1300. Some measurements were made</cell></row><row><cell>in the alternate season to check for seasonal variation.</cell></row></table><note><p>This content downloaded from 71.192.241.229 on Thu, 08 May 2025 22:16:14 UTC All use subject to https://about.jstor.org/terms</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>TABLE 2 .</head><label>2</label><figDesc>Descriptions of the five depth, five substrate, and seven vegetation categories used in calculating habitat diversity Xk is the number of species in the second sample, and XAdk is the number of species common to both samples</figDesc><table><row><cell>measurements.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell cols="2">Habitat category</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Habitat</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>variable</cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>6</cell><cell>7</cell></row><row><cell cols="6">Depth (m) 0.00-0.50 0.51-1.00 1.01-2.00 2.01-4.00 4.01-8.00</cell><cell></cell><cell></cell></row><row><cell cols="6">Substrate &gt;50 litter 1-50 litter; 0-49 sand; 1-50 muck; 0-49 gravel;</cell><cell></cell><cell></cell></row><row><cell cols="6">(% of 50-99 muck 51-100 muck 50-99 sand 51-100 sand</cell><cell></cell><cell></cell></row><row><cell>each type)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="8">Vegetation e f s e, f e, s f, s e, f, s</cell></row><row><cell>(type</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>present)*</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>_2 Xjk</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Xj + Xk</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">where x1 is the number of species in the first sample,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>* e = emergent (e.g., Sagittaria); f = floating (e.g., Nuphar); s = submergent (e.g., Anacharis).</p><p>(Bray and Curtis 1957). Se for Grassy, 33-13, and Mill were 0.90, 1.00, and 0.86 respectively. Since this replicate sampling involved a doubling or tripling of the effort but yielded a total change of only one species in Grassy, one in Mill, and none in 33-13, we concluded that our level of effort was sufficient to obtain almost all susceptible species. Thus our assumption</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>TABLE 3 .</head><label>3</label><figDesc>Morphometric, limnological, and habitat diversityWinter tivity solids Mean Depth-Depth-strate-strateedness* oxygen (ItS/cm) (TDS) depth Sub-Vegeta-sub-vegeta-vegeta-vegeta-For seepage lakes, these values are equal to the lakes' watershed areas (Table</figDesc><table><row><cell cols="2">Total Diversity (H')t</cell></row><row><cell>dis-</cell><cell>Depth-</cell></row><row><cell cols="2">Lake Conduc-solved Sub-sub-</cell></row><row><cell cols="2">connect-Lake (kM2) (mg/L) at 20C (mg/L) (m)t Depth strate tion strate tion tion tion</cell></row><row><cell cols="2">1. Apeekwa 117.8 2.36 107 98 1.14 0.90 0.95 1.69 1.71 1.88 2.20 2.20</cell></row><row><cell cols="2">2. Aurora 35.7 0.28 130 95 0.66 0.91 0.55 1.62 1.21 2.45 1.52 2.52</cell></row><row><cell cols="2">3. Blueberry 0.5 9.14 36.5 8 2.63 1.16 1.25 0.37 2.02 1.51 1.53 2.13</cell></row><row><cell cols="2">4. Camp 2 0.5 2.44 58 38 1.08 0.69 0.51 1.08 1.00 1.58 1.41 1.83</cell></row><row><cell cols="2">5. Gateway 0.3 0.07 141 114 1.09 1.02 0.50 0.93 1.38 1.73 1.48 2.03</cell></row><row><cell cols="2">6. Grassy 10.1 0.52 112.5 68 0.64 0.88 0.58 1.47 1.37 2.10 1.53 2.34</cell></row><row><cell cols="2">7. Johnson 185.2 6.48 92 39 1.54 1.20 0.00 0.58 1.20 1.61 1.09 1.61</cell></row><row><cell cols="2">8. Landing 22.0 1.58 130.5 74 1.72 0.83 1.30 0.78 1.89 1.51 1.54 2.03</cell></row><row><cell cols="2">9. Little Rice 255.1 0.00 157 92 0.88 0.76 1.19 0.91 1.71 1.71 2.12 2.28</cell></row><row><cell cols="2">10. Maple 33.0? 8.34 43 20 2.00 0.61 1.03 0.50 1.45 1.03 1.16 1.57</cell></row><row><cell cols="2">11. Mill 38.6 0.00 209 148 0.99 0.83 1.39 0.96 2.06 1.51 1.79 2.38</cell></row><row><cell cols="2">12. Mystery 8.3 0.56 67 53 1.18 0.82 0.84 0.65 1.46 1.43 1.41 1.87</cell></row><row><cell cols="2">13. Nixon 197.6 0.57 92 84 1.44 0.56 0.84 1.55 0.98 1.61 1.98 2.09</cell></row><row><cell cols="2">14. Spruce 1.3? 12.26 40 37 2.16 0.79 0.68 0.00 1.23 0.79 0.68 1.23</cell></row><row><cell cols="2">15. Whitney 339.3 12.52 76 30 1.63 0.43 1.04 0.91 1.28 1.17 1.57 1.77</cell></row><row><cell cols="2">16. Whynot 0.3 10.11 37.5 29 4.18 0.86 0.62 0.35 1.12 1.03 1.01 1.24</cell></row><row><cell cols="2">17. 33-6 2.6 2.73 53 34 1.64 1.21 0.86 0.40 1.34 1.42 1.03 1.51</cell></row><row><cell cols="2">18. 33-13 2.6 5.78 47.5 41 1.58 0.98 0.53 0.32 1.38 1.31 0.85 1.66</cell></row></table><note><p>*</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>TABLE 5 .</head><label>5</label><figDesc>Correlation coefficients (r), statistical significance of r, and linear regression values for summer and winter species richness (y) vs. each of 15 environmental factors (x) for all 18 assemblages (top), the 12 centrarchid-Esox assemblages (middle), and the 6 Umbra-cyprinid assemblages (bottom). Multiple regressions for each season and assemblage are given below the linear regression set.</figDesc><table><row><cell cols="3">Summer Winter</cell><cell></cell></row><row><cell>y=a</cell><cell>+bx</cell><cell>y=a</cell><cell>+bx</cell></row><row><cell cols="4">Independent variable r (P S .05) a b r (P ? .05) a b</cell></row><row><cell>All lakes (N = 18)</cell><cell></cell><cell></cell><cell></cell></row></table><note><p>FIG. 4. (a)</p><p>A discriminant analysis of the fish assemblages in the 18 study lakes from combined data f 1978. Assemblages were assigned to one of two groups (Umbra-cyprinid or centrarchid-Esox) ba ordination analyses of Fig.2</p><p>. Lakes are numbered as in Table1</p><p>. (b) A discriminant analysis of morphometric, limnological, and habitat diversity measurements from<ref type="bibr" target="#b33">Black et al. (1963)</ref> </p><p>and the p of correctly classified lakes were calculated, after<ref type="bibr" target="#b42">Dixon and Brown (1979)</ref></p><p>. All species were used in the analysis (i.e., a stepwise procedure with a critical entering and leaving level was not used).</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>This research is based on a thesis (W. M. Tonn) submitted to the <rs type="institution">Department of Zoology, University of Wisconsin-Madison</rs> in partial fulfillment of the requirements for an M.S. degree. We are grateful to the many friends and colleagues who helped us out with field work at Trout Lake: <rs type="person">J. Capelli</rs>, <rs type="person">J. Elias</rs>, <rs type="person">B. Horns</rs>, <rs type="person">B. Javenkoski</rs>, <rs type="person">J. Lorman</rs>, <rs type="person">S. Lozano</rs>, <rs type="person">P. Medvick</rs>, <rs type="person">P. Rasmussen</rs>, and <rs type="person">D. Rondorf</rs>. Special thanks go to <rs type="person">R. Evans</rs>, <rs type="person">L. Kitchel</rs>, <rs type="person">S. Lester</rs>, <rs type="person">D. Riege</rs>, and <rs type="person">K. Webster</rs> for their many-faceted assistance. Technical and administrative assistance were generously provided by G.</p><p>Chipman and <rs type="person">D. Egger. A. Forbes</rs> helped with the ordination program. C. Hughes prepared the figures.</p><p>We would like to express our appreciation to <rs type="person">Professor J. A. Jones</rs> of <rs type="affiliation">Macalester College</rs> for kindly loaning us a copy of his dissertation. He also provided early encouragement and enthusiasm and introduced the senior author to the special qualities of the mudminnow. The manuscript benefitted from the comments and criticisms of <rs type="person">E. Beals</rs>, <rs type="person">G. Capelli</rs>, <rs type="person">S. Dodson</rs>, <rs type="person">L. Fraser</rs>, <rs type="person">T. Frost</rs>, <rs type="person">J. Kushlan</rs>, <rs type="person">E. Werner</rs>, and an anonymous reviewer. Special recognition and thanks goes to <rs type="person">W. Haag</rs> for his care, comments, and criticisms concerning all phases of work and life at <rs type="person">Trout Lake</rs>, and to <rs type="person">C. Paszkowski</rs> for her continual help in the collection, analysis, and interpretation of the data and overall support of the project.</p><p>Financial support from a <rs type="funder">Wisconsin Alumni Research Foundation</rs> graduate fellowship and a <rs type="grantName">Zoology Department Teaching Assistantship</rs> to <rs type="person">W. M. Tonn</rs>, and grants from the <rs type="funder">Brittingham Foundation</rs>, <rs type="funder">Wisconsin Department of Natural Resources (Dingell-Johnson</rs> Project <rs type="grantNumber">F-83-R</rs>) and <rs type="funder">National Science Foundation</rs> (<rs type="grantNumber">DEB 7912337</rs>) to <rs type="person">J. J. Magnuson</rs> is gratefully acknowledged.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_FWbT2Mf">
+					<orgName type="grant-name">Zoology Department Teaching Assistantship</orgName>
+				</org>
+				<org type="funding" xml:id="_5P5JV6G">
+					<idno type="grant-number">F-83-R</idno>
+				</org>
+				<org type="funding" xml:id="_gDTZ3Fn">
+					<idno type="grant-number">DEB 7912337</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>x E X 7&gt;5 &gt; , Log lake area <ref type="bibr">1.00 -.46 .77 .65 .61 .69 .45 -.29 .44 .66 -.53 .28 .36 .66</ref>  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<idno>69 * 1.86 3.50 -.08 NS 3.14 -0.26</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<idno>47 * 8.25 -5.50 .04 NS 2.69 0.34</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+	<note>maximum depth</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<idno>60 * 3.58 1.96 -.30 NS 3.64 -0.67</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<idno>66 * 1.58 3.87 -.02 NS 2.94 -0.09</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+	<note>conductivity</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<idno>42 NS -0.58 3.85 -.07 NS 3.59 -0.45</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+	<note>total dissolved solids</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Log (winter oxygen + 1)</title>
+		<idno>.42 NS 7.48 -2.83 .02 NS 2.78 0.11</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Depth and substrate</title>
+		<idno>.08 NS 4.92 0.72 -.02 NS 2.98 -0.10</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<idno>58 * -0.47 4.22 .07 NS 2.30 0.35</idno>
+		<title level="m">Depth and vegetation</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Depth</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">tation Summer richness = 3.75 + 4.56 log Winter richness -3.15 + 1.14 pHarea -3.84 substrate diversity 1.30 log (watershed + 1) R2 =</title>
+		<idno>67 P S .05 R2 = .24 P &gt; .05</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Centrarchid-Esox</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<idno>62 2.36 2.92 -.13 NS 2.80 -0.40</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<idno>52 NS 8.53 -4.72 .59 * 0.66 3.42</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+	<note>maximum depth</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<idno>73 * 3.25 2.03 -.28 NS 2.99 -0.49</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<idno>alkalinity) .67 * 2.28 3.44 -.23 NS 3.13 -0.74</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<idno>conductivity) .58 * -3.84 5.32 -.29 NS 5.44 -1.67 6. pH .67 * -7.37 2.02 -.06 NS 3.01 -0.11</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<idno>46 NS 1.23 3.04 -.32 NS 4.50 -1.33</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+	<note>total dissolved solids</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Log (winter oxygen + 1)</title>
+		<idno>.41 NS 7.66 -2.16 .59 * 1.01 2.01</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">NS -0.23 3.03 12. Depth and substrate</title>
+		<idno>vege-.47 NS 1.29 2.62 -.40 NS 5.00 -1.43 tation Summer richness -1. 18 + 2.46 log Winter richness -7.28 + 9.94 log</idno>
+		<imprint>
+			<publisher>Substrate</publisher>
+		</imprint>
+	</monogr>
+	<note>watershed + 1) + 4.59 depth maximum depth + 4.16 log alkalinity diversity R2 .72 P .05 R 2 =.69 P -&lt;.0 5</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Umbra-Cyprinid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<idno>90 * -0.25 7.02 .73 NS 1.24 3.57</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<idno>80 NS 10.7 -17.0 -.70 NS 7.04 -9.31</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+	<note>maximum depth</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<idno>51 NS 2.40 4.86 .50 NS 2.32 2.94</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<idno>alkalinity) .64 NS 0.67 4.37 .41 NS 2.22 1.73</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<idno>conductivity) .74 NS -21.4 14.2 .51 NS -7.32 6.07 6. pH .72 NS -13.5 2.90 .68 NS -7.00 1.71</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<idno>59 NS -13.8 11.0 .41 NS -4.19 4.76</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Log</title>
+		<imprint/>
+	</monogr>
+	<note>total dissolved solids</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Depth, substrate, and vege</title>
+		<idno>16.8 11.7 .69 NS -6.17 5.43</idno>
+		<imprint>
+			<publisher>Substrate</publisher>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>tation Summer richness = 3.47 + 5.23 log Winter richness -4.98 + 6.99 lake area -6.01 log (winter oxygen substrate and vegetation ? _ p R12 = .72 P</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">2.2 P~0 This content downloaded from 71</title>
+		<idno>192.241.229 on Thu, 08 May 2025 22:16:14</idno>
+		<ptr target="https://about.jstor.org/termsLITERATURECITED" />
+	</analytic>
+	<monogr>
+		<title level="m">UTC All use subject to</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Standard methods for the examination of water and wastewater</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Learn</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973. 1976</date>
+			<publisher>American Public Health Association</publisher>
+			<pubPlace>Madison, Wisconsin, USA; Washington, D.C., USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Wisconsin-Madison</orgName>
+		</respStmt>
+	</monogr>
+	<note>Academic Computing Center REGAN 3: stepwise linear regression analysis 14th edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Fish species diversity in lakes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Barbour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="473" to="489" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<title level="m">Illustrated key to the minnows of Wisconsin. Department of Biology, University of Wisconsin-Stevens Point</title>
+		<meeting><address><addrLine>Stevens Point, Wisconsin, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Changes in growth rates of fishes following reduction in population densities by winterkill</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Beckman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="82" to="90" />
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Biological Note Number 19, Illinois State Natural History Survey</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W ;</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Usa</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Threinen ; Madison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Usa</forename><surname>Wisconsin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Curtis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Surface water resources of Vilas County. Wisconsin Department of Natural Resources</title>
+		<title level="s">Lake Management Reports</title>
+		<meeting><address><addrLine>Urbana, Illinois</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1948">1948. 1963. 1957</date>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="325" to="349" />
+		</imprint>
+	</monogr>
+	<note>Winterkill of fishes in an Illinois lake</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Lakes as islands: biogeographic distribution, turnover rates, and species composition in the lakes of central New York</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Browne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Biogeography</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="75" to="83" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Competition and the structure of bird communities</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Cody</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, New Jersey, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Diversity in tropical rain forests and coral reefs</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Connell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page" from="1302" to="1310" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The statistics and biology of the species-area relationship</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Conner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Mccoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="791" to="833" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Relation of dissolved oxygen to winter mortality of fish in Michigan lakes</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Washburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="23" to="33" />
+			<date type="published" when="1946">1946</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Long-term temporal variation and community dynamics of meiobenthic copepods</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Coull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Fleeger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1136" to="1143" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Competition, disturbance, and community organization: the provision and subsequent utilization of space in a rocky intertidal community</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Dayton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Monographs</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="351" to="389" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Niche shifts and the rediscovery of interspecific competition</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Diamond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Scientist</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="322" to="331" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Dixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMDP Biomedical Computer Programs</title>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkeley, California, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Complementary feeding niches sustained by size-selective predation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Dodson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnology and Oceanography</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="131" to="137" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Underhill</surname></persName>
+		</author>
+		<title level="m">Northern fishes</title>
+		<meeting><address><addrLine>Minneapolis, Minnesota, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+	<note>Third edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Distribution, abundance, and resource utilization of littoral zone fish in Lake Memphremagog</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gascon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Leggett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Fisheries Research Board of Canada</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1105" to="1117" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Reactions of some great plains fishes to progressive hypoxia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Gee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Tallman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Smart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1962" to="1966" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Habitat structure and stream fish communities</title>
+		<author>
+			<persName><forename type="first">0</forename><forename type="middle">T</forename><surname>Gorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Karr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="507" to="515" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">A method for the analysis of environmental factors controlling patterns of species composition in aquatic communities</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Vascotto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Water Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="583" to="590" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Limnological conditions in ice-cov-This content downloaded from 71</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Greenbank</surname></persName>
+		</author>
+		<ptr target="https://about.jstor.org/" />
+	</analytic>
+	<monogr>
+		<title level="m">14 UTC All use subject to</title>
+		<imprint>
+			<date type="published" when="1945">1945. 192.241.229 on Thu, 08 May 2025 22</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="343" to="392" />
+		</imprint>
+	</monogr>
+	<note>terms ered lakes, especially as related to winter-kill of fish</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Seasonal distribution and abundance of fishes in the littoral zone of a Michigan lake</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Werner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="545" to="555" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Diel foraging behavior and prey selection in the golden shiner (Notemigonus crysoleucas)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Giliam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Mittelbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Howard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Doner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Dickermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Fisheries Research Board of Canada</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1029" to="1039" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Response of the Devil&apos;s River (Texas) fish community to flooding</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Harrell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Copeia</title>
+		<imprint>
+			<biblScope unit="page" from="60" to="68" />
+			<date type="published" when="1978">1978. 1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The spines of sticklebacks (Gasterosteus and Pygosteus) as a means of defense against predators (Perca and Esox)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoogland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tinbergen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behaviour</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="205" to="236" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Temporal variability patterns and the distributional patterns of stream fishes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Horwitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Monographs</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="307" to="321" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A general hypothesis of species diversity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Huston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="81" to="101" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Management of a large shallow winter-kill lake in Minnesota for the production of pike</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Moyle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="691" to="697" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">The ecology of the mudminnow, Umbra limi</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dissertation</title>
+		<editor>
+			<persName><forename type="first">Fish</forename><surname>Lake</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Anoka County, Minnesota; Ames, Iowa, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+		</imprint>
+		<respStmt>
+			<orgName>Iowa State University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">The highland lake district of northeastern Wisconsin and the Trout Lake Limnological Laboratory</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Juday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Birge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the Wisconsin Academy of Science, Arts and Letters</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="337" to="352" />
+			<date type="published" when="1930">1930</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Food specializations and bioenergetic interrelations in the fish faunas of some small Ontario waterways</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Keast</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Marine food chains. Oliver and Boyd</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Steele</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh, Scotland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1970">1970. 1978</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="7" to="31" />
+		</imprint>
+	</monogr>
+	<note>Trophic and spatial interrelationships in the fish species of an Ontario temperate lake</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Nearshore fish habitat utilization and species associations in Lake Opinicon</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Keast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Harker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Turnbull</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ontario. Environmental Biology of Fishes</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="173" to="184" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Mouth and body form relative to feeding ecology in the fish fauna of a small lake, Lake Opinicon, Ontario</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Keast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Webb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Fisheries Research Board of Canada</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1845" to="1874" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Survival mechanisms of the central mudminnow (Umbra litni), fathead minnow (Pimephales promelas) and brook stickleback (Culaea inconstans) for low oxygen in winter</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Klinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Magnuson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Gallepp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Biology of Fishes</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Environmental stability and fish community diversity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kushlan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="821" to="825" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Destruction and reestablishment of stream fish and invertebrates affected by drought</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Larimore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Childers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Heckrote</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="261" to="285" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Food choice of largemouth bass as a function of availability and vulnerability of food items</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Gunning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lyles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Bridges</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="277" to="280" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Patterns of species diversity</title>
+		<author>
+			<persName><forename type="first">Mac</forename><surname>Arthur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Geographical ecology. Harper and Row</title>
+		<meeting><address><addrLine>New York, New York, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965. 1972</date>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="510" to="533" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mac</forename><surname>Arthur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">0</forename><surname>Wilson</surname></persName>
+		</author>
+		<title level="m">The theory of island biogeography</title>
+		<meeting><address><addrLine>Princeton; New Jersey, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Managing with exotics-a game of chance</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Magnuson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">A siphon water sampler for use through the ice</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Magnuson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Stuntz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnology and Oceanography</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="156" to="158" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Fish community structure in lakeshore lagoons on Long Point. Lake Erie, Canada</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Balon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Biology of Fishes</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="71" to="82" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Species diversity gradients: synthesis of the roles of predation, competition and temporal heterogeneity</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Menge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Sutherland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="351" to="359" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Distribution of fishes under the ice in relation to dissolved oxygen, temperature, and free, dissolved carbon dioxide in Mystery Lake, Wisconsin. Thesis</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Mills</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<pubPlace>Madison, Wisconsin, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Wisconsin-Madison</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Field studies on the oxygen requirements of certain freshwater fishes</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="319" to="329" />
+			<date type="published" when="1942">1942</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Effects of management and winter oxygen levels on the fish population of a prairie lake</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Moyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Clothier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Fisheries Society</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="178" to="185" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Species diversity of littoral zone fishes along a phosphorusproduction gradient in Lake Memphremagog, Quebec-Vermont</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Nakashima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gascon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Leggett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Fisheries Research Board of Canada</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="167" to="170" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">The influence of seasonality and stability on the species equilibrium</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Osman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Monographs</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="383" to="399" />
+			<date type="published" when="1977">1977. 1978</date>
+		</imprint>
+	</monogr>
+	<note>The establishment and development of a marine epifaunal community Ecology</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Behavioral responses of northern pike, yellow perch, and bluegill to oxygen concentrations under simulated winterkill conditions</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Petrosky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Magnuson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Copeia</title>
+		<imprint>
+			<biblScope unit="page" from="124" to="133" />
+			<date type="published" when="1973">1973. 1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Niche relations of desert lizards</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pianka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ecology and evolution of communities</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Cody</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Diamond</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, Massachusetts, USA; New York, New York, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Belknap Press</publisher>
+			<date type="published" when="1975">1975. 1978</date>
+			<biblScope unit="page" from="292" to="314" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Pielou</surname></persName>
+		</author>
+		<title level="m">Mathematical ecology</title>
+		<meeting><address><addrLine>New York, New York, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley and Sons</publisher>
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">BCORD documentation</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Post</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Beals</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Allen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<pubPlace>Madison, Wisconsin, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Departments of Botany and Zoology, University of Wisconsin-Madison</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Species packing and the competition function with illustrations from coral reef fish</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roughgarden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theoretical Population Biology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="163" to="186" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">DISCRIMl: discriminant analysis reference manual. Academic Computing Center</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schlater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Learn</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<pubPlace>Madison, Wisconsin, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Wisconsin-Madison</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">A symposium on the management of midwestern winterkill lakes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schneberger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Special Publication</title>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+			<publisher>American Fisheries Society</publisher>
+			<pubPlace>North Central Division; Madison, Wisconsin, USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>FAS Publishing</note>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">The mathematical theory of communication</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Shannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Weaver</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1949">1949</date>
+			<publisher>University of Illinois Press</publisher>
+			<pubPlace>Urbana, Illinois, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Species diversity and longitudinal succession in stream fishes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Sheldon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="193" to="198" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<title level="m" type="main">Nonparametric statistics for the behavioral sciences</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Siegel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1956">1956</date>
+			<publisher>McGraw-Hill</publisher>
+			<pubPlace>New York, New York, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Missing species combinations</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Simberloff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Connor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="215" to="239" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">On the contribution of environmental predictability to species diversity</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Slobodkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Sanders</surname></persName>
+		</author>
+		<ptr target="https://about.jstor.org/terms" />
+	</analytic>
+	<monogr>
+		<title level="m">14 UTC All use subject to</title>
+		<imprint>
+			<date type="published" when="1969-05">1969. May 2025 22</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="82" to="95" />
+		</imprint>
+	</monogr>
+	<note>This content downloaded from 71.192.241.229 on Thu, 08</note>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Some factors affecting the abundance of minnows in the Des Moines River</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Starrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Iowa. Ecology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="13" to="27" />
+			<date type="published" when="1951">1951</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Resilience of a rocky intertidal fish community in a physically unstable environment</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Lehner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Marine Biology and Ecology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1" to="29" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">Diversity and longitudinal zonation in fish populations of two streams entering a metropolitan area</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Tonn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Madison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Usa</forename><surname>Wisconsin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Tramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Midland Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="366" to="375" />
+			<date type="published" when="1973">1980. 1973</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Wisconsin-Madison</orgName>
+		</respStmt>
+	</monogr>
+	<note>Patterns in the assembly and diversity of fish communities in northern Wisconsin lakes. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Species packing and niche complementarity in three sunfishes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Werner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sport Fishing Institute</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Clepper</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, D.C., USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1977">1977. 1979</date>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="311" to="322" />
+		</imprint>
+	</monogr>
+	<note>Niche partitioning by food size in fish communities Predatorprey systems in fisheries management</note>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Niche shifts in sunfishes: experimental evidence and significance</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">191</biblScope>
+			<biblScope unit="page" from="404" to="406" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Competition and habitat shift in two sunfishes (Centrarchidae)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="869" to="876" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Foraging efficiency and habitat switching in competing sunfishes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="256" to="264" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Habitat partitioning in a freshwater fish community</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Laughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Wilsmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Funk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Fisheries Research Board of Canada</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="360" to="370" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Littoral zone fish communities of two Florida lakes and a comparison with Michigan lakes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Werner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Biology of Fishes</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="163" to="172" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">Ordination and classification of communities</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Whittaker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dr. W. Junk</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Whittaker</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="1973">1973</date>
+			<pubPlace>The Hague, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Direct gradient analysis: techniques Handbook of vegetation science</note>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">On competition and variable environments</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Wiens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Scientist</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="590" to="597" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">Multivariate methods in plant ecology. I. Association analysis in plant communities</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lambert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ecology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="83" to="101" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<monogr>
+		<title level="m" type="main">CLUSTAN IC user&apos;s manual</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wishart</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University College</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Refuges, disturbance, and community structure: a marine soft-bottom example</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Woodin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="274" to="284" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main">Species introduction in a tropical lake</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Zaret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Paine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">182</biblScope>
+			<biblScope unit="page" from="449" to="455" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Lake metabolism scales with lake morphometry and catchment conditions</title>
+				<funder ref="#_J3WyYX2">
+					<orgName type="full">Danish Natural Science Research Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Danish Centre for Lake Restoration (CLEAR)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2011-05-17">17 May 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Peter</forename><forename type="middle">A</forename><surname>Staehr</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Lars</forename><surname>Baastrup-Spohr</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kaj</forename><surname>Sand-Jensen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Colin</forename><surname>Stedmon</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Marine Ecology</orgName>
+								<orgName type="institution" key="instit1">National Environmental Research Institute</orgName>
+								<orgName type="institution" key="instit2">Aarhus University</orgName>
+								<address>
+									<addrLine>Frederiksborgvej 399</addrLine>
+									<postCode>4000</postCode>
+									<settlement>Roskilde</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Freshwater Biological Section</orgName>
+								<orgName type="institution">University of Copenhagen</orgName>
+								<address>
+									<addrLine>Helsingørsgade 51</addrLine>
+									<postCode>3400</postCode>
+									<settlement>Hillerød</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Lake metabolism scales with lake morphometry and catchment conditions</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Aquatic Sciences</title>
+						<title level="j" type="abbrev">Aquat Sci</title>
+						<idno type="ISSN">1015-1621</idno>
+						<idno type="eISSN">1420-9055</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">74</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="155" to="169"/>
+							<date type="published" when="2011-05-17">17 May 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AD77D6F6DF2B354C7D70336F6816860A</idno>
+					<idno type="DOI">10.1007/s00027-011-0207-6</idno>
+					<note type="submission">Received: 21 January 2011 / Accepted: 2 May 2011 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Lake metabolism</term>
+					<term>Lake morphometry</term>
+					<term>Catchment conditions</term>
+					<term>Intrinsic drivers</term>
+					<term>Temporal variability</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We used a comparative data set for 25 lakes in Denmark sampled during summer to explore the influence of lake morphometry, catchment conditions, light availability and nutrient input on lake metabolism. We found that (1) gross primary production (GPP) and community respiration (R) decline with lake area, water depth and drainage ratio, and increase with algal biomass (Chl), dissolved organic carbon (DOC) and total phosphorus (TP);</p><p>(2) all lakes, especially small with less incident light, and forest lakes with high DOC, have negative net ecosystem production (NEP \ 0); (3) daily variability of GPP decreases with lake area and water depth as a consequence of lower input of nutrients and organic matter per unit water volume; (4) the influence of benthic processes on free water metabolic measures declines with increasing lake size; and (5) with increasing lake size, lake metabolism decreases significantly per unit water volume, while depth integrated areal rates remain more constant due to a combination of increased light and nutrient limitation. Overall, these meta-parameters have as many significant but usually weaker relationships to whole-lake and benthic metabolism as have TP, Chl and DOC that are directly linked to photosynthesis and respiration. Combining water depth and Chl to predict GPP, and water depth and DOC to predict R, lead to stronger multiple regression models accounting for 57-63% of the variability of metabolism among the 25 lakes. It is therefore important to consider differences in lake morphometry and catchment conditions when comparing metabolic responses of lakes to human impacts.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Research on lake metabolism has shown that gross primary production (GPP), respiration (R) and net ecosystem production (NEP = GPP -R) vary considerably among lakes and over time within lakes <ref type="bibr" target="#b4">(Cole et al. 2000;</ref><ref type="bibr" target="#b19">Hanson et al. 2006;</ref><ref type="bibr" target="#b47">Staehr and Sand-Jensen 2007;</ref><ref type="bibr">Staehr et al. 2010a</ref>). Many lakes have a negative NEP and most release CO 2 to the atmosphere. This is due to the considerable supply and substantial degradation of allochthonous organic material from the surrounding landscape (Sand-Jensen and <ref type="bibr">Staehr 2007</ref><ref type="bibr" target="#b42">Staehr , 2009))</ref>. While day-to-day differences in metabolism within a lake are primarily driven by changes in light, temperature and vertical mixing <ref type="bibr" target="#b19">(Hanson et al. 2006;</ref><ref type="bibr" target="#b47">Staehr and Sand-Jensen 2007)</ref>, long-term differences in metabolism between lakes are strongly related to changes in concentrations of total phosphorus (TP), phytoplankton chlorophyll (Chl) and dissolved organic carbon (DOC) <ref type="bibr">(Sand-Jensen and</ref><ref type="bibr">Staehr 2007, 2009)</ref>. Thus, autotrophic lakes (NEP [ 0) typically have high TP, high Chl and low DOC concentrations, whereas the most heterotrophic lakes have low TP, low Chl and high DOC <ref type="bibr" target="#b18">(Hanson et al. 2003;</ref><ref type="bibr" target="#b41">Sand-Jensen and Staehr 2007)</ref>.</p><p>Lake morphometry (surface area and depth), catchment properties (geology, size and land use) and hydrology have a strong influence on lake temperature, physical mixing, nutrient concentrations, DOC, Chl and transparency <ref type="bibr" target="#b14">(Fee et al. 1996;</ref><ref type="bibr" target="#b20">Hanson et al. 2007;</ref><ref type="bibr" target="#b36">No ˜ges 2009)</ref>, suggesting that these conditions operate as meta-parameters with an indirect but potentially strong effect on lake metabolism. Implicit scaling of lake productivity to lake size has been considered for decades <ref type="bibr" target="#b52">(Thienemann 1927;</ref><ref type="bibr" target="#b1">Brylinsky and Mann 1973;</ref><ref type="bibr" target="#b13">Fee et al. 1992)</ref>, and location in forests or open landscapes is also known to affect metabolism <ref type="bibr" target="#b53">(Tranvik 1992;</ref><ref type="bibr" target="#b9">del Giorgio and Peters 1994;</ref><ref type="bibr">Sand-Jensen and</ref><ref type="bibr">Staehr 2007, 2009)</ref>. Thus, lake area is statistically positively related to wind exposure, water depth and mixing depth and inversely related to external input of nutrients and DOC per water volume and surface area (e.g., <ref type="bibr" target="#b1">Brylinsky and Mann 1973;</ref><ref type="bibr" target="#b11">Duarte and Kalff 1989;</ref><ref type="bibr" target="#b14">Fee et al. 1996)</ref>. Drainage ratio (catchment area:lake area) is positively related to external input of nutrients, CO 2 and DOC <ref type="bibr" target="#b16">(Gergel et al. 1999)</ref>. Forest cover is negatively correlated with nutrient input and incoming irradiance for small lakes and positively correlated with DOC input and light attenuation by coloured DOC <ref type="bibr" target="#b58">(Xenopoulos et al. 2003;</ref><ref type="bibr" target="#b41">Sand-Jensen and Staehr 2007)</ref>.</p><p>In contrast to the substantial literature on the importance of meta-parameters for lake chemistry and physics, there are few comparative measurements of whole-lake metabolism, for a sufficiently large number of lakes, to evaluate the importance of lake size and catchment conditions on whole-lake metabolism and atmospheric CO 2 exchange. This study investigates the effect of these meta-parameters on GPP, R and NEP, and compares their role with that of traditional direct drivers of metabolism (i.e., Chl, DOC, light and temperature). Our general expectation is that meta-parameters are significant though probably not as strong predictors of GPP, R and NEP as the intrinsic variables directly involved in metabolic processes. If so, more general predictive models can be derived and new understanding of control mechanisms can be obtained.</p><p>Our first specific prediction is that both volumetric GPP and R should decline with increasing lake area, water depth and drainage ratio, as the concentrations and input of nutrients and DOC decrease <ref type="bibr" target="#b36">(No ˜ges 2009)</ref>. Although light availability decreases with increasing depth of the photic zone, light availability, is, however, expected to be similar across lake sizes as lower inputs of light absorbing material and greater mixing depth in larger lakes should cause mean light availability to remain similar among lakes of different sizes. Areal rates of GPP integrated over the entire water column is therefore expected to vary little with lake size, and the influence of lake size for GPP expected to be higher for volume specific rates.</p><p>Our second specific prediction is that small lakes should have higher DOC input and concentrations and be more net heterotrophic (NEP \ 0) than large lakes and that forest lakes should be more net heterotrophic than lakes in open landscapes. Small lakes have a greater contact and possibility of exchange of organic material with the terrestrial landscape along its periphery relative to lake surface area than large lakes. Forest lakes have a direct transfer of litter from the surrounding tree vegetation, receive less light for photosynthesis on the lake surface and have higher DOC concentrations in the water column competing with photosynthetic pigments for available photons causing mean light availability to remain low despite of a shallow mixed depth <ref type="bibr">(Staehr et al. 2010a)</ref>. Conversely, reduced input of DOC in larger lakes should favour positive NEP as mean light availability for primary production is the same but less allochthonous material is supplied for bacterial oxygen consumption. A final mechanism may restrict benthic photosynthesis relative to respiration in small forest lakes, namely the typical organic-rich sediments of flocculated humic material of low mass density that is physically instable for microalgae and unfavourable for growth of rooted plants <ref type="bibr" target="#b0">(Barko and Smart 1986;</ref><ref type="bibr" target="#b43">Sand-Jensen et al. 2005)</ref>.</p><p>Our third specific prediction is that the contribution of benthic processes to whole-lake metabolism declines with increasing water depth. Because light penetration to sediments decreases with water depth, the benthic primary production should be more constrained by water depth than respiration and this should be particularly so in forest lakes with high DOC concentrations and poor light conditions. To the extent that lake depth and lake area are correlated, the role of benthic processes should also decline with increasing lake area, while surrounding forest vegetation may stimulate benthic R but impede GPP and NEP.</p><p>Our fourth specific prediction is that the day-to-day variability of lake metabolism should decline with increasing lake area and depth. Measurements of wholelake metabolism were performed over 1 week in each lake for subsequent comparison among all 25 lakes. This duration permits reliable calculations of mean daily metabolism and mean values for other physical, chemical and biological properties <ref type="bibr" target="#b18">(Hanson et al. 2003;</ref><ref type="bibr" target="#b47">Staehr and Sand-Jensen 2007)</ref>. Moreover, 1 week measurements permit calculation of daily variability of metabolic parameters and their relationship to meta-parameters and within-lake parameters. With increasing lake area and water depth, temporal variations in the magnitude of physical mixing affecting different pelagic populations are likely to decline. Reduced external input of nutrients and DOC per unit water volume with increasing lake size should also reduce the carrying capacity for phytoplankton, zooplankton, bacteria and fish per unit volume and, thereby, dampen population changes and blooms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study sites</head><p>We studied lake metabolism in relation to physical, chemical and biological characteristics for about 1 week (6-8 days) in 25 medium to high alkaline lakes during May and June 2007. Systems ranged from ponds (0.1 ha) to midsized (1,729 ha) lakes, and were all located in calcareous moraines in Denmark (Table <ref type="table" target="#tab_0">1</ref>). Lakes were sampled in a random order to avoid bias from changing meteorological conditions during the study. Throughout the study, meteorological conditions were measured from a buoy placed on Lake Slotssø. Daily average wind speed (0.3-5.4 m s -1 , min-max) and solar irradiance (5-55 mol photons m -2 day -1 ) showed large daily variability, but did not change significantly during the course of the study. Lakes were chosen to cover large ranges in lake size, forest cover, TP, Chl and DOC concentrations. Lake area, catchment area, %forest cover in the catchment and drainage ratio (catchment area:lake area) were obtained for each lake using the digital Areal Information System <ref type="bibr" target="#b35">(Nielsen et al. 2000)</ref>. To evaluate effects of forest cover on local wind and light conditions, we also determined the proportion of forest in the 200 m wide riparian zone around the lakes from aerial photographs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limnological variables</head><p>Triplicate water samples were collected once from each lake as a depth integrated sample from the upper mixed layer at the center between 10 and 12 o'clock. Samples were analyzed for chlorophyll a, DOC, nutrients, alkalinity and pH. Samples for Chl and phaeopigments were filtered through Advantec Ò GC-50 filters, extracted in 96% ethanol for 24 h and measured according to <ref type="bibr" target="#b24">Jespersen and Christoffersen (1987)</ref> using a Shimadzu UV-160A spectrophotometer. Absorbance of colored dissolved organic matter (CDOM) was measured in a GF/F filtrate (0.7 lm) at 300, 340, 360 and 400 nm in a 5 cm cuvette. DOC concentrations (mg C L -1 ) were estimated from the linear relationship to CDOM absorption at 360 nm (m -1 ): DOC = 0.454 CDOM 360 ? 1.9 (r 2 = 0.80) found in a study of 399 water samples from Danish lakes and streams (C. Stedmon, unpubl. data). Total phosphorus (TP) was determined for unfiltered samples by persulfate digestion according to <ref type="bibr" target="#b12">Eaton et al. (1995)</ref> and assayed according to <ref type="bibr" target="#b29">Kragh and Sondergaard (2004)</ref>. Water for determination of pH, alkalinity and CO 2 was transferred to closed, dark glass bottles to avoid CO 2 exchange with the air and prevent photosynthesis before measurement in the laboratory within 2 h. The pH was measured with Radiometer equipment (accuracy 0.01 pH unit). Acidimetric titration of alkalinity (acid neutralizing capacity, ANC), ionic strength, pH and temperature were used to calculate concentrations of free CO 2 according to <ref type="bibr" target="#b38">Rebsdorf (1972)</ref>. The calculated CO 2 concentrations have previously been shown to be in close agreement with direct CO 2 measurements on an IRGA using a headspace equilibration technique <ref type="bibr" target="#b40">(Sand-Jensen and Frost-Christensen 1998)</ref>. Fluorescence of DOC was measured on a Varian Eclipse fluorescence spectrophotometer. An emission spectrum was measured every 2 nm between 300 and 600 nm, whilst exciting at 370 nm. The fluorescence index <ref type="bibr">(FI;</ref><ref type="bibr" target="#b34">McKnight et al. 2001</ref>) was derived by taking the ratio of the fluorescence at 450 to that at 500 nm. This index can be used to characterize the chemical composition of DOC and indicate the relative contribution of terrestrial and aquatic organic matter. Index values typically range between 1 and 2, with terrestrial plant material resulting in low values.</p><p>Depth profiles of oxygen and temperature were recorded in situ by an YSI 600XL multisonde. The vertical light attenuation coefficient (K D, 400-700 nm) was determined from the depth profile of photosynthetically active radiation (PAR) using a LiCor 4p sensor. K D was calculated as the slope of a linear regression model of irradiance (E z ) versus depth (z): ln(E z ) = b ? K D z.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Physics and metabolism from sonde measurements</head><p>We deployed a buoy at the centre of each lake to measure surface PAR, wind speed, water temperature and dissolved oxygen concentration (DO) for about 1 week. Three sets of this equipment were moved between lakes in a random order. Surface PAR was measured 1 m above the surface using a HOBO 2p quantum sensor. Wind speed was measured 1.2 m above the lake using a HOBO anemometer. Surface PAR and wind speed at the centre of each lake were normalized to measurements made throughout the summer in medium-sized Lake Slotssø (22 ha, 15% forest cover; Table <ref type="table" target="#tab_0">1</ref>). Normalization was simply the ratio of the wind speed at a lake to that of Lake Slotssø. This permitted comparison among the 25 lakes despite changes in mean weekly wind velocity and surface PAR during the summer. Water temperature was measured every 10 min during buoy deployment at several water depths, using a string of Stow Away Tidbit loggers. These data permitted calculation of mixing depth (Z mix ) at high frequency according to an empirical curve-fitting procedure <ref type="bibr">(Staehr et al. 2010a</ref>). Dissolved oxygen was measured at 0.5 m either with an Oxyguard DO sensor or a YSI 600XL multisonde. Oxygen sensors were cleaned and calibrated prior and after each application. Electrode drift was small and was corrected for assuming it is linear over time. Oxygen concentrations recorded every 10 min were used to calculate NEP for 30 min intervals, according to the guidelines presented in <ref type="bibr">Staehr et al. (2010b)</ref>: NEP 30min = DO 2 -D/Z mix , where DO 2 (mmol O 2 m -3 30 min -1 ) is change in oxygen concentration over 30 min, D (mmol O 2 m -2 30 min -1 ) is exchange with the atmosphere in this period and Z mix (m) is mixing depth. Atmospheric exchange was calculated as</p><formula xml:id="formula_0">D = k(O 2 -O 2sat )</formula><p>, where O 2 is actual oxygen concentration, O 2sat is oxygen concentration in water in equilibrium with the atmosphere at ambient temperature, and k is oxygen exchange calculated for each time step from the estimate of k 600 and the ratio of Schmidt numbers as k = k 600 ((Sc/600) -0.5 ) according to Ja ¨hne et al. <ref type="bibr">(1987)</ref>.</p><p>k 600 [k for a Schmidt number (Sc) of 600] was estimated as a function of wind speed at 10 m above the lake surface as: k 600 (cm h -1 ) = 2.07 ? 0.215 U 1.7 according to <ref type="bibr" target="#b3">Cole and Caraco (1998)</ref>. Assuming a neutrally stable boundary layer, wind speed (U) at 10 m was calculated from our measurements at 1.2 m using the relationship in Smith <ref type="bibr">(1985)</ref>.</p><p>Because there is no photosynthesis at night, we assume nighttime R equals nighttime NEP measured from 1 h past sunset until 1 h before sunrise. Assuming that the daytime rate of R is equal to the nighttime rate <ref type="bibr" target="#b18">(Hanson et al. 2003;</ref><ref type="bibr" target="#b32">Lauster et al. 2006)</ref> we calculated daily respiration rates as hourly R during nighttime 9 24 h. GPP was determined as the sum of daytime NEP and R, and daily NEP was finally calculated as GPP -R (where R is in positive numbers).</p><p>For ease of comparison, we present GPP values as positive and R values as negative. Volumetric metabolic rates (mmol O 2 m -3 day -1 ) were turned into areal rates (mol O 2 m -2 day -1 ) by multiplying with daily estimates of Z mix for stratified lakes and mean water depth for fully mixed lakes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pelagic metabolism from bottle measurements</head><p>While calculation of whole-lake metabolism from sonde measurements are relatively common, measurements of benthic metabolism are rare because they require special sediment chambers and Scuba diving to set up and many replicates are needed because of great spatial heterogeneity. Because we wanted to make a comparative analysis among many lakes, direct sediment measurements were not an option. Instead, we evaluated the influence of benthic processes on free water measures of metabolism as the difference between measured whole-lake metabolism by oxygen sondes in open waters and simultaneous measurements of pelagic metabolism in bottle incubations. Replicate water samples from 0.5 m depth were used to determine net photosynthesis and respiration as the rate of oxygen change in closed 10 ml bottles during incubation for 13.5-23.4 h at ambient temperature. Bottles were placed on a rotating wheel (12 rpm) in a temperatureconstant incubator and illuminated by cool-white fluorescence tubes from one side. Oxygen concentrations in the samples before and after incubation were measured using an oxygen electrode (OX500, Unisense with a picoammeter, PA2000, connected to a laptop computer). The electrode was calibrated at the incubation temperature in water at 100 and 0% air saturation. The irradiance was measured inside the incubation bottles with a minute 4p LiCor underwater light sensor. Samples were exposed to seven different irradiances ranging from 36 to 714 lmol photons m -2 s -1 by using a set of neutral filters in front of the bottles. Samples for dark respiration measurements were wrapped in aluminum foil. From the obtained rates of net oxygen production (NP) at different irradiances (I), NP-I curves were constructed using the nonlinear model of <ref type="bibr" target="#b56">Webb et al. (1974)</ref> in SAS 9.1 (SAS Institute Inc., 1994):</p><formula xml:id="formula_1">NP ¼ GP max Â 1 À exp Àa Â E mean ð Þ GP max ! þ Int</formula><p>where NP is net and GP max is maximum gross photosynthesis (mg O 2 L -1 h -1 ), a is the initial slope of photosynthesis versus irradiance, Int is the intersection with the y-axis corresponding to dark respiration and E mean is the mean available irradiance in the mixed zone. Daily light availability (E mean ; mol photons m -2 day -1 ) was calculated as an average for the mixed surface zone. Using data for surface irradiance (E 0 ; lmol photons m -2 s -1 ), mixing depth (m), and light attenuation (K D ; m -1 ), with a constant of 0.1 for back-scattering and surface reflection, b <ref type="bibr" target="#b28">(Kirk 1994</ref>), E mean was calculated from the equation: <ref type="bibr" target="#b39">Riley (1957)</ref>.</p><formula xml:id="formula_2">E mean = E 0 (1 -b)(1 À e ÀK D Z mix )/(K D Z mix ), modified from</formula><p>Each NP-I curve was examined visually and obvious outliers were excluded to obtain reasonable models. NP-I models that did not saturate at high irradiance were also excluded. The calculated models yielded maximal net photosynthesis (NP max ), dark respiration (R), light utilization efficiency (a), light compensation point (E C ) (the irradiance of which NP = 0) and light saturation point (E K = NP max /a) (the irradiance at which photosynthesis starts to saturate). Using the derived NP models and measurements of ambient irradiance, we calculated net primary production in daylight (NPP bottle ; mg O 2 m -3 day -1 ) by integrating hourly NP rates from sunrise to sunset as: NPP = mean NP 9 h of daylight. Daily respiration (R bottle ; O 2 m -3 day -1 ) were calculated by multiplying hourly rates by 24. Daily rates of gross primary production (GPP bottle ; mg O 2 m -3 day -1 ) were calculated as the sum of NPP and R bottle . Daily values of GPP bottle and R bottle were calculated for the duration of the buoy deployment and average values were finally calculated for each lake to compare with averages of sonde-based metabolic rates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Simple relationships between metabolic rates and physical and chemical variables were evaluated using a two-tailed Pearsons correlation analysis. All variables were log transformed to normalize distributions, ensure variance homogeneity and linearize relationships. To avoid negative NEP values in the analyses we added ?1,000 to turn all NEP values positive. In our analysis, we applied p \ 0.05 as a criteria for significant correlations. Empirical models of the variation in GPP, R and NEP as a function of lake size, forest cover were analysed by stepwise regression analysis. Only parameters which contributed significantly (p \ 0.05) were included in the final regression models performed in SAS 9.1 <ref type="bibr">(SAS Institute Inc., 1994)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lake characteristics</head><p>The 25 lakes varied substantially in surface area (0.1-1,729 ha), mean depth (0.5-13.5 m), mixing depth (0.7-10.3 m; 12 out of 25 lakes were stratified) and forest cover in the catchment (1-91%; Table <ref type="table" target="#tab_0">1</ref>). Lake trophy ranged from mesotrophy to hypereutrophy and dystrophy according to the levels of TP (17-249 mg m -3 ), Chl (4-402 mg m -3 ), K D (0.5-5.7 m -1 ) and DOC (2.6-45.6 mg L -1 ; Table <ref type="table" target="#tab_0">1</ref>). Lakes were medium to high alkaline (ANC; 2.3 ± 0.1 mq L -1 mean ± SE) and usually supersaturated (22 lakes) with CO 2 (Table <ref type="table" target="#tab_0">1</ref>). With increasing lake surface area, lakes became deeper, had deeper mixing depth (Table <ref type="table">2</ref>), were more wind exposed and received more incident light (Fig. <ref type="figure">1</ref>; Table <ref type="table">2</ref>). Forest cover was not related to lake surface area and mean water depth (Table <ref type="table">2</ref>), but wind exposure and surface irradiance declined significantly with forest cover (Fig. <ref type="figure">1b</ref>, <ref type="figure">d</ref>; Table <ref type="table">2</ref>).</p><p>With increasing surface area, deeper water and lower drainage ratio, lakes contained less phosphorus, were more transparent and had significantly less phytoplankton (Chl), while none of these variables were significantly correlated to forest cover (Fig. <ref type="figure">2</ref>; Table <ref type="table">2</ref>). As anticipated, the vertical attenuation coefficient K D was closely positively Table <ref type="table">2</ref> Pearsons correlation coefficients among lake morphometry and catchment properties (lake area, mean water depth, drainage ratio (catchment area to lake area), %forest in lake catchment, and surrounding the lake (used only for comparison with Z mix , %light and %wind), optical conditions (light attenuation coefficient (K D ), mean available irradiance (E mean )), meteorological conditions (% light and % wind relative to surface PAR and wind measured at Castle lake), mixing depth (Z mix ), algal biomass (Chl), dissolved organic carbon (DOC), fluorescence index (FI), chemical variables (total phosphorus (TP), % CO 2 saturation) and metabolic rates (volumetric (vol) and areal) of GPP, R and NEP, including influence of benthic metabolism on whole lake measures (sonde-bottle)</p><p>Area Depth Drainage ratio %Forest Z mix Chl DOC TP GPP vol 20.54 20.65 0.53 -0.13 20.62 0.69 0.60 0.70 R vol 20.64 20.70 0.58 0.04 20.67 0.68 0.72 0.75 NEP vol 0.44 0.38 -0.32 20.42 0.36 -0.32 20.61 20.46 GPP areal 0.17 0.21 0.14 -0.02 0.32 0.31 0.13 0.15 R areal 0.09 0.18 0.11 0.12 0.29 0.30 0.24 0.13 NEP areal 0.15 0.01 0.02 -0.33 -0.11 -0.22 20.43 -0.13 GPP sonde-bottle 20.42 20.50 0.39 -0.08 20.45 0.59 0.49 0.52 R sonde-bottle 20.54 20.55 0.50 0.14 20.57 0.56 0.73 0.55 NEP sonde-bottle 0.43 0.37 -0.40 -0.36 0.43 -0.30 20.68 -0.36 CO 2sat 20.50 -0.40 0.65 0.40 -0.30 0.30 0.49 0.17 FI 0.54 0.42 20.41 -0.32 0.35 20.59 20.82 -0.31 K D 20.67 20.71 0.60 0.16 20.61 0.88 0.87 0.87 E mean 0.27 0.16 -0.27 -0.17 -0.16 20.57 20.54 20.41 %Light 0.57 0.40 20.33 20.41 0.42 -0.27 20.52 -0.32 %Wind 0.80 0.67 20.47 20.51 0.76 20.41 20.65 -0.30 Area -0.84 20.68 0.09 0.74 20.57 20.59 20.45 Depth --20.78 0.11 0.83 20.56 20.58 20.61 Drainage ratio ----0.12 20.56 0.52 0.57 -0.20 %Forest ----0.01 0.04 0.41 0.01 Z mix -----20.46 20.53 20.52 Chl ------0.77 0.78 DOC -------0.65 Analysis was performed on log-transformed data. Bold indicates significant correlations (p \ 0.05). Correlations above 0.49 are significant at p \ 0.01; n = 25</p><p>Fig. <ref type="figure">1</ref> Relationships of relative wind and relative light exposure to lake area and percent forest cover in the riparian zone. Percent wind and percent light were determined as the weekly average wind speed and irradiance at the center of each lake relative to that of a mid-sized lake (Slotssøen; Table <ref type="table" target="#tab_0">1</ref>). Errors are ±SE Fig. <ref type="figure">2</ref> Relationships of total phosphorus (TP), chlorophyll (Chl), and light attenuation (K D ) with lake area and percent forest cover in the catchment. Errors are ±SE. TP value marked with a circle represents Esrum sø and was not included in the statistical analysis as this lake is historically known to be nitrogen limited. Only one K D value was determined for each lake correlated with both Chl and DOC (Table <ref type="table">causing</ref> the mean irradiance available for photosynthesis in the mixed surface layer to decline significantly as lakes became either brown-colored or rich in nutrients and phytoplankton. Mean light availability was, as expected, not related to lake area or depth (Table <ref type="table">2</ref>) because larger and deeper lakes are clearer but mix deeper. DOC and CO 2 saturation decreased with higher lake area and water depth and increased with forest cover and drainage ratio (Fig. <ref type="figure" target="#fig_0">3a-d</ref>; Table <ref type="table">2</ref>). The fluorescence index was lowest for small and forested lakes and increased significantly with lake area (Fig. <ref type="figure" target="#fig_0">3e</ref>, <ref type="figure">f</ref>), mean depth and drainage ratio, but declined with forest cover and DOC (Table <ref type="table">2</ref>), supporting the expectation that high DOC in small lakes and lakes with high forest cover originates from terrestrial material, whereas autochthonous production of DOC prevails in larger lakes in open landscapes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lake metabolism</head><p>Volumetric rates of GPP and R declined more than fivefold with increasing lake area, while correlations with forest cover were not significant (Fig. <ref type="figure">4a-d</ref>; Table <ref type="table">2</ref>). NEP was negative in 14 lakes, positive in only two lakes and close to zero in the remaining 8 lakes (Fig. <ref type="figure">4e</ref>, <ref type="figure">f</ref>). For one lake, sonde data were lost, and metabolic rates not calculated. NEP correlated with CO 2 saturation (r = -0.48, p = 0.02), and NEP became significantly more negative as lake area declined and forest cover and DOC increased (Table <ref type="table">2</ref>). Consequently, the most negative NEP rates were observed in DOC and CO 2 rich lakes smaller than 1 ha located in catchments dominated ([60%) by forest. Volumetric rates of GPP and R were significantly correlated with each other (r = 0.91, p = 0.006) and positively correlated with TP, Chl and DOC (Table <ref type="table">2</ref>). R increased significantly more than GPP with higher DOC concentrations, causing NEP to become significantly more negative and CO 2 super saturation to increase (Table <ref type="table">2</ref>). Correlations of GPP, R and NEP with lake surface area, water depth, drainage ratio and forest cover (only NEP) were often not as strong as correlations with intrinsic variables (e.g., TP, Chl and DOC) closely coupled to metabolic processes (Table <ref type="table">2</ref>).</p><p>In contrast to the highly significant relationships of volumetric rates (mmol O 2 m -3 day -1 ) of GPP, R and NEP to lake size and catchment properties (only NEP), areal rates of metabolism (mmol O 2 m -2 day -1 ) were less strongly related to these meta-parameters and showed relationship with either DOC, TP or Chl (Table <ref type="table">2</ref>).</p><p>Day-to-day variability of GPP, R and NEP, can be described by the standard deviation (SD) of metabolism over the period of measurement and by the coefficient of variation being the standard deviation normalized to the mean (CV = SD/X mean ). Both in absolute (SD; r = -0.46, p = 0.02) and relative terms (CV; r = -0.44, p = 0.03; Fig. <ref type="figure">5</ref>), the daily variability of GPP declined with lake area as we had anticipated and it was highest in small lakes receiving high inputs of exogenous nutrients and DOC.</p><p>The influence of benthic processes on rates of wholelake metabolism was evaluated by subtracting measured pelagic rates (bottle incubations) from sonde based rates using the diel open water technique. According to the sonde-bottle estimates of GPP and R, the influence of benthic processes declined significantly with increasing lake area, water depth and drainage ratio (only R, but almost GPP), but showed no significant relationship to forest cover (Fig. <ref type="figure">6a</ref>, <ref type="figure">b</ref>; Table <ref type="table">2</ref>). Since sonde estimates of whole-lake NEP were generally more negative than bottle estimates of pelagic NEP, the NEP sonde-bottle estimates were mostly negative (Fig. <ref type="figure">6c</ref>; 19 lakes in total). As lake area and water depth increased, pelagic and whole-lake NEP rates became more similar causing the residual NEP estimates to approach zero (Fig. <ref type="figure">6c</ref>). This result suggests that benthic processes become less important for the net metabolic balance as lake area and water depth increased (Fig. <ref type="figure">6</ref>; Table <ref type="table">2</ref>). Although not statistically significant, the benthic NEP estimate became more negative with increasing forest cover and was significantly negatively Fig. <ref type="figure">4</ref> Relationships of gross primary production (GPP), respiration (R) and net ecosystem production (NEP) with lake area and percent forest cover in the catchment. Errors are ±SE Fig. <ref type="figure">5</ref> Coefficient of variation (SD/mean) of GPP in relation to lake area related to DOC concentration, suggesting that proportionmore oxygen was consumed by degradation of organic material in the benthic zone relative to oxygen production by primary production for forest lakes than for lakes located in open catchments.</p><p>The relative importance of lake meta-parameters and intrinsic biological and physical drivers for weekly averages of volumetric rates of GPP, R, and NEP was evaluated by multiple regression analysis. Among meta-parameters, mean lake depth was the best predictor of GPP and R, and both decreased with increasing water depth. A combination of lake area and %forest cover was the best predictor of NEP (Table <ref type="table">3A</ref>). Light and temperature did not contribute significantly to explain between lake variability in GPP, R or NEP, suggesting that differences in these drivers were small and unimportant across the studied lakes during the study period (Table <ref type="table">3B</ref>). Algal biomass (Chl) was, as expected, the best predictor of GPP, while high rates of respiration and strong net heterotrophy (NEP \ 0) were both related to high DOC (Table <ref type="table">3B</ref>). Evaluating the combined effect of meta-parameters and biological and physical conditions on weekly rates of whole lake metabolism, showed that GPP increased with higher algal biomass and lower water depth (Table <ref type="table">3C</ref>). Similarly, respiration increased with DOC and decreased with water depth. Variations in NEP were best explained by DOC, with no significant contributions from either lake size or forest cover. Thus, except for NEP, combining metaparameters with internal biological drivers raised the overall explanatory power (r 2 ) of variations in lake metabolism by 14-15% to 57-63% (Table <ref type="table">3C</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Overall, this study revealed strong broad-scale scaling patterns of lake metabolism and limnological properties to lake meta-parameters. With increasing lake area and depth, lakes received more light, were less wind exposed, had clearer water, deeper mixing depth and contained less nutrients and DOC, causing lakes to be less net heterotrophic and with less importance of benthic metabolism and less day-to-day variability in GPP. Also, with increasing forest cover lakes become shaded and less wind exposed, more humic and CO 2 rich, and more net heterotrophic. Meta-parameters were found to have as many significant, but usually weaker relationships, to whole-lake and benthic metabolism as the intrinsic drivers (TP, Chl and DOC) that are directly linked to photosynthesis and respiration. Combining water depth and Chl to predict GPP, and water depth and DOC to predict R, lead to stronger models of the variability of metabolism among the studied 25 lakes, stressing the importance of physical boundary conditions for lake performance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Influence of lake size and forest cover on limnological properties</head><p>Physico-chemical features in 25 medium to high alkaline Danish lakes varied significantly with lake size and differences in forest cover of the catchments (Table <ref type="table" target="#tab_0">1</ref>). In agreement with previous studies, surface irradiance and wind exposure increased with lake surface area, but decreased with increasing shelter and shading from the Fig. <ref type="figure">6</ref> Difference between sonde and bottle based metabolic rates and its relationships to lake area. The difference between whole-lake metabolic estimates, determined using the open water diel O 2 technique (sonde), and pelagic metabolism calculated from oxygen changes in bottles, is used to represent an effect of benthic metabolism. As lakes become larger, the effect of benthic metabolism (mainly respiration) becomes less important and the difference between NEP derived from sondes and bottles decreases. Data are averages over 6-8 days. Filled circles are fully-mixed lakes and open circles represent thermally stratified lakes forest surrounding the lakes <ref type="bibr">(Fee et al. Sand-Jensen and Staehr 2007)</ref>. Also, small surface areas were, as expected, statistically linked to shallow water and shallow mixing depth <ref type="bibr" target="#b51">(Strasbaska 1980;</ref><ref type="bibr" target="#b11">Duarte and Kalff 1989;</ref><ref type="bibr" target="#b14">Fee et al. 1996)</ref>. Our findings that small lakes are generally richer in nutrients, algal biomass, dissolved organic matter and CO 2 than large lakes located in the same surroundings, likewise agree well with previous broad-scale comparisons <ref type="bibr" target="#b46">(Søndergaard et al. 2005;</ref><ref type="bibr" target="#b41">Sand-Jensen and Staehr 2007;</ref><ref type="bibr" target="#b20">Hanson et al. 2007;</ref><ref type="bibr" target="#b36">No ˜ges 2009)</ref>.</p><p>Loading of DOC to lakes has previously been associated with the amount of wetlands in the watershed <ref type="bibr" target="#b16">(Gergel et al. 1999)</ref>, in particular wetlands with coniferous vegetation <ref type="bibr" target="#b58">(Xenopoulos et al. 2003)</ref>. The catchments of our study lakes had a small share of wetlands (0-7%), and DOC concentration was better related to the proportion of forest in the catchments, suggesting that regional models have limited applicability in predicting DOC in other geographical areas of the world <ref type="bibr" target="#b58">(Xenopoulos et al. 2003)</ref>. The strong influence of lake area and forest cover on lake DOC (Fig. <ref type="figure" target="#fig_0">3a</ref>, <ref type="figure">b</ref>) supports two explanations. Firstly, hydrological input of DOC and nutrients across the terrestrial-aquatic boundary increases when the drainage ratio (catchment area to lake surface area) is high. Secondly, small lakes possess a long shoreline for input of air-born terrestrial organic matter relative to lake surface area and volume and receive significant amounts of organic matter from litter fall <ref type="bibr" target="#b15">(Gasith and Hasler 1976)</ref>. The implications of higher DOC for physical and biological processes were firstly, shallower surface mixed layers and reduced light penetration <ref type="bibr" target="#b45">(Snucins and Gunn 2000;</ref><ref type="bibr" target="#b21">Houser 2006</ref>) secondly, reduced planktonic production and increased planktonic respiration <ref type="bibr" target="#b9">(Del Giorgio and Peters 1994)</ref>, and finally, increased ecosystem respiration through mineralization of allochthonous organic carbon <ref type="bibr" target="#b18">(Hanson et al. 2003;</ref><ref type="bibr">Staehr et al. 2010a)</ref>.</p><p>The fluorescence index (FI) as derived by <ref type="bibr" target="#b34">McKnight et al. (2001)</ref> suggested that not only does the amount of DOC vary notably across the studied lakes, but the quality (or origin) of the DOC varies as well (Fig. <ref type="figure" target="#fig_0">3e</ref>, <ref type="figure">f</ref>). In agreement with expectations, we found that small lakes tend to contain more terrestrial material, whereas autochthonous production was a more important DOC source in larger lakes. The low FI in algal rich small lakes (Table <ref type="table">2</ref>) show that the terrestrial input of DOC is much higher than the input of DOC from degrading or leaking phytoplankton. Although large lakes do receive allochthonous DOC, its signal is overwhelmed by the production of Table <ref type="table">3</ref> Stepwise multiple linear regression models of volumetric (mmol O 2 m -3 day -1 ) rates of GPP, R and NEP as a function of (A) Lake meta-parameters: lake area, mean water depth and %forest cover in the lake catchment, and (B) Biological and physical drivers: Chl, DOC, E mean and water temperature, and (C) a combination of lake meta-parameters and, biological and physical drivers autochthonous DOC and the greater exposure to chemical and microbial degradation as a result of longer residence times <ref type="bibr" target="#b33">(Lindell et al. 2000)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regulation of ecosystem metabolism by meta-parameters</head><p>Previous investigations on the influence of lake morphometry and catchment conditions on pelagic productivity of lakes has provided deviating conclusions. A global comparison of 55 shallow to deep lakes (1-730 m) showed that volumetric estimates of primary production decreased with increasing lake size, but was more strongly influenced by light and nutrient availability <ref type="bibr" target="#b1">(Brylinsky and Mann 1973)</ref>. In agreement with our findings (Fig. <ref type="figure">2</ref>), studies in small to large lakes (1-3 9 10 6 ha) by <ref type="bibr" target="#b11">Duarte and Kalff (1989)</ref> found declining trophy and phytoplankton biomass with increasing area and mean depth. Work by Fee and coworkers on seven mid-sized to very large pristine lakes (30-10 7 ha), however, showed that lake size was a poor predictor of lake trophy and phytoplankton photosynthesis <ref type="bibr" target="#b13">(Fee et al. 1992</ref><ref type="bibr" target="#b14">(Fee et al. , 1996;;</ref><ref type="bibr" target="#b17">Guildford et al. 1994)</ref>. This response was explained by a greater turbulence and probability of nutrient regeneration within the mixed layer in very large lakes and greater upward nutrient flux (N and Si, but not P) across the thermocline. Also, in more recent studies of small lakes (0.02-20 ha), nutrients, algal biomass and CO 2 super saturation decreased with lake size, but no apparent scaling was found for pelagic metabolism <ref type="bibr">(Sand-Jensen and</ref><ref type="bibr">Staehr 2007, 2009)</ref>. Thus, previous studies on the importance of lake morphometry for primary productivity generally support our findings in small to midsized lakes (0.1-1,700 ha). However, relationships were weaker or inconsistent for the full range of lake sizes and relationships also depended on methodology. Earlier conclusions on lake metabolism were all based on bottle incubations, which only provide estimates of pelagic productivity. We used open water diel changes in DO to estimate whole-lake metabolism, which offer more reliable results and integrate pelagic and benthic processes under conditions of full vertical mixing (see more in <ref type="bibr">Staehr et al. 2010b)</ref>.</p><p>Forest lakes received less light and were expected to receive less easily accessible dissolved nutrients for phytoplankton production compared to lakes in fertilized agricultural landscapes <ref type="bibr" target="#b31">(Larsen et al. 1994;</ref><ref type="bibr" target="#b42">Sand-Jensen and Staehr 2009)</ref>. We therefore expected high forest cover to be associated with lower nutrient status, phytoplankton biomass and GPP in the lakes <ref type="bibr" target="#b22">(Jackson and Hecky 1980)</ref>. Nutrient levels were, however, similar for our open and forested lakes, and little differences in GPP were found between lakes of the same size but different forest cover. High inputs of organic material in forest lakes, on the other hand, stimulate growth and metabolism of bacteria and zooplankton and enhance community respiration and constrain phytoplankton production due to greater background shading from colored DOC <ref type="bibr" target="#b2">(Christensen et al. 1996;</ref><ref type="bibr" target="#b25">Jonsson et al. 2001;</ref><ref type="bibr" target="#b41">Sand-Jensen and Staehr 2007)</ref>. Browncolored small lakes in forest catchments were therefore significantly more net heterotrophic, in agreement with previous studies (Del <ref type="bibr" target="#b10">Giorgio et al. 1999;</ref><ref type="bibr">Sand-Jensen and</ref><ref type="bibr">Staehr 2007, 2009)</ref>. The high perimeter to area ratio for small lakes, coupled with high DOC flux and retention <ref type="bibr" target="#b8">(Curtis and Schindler 1997)</ref> elevated carbon mineralization and net efflux of CO 2 to the atmosphere.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Influence of benthic processes on whole-lake metabolism</head><p>With increasing lake area, water depth tends to increase and the relative influence of benthic primary production can be expected to decrease as light becomes more limiting <ref type="bibr" target="#b26">(Kemp et al. 1992)</ref>. Although the importance of benthic primary producers is expected to be higher in shallow systems, poor light conditions associated with eutrophication may switch the dominance from benthic to pelagic processes <ref type="bibr" target="#b55">(Vadeboncoeur et al. 2003)</ref>. Our lakes were all placed in medium to high alkaline, nutrient-rich catchments, with relatively poor light conditions for benthic plant growth even in shallow lakes (See Table <ref type="table" target="#tab_0">1</ref>). Except for a few shallow lakes, most of our lakes had little submerged vegetation, and the benthic zone was accordingly dominated by carbon-rich and oxygen demanding sediments (author, pers obs), suggesting dominance of heterotrophic processes in the benthic environment. In support of this, we generally found higher sonde based (*whole-lake) than bottle based (*pelagic) respiration rates, especially so in small and shallow lakes (Table <ref type="table">2</ref>; Fig. <ref type="figure">6b</ref>). Also the difference between sonde and bottle based NEP declined with increasing lake depth (Table <ref type="table">2</ref>) and area (Fig. <ref type="figure">6c</ref>), indicating the influence of benthic processes on whole-lake metabolism to decrease with increasing lake size.</p><p>As shown in <ref type="bibr" target="#b7">Coloso et al. (2011)</ref>, diel changes in mixing depth and microstratification occurred in all of the lakes that were deep enough to stratify (12 out of 25). For these lakes, metabolic rates based on sonde measurements at shallow depth do not represent whole-lake estimates but rather the upper mixed layer <ref type="bibr" target="#b6">(Coloso et al. 2008)</ref>. The influence of benthic processes is therefore likely underestimated for our stratified lakes by a degree which depends on the volume of water below the mixed layer depth and the proportion of the lake bottom not being exposed to the upper mixed layer <ref type="bibr" target="#b50">(Staehr et al. 2011)</ref>, which in turn depends on lake morphometry and variability in mixing depth <ref type="bibr" target="#b7">(Coloso et al. 2011)</ref>. Applying hypsographic tables for the stratified lakes, we find that (mean 57%) of the lake volume and 20-70% (mean 53%) of the lake bottom is represented within the upper mixed layers of our stratified lakes. This suggests that a variable but likely substantial benthic signal is in fact included in our sondebased estimates of metabolism in these lakes. Removing data from stratified lakes in our analysis (open circles in Fig. <ref type="figure">6</ref>) would furthermore only weaken and not change relationships between the influence of benthic processes on lake metabolism and lake size.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Areal versus volumetric rates</head><p>In agreement with expectations, the implicit scaling was much weaker for areal than volumetric rates, and only GPP was significantly related to lake area (Table <ref type="table">2</ref>). Weak or absent relations to areal rates may derive from the confounding effect of co-variation of lake surface area and water depth. However, light utilization for photosynthesis per unit area is also known to be relatively similar among different communities and among systems of different depth (Krause-Jensen and Sand-Jensen 1998), and shallow lakes can accordingly be viewed as a compressed version of deeper lakes <ref type="bibr" target="#b1">(Brylinsky and Mann 1973;</ref><ref type="bibr" target="#b30">Krause-Jensen and Sand-Jensen 1998)</ref> with little differences in areal rates of productivity.</p><p>Comparison of lake productivity amongst contrasting lakes can also be obtained by normalizing GPP to phytoplankton biomass, which serves as an index of the growth potential of algae <ref type="bibr" target="#b47">(Staehr and Sand-Jensen 2007)</ref>. For the lakes in this study, chlorophyll specific GPP decreased significantly with increasing TP concentration (r = -0.42, p \ 0.05), while it increased with increasing mean light availability (r = 0.47, p \ 0.05). These findings suggest that the efficiency of nutrient use of the autotrophic community increases with the degree of nutrient limitation, and that light availability is more important than nutrient availability for variation of primary production. Considering that the mean available irradiance (a function of surface irradiance, light attenuation and mixing depth) was unrelated to lake area and depth (Table <ref type="table">2</ref>), it is not surprising that areal rates of GPP, R and NEP show weak dependencies of lake morphometry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Drivers of daily variability in metabolism</head><p>According to general scaling theory, the chemical and biological components of small aquatic systems are more variable as they are more sensitive to initial conditions, have limited external exchange of material and organisms with surroundings, and low buffering capacity <ref type="bibr" target="#b27">(Kemp et al. 2001)</ref>. Studies of scaling rules in aquatic ecosystems have furthermore shown that food chain length decreases with reduced lake volume <ref type="bibr" target="#b37">(Post et al. 2000)</ref> and these smaller lakes are less species rich, have less interspecies competition, and higher chance of rise and fall of populations.</p><p>In this study, daily variability of GPP declined with lake area and was highest in small nutrient rich and productive lakes. High productivity in nutrient-rich lakes is known to be associated with high day-to-day variability in GPP, R and NEP, and this is suggested to reflect the dynamic behavior of the lake ecosystem in response to changes in incident irradiance and available irradiance in the mixed surface layers <ref type="bibr" target="#b47">(Staehr and Sand-Jensen 2007)</ref>. High day-today variability in GPP in small lakes may also be impacted by changes of physical processes such as advection and inflow, and a greater influence from littoral metabolism <ref type="bibr" target="#b54">(Vadeboncoeur et al. 2001)</ref>. High variability of GPP also occurred in the small DOC rich lakes, which is somewhat counter intuitive. High input of DOC may restrict photosynthesis through greater competition for available light <ref type="bibr">(Staehr et al. 2010a</ref>) and greater competition for nutrients among autotrophs and heterotrophs (Krause-Jensen and Sand-Jensen 1998) tend to reduce the temporal variability of metabolism. This stabilizing effect of DOC in forested lakes may also be due to the fact that DOC is a relatively time-stable energy source to bacteria and zooplankton <ref type="bibr" target="#b5">(Cole et al. 2002)</ref>. Thus, our results suggest that the stabilizing effect of DOC on GPP to be less influential than the destabilizing effects of high levels of nutrient, short food-chain length and stronger physical disturbance found in smaller sized lakes.</p><p>Our findings support the use of metabolic responses in lakes as a common metric that integrates terrestrial impacts on lake ecosystems <ref type="bibr" target="#b57">(Williamson et al. 2008)</ref>. The strong influence of lake morphometry and catchment conditions suggest that broad-scale comparisons among lakes and evaluation of their responses to human impacts (e.g., eutrophication, deforestation and climate change) need to take into account the strong implicit scaling with the physical boundary conditions. These operate directly through differences in shading, sheltering, physical mixing and indirectly through input of nutrients and organic matter.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Relationships of dissolved organic carbon (DOC), CO 2 saturation, and fluorescence index with lake area and percent forest cover in the catchment. Errors are ±SE. Errors for DOC are smaller than the used symbol</figDesc><graphic coords="8,188.43,59.24,356.04,349.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="7,184.32,59.24,360.00,247.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="7,184.32,352.29,360.00,349.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="9,184.32,59.24,360.00,342.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="10,53.87,59.24,232.44,391.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Physical, optical and mean chemical characteristics for surface waters of the lakes</figDesc><table><row><cell>ANC</cell><cell cols="2">(meq L -1 )</cell><cell>0.50 ± 0.01</cell><cell>1.88 ± 0.01</cell><cell>3.28 ± 0.02</cell><cell>2.52 ± 0.03</cell><cell>2.25 ± 0.01</cell><cell>2.60 ± 0.01</cell><cell>2.57 ± 0.01</cell><cell>2.95 ± 0.03</cell><cell>1.83 ± 0.04</cell><cell>5.15 ± 0.02</cell><cell>2.04 ± 0.02</cell><cell>1.46 ± 0.00</cell><cell>ND</cell><cell>0.44 ± 0.01</cell><cell>1.59 ± 0.02</cell><cell>2.16 ± 0.00</cell><cell>0.22 ± 0.00</cell><cell>2.56 ± 0.05</cell><cell>3.56 ± 0.02</cell><cell>1.88 ± 0.02</cell><cell>2.99 ± 0.03</cell><cell>2.58 ± 0.02</cell><cell>1.93 ± 0.03</cell><cell>5.27 ± 0.10</cell><cell>2.15 ± 0.01</cell><cell></cell></row><row><cell cols="2">CO 2</cell><cell>(% sat)</cell><cell>280 ± 13</cell><cell>1,588 ± 27</cell><cell>284 ± 3</cell><cell>316 ± 14</cell><cell>101 ± 2</cell><cell>470 ± 24</cell><cell>67 ± 1</cell><cell>114 ± 4</cell><cell>370 ± 47</cell><cell>468 ± 8</cell><cell>602 ± 6</cell><cell>881 ± 28</cell><cell>ND</cell><cell>232 ± 10</cell><cell>2 ± 0</cell><cell>1,086 ± 21</cell><cell>1,314 ± 291</cell><cell>312 ± 67</cell><cell>273 ± 14</cell><cell>2,340 ± 182</cell><cell>251 ± 4</cell><cell>151 ± 8</cell><cell>142 ± 39</cell><cell>394 ± 42</cell><cell>359 ± 40</cell><cell></cell></row><row><cell>DOC</cell><cell cols="2">(g m -3 )</cell><cell>5.75 ± 0.01</cell><cell>22.92 ± 0.16</cell><cell>16.28 ± 0.28</cell><cell>6.50 ± 0.02</cell><cell>8.45 ± 0.05</cell><cell>19.51 ± 0.06</cell><cell>6.05 ± 0.08</cell><cell>9.00 ± 0.05</cell><cell>5.26 ± 0.01</cell><cell>10.70 ± 0.03</cell><cell>6.97 ± 0.03</cell><cell>7.67 ± 0.02</cell><cell>23.35 ± 0.12</cell><cell>45.64 ± 0.28</cell><cell>7.62 ± 0.03</cell><cell>14.27 ± 0.04</cell><cell>16.84 ± 0.19</cell><cell>8.71 ± 0.22</cell><cell>7.68 ± 0.01</cell><cell>3.02 ± 0.03</cell><cell>2.58 ± 0.01</cell><cell>4.40 ± 0.01</cell><cell>4.17 ± 0.01</cell><cell>3.05 ± 0.06</cell><cell>5.68 ± 0.02</cell><cell></cell></row><row><cell>TP</cell><cell cols="2">(mg m -3 )</cell><cell>24.5 ± 2.4</cell><cell>80.5 ± 2.0</cell><cell>33.8 ± 0.6</cell><cell>48.3 ± 1.0</cell><cell>29.2 ± 3.2</cell><cell>101.1 ± 9.3</cell><cell>184.2 ± 1.5</cell><cell>29.2 ± 0.6</cell><cell>54.4 ± 2.9</cell><cell>56.1 ± 1.6</cell><cell>28.0 ± 3.0</cell><cell>47.8 ± 3.1</cell><cell>48.4 ± 1.2</cell><cell>16.6 ± 1.6</cell><cell>100.8 ± 4.1</cell><cell>95.0 ± 1.5</cell><cell>115.2 ± 31.0</cell><cell>40.8 ± 4.6</cell><cell>43.6 ± 0.6</cell><cell>249.4 ± 30.1</cell><cell>49.5 ± 5.1</cell><cell>54.7 ± 6.9</cell><cell>159.1 ± 5.3</cell><cell>178.4 ± 8.7</cell><cell>54.8 ± 1.2</cell><cell></cell></row><row><cell>Chl</cell><cell cols="2">(mg m -3 )</cell><cell>7.7 ± 0.2</cell><cell>23.9 ± 2.3</cell><cell>7.6 ± 0.2</cell><cell>9.9 ± 0.1</cell><cell>4.3 ± 0.3</cell><cell>28.4 ± 5.3</cell><cell>0.8 ± 0.0</cell><cell>6.3 ± 0.9</cell><cell>27.6 ± 1.0</cell><cell>8.6 ± 0.2</cell><cell>6.1 ± 0.1</cell><cell>8.3 ± 1.5</cell><cell>34.9 ± 0.6</cell><cell>4.0 ± 0.0</cell><cell>31.0 ± 2.3</cell><cell>29.8 ± 1.9</cell><cell>402.3 ± 192.5</cell><cell>24.8 ± 10.4</cell><cell>26.1 ± 2.8</cell><cell>65.3 ± 14.6</cell><cell>6.4 ± 0.2</cell><cell>18.6 ± 0.9</cell><cell>35.1 ± 2.2</cell><cell>92.9 ± 4.8</cell><cell>24.0 ± 0.9</cell><cell></cell></row><row><cell cols="3">K D (m -1 )</cell><cell>1.20</cell><cell>2.82</cell><cell>2.03</cell><cell>0.96</cell><cell>0.57</cell><cell>2.27</cell><cell>0.27</cell><cell>0.65</cell><cell>1.64</cell><cell>1.25</cell><cell>1.10</cell><cell>1.43</cell><cell>2.63</cell><cell>0.50</cell><cell>2.58</cell><cell>3.36</cell><cell>5.23</cell><cell>1.52</cell><cell>1.05</cell><cell>5.66</cell><cell>0.64</cell><cell>1.23</cell><cell>3.94</cell><cell>3.94</cell><cell>2.14</cell><cell></cell></row><row><cell>Mixing</cell><cell></cell><cell>depth (m)</cell><cell>3.2</cell><cell>0.7</cell><cell>1.2</cell><cell>3.3</cell><cell>4.2</cell><cell>1.1</cell><cell>3.8</cell><cell>10.3</cell><cell>1.1</cell><cell>2.3</cell><cell>1.3</cell><cell>0.7</cell><cell>2.6</cell><cell>6.2</cell><cell>1.3</cell><cell>1.6</cell><cell>1.8</cell><cell>1.2</cell><cell>2.1</cell><cell>1.4</cell><cell>2.3</cell><cell>4.2</cell><cell>1.0</cell><cell>1.5</cell><cell>0.8</cell><cell></cell></row><row><cell>Forest</cell><cell></cell><cell>(%)</cell><cell>75</cell><cell>74</cell><cell>8</cell><cell>11</cell><cell>34</cell><cell>1</cell><cell>38</cell><cell>26</cell><cell>1</cell><cell>3</cell><cell>85</cell><cell>67</cell><cell>89</cell><cell>65</cell><cell>15</cell><cell>76</cell><cell>86</cell><cell>3</cell><cell>27</cell><cell>91</cell><cell>19</cell><cell>5</cell><cell>24</cell><cell>21</cell><cell>57</cell><cell></cell></row><row><cell>Mean</cell><cell></cell><cell>depth (m)</cell><cell>3.2</cell><cell>0.8</cell><cell>0.7</cell><cell>3.5</cell><cell>7.0</cell><cell>0.8</cell><cell>13.5</cell><cell>6.3</cell><cell>1.5</cell><cell>2.2</cell><cell>1</cell><cell>1.6</cell><cell>4.8</cell><cell>4.3</cell><cell>1.5</cell><cell>1.1</cell><cell>1.6</cell><cell>1.5</cell><cell>3</cell><cell>0.5</cell><cell>2.8</cell><cell>3.5</cell><cell>0.5</cell><cell>1</cell><cell>1</cell><cell></cell></row><row><cell>Lake Area</cell><cell></cell><cell>(ha)</cell><cell>Agersø 3.7</cell><cell>Agertoften 0.6</cell><cell>Badstuedam 2.8</cell><cell>Bastrup Sø 32.3</cell><cell>Buresø 76.1</cell><cell>Bøllemose 0.5</cell><cell>Esrum Sø 1,729.0</cell><cell>120.0 Farumsø</cell><cell>1.0 Favrholm</cell><cell>4.95 Fugl sø</cell><cell>1.6 Funkedam</cell><cell>1.1 Fønstrupdam</cell><cell>10.0 Grib sø</cell><cell>76.0 Hampen Sø</cell><cell>0.5 Hestskodam</cell><cell>2.9 Karlssø</cell><cell>3.4 Klaresø</cell><cell>0.7 Praestevang</cell><cell>2.3 Selskovvej Sø</cell><cell>0.1 Sidseldam</cell><cell>293.0 Sjaelsø</cell><cell>22.1 Slotssøen</cell><cell>0.5 Sortedam</cell><cell>17.6 Strødam Engsø</cell><cell>5.3 Teglga ˚rdssø</cell><cell>= 3 Uncertainties are SE, n</cell><cell>K</cell></row></table><note><p>D light attenuation, Chl algal biomass, TP total phosphorus, DOC dissolved organic carbon, CO</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>P. A.Staehr et al.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>percent, CO 2 saturation, ANC acid neutralizing capacity, ND not determined</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments This project was funded by a <rs type="grantName">Steno grant</rs> from the <rs type="funder">Danish Natural Science Research Council</rs> to <rs type="person">Peter Staehr</rs> and received support from the <rs type="funder">Danish Centre for Lake Restoration (CLEAR)</rs>. We are grateful for helpful comments to improve the manuscript from people in the <rs type="institution">Global Lakes Ecological Observatory Network (GLEON)</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_J3WyYX2">
+					<orgName type="grant-name">Steno grant</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Sediment-related mechanisms of growth limitation in submersed macrophytes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Barko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Smart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="1328" to="1340" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Analysis of factors governing productivity in lakes and reservoirs</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brylinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Mann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Pelagic responses to changes in dissolved organic carbon following division of a seepage lake</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Cottingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Knight Lebouton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Schindler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Voichick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="553" to="559" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Atmospheric exchange of carbon dioxide in a low-wind oligotrophic lake measured by the addition of SF6</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Caraco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="647" to="656" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Persistence of net heterotrophy in lakes during nutrient addition and food web manipulations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Kitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1718" to="1730" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Pathways of organic carbon utilization in small lakes: Results from a wholelake C-13 addition and coupled model</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Kitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1664" to="1675" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Depth-integrated, continuous estimates of metabolism in a clear-water lake</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Coloso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Fish Aquat Sci</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="712" to="722" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Short-term variation in thermal stratification complicates estimation of lake metabolism</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Coloso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat Sci</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="305" to="315" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Hydrologic control of dissolved organic matter in low-order Precambrian Shield Lakes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schindler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biogeochemistry</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="125" to="138" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Patterns in planktonic P:R ratios in lakes: influence of lake trophy and dissolved organic carbon</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Del Giorgio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Peters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="772" to="787" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Linking planktonic biomass and metabolism to net gas fluxes in northern temperate lakes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Del Giorgio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Caraco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Peters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="1422" to="1431" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The influence of catchment geology and lake depth on phytoplankton biomass</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Duarte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kalff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="27" to="40" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Standard methods for the examination of water and wastewater, 2nd edn</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Eaton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Clesceri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Greenberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>American Public Health Association</publisher>
+			<pubPlace>Washington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effects of lake size on phytoplankton photosynthesis</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Fee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Shearer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Debruyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Schindler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Fish Aquat Sci</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="2445" to="2459" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Effects of lake size, water clarity, and climatic variability on mixing depths in Canadian Shield lakes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Fee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Hecky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sem</forename><surname>Kaisan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Cruikshank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="912" to="920" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Airborne litterfall as a source of organicmatter in lakes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gasith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hasler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="253" to="258" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Dissolved organic carbon as an indicator of the scale of watershed influence on lakes and rivers</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Gergel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Kratz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Appl</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1377" to="1390" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Effects of lake size on phytoplankton nutrient status</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Guildford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Hendzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Kling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Fee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ggc</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Hecky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sem</forename><surname>Kasian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Fish Aquat Sci</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="2769" to="2783" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Lake metabolism: relationships with dissolved organic carbon and phosphorus</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Bade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1112" to="1119" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Lake dissolved inorganic carbon and dissolved oxygen: changing drivers from days to decades</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Stanley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Monogr</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="343" to="363" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Small lakes dominate a random sample of regional lake characteristics</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Cardille</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Coe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Winslow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshw Biol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="814" to="822" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Water color affects the stratification, surface temperature, heat content, and mean epilimnetic irradiance of small lakes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Houser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Fish Aquat Sci</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="2447" to="2455" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Depression of primary productivity by humic matter in lake and reservoir waters of the Boreal Forest Zone</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Hecky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Fish Aquat Sci</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2300" to="2317" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">On the parameters influencing air-water gas exchange</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ja ¨hne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Mu ¨nnich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bo</forename><surname>¨singer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dutzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Libner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Geophys Res</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="1937" to="1949" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Measurements of chlorophyll-A from phytoplankton using ethanol as extraction solvent</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Jespersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Christoffersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="445" to="454" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Whole-lake mineralization of allochthonous and autochthonous organic carbon in a large humic lake (O ¨rtra ¨sket</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Bergstrøm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1691" to="1700" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>N. Sweden)</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Seasonal depletion of oxygen from bottom waters of Chesapeake Bay-roles of benthic and planktonic respiration and physical exchange processes</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Kemp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Sampou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Garber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuttle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Boynton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mar Ecol Progress Ser</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="137" to="152" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Scale-dependence and the problem of extrapolation: implications for experimental and natural coastal ecosystems</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Kemp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Gardner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Scaling relations in experimental ecology</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Gardner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Kemp</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Kennedy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Petersen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="3" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Light and photosynthesis in aquatic ecosystems</title>
+		<author>
+			<persName><forename type="first">Jto</forename><surname>Kirk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Cambridge University press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Production and bioavailability of autochthonous dissolved organic carbon: effects of mesozooplankton</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kragh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sondergaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat Microb Ecol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="61" to="72" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Light attenuation and photosynthesis of aquatic plant communities</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Krause-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="396" to="407" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Ferske vandomra ˚der-vandløb og kilder (in Danish)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Larsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Vandmiljøplanens overva ˚gningsprogram</title>
+		<meeting><address><addrLine>Silkeborg, Denmark</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994. 1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Gross primary production and respiration differences among littoral and pelagic habitats in northern Wisconsin lakes</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Lauster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Kratz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Fish Aquat Sci</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="1130" to="1141" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Seasonal photoreactivity of dissolved organic matter from lakes with contrasting humic content</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Lindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Graneli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bertilsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Fish Aquat Sci</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="875" to="885" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Spectrofluorometric characterization of dissolved organic matter for indication of precursor organic material and aromaticity</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mcknight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Boyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Westerhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Doran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kulbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Andersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="38" to="48" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Areal informations Systemet-AIS. Danish ministry of the environment</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stjernholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Ø</forename><surname>Olsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mu ¨ller-Wohlfeil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Madsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kjeldgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Groom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rolev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hermansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Skov-Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Johannesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hvidberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Egholm</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>In Danish</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Relationships between morphometry, geographic location and water quality parameters on European lakes</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>No</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">633</biblScope>
+			<biblScope unit="page" from="33" to="43" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Ecosystem size determines food-chain length in lakes</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Post</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Hairston</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">405</biblScope>
+			<biblScope unit="page" from="1047" to="1049" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">The carbon dioxide system in freshwater</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Rebsdorf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+		</imprint>
+		<respStmt>
+			<orgName>Freshwater Biological Laboratory, University of Copenhagen, Denmark</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Phytoplankton of the North Central Sargasso Sea, 1950-1952</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Riley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="252" to="270" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Photosynthesis of amphibious and obligately submerged plants in CO 2 -rich lowland streams</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Frost-Christensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oecologia</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="31" to="39" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Scaling of pelagic metabolism to size, trophy and forest cover in small Danish lakes</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Staehr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="127" to="141" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Net heterotrophy in small Danish lakes: a widespread feature over gradients in trophic status and land cover</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Staehr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="336" to="348" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">stress and reduced growth of Lobelia dortmanna in sandy lake sediments subject to organic enrichment</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Borum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Binzer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshw Biol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1034" to="1048" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">SAS/STAT Users Guide. SAS institute, NC Smith SV (1985) Physical, chemical and biological characteristics of CO 2 gas flux across the air-water interface</title>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Cell Environ</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="387" to="398" />
+			<date type="published" when="1994">1994</date>
+			<publisher>SAS Institute Inc</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Interannual variation in the thermal structure of clear and colored lakes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Snucins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gunn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1639" to="1646" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Pond or lake: does it make any difference?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Søndergaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jeppesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archieves fu ¨r Hydrobiology</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="143" to="165" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Temporal dynamics and regulation of lake metabolism</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Staehr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="108" to="120" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">a) Drivers of metabolism and net heterotrophy in contrasting lakes</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Staehr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sand-Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Raun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nielsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kidmose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="817" to="830" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">b) Lake metabolism and the diel oxygen technique: State of the science</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Staehr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Van De Bogert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kratz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnology Oceanogr Methods</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="628" to="644" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Ecosystem metabolism in a stratified lake</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Staehr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jpa</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Batt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Read</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>In review</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">The effects of physical variables on freshwater production: analysis based on models</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Strasbaska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The functioning of freshwater ecosystems</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>La Cren</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Lowe-Mcconnell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University press</publisher>
+			<date type="published" when="1980">1980</date>
+			<biblScope unit="page" from="13" to="84" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Der bau des seebeckes in seiner bedeutung fu ¨r das leben in see</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thienemann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Verh Zool Bot Ges</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="87" to="91" />
+			<date type="published" when="1927">1927</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Allochthonous dissolved organic-matter as an energy-source for pelagic bacteria and the concept of the microbial loop</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Tranvik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">229</biblScope>
+			<biblScope unit="page" from="107" to="114" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Whole-lake fertilization effects on distribution of primary production between benthic and pelagic habitats</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Vadeboncoeur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Carpenter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="1065" to="1077" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">From Greenland to green lakes: cultural eutrophication and the loss of benthic pathways in lakes</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Vadeboncoeur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jeppesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Vander Zanden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Schierup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Christoffersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lodge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1408" to="1418" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Carbon dioxide exchange of Alnus rubra</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Starr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oecologia</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="281" to="291" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Lakes and streams as sentinels of environmental change in terrestrial and atmospheric processes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Dodds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Kratz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Palmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Ecol Environ</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="247" to="254" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Regional comparisons of watershed determinants of dissolved organic carbon in temperate lakes from the Upper Great Lakes region and selected regions globally</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Xenopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Frentress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Kreps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Bridgham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Grossman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Jackson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="2321" to="2334" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

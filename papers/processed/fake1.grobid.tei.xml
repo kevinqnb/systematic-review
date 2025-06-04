@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Quantifying saltmarsh vegetation and its effect on wave height dissipation: Results from a UK East coast saltmarsh</title>
+				<funder ref="#_2CvhZ7r">
+					<orgName type="full">Royal Geographical Society/EPSRC</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2006-07-07">7 July 2006</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">I</forename><surname>Mo</surname></persName>
+							<email>im10003@cam.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution" key="instit1">Cambridge Coastal Research Unit</orgName>
+								<orgName type="institution" key="instit2">University of Cambridge</orgName>
+								<address>
+									<addrLine>Downing Place</addrLine>
+									<postCode>CB2 3EN</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Quantifying saltmarsh vegetation and its effect on wave height dissipation: Results from a UK East coast saltmarsh</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Estuarine, Coastal and Shelf Science</title>
+						<title level="j" type="abbrev">Estuarine, Coastal and Shelf Science</title>
+						<idno type="ISSN">0272-7714</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">69</biblScope>
+							<biblScope unit="issue">3-4</biblScope>
+							<biblScope unit="page" from="337" to="351"/>
+							<date type="published" when="2006-07-07">7 July 2006</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DD616E738C36DBC30116DF6FD74E7D6C</idno>
+					<idno type="DOI">10.1016/j.ecss.2006.05.003</idno>
+					<note type="submission">Received 6 April 2006; accepted 2 May 2006</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>saltmarsh</term>
+					<term>vegetation density</term>
+					<term>seasonality</term>
+					<term>wave height</term>
+					<term>wave attenuation</term>
+					<term>Dengie Peninsula</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The degree to which incident wind waves are attenuated over intertidal surfaces is critical to the development of coastal wetlands, which are, amongst other processes, affected by the delivery, erosion, and/or resuspension of sediment due to wave action. Knowledge on wave attenuation over saltmarsh surfaces is also essential for accurate assessments of their natural sea-defence value to be made and incorporated into sea defence and management schemes. The aim of this paper is to evaluate the use of a digital photographic method for the quantification of marsh vegetation density and then to investigate the relative roles played by hydrodynamic controls and vegetation density/type in causing the attenuation of incident waves over a macro-tidal saltmarsh.</p><p>Results show that a significant statistical relationship exists between the density of vegetation measured in side-on photographs and the dry biomass of the photographed vegetation determined through direct harvesting. The potential of the digital photographic method for the spatial and temporal comparison of marsh surface vegetation biomass, density, and canopy structure is highlighted and the method was applied to assess spatial and seasonal differences in vegetation density and their effect on wave attenuation at three locations on a macro-tidal saltmarsh on Dengie Peninsula, Essex, UK. In this environmental setting, vegetation density/type did not have a significant direct effect on wave attenuation but modified the process of wave transformation under different hydrodynamic conditions. At the two locations, characterised by a relatively tall canopy (15e26 cm) with biomass values of 430e500 g m À2 , dominated by Spartina spp. (&gt;70% of total dry biomass), relative incident wave height (wave height/water depth) is identified as a statistically significant dominant positive control on wave attenuation up to a threshold value of 0.55, beyond which wave attenuation showed no significant further increase. At the third location, characterised by only slightly less biomass (398 g m À2 ) but a shorter (6 cm) canopy of the annual Salicornia spp., no significant relationship existed between wave attenuation and relative wave height. Seasonally (between September and December) significant temporal increase/decrease in vegetation density occurred in one of the Spartina canopies and in the Salicornia canopy, respectively, and led to an expected (but not statistically significant) increase/decrease in wave attenuation. The wider implications of these findings in the context of formeprocess interactions on saltmarshes and their effect on marsh evolution are also discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Recent concern over the possibility of increased flood risk (as a result of rising relative sea level and increased storminess) on many low-lying coasts requires a better understanding of the natural sea-defence capacity of intertidal areas such as mudflats and saltmarshes. Previous studies (e.g. <ref type="bibr" target="#b39">Wayne, 1976;</ref><ref type="bibr" target="#b4">Brampton, 1992;</ref><ref type="bibr" target="#b27">Mo ¨ller et al., 2001;</ref><ref type="bibr" target="#b23">Mo ¨ller and Spencer, 2003)</ref> have shown that saltmarsh environments in a variety of physical settings can significantly increase attenuation of incident waves compared to unvegetated sand/mudflats. The most recent estimates for macro-tidal northwest European marshes <ref type="bibr" target="#b24">(Mo ¨ller et al., 1999</ref><ref type="bibr">(Mo ¨ller et al., , 2002) )</ref> suggest rates of wave height reduction of up to 50% over the first 10e20 m of vegetated saltmarsh surface. Other studies have shown that vegetation can significantly reduce unidirectional tidal marsh surface flows (see e.g. <ref type="bibr">Leonard et al., 1995a,b;</ref><ref type="bibr" target="#b21">Leonard and Reed, 2002)</ref>.</p><p>The theory of wave energy dissipation due to viscous boundary layer friction, permeability and the viscous nature of the sea bed in shallow water has been developed in great detail (e.g. <ref type="bibr" target="#b35">Sleath, 1984)</ref> since the early works of <ref type="bibr" target="#b30">Putman and Johnson (1949)</ref>, <ref type="bibr" target="#b5">Bretschneider and Reid (1954)</ref> and others. It is known that, over any given surface, wave dissipation varies in response to hydrodynamic conditions, in particular, water depth and incident wave heights. Empirical studies by <ref type="bibr" target="#b17">Le Hir et al. (2000)</ref>, for example, suggest that relative wave height (i.e. wave height/water depth ratio) provides an overriding control on shallow water wave attenuation. An H rms /h ratio of 0.15 was found to determine the limit of observed wave heights on the Brouage mudflat in France (Le <ref type="bibr" target="#b17">Hir et al., 2000)</ref>.</p><p>In addition to these hydrodynamic controls, however, wave attenuation over saltmarsh (as opposed to unvegetated mudflat surfaces) is increased by the effect of bed 'roughness' e the result of topographic variations in marsh surface geometry as well as vegetation canopy geometry and structure (see e.g. <ref type="bibr" target="#b14">Hartnall, 1984;</ref><ref type="bibr" target="#b7">Dijkema, 1987;</ref><ref type="bibr" target="#b28">Pethick, 1992)</ref>. It has proven difficult to incorporate these sea bed roughness effects into predictive energy dissipation models. A crude attempt was made by <ref type="bibr" target="#b24">Mo ¨ller et al. (1999)</ref> to quantify friction by comparing measured wave attenuation on a macro-tidal saltmarsh with modelled attenuation under identical hydrodynamic conditions but over unvegetated surfaces and smooth bottom topography. The resulting friction factors, however, do not allow the effects of topography and vegetation to be separately quantified.</p><p>With regard to vegetation-induced roughness effects alone, the studies by <ref type="bibr" target="#b30">Putman and Johnson (1949)</ref> and <ref type="bibr" target="#b5">Bretschneider and Reid (1954)</ref> made significant attempts to derive a formula for calculating dissipation given known 'friction factors'. Subsequently, attempts have been made at defining vegetationinduced friction empirically, but such attempts have tended to be based on laboratory studies assessing the effect of vegetation on unidirectional flow rather than on the bi-directional flow of wave currents (e.g. <ref type="bibr" target="#b29">Pethick et al., 1990;</ref><ref type="bibr" target="#b9">Fonseca and Cahalan, 1992;</ref><ref type="bibr" target="#b34">Shi et al., 1995;</ref><ref type="bibr" target="#b6">Coops et al., 1996)</ref>. These studies have also suggested that the complexity of within-canopy flows results in species-specific flow structures related to canopy height, vegetation structure and plant spacing <ref type="bibr">(Leonard et al., 1995a,b)</ref>, thus exposing the traditional modelling analogy of regarding vegetation elements as cylinders of varying diameter, spacing and orientation within a flow field (e.g. <ref type="bibr" target="#b8">Eckman et al., 1989)</ref> as inadequate.</p><p>With respect to wave attenuation, the potential effect of spatial and seasonal differences in marsh vegetation canopies has been addressed qualitatively by <ref type="bibr">Mo ¨ller and Spencer (2002)</ref>, who observed a consistent decrease in attenuation at the marsh edge of the Tillingham marshes, Essex, UK, from autumn (September to December) through winter (December to February) and into spring (March to July). Variations in water depth, however, have also been shown to control wave attenuation at the saltmarsh edge, i.e. the transition from unvegetated sand/mudflat to vegetated marsh <ref type="bibr" target="#b26">(Moeller et al., 1996;</ref><ref type="bibr">Mo ¨ller and Spencer, 2002)</ref>, making it difficult to isolate the effect of vegetation-induced surface roughness changes.</p><p>No study has thus, as yet, systematically investigated the relative importance of different types (and seasonal changes) of vegetation on wave attenuation in a field setting, under comparable hydrodynamic conditions. One of the reasons for this is the very time consuming and error-prone nature of traditional techniques for recording vegetation structure (e.g. the susceptibility of the point quadrat method described by <ref type="bibr" target="#b37">Sutherland (1996)</ref> to wind disturbance e a common occurrence in dynamic coastal environments).</p><p>This paper thus aims to (a) test and develop a new, easily deployable technique for the quantification of marsh surface vegetation density, height, and structure and (b) investigate the relationship between such marsh surface vegetation characteristics and wave height dissipation (taking into account possible hydrodynamic controls, such as the incident wave height to water depth ratio).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Field setting</head><p>Field measurements were conducted on a macro-tidal saltmarsh near Tillingham on the Dengie Peninsula, Essex, UK (Fig. <ref type="figure" target="#fig_0">1</ref>). The Dengie marshes lie between the estuaries of the Blackwater and Crouch on the northern margin of the Thames estuary, southern North Sea and form a generally narrow belt (700 m wide at their greatest extent) between lowlying, seawall-protected agricultural land and intertidal mudflats which extend for up to 4 km offshore. The saltmarshes have been morphologically dynamic over the past 100e150 years with phases of advance and retreat reported in the literature (e.g. <ref type="bibr" target="#b11">Greensmith and Tucker, 1965;</ref><ref type="bibr" target="#b13">Harmsworth and Long, 1986;</ref><ref type="bibr" target="#b31">Pye, 2000)</ref>. At Tillingham, this morphological history has led to mature marshes that grade into unvegetated mudflats through a distinct shore-normal mud-mound topography. Marsh surfaces on the mature marsh are near-horizontal at elevations of 2.4e2.7 m O.D. (Ordnance Datum Newlyn, which approximates to mean sea level). This coast is macro-tidal, with an offshore mean spring tidal range of 4.8 m <ref type="bibr" target="#b33">(Reed, 1988)</ref>. As other UK East coast marshes, the Dengie marshes are prone to the effect of North Sea storm surges and meteorological influences on tidal water surface elevations can be significant <ref type="bibr" target="#b36">(Steers et al., 1979)</ref>. Highest wave heights along this coast occur between February and April and between August and October, with minimum values between May and July <ref type="bibr" target="#b15">(Herman, 2000)</ref>. Further inshore, at the marsh edge at Tillingham, spring tide water depths of between 0.12 and 0.84 m and wave heights of around 20 cm are typically found (as observed over a series of spring tides during a 10-month period (October to August) by <ref type="bibr">Mo ¨ller and Spencer, 2002)</ref>.</p><p>The vegetation is typical of the floristically diverse east coast saltmarshes of the British Isles <ref type="bibr" target="#b0">(Adam, 1988)</ref>. Midmarsh communities are typified by Limonium vulgare, Puccinellia maritima and Atriplex portulacoides. Near the seaward edge of the vegetated zone, a pioneer/seasonal marsh exists, characterised by Salicornia spp., Spartina anglica, Aster tripolium and Suaeda maritima. The vegetation exists in distinct patches of several square meters in size, dominated by individual species, such that it is possible to identify approximately uniform vegetation types in close proximity to each other (i.e. experiencing similar hydrodynamic conditions).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Field instrumentation and measurement</head><p>Vegetation and wave measurements were carried out at three 10-m long cross-shore transects during two field visits, in September and December 2004. Measurements of hydrodynamic conditions (water depths and waves) were made over three and nine consecutive spring tides, respectively. The timing of the field visits was chosen to coincide with times of the year of contrasting seasonal vegetation cover/structure. Transects differed with respect to vegetation type with Transect 1 containing a dense Spartina cover, Transect 2 a less dense combination of Spartina, Salicornia, and Suaeda, and Transect 3 a uniform Salicornia cover. All transects were located the same distance from the marsh edge and in close vicinity to each other (see Fig. <ref type="figure" target="#fig_0">1</ref>) to minimise potential spatial differences in incident wave conditions. All transects were characterised by topographically smooth marsh sections such that the effect of topographic variation on wave attenuation across the transects could be assumed to be negligible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Vegetation measurements</head><p>Field measurements of vegetation were collected at 18 locations (six locations near each of the three transects: three between the wave recording instruments and three in the immediate vicinity (but outside) of the transect) during the September and December field visits. At all 18 locations, digital side-on photographs of a 0.6 m wide and 0.2 m deep strip of vegetation were taken against a red background plate (to provide maximum colour contrast against the brown to green tones of the vegetation). The field methodology was initially developed for saltmarsh environments by Mo ¨ller <ref type="bibr">(2000)</ref> and, in parallel, for grasslands by <ref type="bibr" target="#b41">Zehm et al. (2003)</ref>. Further development has led to the methodology adopted for the purpose of this study, as illustrated in Fig. <ref type="figure" target="#fig_2">2</ref>. The method used in this study differed from that of <ref type="bibr" target="#b41">Zehm et al. (2003)</ref> in a number of important respects in order to adapt it to use in saltmarsh environments:</p><p>(1) a rigid plastic (slightly textured) board (matt red colour finish, to reduce reflection and maximise contrast against vegetation) was used as a background to the photograph instead of an opaque cloth (optionally white or black), which was thought to be too sensitive to wind disturbance on exposed saltmarsh environments and would not give sufficient colour contrast in dim light conditions; (2) a smaller area (0.6 m wide and 0.2 m deep) was photographed, as the area used by <ref type="bibr" target="#b41">Zehm et al. (2003)</ref> (1.0 m wide and 0.3 m deep) was thought to be too large (and too deep) for dense saltmarsh vegetation (it would not allow subtle differences in vegetation density to be distinguished); and (3) the vegetation in front of the photographed plot was pressed to the ground with a plastic sheet held within the photographic frame, rather than a tarpaulin (which was found to be inadequate for the more rigid and dense saltmarsh vegetation).</p><p>Digital images were then classified into binary black (vegetation) and white (background) images using the Erdas Imagine 8.5 image processing software and output as binary matrix files for further quantitative analysis using program routines written in Matlab software code. Image classification included the following key steps:</p><p>(1) cropping of images to standard size of background board and checking resolution of image (1 pixel approximated 0.25 mm 2 ) with reference to object of known size (a scale bar of white and black squares of 1 Â 1 cm clipped to the background board); Following this classification procedure, the binary image analysis in Matlab used a series of programming routines, providing detail on overall image vegetation density (% black versus white pixel cover within the 0.6 Â 0.6 m photographed area) and structure (e.g. canopy height variation across the image). Fig. <ref type="figure" target="#fig_4">3</ref> illustrates the digital image analysis process. Note that the method for determining vegetation canopy height differs from the more traditional methods of determining the height of individual plants in that it provides an average of the height of any vegetation component in the image, measured across the width of the image.</p><p>To calibrate and validate the digital photographic record described above, vegetation contained in the photographs (i.e. from a surface area of 0.6 Â 0.2 ¼ 0.12 m 2 ) at the locations immediately outside each of the recording transects was also harvested for determination of wet and dry biomass and species composition/structure during the first (i.e. September 2004) field visit. In addition, a separate experiment involved the placement of the photo frame in an area of dense, tall Spartina, which was photographed once with the vegetation cover intact and three subsequent times with the vegetation successively thinned through harvesting individual stems at the base of the frame. Each time the vegetation cover was thinned by partial harvesting, cuttings were placed in a separate bag for return to the laboratory, where samples were dried and weighed to determine the dry biomass that had been removed in the successive clipping stages.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Wave measurements</head><p>Bottom mounted Druck 'PTX1830' pressure transmitters were deployed at the seaward and landward ends of the three 10-m long cross-shore transects (Fig. <ref type="figure" target="#fig_0">1</ref>). Marsh surface topography between each pair of sensors was smooth and the surface elevations of the marsh surface at either end of each transect are comparable <ref type="table" target="#tab_0">(1.06/1.08 m</ref>, <ref type="table" target="#tab_0">1.07/  1.06 m</ref>, and <ref type="table" target="#tab_4">1.04/1</ref>  <ref type="table" target="#tab_0">Transect 1</ref>, <ref type="table">2</ref>, and <ref type="table" target="#tab_1">3</ref>, <ref type="table">respectively)</ref>. Low (1 Hz) and high (4 Hz) frequency pressure measurements were triggered upon submergence of the sensors and stored as (a) 5 min averaged pressure (for water depth measurements) and (b) continuous 4 Hz readings (for computation of wave spectra and summary statistics). Measurements were controlled and stored, together with a record of datalogger battery voltage and date/time references, via a Campbell Scientific CR10 datalogger. The measurement and data processing method followed the procedure outlined in Mo ¨ller and Spencer <ref type="bibr">(2002)</ref>.</p><p>Upon downloading of the pressure data, tidal stage records were derived from the 5 min averaged pressure readings. The high frequency (4 Hz) pressure time series were then split into series of 2 11 (2048) values (i.e. 8.5 min duration) when water depths reached 20, 30, 40, 50, 60, and 70 cm on the rising tide. These high frequency records were processed according to the following sequence:</p><p>(1) de-trending of pressure time series (using a polynomial fit) to remove any low-frequency tidal component present;</p><p>(2) computation of pressure spectra using a Fast Fourier Transform (FFT) algorithm followed by adjustment of the spectra to allow for frequency-dependent attenuation of the wave-induced pressure signal with water depth <ref type="bibr" target="#b18">(Lee and Wang, 1984)</ref>; and (3) computation of summary parameters such as water depth (h) and zero-upcrossing period (T z ) from the corrected free surface record, and computation of total wave energy (in J m À2 ) (used for the computation of root-mean-square wave height (H rms ) and significant wave height (H s )) from its frequency spectrum (S( f n )Df ) (see <ref type="bibr" target="#b38">Tucker, 1991)</ref>, where:</p><formula xml:id="formula_0">Sðf n ÞDf ¼ 0:5a 2 n E tot ¼ X N n¼1 Sðf n ÞDfgr ¼ X N n¼1 0:5a 2 n gr H s ¼ 4 ffiffiffiffiffiffiffiffiffiffiffi ffi E tot 1 gr s H rms ¼ 2 ffiffi ffi 2 p ffiffiffiffiffiffiffiffiffiffiffi ffi</formula><p>E tot 1 gr s and a n ¼ amplitudes of the component waves of the spectrum, N ¼ total number of measurements (time series length), g ¼ gravitational acceleration, and r ¼ water density (1.02 g cm À3 ).</p><p>A detailed calibration of the above method for wave recording against a video record of water level fluctuations using a calibrated staff is described in <ref type="bibr" target="#b26">Moeller et al. (1996)</ref>.</p><p>This processing sequence thus resulted in wave parameters for the seaward and landward sensors of each of the transects in water depths at 10 cm intervals between 20 and 70 cm depths.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Vegetation measurement</head><p>The results from the calibration of the digital photograph technique against biomass measurements determined by harvesting the photographed vegetation in the vicinity of the wave recording transects are shown in Fig. <ref type="figure" target="#fig_6">4</ref>. The relationship between vegetation pixel density (black pixel density in the classified binary image, i.e. obscuration ratio of the background plate) and dry biomass was positive when all data were included in a regression analysis ( p ¼ 0.05, r 2 &gt; 0.6). The data in Fig. <ref type="figure" target="#fig_6">4a</ref>, however, show that the relationship between the vegetation pixel density (black pixel density in the classified binary image) and dry biomass varied between three distinct groups of measurement, namely those made on Transect 2, those on Transect 3, and the separate Spartina thinning experiment. With the exception of the measurements obtained from location T1V4, the data from Transect 1 seem to fit into the relationship established for Transect 3. The best fit to the data was achieved with an exponential regression fit. Table <ref type="table" target="#tab_0">1</ref> summarises the results from the regression analysis performed on these data.</p><p>The different canopy heights and species composition of the vegetation are shown in Fig. <ref type="figure" target="#fig_6">4b</ref>, <ref type="figure">c</ref>. Transect 3 is distinguished by a significantly lower canopy height (across all three locations on Transect 3, the average height was 5.9 AE 2.6 cm) and different species composition (&gt;60% of dry biomass was Salicornia) than Transect 2 (average height across all three locations: 22.5 AE 8.0 cm (although canopy heights on T2V4 were more comparable with Transect 3), &gt;65% dry biomass Spartina). Of the three locations measured on Transect 1, the canopy height on T1V4 was greatest (20.1 AE 7.7 cm) and, given its vegetation composition (74% Spartina by dry weight), this might have put this site more in line with Transect 2 than Transect 3. The vegetation at locations T1V5 and T1V6 on Transect 1 (although consisting mainly of Spartina (95 and 87% of dry biomass, respectively)) was much lower in height (11.6 AE 5.6 and 13.6 AE 7.9 cm, respectively), and this appears to have put these measurements more in line with the measurements obtained from the low Salicornia canopy of Transect 3. The Spartina thinning experiment was characterised by the tallest canopy (45.1 AE 4.1 cm) and plots furthest on the right in Fig. <ref type="figure" target="#fig_6">4a</ref>, providing evidence for an overriding importance of canopy height on the relationship between %image obscuration ratio and dry biomass.</p><p>In addition to the overall positive correlation between %image obscuration and dry biomass, the scatterplot presented in Fig. <ref type="figure" target="#fig_6">4a</ref> suggests that this relationship may not be linear. It suggests, rather, that at already high biomass values, a further increase in biomass does not lead to a corresponding increase in %image obscuration.</p><p>Table <ref type="table">2</ref> shows that, with the exception of Transect 2, the vegetation within the wave recording transects was generally representative of the overall vegetation characteristics determined by measurements at all six locations within each vegetation type. This table also illustrates that the highest variability in canopy height (a potential measure of vegetation canopy 'roughness') on the wave recording transects themselves was recorded on Transect 2 (8.0 cm), followed by Transect 1 (7.1 cm) and Transect 3 (2.6 cm).</p><p>Seasonal changes in image vegetation density (%image obscuration ratio) and canopy height recorded on the three vegetation measurement locations on the wave recording transects themselves are illustrated in Fig. <ref type="figure" target="#fig_7">5</ref>. While Transect 1 experienced no significant change in image vegetation density between September and December, Transects 2 and 3 experienced a significant increase (from 6.1 AE 1.1 to 13.7 AE 5.8) and decrease (from 9.5 AE 0.2 to 6.4 AE 1.6) in image vegetation density, respectively (Fig. <ref type="figure" target="#fig_7">5a</ref>). On all three</p><p>Transect 1 0 5 10 15 20 25 30 35 40 45 0 5 10 15 20 25 30 35 40 45 0 5 10 15 20 25 30 35 40 45 T1V4 T1V5 T1V6 Average canopy height (cm) Transect 2 T2V4 T2V5 T2V6 Transect 3 T3V4 T3V5 T3V6 b) 0% 20% 40% 60% 80% 100% T1V4 T1V5 T1V6 T2V4 T2V5 T2V6 T3V4 T3V5 T3V6 % of total dry weight biomass Unclass Suaeda Salicornia Spartina c) y = 102.43e 0.0462x R 2 = 0.9896 y = 120.15e 0.0846x R 2 = 0.996 y = 245.57e 0.0686x R 2 = 0.9977 0 100 200 300 400 500 600 700 800 900 1000 0 1 0 2 0 3 0 4 0 5 0 Dry Biomass (gm -2 ) T1V4 a) Image Obscuration (black pixel cover) (%) Sep 04: Trans 1 (h = 15 cm; 86% Spartina, 11% Salicornia) Sep 04: Trans 2 (h = 23 cm; 73% Spartina, 25% Salicornia) Sep 04: Trans 3 (h = 6 cm; 98% Salicornia) Dec 04: h = 45 cm; Spartina Clip Experiment transects, vegetation canopy height decreased from September to December, but average heights for December remained within AE1 standard deviation relative to the September averages (Fig. <ref type="figure" target="#fig_7">5b</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Wave attenuation</head><p>Wave measurements at the seaward and landward stations on each of the three wave recording transects were obtained during three and nine tidal cycles in September and December 2004, respectively. Water depths during the September tides were considerably larger (maximum depths of 70 cm recorded on two out of the three tides) than in December (maximum depths of 50 cm recorded on only three out of the nine tides). Table <ref type="table" target="#tab_1">3</ref> summarises the wave conditions encountered at the seaward transect stations in September and December 2004. This shows that maximum significant wave heights recorded at the seaward transect stations were greater in December (max 32 cm) than September (max 19 cm). Relative wave heights (i.e. wave height/water depth ratios) were thus larger in December (0.12e0.86) than in September (0.08e0.54).</p><p>Table <ref type="table" target="#tab_1">3</ref> also illustrates that incident wave conditions were comparable between Transects 1 and 2 but significant wave heights (H s ) at Transect 3 were generally 2e3 cm lower.</p><p>Fig. <ref type="figure" target="#fig_8">6a</ref> shows the average significant wave height (H s ) attenuation (AE1 standard deviation) observed over the three transects in September and December, in any water depth. Average H s attenuation increased over Transects 1 and 2 between these two field visits, but decreased over Transect 3 e although all these changes remained within the limits of the standard deviations recorded in September.</p><p>Fig. <ref type="figure" target="#fig_8">6b</ref> resolves these data further to show average H s attenuation (AE1 standard deviation) for the three transects in different water depths during the September and December field campaigns. Wave attenuation (H s reduction) over the 10-m transect distance varied from 0.08% (in 40 cm water depth over Transect 3 on tide 8 in December (14th)) to 33% (in 20 cm water depth over Transect 1 on the same tide). At any water depth, in September and December, highest average wave attenuation was observed over Transect 1, although attenuation was highly variable (Fig. <ref type="figure" target="#fig_8">6b</ref>).</p><p>Wave attenuation across any surface is known to vary with relative wave height (as discussed above) (see e.g. <ref type="bibr" target="#b17">Le Hir et al., 2000)</ref>. Fig. <ref type="figure">7</ref> shows that a statistically significant relationship between H s /h (where h ¼ water depth) and wave height attenuation (%H s reduction) existed on Transects 1 and 2 (r 2 &gt; 0.6, p &lt; 0.05), but not on Transect 3 (r 2 ¼ 0.2),  in September, when H s /h measurements were consistently &lt;0.55. In December, however, when H s /h measurements reached values as high as 0.86, no significant relationship was found to exist between H s /h and H s attenuation (r 2 &lt; 0.3). When the data set was restricted to records for which H s /h &lt; 0.55, however, a positive relationship between H s /h and H s attenuation was present in December (r 2 &gt; 0.5, p &lt; 0.05), although, again, only for Transects 1 and 2 (as in September). See Table <ref type="table" target="#tab_4">4</ref> for details of the regression equations that apply to the regression lines shown in Fig. <ref type="figure">7</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1.">Quantifying vegetation density, height and structure by digital imaging</head><p>The results presented above suggest that the digital photograph method developed as a prototype by Mo ¨ller (2000) for saltmarsh environments and in more detail by <ref type="bibr" target="#b41">Zehm et al. (2003)</ref> for grasslands, is applicable to a range of relatively simple saltmarsh vegetation canopies. The modifications made to the method as outlined above proved successful and allowed its application to coastal environments, where dim light conditions and/or adverse weather (e.g. wind) can be problematic when using the method as configured for grasslands by <ref type="bibr" target="#b41">Zehm et al. (2003)</ref>.</p><p>It is also evident, from the varying regression relationships presented in Fig. <ref type="figure" target="#fig_6">4a</ref>, that it is possible to estimate aboveground biomass from image obscuration ratio, although this statistical relationship varies with species type/composition and is affected by canopy height. Similar results were obtained by <ref type="bibr" target="#b41">Zehm et al. (2003)</ref> when comparing overall image obscuration (pixel count) with harvested aboveground biomass (dry weight) over a gradient from pioneer grassland vegetation to tall, mature stands, although the photographed plot area was deeper (30 cm) and wider (100 cm) than in the saltmarsh vegetation photographs of this study (20 cm Â 60 cm). The  relationship between image obscuration (pixel count) and dry weight of aboveground biomass established in this study is in agreement with the non-linear trend suggested by <ref type="bibr" target="#b41">Zehm et al. (2003)</ref> for grasslands, i.e. for dense stands of vegetation, an increase in aboveground biomass results in only minor increases in image obscuration. The threshold biomass value beyond which no further image obscuration would occur does not appear to have been reached in any of the images analysed as part of this study (Fig. <ref type="figure" target="#fig_6">4a</ref>), suggesting that the plot area of 0.2 Â 0.6 m is adequate for these types of saltmarsh vegetation communities. For a larger plot area vegetation density would become too large for differences in aboveground biomass to manifest themselves as differences in image obscuration. Further studies using a larger sample size to further increase confidence in the results as summarised in Fig. <ref type="figure" target="#fig_6">4a</ref> are, however, needed.</p><p>Sep 04, Transect 1 0 5 10 15 20 25 30 35 40 0 0.2 0.4 0.6 0.8 1 Hs / h 0 0.2 0.4 0.6 0.8 1 Hs / h 0 0.2 0.4 0.6 0.8 1 Hs / h 0 0.2 0.4 0.6 0.8 1 Hs / h 0 0.2 0.4 0.6 0.8 1 Hs / h Hs Reduction (%) 7. Relationship between relative wave height (H s /h) and wave height attenuation (%H s reduction) on all three transects in September (left) and December (right) (note: solid regression lines apply to all data, stippled lines apply to conditions where H s /h &lt; 0.55; on Transect 3, all H s /h values were &lt;0.55; see Table 4 for regression equations).</p><p>Although further studies are needed to establish the accuracy of the digital imaging technique in different saltmarsh settings (and especially mixed marsh vegetation communities), this method provides a series of key advantages over more traditional vegetation survey methods (see e.g. <ref type="bibr" target="#b37">Sutherland, 1996)</ref> as it:</p><p>(1) minimises time in the field (can be deployed quickly at pre-defined sites); ( <ref type="formula">2</ref>) is a non-destructive method (although areas around the photographed plots are temporarily disturbed); (3) allows detailed, objective, and quantitative measurement of a series of vegetation structure parameters (e.g. canopy 'roughness' and density) without measurement errors frequently encountered in direct field measurements (e.g. wind affecting point quadrat measurements <ref type="bibr" target="#b37">(Sutherland, 1996)</ref>; and ( <ref type="formula">4</ref>) is insensitive to operator error, optical distortions and technical problems (see detailed validation conducted by <ref type="bibr" target="#b41">Zehm et al., 2003)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2.">Seasonal vegetation density and canopy structure variations</head><p>The seasonal change in vegetation density (from September to December) recorded with the digital imaging technique in this study was highly variable between the three transects. When comparing vegetation densities at Tillingham between November, March, and June surveys, previous studies <ref type="bibr">(Mo ¨ller and Spencer, 2002)</ref> observed the highest vegetation densities in November. The observations from the three marsh edge transects presented in this study, however, suggest both increases and decreases in vegetation density from September to December. Such spatial variability is to be expected within marsh edge communities, given the differences in the relative dominance of annual versus perennial species. While annual Salicornia was dominant on Transect 3, where vegetation density decreased significantly between September and December, Spartina dominated Transect 2, where continued growth into the autumn months led to an increase in vegetation density between September and December. While Transect 1 was also dominated by Spartina, it appears that it reached its peak density earlier than Transect 2 and thus no significant change in vegetation density was observed between September and December.</p><p>With respect to canopy structure, the results from this study suggest that it is the mean canopy height, rather than its standard deviation (i.e. canopy 'roughness'), that changes seasonally at the three transects studied: while the mean canopy height decreased from September to December at all three transects, standard deviations (canopy 'roughness') remained constant. In terms of the effect on wave attenuation, it is thus more likely to be the height and density variations of the vegetation layer that explain observed decreases in attenuation in the winter months (as observed by Mo ¨ller and <ref type="bibr">Spencer, 2002)</ref> than changes in the 'roughness' or variability of the top of the canopy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.">Relative importance of hydrodynamic conditions and vegetation on wave attenuation</head><p>Over the short-term individual tidal inundations, a link exists between the surface roughness characteristics of the marsh and the hydrodynamic process of wave transformation across the surface through the effects of friction, percolation, and viscous damping (see e.g. <ref type="bibr" target="#b30">Putman and Johnson, 1949;</ref><ref type="bibr" target="#b5">Bretschneider and Reid, 1954;</ref><ref type="bibr" target="#b35">Sleath, 1984;</ref><ref type="bibr" target="#b17">Le Hir et al., 2000)</ref>. In addition, however, the wave attenuation process itself is also a function of water depth and incident wave conditions (as higher and longer waves are affected more strongly by the mudflat/saltmarsh surface). In particular, wave heights over shallow mudflat environments have been shown to be limited by critical relative wave height (wave height/water depth) ratios (Le <ref type="bibr" target="#b17">Hir et al., 2000)</ref>.</p><p>Previous data obtained at the Tillingham site, however, clearly contained a seasonal signal, not only in terms of both overall energy input (incident wave energy) but also in terms of attenuation patterns <ref type="bibr">(Mo ¨ller and Spencer, 2002)</ref>. Seasonally changing surface friction (due to changing vegetation density, structure, or composition) especially in marsh edge environments affected by seasonal vegetation growth (e.g. Salicornia europaea or Suaeda maritima) thus also has to be considered as an explanation for temporally varying wave attenuation.</p><p>The results of this study agree with previous measurements at Tillingham <ref type="bibr">(Mo ¨ller and Spencer, 2002)</ref> both in terms of significant wave height attenuation observed (around 30% over 10 m) and in terms of seasonal differences (for similar water depths, attenuation was higher in September than December). As measurements were made over three different vegetation transects, however, the results of this study provide some additional insight into the relative importance of wave/water depth conditions and vegetation density/structure on wave attenuation.</p><p>Although it was hoped that incident wave conditions would be comparable between all three cross-shore transects, analysis of the results showed that Transect 3 consistently experienced significant wave heights 2e3 cm lower than those incident upon Transects 2 and 1. This thus allows no direct comparison between Transect 3 and the other two transects.</p><p>With respect to Transects 1 and 2, however, the results show that wave height attenuation, although highly variable, was consistently greater over Transect 1, in all water depth/ wave height conditions encountered. This difference in attenuation, however, only exceeded 1 standard deviation around the mean in the deeper water conditions (70 cm water depth in September and 50 cm water depth in December (Fig. <ref type="figure" target="#fig_8">6</ref>)). Transect 1 contained the greatest proportion of Spartina (Fig. <ref type="figure" target="#fig_6">4c</ref>) and was characterised by the highest vegetation density in September 2004 (Fig. <ref type="figure" target="#fig_7">5</ref>), which may have led to greater friction and thus greater wave attenuation over this transect at that time of year. The average canopy height of Transect 1, however, was less than that of Transect 2 in September and December and its vegetation density was less than that of Transect 2 in December (although not significantly so), so that these vegetation parameters alone do not sufficiently explain the consistently higher wave attenuation. This suggests that vegetation density and height affect wave transformation differently. While the former is a measure of friction as experienced by the horizontal flow components of the wave motion, the latter affects the depth of the boundary layer affected by such friction and thus the vertical component of the wave motion. Furthermore, and possibly more importantly, the physical properties of the vegetation, such as its rigidity or flexibility, may also play a significant role in affecting wave transformations. Further studies investigating the relative differences between individual species with respect to such physical properties are needed to shed further light on this process. It must also be recognised that the method for determining canopy height used in this study differs from conventional measurements of vegetation height in that it constitutes an average of the highest parts of any vegetation component present in the digital image (rather than an average of the height of individual plants).</p><p>Transect 3 was characterised by a very different vegetation type (dominated by the annual, Salicornia (Fig. <ref type="figure" target="#fig_6">4c</ref>)). It appears that this explains, at least partly, why this transect experienced less wave height attenuation than the other two transects and experienced seasonal differences in attenuation exceeding AE1 standard deviation around the mean in intermediate (30 and 40 cm) water depths.</p><p>Variability in attenuation was high, however, and differences in vegetation characteristics between the three transects do not exert a statistically significant influence on wave attenuation. Other controls on wave attenuation must exist and the results of this study suggest that hydrodynamic controls, such as the wave height/water depth ratio, may override any differences in vegetation density/structure in this marsh edge environment. The significant positive relationship between the H s /h ratios and wave height reduction (for conditions where H s /h &lt; 0.55) on Transects 1 and 2 in September and December provides evidence for this. Once H s /h ratios fall below a critical threshold, further decreases in the H s /h ratios are not expected to lead to further reduction in wave attenuation (i.e. water depths become too deep or waves too small for the surface waves to interact with the vegetation canopy on the bed). This critical point, however, had not been reached on Transects 1 and 2 (water depths remained relatively low (&lt;70 cm)). At H s /h ratios above 0.55, however, the relationship between H s /h and wave attenuation also appears to break down. Although only few measurements were made in conditions of H s /h ratios &gt; 0.55, this may indicate that above H s /h ratios of 0.55, the attenuation capacity of the vegetation canopy is reached and further attenuation cannot take place. It is also possible, however, that in conditions of high H s /h ratios, attenuation is affected by dissipation due to wave breaking. This is an important observation in the context of the wider morphological evolution of the saltmarsh, as it suggests that this H s /h ratio represents a threshold beyond which the vegetation acts as a significant energy dissipater, thus leading to energy dissipation by wave breaking, bed erosion and/or resuspension of surface sediments. Fig. <ref type="figure">7</ref> also shows that, for values of H s /h &gt; 0.55, attenuation may vary greatly, e.g. when an H s /h value of around 0.6 occurred, wave height attenuations of 11 and 34% (Transect 1) and 7 and 33% (Transect 2) were observed. This thus suggests that the H s /h ratio controls the maximum attenuation that can be achieved, rather than allowing actual attenuation to be predicted exactly. Other factors, such as meteorological conditions (e.g. local wind direction and speed) will influence wave propagation and breaking processes and thus affect whether the potential maximum attenuation for a given H s /h ratio is reached. Further research into the role of these factors is now needed.</p><p>On Transect 3, however, no relationship between H s /h ratios and attenuation was present. Given that the vegetation on this transect was substantially shorter (6 cm compared to 15 and 23 cm on Transects 1 and 2, respectively), wave heights were 2e3 cm smaller, and water depths comparable to Transects 1 and 2, this suggests that (a) the canopy height on this transect was too low to allow the vegetation to occupy a large enough proportion of the water column, and/or (b) waves were too small to be affected by the vegetated layer. Furthermore, the different vegetation type (Salicornia instead of Spartina) provides greater flexibility for movement with the flow (i.e. reduced flow resistance). This, together with the significant decrease in vegetation density, may explain why, even in high H s /h conditions of over 0.4 in December, attenuation remained low (&lt;20%) on this transect, while it exceeded 30% on some occasions on the other two transects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4.">Implications for formeprocess interactions and marsh evolution</head><p>The results presented above provide evidence for a relationship between hydrodynamic controls (i.e. relative wave heights) and different types (Spartina versus Salicornia), heights, and densities of vegetation canopies during individual tidal inundations. In the context of recent concerns regarding the future of saltmarsh systems under scenarios of relative sea-level rise and/or increased storminess (see e.g. <ref type="bibr" target="#b10">French and Reed, 2001)</ref> and marsh restoration issues <ref type="bibr" target="#b40">(Williams and Orr, 2002)</ref>, it is instructive to consider the implications of these results for the longer-term formeprocess interactions at the marsh edge and thus marsh evolution.</p><p>While, over short, event-based time-scales, the topographic and vegetation characteristics discussed above can be considered invariant, this does not apply over longer (annual to decadal) time-scales, when the hydrodynamic processes themselves exert a feedback effect on marsh vegetation cover and morphology (see also <ref type="bibr">Allen and Duffy, 1998a,b;</ref><ref type="bibr" target="#b1">Allen, 2000;</ref><ref type="bibr" target="#b16">Houwing, 2000)</ref>. The H s /h threshold of 0.55 identified above as the point when the Spartina canopy appears to reach its maximum attenuation capacity, for example, suggests that, above this value (i.e. in conditions of higher incident wave energy), more energy may be available for sediment resuspension/erosion. Over the longer term (from several springeneap tidal cycles to several years), it is thus the frequency with which such thresholds are exceeded that will determine the morphological evolution of the marsh.</p><p>Evidence of previous studies does suggest that the evolution of the marshes of Dengie Peninsula has fluctuated between accretion and erosion phases. While the marshes are thought to have formed rapidly between 1870 and 1950, with subsequent progradation rates in the central sections of the Peninsula of 9.7 m a À1 <ref type="bibr" target="#b32">(Pye and French, 1993)</ref>, subsequent marsh edge retreat of up to 270 m characterised the northern half of the Peninsula (i.e. the area around Tillingham) between 1953 and 1960 <ref type="bibr" target="#b11">(Greensmith and Tucker, 1965;</ref><ref type="bibr" target="#b13">Harmsworth and Long, 1986)</ref>. The placement of sunken barges to form wavebreakers to the immediate North of the Tillingham marshes in 1984 has had little long-term effect, however, and the characteristic mud-mound topography currently found at the marsh edge is thought to be typical of an eroding marsh <ref type="bibr" target="#b12">(Greensmith and Tucker, 1975</ref>). In the central sections of the Peninsula, erosion has been extreme, with ca. 1000 m retreat between 1955 and 1985 <ref type="bibr" target="#b32">(Pye and French, 1993)</ref>, leading to the development of a ca. 1.5e2.0 m high marsh edge cliff. Once the marsh edge form has altered, the attenuation process changes (e.g. as reflection from the cliff face becomes an important additional process (see also <ref type="bibr">Mo ¨ller and Spencer, 2002</ref> for an investigation of wave attenuation across the cliffed marsh edge)). Given the evidence for wave attenuation thresholds presented above, it is possible that changes in the frequency of occurrence of particular wave height/water depth conditions (e.g. events characterised by H s /h ratios &gt;0.55 at the marsh edge) over decadal time periods are indeed responsible for initiating such evolutionary trends. Further research is now necessary, however, to investigate this hypothesis in detail.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Conclusion</head><p>The method of side-on photographs of stands of vegetation as developed in prototype by Mo ¨ller (2000) and, independently, by <ref type="bibr" target="#b41">Zehm et al. (2003)</ref> for grasslands, has successfully been applied to marsh edge vegetation stands dominated by Spartina and Salicornia. A positive relationship was found to exist between %image obscuration and dry biomass of the photographed stands, although the nature of this relationship varied with vegetation type and canopy height. The technique provides a time-efficient method for estimating vegetation aboveground biomass and structure e a factor that is important when working in often harsh physical conditions. Furthermore, the technique allows a range of structural vegetation canopy parameters to be objectively quantified. Although this study focuses on vegetation canopy height and its variability only, other parameters such as the vertical and horizontal variation in vegetation density and the presence and size of gaps within the canopy can be quantified. It is intended that further analysis of the image data acquired as part of this study will focus on these aspects. Future studies should also focus on investigating further the relationship between obscuration ratio and biomass (as presented in Fig. <ref type="figure" target="#fig_6">4</ref>) as well as the relationship between conventional vegetation height measurements and the canopy height measurements obtained from the digital images (as discussed above).</p><p>Through the use of the above vegetation photograph technique, it has been possible to acquire detailed information on vegetation canopy density and height on three 10-m long cross-shore wave recording transects. Wave attenuation over these transects was a function of a combination of hydrodynamic controls (relative wave heights (wave height/water depth ratios)) and vegetation (type, density, and height), although the former may override the latter. For the transects dominated by Spartina canopies, a relationship existed between H s /h ratios and maximum observed wave height attenuation. For H s /h ratios exceeding 0.55, no further increase in the maximum observed wave attenuation appeared to occur, indicating that the maximum 'attenuation potential' had been reached. For the transect characterised by a lower and more flexible Salicornia canopy as well as lower incident wave heights, no such relationship was present, suggesting that water depths and wave heights were too high and low, respectively, for wave heights to be affected by the low canopy at this location.</p><p>It is possible that, over longer time-scales (&gt;annual), the existence of hydrodynamic thresholds such as the critical H s / h value of 0.55 determined for the Spartina canopies in this study may control transitions from regimes of sediment deposition to erosion (e.g. H s /h values &lt; 0.55 allowing maximum attenuation to occur and thus encouraging sediment deposition/retention on the marsh surface, while conditions of H s /h values &gt; 0.55 may result in excess energy becoming available for sediment erosion/resuspension). While this study is based on a limited data set, the results are consistent with previous studies on wave attenuation and thus justify a call for further research to investigate this hypothesis in more detail.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Location of Tillingham on the Dengie Peninsula, Essex, UK (wave measurement transect locations 1, 2, and 3 are shown as triangles).</figDesc><graphic coords="3,116.93,371.59,168.96,100.94" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>(2) performing a supervised classification of each image into a binary image of black vegetation and white background (at least 15 training areas of the 'vegetation' and 'background' category were selected for this purpose from one or more images collected during each field visit and the resulting 'signature' file used to classify all images collected during that field visit); (3) checking the performance of step (2) for each classified image and, if necessary (i.e. if misclassification of the 'vegetation' or 'background' class occurred), modifying the signature file generated under step (2) by selecting additional training areas and reapplying it to all images collected during the field visit; (4) saving each binary image file in matrix (ASCII text) format ('0'values for 'background', '1'values for 'vegetation' class).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Portable digital photograph frame, first developed by Mo ¨ller (2000) and Zehm et al. (2003), as used in this study to capture side-on photographs of marsh vegetation.</figDesc><graphic coords="4,122.12,70.30,341.23,318.22" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>.01 m O.D. (Ordnance Datum: approximates to Mean Sea Level) at the landward/seaward end of</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Schematic diagram illustrating the derivation of obscuration ratio (black pixel coverage (%) of image) and canopy height from classified binary black and white images.</figDesc><graphic coords="5,129.15,379.05,346.89,342.14" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. (a) Relationship between aboveground biomass (dry weight) of photographed vegetation and image obscuration ratio for three vegetation monitoring locations on each of the three cross-shore transects and for the Spartina thinning experiment; (b) mean (AE1 standard deviation indicated by error bars) of canopy height as determined from classified binary side-on image for each measurement location in the immediate vicinity of Transect 1 (T1V4 to T1V6), Transect 2 (T2V4 to T2V6), and Transect 3 (T3V4 to T3V6); (c) species composition (% of total dry weight biomass) of vegetation harvested (same locations as shown in (b)).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Seasonal changes (September versus December) in (a) image vegetation density (%image obscuration ratio) and (b) canopy height at the three locations on each of the three cross-shore transects.</figDesc><graphic coords="8,310.96,70.30,232.55,354.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. 6 .</head><label>6</label><figDesc>Fig. 6. Average significant wave height (H s ) attenuation (AE1 standard deviation) across the three transects in September and December for (a) all water depths, and (b) divided into the different water depth categories (note: standard deviations are not shown if less than three observations are present).</figDesc><graphic coords="9,54.65,303.25,226.77,397.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><figDesc>Fig. 7. Relationship between relative wave height (H s /h) and wave height attenuation (%H s reduction) on all three transects in September (left) and December (right) (note: solid regression lines apply to all data, stippled lines apply to conditions where H s /h &lt; 0.55; on Transect 3, all H s /h values were &lt;0.55; see Table4for regression equations).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Results of exponential regression analysis e image obscuration (% of 0.6 Â 0.6 Â 0.2 m area) versus dry biomass of clipped vegetation (g m À2 ) (nb: p 0.05 throughout): Biomass ¼ a e b obscuration</figDesc><table><row><cell></cell><cell>R 2</cell><cell cols="2">a-Variable b-Exponent</cell></row><row><cell>Transect 2 (including T1V4)</cell><cell cols="2">0.996 120.15</cell><cell>0.0846</cell></row><row><cell cols="3">Transect 3 (including T1V5 and T1V6) 0.998 245.57</cell><cell>0.0686</cell></row><row><cell>Spartina thinning experiment</cell><cell cols="2">0.990 102.43</cell><cell>0.0462</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Summary of wave conditions encountered at the seaward stations of the three transects in September and December 2004</figDesc><table><row><cell></cell><cell>T z (s)</cell><cell></cell><cell>E tot (J m À2 )</cell><cell></cell><cell>H s (cm)</cell><cell></cell></row><row><cell>Transect 1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean</cell><cell>2.6</cell><cell>2.0</cell><cell>8.6</cell><cell>12.0</cell><cell>11.1</cell><cell>12.3</cell></row><row><cell>Std. Dev.</cell><cell>0.7</cell><cell>0.4</cell><cell>5.5</cell><cell>13.3</cell><cell>3.9</cell><cell>6.4</cell></row><row><cell>Min.</cell><cell>1.5</cell><cell>1.3</cell><cell>2.4</cell><cell>2.2</cell><cell>6.2</cell><cell>5.9</cell></row><row><cell>Max.</cell><cell>3.3</cell><cell>2.8</cell><cell>17.3</cell><cell>54.9</cell><cell>16.6</cell><cell>29.6</cell></row><row><cell>Transect 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean</cell><cell>2.6</cell><cell>2.1</cell><cell>9.8</cell><cell>13.7</cell><cell>11.7</cell><cell>12.9</cell></row><row><cell>Std. Dev.</cell><cell>0.6</cell><cell>0.4</cell><cell>7.0</cell><cell>16.3</cell><cell>4.6</cell><cell>7.4</cell></row><row><cell>Min.</cell><cell>1.6</cell><cell>1.3</cell><cell>2.3</cell><cell>2.3</cell><cell>6.0</cell><cell>6.0</cell></row><row><cell>Max.</cell><cell>3.3</cell><cell>2.8</cell><cell>22.0</cell><cell>63.3</cell><cell>18.8</cell><cell>31.8</cell></row><row><cell>Transect 3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Mean</cell><cell>2.6</cell><cell>2.1</cell><cell>4.6</cell><cell>8.5</cell><cell>8.0</cell><cell>9.7</cell></row><row><cell>Std. Dev.</cell><cell>0.7</cell><cell>0.5</cell><cell>3.6</cell><cell>12.6</cell><cell>3.3</cell><cell>6.7</cell></row><row><cell>Min.</cell><cell>1.2</cell><cell>1.1</cell><cell>0.9</cell><cell>0.9</cell><cell>3.7</cell><cell>3.8</cell></row><row><cell>Max.</cell><cell>3.2</cell><cell>2.8</cell><cell>12.5</cell><cell>51.7</cell><cell>14.1</cell><cell>28.7</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4</head><label>4</label><figDesc>Details of regression analysis presented in Fig.7Using data for H s /h values &lt; 0.55 only (on Transect 3, all H s /h values were &lt;0.55).</figDesc><table><row><cell></cell><cell>X-variable</cell><cell></cell><cell>Y-intercept</cell><cell></cell><cell>R 2</cell><cell></cell></row><row><cell>Transect 1</cell><cell>46.47</cell><cell>21.27</cell><cell>3.23</cell><cell>11.49</cell><cell>0.69</cell><cell>0.28</cell></row><row><cell>Transect 1 a</cell><cell></cell><cell>45.96</cell><cell></cell><cell>4.44</cell><cell></cell><cell>0.61</cell></row><row><cell>Transect 2</cell><cell>41.32</cell><cell>7.80</cell><cell>À0.24</cell><cell>13.87</cell><cell>0.61</cell><cell>0.32</cell></row><row><cell>Transect 2 a</cell><cell></cell><cell>53.93</cell><cell></cell><cell>0.23</cell><cell></cell><cell>0.53</cell></row><row><cell>Transect 3</cell><cell>47.43</cell><cell>14.31</cell><cell>3.10</cell><cell>6.15</cell><cell>0.20</cell><cell>0.13</cell></row></table><note><p>a</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>SeptemberDecember September December September December</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>I. Mo ¨ller / Estuarine, Coastal and Shelf Science 69 (2006) 337e351</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The research reported in this paper was carried out under a <rs type="funder">Royal Geographical Society/EPSRC</rs> <rs type="grantName">Geographical Research Grant</rs>, for which the author is most grateful. I am most grateful for the collaboration with <rs type="person">Dr. T. Spencer</rs> on previous projects on the Dengie marshes that have led to the development of this research project and for the technical expertise and fieldwork assistance provided by <rs type="person">Mr. A. Hayes</rs> and his staff in the <rs type="institution">Department of Geography in Cambridge</rs>. I also thank <rs type="person">Mr. C. Edwards</rs>, <rs type="person">Ms. R. Turner</rs>, and <rs type="person">Ms. F. Edwards</rs> for field and data analysis assistance and <rs type="person">Mr. Symes</rs> and <rs type="person">Mr. Fisher</rs> for access to the Dengie marshes.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_2CvhZ7r">
+					<orgName type="grant-name">Geographical Research Grant</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Geographical variation in British saltmarsh vegetation</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Adam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ecology</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="339" to="e366" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Morphodynamics of Holocene saltmarshes: a review sketch from the Atlantic and Southern North Sea coasts of Europe</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R L</forename><surname>Allen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quaternary Science Reviews</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="115" to="e1231" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Medium-term sedimentation on high intertidal mudflats and salt marshes in the Severn Estuary, SW Britain: the role of wind and tide</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R L</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Duffy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Geology</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="1" to="e27" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Temporal and spatial depositional patterns in the Severn Estuary, southwestern Britain: intertidal studies at springeneap and seasonal scales</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R L</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Duffy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Geology</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="issue">1e4</biblScope>
+			<biblScope unit="page" from="147" to="e171" />
+			<date type="published" when="1998">1998. 1991e1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Engineering significance of British saltmarshes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Brampton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Saltmarshes. Morphodynamics, Conservation and Engineering Significance</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R L</forename><surname>Allen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Pye</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="115" to="e122" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Modification of wave height due to bottom friction, percolation, and refraction. Beach Erosion Board, Corps of Engineers</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Bretschneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Reid</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1954">1954</date>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Memorandum</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Interactions between wave, bank erosion and emergent vegetation: an experimental study in a wave tank</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Coops</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Geilen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Verheij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Boeters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Van Der Velde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Botany</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="187" to="e198" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Geography of salt marshes in Europe</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Dijkema</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift fu ¨r Geomorphologie N.F</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="489" to="e499" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Ecology of understory kelp environments. I. Effects of kelps on flow and particle transport near the bottom</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Eckman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Duggins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Sewell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Marine Biology and Ecology</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="173" to="e187" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A preliminary evaluation of wave attenuation by four species of seagrass</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Cahalan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Estuarine, Coastal and Shelf Science</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="565" to="e576" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Physical contexts for saltmarsh conservation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>French</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Habitat Conservation. Managing the Physical Environment</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Warren</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>French</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chichester</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="179" to="e228" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Saltmarsh erosion in Essex</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Greensmith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Tucker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">206</biblScope>
+			<biblScope unit="page" from="606" to="e607" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Dynamic structures in the Holocene chenier plain setting of Essex, England</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Greensmith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Tucker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Nearshore Sediment Dynamics and Sedimentation</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Hails</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Carr</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chichester</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley</publisher>
+			<date type="published" when="1975">1975</date>
+			<biblScope unit="page" from="251" to="e272" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">An assessment of saltmarsh erosion</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Harmsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Long</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<pubPlace>Essex, England</pubPlace>
+		</imprint>
+	</monogr>
+	<note>with reference to the Dengie Peninsula. Biological Conservation 35, 377e387</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Salt-marsh vegetation and micro-relief development on the New Marsh at Gibraltar Point, Lincolnshire</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Hartnall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Coastal Research: UK Perspectives</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Clark</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="page">131</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Wave dynamics in a macro-tidal estuary</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Herman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Cambridge</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished PhD thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Morphodynamic development of intertidal mudflats: consequences for the extension of the pioneer zone</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Houwing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Continental Shelf Re</title>
+		<imprint>
+			<biblScope unit="page" from="1735" to="e1748" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>search 20 (12e13</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Characterization of intertidal flat hydrodynamics</title>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Hir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cazaillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Christie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bassoullet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Continental Shelf Research</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1433" to="e1459" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Measurement of surface waves from subsurface pressure</title>
+		<author>
+			<persName><forename type="first">D.-Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 19th International Conference on Coastal Engineering</title>
+		<meeting>the 19th International Conference on Coastal Engineering</meeting>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="page" from="271" to="e286" />
+		</imprint>
+	</monogr>
+	<note>Chapter 19</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Surficial sediment transport and deposition processes in a Juncus roemerianus marsh, west-central Florida</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Hine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Luther</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Coastal Research</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="322" to="e326" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Sediment transport processes in a west-central Florida open marine marsh tidal creek e the role of tides and extra-tropical storms</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Hine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Luther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Stumpf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Wright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Estuarine, Coastal and Shelf Science</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="225" to="e248" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Hydrodynamics and sediment transport through tidal marsh canopies</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Coastal Research SI</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<date type="published" when="2002">2002</date>
+			<pubPlace>UK</pubPlace>
+		</imprint>
+	</monogr>
+	<note>459e 469. Mo ¨ller, I., 2000. Vegetation Survey to Support Wave Attenuation Monitoring in The Wash. Report to the Environment Agency</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Wave dissipation over macro-tidal saltmarshes: effects of marsh edge typology and vegetation change</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mo ¨ller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spencer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Coastal Research SI</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="506" to="e521" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Wave transformations over mudflat and saltmarsh surfaces on the UK East coast e implications for marsh evolution</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mo ¨ller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spencer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the International Conference on Coastal Sediments &apos;03, Florida</title>
+		<meeting>the International Conference on Coastal Sediments &apos;03, Florida<address><addrLine>USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Wave transformation over saltmarshes: a field and numerical modelling study from North Norfolk</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mo ¨ller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>French</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Leggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dixon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Estuarine, Coastal and Shelf Science</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="411" to="e426" />
+			<date type="published" when="1999">1999</date>
+			<pubPlace>England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Spatial and temporal variability of wave attenuation over a UK East-coast saltmarsh</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mo ¨ller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rawson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 38th International Conference on Coastal Engineering</title>
+		<meeting>the 38th International Conference on Coastal Engineering<address><addrLine>Cardiff</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002-07">2002. July 2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Wind wave attenuation over saltmarsh surfaces: preliminary results from Norfolk, England</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Moeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>French</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Coastal Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1009" to="e1016" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The seadefence value of salt marshes e a review in the light of field evidence from North Norfolk</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mo ¨ller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>French</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Leggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dixon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Chartered Institution of Water and Environmental Management</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="109" to="e116" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Saltmarsh geomorphology</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pethick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Saltmarshes. Morphodynamics, Conservation and Engineering Significance</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R L</forename><surname>Allen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Pye</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="41" to="e62" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Boundary layers under salt marsh vegetation developed in tidal currents</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pethick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Leggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Husain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Vegetation and Erosion</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Thornes</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chichester</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="113" to="e123" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The dissipation of wave energy by bottom friction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Putman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions, American Geophysical Union</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="67" to="e74" />
+			<date type="published" when="1949">1949</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Saltmarsh erosion in southeast England: mechanisms, causes and implications</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">British Saltmarshes. Forrest Text/Linnean Society of London</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Sherwood</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Gardiner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Harris</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="359" to="e396" />
+			<date type="published" when="2000">2000</date>
+			<publisher>Cardigan/ London</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Erosion and Accretion Processes in British Saltmarshes</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>French</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Cambridge Environmental Research Consultants Ltd.</title>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Final Report to MAFF (5 Volumes</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Sediment dynamics and deposition on a retreating coastal saltmarsh</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Reed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Estuarine, Coastal and Shelf Science</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="67" to="e79" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Flow structure in and above the various heights of a saltmarsh canopy: a laboratory flume study</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pethick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Coastal Research</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1204" to="e1209" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F A</forename><surname>Sleath</surname></persName>
+		</author>
+		<title level="m">Sea Bed Mechanics</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley</publisher>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The storm surge of 11 January 1978 on the East coast of England</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Steers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Stoddart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Bayliss-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Durbridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geographical Journal</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<date type="published" when="1979">1979. 192e205</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Ecological Census Techniques. A Handbook</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Sutherland</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Waves in Ocean Engineering. Measurement, Analysis, Interpretation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Tucker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Ellis Horwood</publisher>
+			<pubPlace>Chichester</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The effects of sea and marsh grass on wave energy</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Wayne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Coastal Research Notes</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="6" to="e8" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Physical evolution of restored breached levee salt marshes in the San Francisco Bay estuary</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Orr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Restoration Ecology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="527" to="e542" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Multiparameter analysis of vertical vegetation structure based on digital image processing</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zehm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nobis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schwabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Flora</title>
+		<imprint>
+			<biblScope unit="volume">198</biblScope>
+			<biblScope unit="page" from="142" to="e160" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

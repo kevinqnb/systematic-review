@@ -1,0 +1,2762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Agricultural Freshwater Pond Supports Diverse and Dynamic Bacterial and Viral Populations</title>
+				<funder ref="#_6uUMxuH">
+					<orgName type="full">United States Department of Agriculture-National Institute of Food and Agriculture</orgName>
+				</funder>
+				<funder ref="#_8pnMGfh">
+					<orgName type="full">Computation and Mathematics for Biological Networks (COMBINE) NSF</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Frontiers Media SA</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2018-04-24">24 April 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Jessica</forename><surname>Chopyk</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution" key="instit1">Maryland Institute for Applied Environmental Health</orgName>
+								<orgName type="institution" key="instit2">University of Maryland</orgName>
+								<address>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sarah</forename><surname>Allard</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution" key="instit1">Maryland Institute for Applied Environmental Health</orgName>
+								<orgName type="institution" key="instit2">University of Maryland</orgName>
+								<address>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">J</forename><surname>Nasko</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Center for Bioinformatics and Computational Biology</orgName>
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<addrLine>College Park</addrLine>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Anthony</forename><surname>Bui</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution" key="instit1">Maryland Institute for Applied Environmental Health</orgName>
+								<orgName type="institution" key="instit2">University of Maryland</orgName>
+								<address>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Emmanuel</forename><forename type="middle">F</forename><surname>Mongodin</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Institute for Genome Sciences and Department of Microbiology and Immunology</orgName>
+								<orgName type="institution">University of Maryland School of Medicine</orgName>
+								<address>
+									<settlement>Baltimore</settlement>
+									<region>MD</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Amy</forename><forename type="middle">R</forename><surname>Sapkota</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Public Health</orgName>
+								<orgName type="institution" key="instit1">Maryland Institute for Applied Environmental Health</orgName>
+								<orgName type="institution" key="instit2">University of Maryland</orgName>
+								<address>
+									<settlement>College Park</settlement>
+									<region>MD</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Bowling Green State University</orgName>
+								<address>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">University of La Rochelle</orgName>
+								<address>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="laboratory">UMR6023 Laboratoire Microorganismes Génome et Environnement (LMGE)</orgName>
+								<orgName type="institution">Pradeep Ram Angia Sriram</orgName>
+								<address>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Agricultural Freshwater Pond Supports Diverse and Dynamic Bacterial and Viral Populations</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Frontiers in Microbiology</title>
+						<title level="j" type="abbrev">Front. Microbiol.</title>
+						<idno type="eISSN">1664-302X</idno>
+						<imprint>
+							<publisher>Frontiers Media SA</publisher>
+							<biblScope unit="volume">9</biblScope>
+							<date type="published" when="2018-04-24">24 April 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A33B9A5177D4542638F84552F07A30D3</idno>
+					<idno type="DOI">10.3389/fmicb.2018.00792</idno>
+					<note type="submission">This article was submitted to Aquatic Microbiology, a section of the journal Frontiers in Microbiology Received: 20 February 2018 Accepted: 09 April 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>viral metagenomics</term>
+					<term>16S rRNA</term>
+					<term>bacteriophage</term>
+					<term>polymerase A</term>
+					<term>microbiota</term>
+					<term>virome</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Agricultural ponds have a great potential as a means of capture and storage of water for irrigation. However, pond topography (small size, shallow depth) leaves them susceptible to environmental, agricultural, and anthropogenic exposures that may influence microbial dynamics. Therefore, the aim of this project was to characterize the bacterial and viral communities of pond water in the Mid-Atlantic United States with a focus on the late season (October-December), where decreasing temperature and nutrient levels can affect the composition of microbial communities. Ten liters of freshwater from an agricultural pond were sampled monthly, and filtered sequentially through 1 and 0.2 µm filter membranes. Total DNA was then extracted from each filter, and the bacterial communities were characterized using 16S rRNA gene sequencing. The remaining filtrate was chemically concentrated for viruses, DNA-extracted, and shotgun sequenced. Bacterial community profiling showed significant fluctuations over the sampling period, corresponding to changes in the condition of the pond freshwater (e.g., pH, nutrient load). In addition, there were significant differences in the alpha-diversity and core bacterial operational taxonomic units (OTUs) between water fractions filtered through different pore sizes. The viral fraction was dominated by tailed bacteriophage of the order Caudovirales, largely those of the Siphoviridae family. Moreover, while present, genes involved in virulence/antimicrobial resistance were not enriched within the viral fraction during the study period. Instead, the viral functional profile was dominated by phage associated proteins, as well as those related to nucleotide production. Overall, these data suggest that agricultural pond water harbors a diverse core of bacterial and bacteriophage species whose abundance and composition are influenced by environmental variables characteristic of pond topology and the late season.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Growing urbanization and climate variability have placed immense pressure on the finite supply of groundwater available for agricultural irrigation. As a result, the exploration of alternative irrigation water sources, including recycled water and pond water, has become a global priority <ref type="bibr" target="#b72">(Scheierling et al., 2006;</ref><ref type="bibr" target="#b60">Parsons et al., 2010;</ref><ref type="bibr" target="#b57">Ortega-Reig et al., 2014)</ref>. While there is no universal standard, ponds are generally defined as small (1 m 2 to ∼50,000 m 2 ), shallow, standing water bodies that can either permanently or temporarily collect freshwater <ref type="bibr" target="#b6">(Biggs et al., 2005;</ref><ref type="bibr" target="#b18">De Meester et al., 2005;</ref><ref type="bibr" target="#b11">Céréghino et al., 2008)</ref>. These small water bodies are known to house a rich tapestry of aquatic plant and macroinvertebrate species, even greater than that of other larger water bodies (e.g., lakes and rivers) <ref type="bibr" target="#b6">(Biggs et al., 2005)</ref>. Moreover, the high terrestrial and aquatic interchange of ponds may enable both small free-living (&lt;1 µm) and large/particleassociated bacteria to proliferate <ref type="bibr" target="#b78">(Søndergaard et al., 2005;</ref><ref type="bibr" target="#b67">Roiha et al., 2016)</ref>. Therefore, assessing the microbial diversity and interactions of these complex water bodies is a critical first step with regard to completing a comprehensive characterization of pond biodiversity, and evaluating the suitability of pond freshwater for agricultural applications, such as the irrigation of food crops.</p><p>A growing body of literature has defined several bacterial phyla that are abundant in freshwater and markedly different from that of marine systems <ref type="bibr" target="#b92">(Zwart et al., 2002;</ref><ref type="bibr" target="#b52">Newton et al., 2011)</ref>. Previous studies have reported a widespread distribution of Actinobacteria (lineage acI and acIV) among various freshwater sites, in some cases composing greater than 50% of the total bacterial community abundance <ref type="bibr" target="#b24">(Glöckner et al., 2000;</ref><ref type="bibr" target="#b52">Newton et al., 2011)</ref>. The Proteobacteria phylum in freshwater is also abundant, composed largely of Betaproteobacteria. This is in contrast to marine systems where Alphaproteobacteria typically dominates <ref type="bibr" target="#b52">(Newton et al., 2011)</ref>. Furthermore, aquatic microbial communities are influenced by a variety of seasonal factors, such as pH, temperature, and water retention time <ref type="bibr" target="#b91">(Yannarell et al., 2003;</ref><ref type="bibr" target="#b40">Lindström et al., 2005)</ref>, as well as top-down regulation from predators (e.g., bacteriophage) <ref type="bibr" target="#b30">(Hennes et al., 1995;</ref><ref type="bibr" target="#b14">Chow et al., 2014)</ref>. However, the majority of studies on the bacterial community composition of freshwater habitats come from large lakes and rivers, and very few have included an analysis of viral populations.</p><p>Bacteriophage, viruses that infect bacteria, are the most abundant biological entities in aquatic systems and play an important role in microbial community composition and ecology <ref type="bibr" target="#b44">(Maranger and Bird, 1995;</ref><ref type="bibr" target="#b88">Wilhelm and Matteson, 2008)</ref>. For instance, phage lysis results in the release of the host's internal cellular contents (e.g., organic carbon, nitrogen), which then becomes a part of the pool of dissolved organic material (DOM). This phenomenon, known as the viral shunt, increases the level of available DOM for other microbes and is suggested to promote bacterial respiration and growth <ref type="bibr" target="#b89">(Wilhelm and Suttle, 1999;</ref><ref type="bibr" target="#b80">Suttle, 2007;</ref><ref type="bibr" target="#b8">Bonilla-Findji et al., 2008)</ref>. Several studies have surveyed viral diversity through the use of widely, although not universally, distributed marker genes, such as polA. Family A DNA polymerase, polA, which encodes the Pol I protein, is the principal polymerase for phage genome replication, and is suggested to be predictive of viral lifestyle based off a single amino acid substitution <ref type="bibr" target="#b20">(Doublie et al., 1998;</ref><ref type="bibr" target="#b73">Schmidt et al., 2014;</ref><ref type="bibr" target="#b90">Wommack et al., 2015)</ref>. A phenylalanine (wildtype) or tyrosine at amino acid position 762 (relative to Escherichia coli) is predictive of virulent phage (i.e., lytic replication), while a leucine substitution at this site seems to be predictive of a temperate lifestyle (i.e., lysogenic replication) <ref type="bibr" target="#b73">(Schmidt et al., 2014)</ref>. Other studies have surveyed viral communities and diversity through shotgun sampling of genomic DNA from viral concentrates <ref type="bibr" target="#b90">(Wommack et al., 2015)</ref>.</p><p>Similar to most bacterial analyses, the majority of studies of viral metagenomes (viromes) have been created from marine samples, which have provided astounding insights into how phage affect the ecology and biology of their hosts <ref type="bibr" target="#b80">(Suttle, 2007;</ref><ref type="bibr" target="#b66">Rohwer and Thurber, 2009)</ref>. In addition, there have been several viromes created from large freshwater lakes in the Artic <ref type="bibr" target="#b17">(de Cárcer et al., 2015)</ref>, the Antarctic <ref type="bibr" target="#b41">(López-Bueno et al., 2009)</ref>, France <ref type="bibr" target="#b68">(Roux et al., 2012)</ref>, North America <ref type="bibr" target="#b19">(Djikeng et al., 2009;</ref><ref type="bibr" target="#b25">Green et al., 2015;</ref><ref type="bibr" target="#b51">Mohiuddin and Schellhorn, 2015;</ref><ref type="bibr" target="#b85">Watkins et al., 2016)</ref>, and Ireland <ref type="bibr" target="#b76">(Skvortsov et al., 2016)</ref>. While limited in their scope, these studies have provided some of the first data on freshwater phage ecology, demonstrating that, like their hosts, phage diversity is influenced by environmental factors. However, only a few studies have evaluated freshwater viromes from small lakes/ponds and fewer have looked at freshwater viromes in conjunction with a temporal analysis of fine scale host diversity <ref type="bibr" target="#b23">(Fancello et al., 2013;</ref><ref type="bibr" target="#b71">Saxton et al., 2016)</ref>.</p><p>Therefore, we aimed to assess the bacterial and viral components of a temperate agricultural pond in the Mid-Atlantic, United States during the late growing season (October-December), a time when declining temperature and nutrient levels may impact the structure and function of the microbial assemblages. Specifically, we used 16S rRNA gene and shotgun metagenomic sequencing to: (i) survey the bacterial consortium utilizing different filter pore sizes (1 and 0.2 µm); (ii) characterize the diversity and abundance of the bacteriophage within the viral community; and (iii) compare the phylogeny of pond viromes across time using the phylogenetically relevant, and biologically meaningful, Pol I protein.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Site and Sample Collection</head><p>Ten-liter water samples were collected in October 2016, November 2016, and December 2016 from a temperate freshwater agricultural pond in central Maryland, United States (maximum depth of ca. 3.35 meters and a surface area of ca. 0.26 ha). A Honda WX10TA (32 GPM) water pump was used to collect water 15-30 cm below the surface into a sterile polypropylene carboy. Samples were kept in the dark at 4 • C and processed within 24 h of collection. In addition, a ProDSS digital sampling system (YSI, Yellow Springs, OH, United States) was used to measure, in triplicate: the water temperature ( • C), conductivity (SPC uS/cm), pH, dissolved oxygen (%), oxidation/reduction potential (mV), turbidity (FNU), nitrate (mg/L), and chloride (mg/L).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sample Preparation</head><p>Viral and microbial fractions were separated through peristaltic filtration followed by an iron-based flocculation and resuspension of viral particles. Two 142 mm polycarbonate in-line filter holders (Geotech, CO, United States), one equipped with a 142-mm diameter Whatman 1 µm polycarbonate filter (Sigma-Aldrich, MO, United States) and one with a 142-mm diameter 0.2 µm membrane filter (Pall Gelman Sciences, MI, United States), were attached via sterile 1.6 mm PVC tubing. Each water sample was then filtered sequentially through the 1 µm polycarbonate filter followed by the 0.2 µm membrane filter using a Watson Marlow 323 Series Peristaltic Pump (Watson-Marlow, Falmouth, Cornwall, United Kingdom). No prefiltration steps were conducted prior to the sample processing described above. After filtration, both filters (1 and 0.2 µm) were dissected into four equal quadrants and stored at -80 • C until DNA extraction. The iron chloride procedure <ref type="bibr" target="#b32">(John et al., 2011)</ref> was then used on the resulting filtrate to concentrate viral particles. Briefly, 1 mL FeCl 3 solution (4.83 g FeCl 3 into 100 ml H 2 O) was added to the filtered pond water and incubated in the dark for 1 h. Flocculated viral particles were then filtered onto 142-mm 1 µm polycarbonate filters (Sigma-Aldrich, MO, United States) and stored at 4 • C in the dark until resuspension. For viral resuspension, filters were rocked overnight at 4 • C in 10 mL of 0.1M EDTA-0.2M MgCl 2 -0.2 M Ascorbate Buffer, described in detail elsewhere <ref type="bibr" target="#b32">(John et al., 2011)</ref>. To ensure total removal of free DNA contamination, resuspended viral particles were subjected to a DNase I (Sigma-Aldrich, MO, United States) treatment for 2 h and again passed through a 33-mm diameter sterile syringe filter with a 0.2 µm pore size (Millipore Corporation, MA, United States).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viral DNA Extraction and Shotgun Sequencing</head><p>For the virome analysis, DNA was extracted from 500 µl of the treated viral concentrate using the AllPrep DNA/RNA Mini Kit (Qiagen, CA, United States) per the manufacturer's instructions and quantified with a HS DNA Qubit fluorescent concentration assay. For each sample, DNA was used in the tagmentation reaction, followed by 13 cycles of PCR amplification using Nextera i7 &amp; i5 index primers &amp; 2× Kapa master mix per the modified Nextera XT protocol. The final libraries were then quantitated by KAPA SYBR FAST qPCR kit and sequenced on the Illumina HiSeq 4000 (Illumina, San Diego, CA, United States).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Microbial DNA Extraction, 16S rRNA Gene PCR Amplification, and Sequencing</head><p>For the 16S rRNA gene analysis, DNA was extracted from each of the four filter quadrants from the 1 and 0.2 µm filters utilizing an enzymatic and mechanical lysis procedure described in detail elsewhere <ref type="bibr">(Chopyk et al., 2017a,b)</ref>.</p><p>The V3-V4 hypervariable region of the 16S rRNA gene was PCR-amplified and sequenced on the Illumina HiSeq (Illumina, San Diego, CA, United States) utilizing a dual-indexing strategy for multiplexed sequencing developed at the Institute for Genome Sciences <ref type="bibr" target="#b22">(Fadrosh et al., 2014)</ref>, described in detail elsewhere <ref type="bibr">(Chopyk et al., 2017a,b)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>16S rRNA Gene Data Analysis</head><p>16S rRNA gene reads were initially screened for low quality bases and short read lengths <ref type="bibr" target="#b22">(Fadrosh et al., 2014)</ref>, paired reads were merged using PANDAseq <ref type="bibr" target="#b46">(Masella et al., 2012)</ref>, demultiplexed, trimmed of artificial barcodes and primers, and assessed for chimeras using UCHIME in de novo mode, as implemented in Quantitative Insights Into Microbial Ecology (QIIME; version 1.9.1-20150604) <ref type="bibr" target="#b10">(Caporaso et al., 2010)</ref>. Qualitycontrolled reads were clustered at 97% de novo into operational taxonomic units (OTUs) with the SILVA 16S database <ref type="bibr" target="#b64">(Quast et al., 2012)</ref> in QIIME <ref type="bibr" target="#b10">(Caporaso et al., 2010)</ref>. All sequences taxonomically assigned to chloroplasts were removed from further downstream analysis. When appropriate, data was normalized using metagenomeSeq's cumulative sum scaling to account for uneven sampling depth <ref type="bibr">(Paulson et al., 2013b)</ref>.</p><p>To visualize the relative abundance of bacterial phyla, stacked bar charts were generated using ggplot2 <ref type="bibr" target="#b87">(Wickham, 2009)</ref>. In addition, bacterial taxa were summarized at the genera level in QIIME (level = 6) and those with a maximum relative abundance greater than 1% in at least one sample were used to build a heatmap via R (ver. 3.3.2) and vegan heatplus <ref type="bibr" target="#b63">(Ploner, 2012)</ref>.</p><p>Significance tests were conducted using a Tukey's HSD Test between filter size fractions and among sampling dates. Additionally, Pearson correlation coefficients were calculated to identify associations between the water characteristics and the relative abundance of the bacterial phyla/genera.</p><p>Alpha diversity was calculated using the R packages: Bioconductor <ref type="bibr" target="#b31">(Huber et al., 2015)</ref>, metagenomeSeq <ref type="bibr">(Paulson et al., 2013a)</ref>, vegan <ref type="bibr" target="#b55">(Oksanen et al., 2007)</ref>, phyloseq <ref type="bibr" target="#b48">(McMurdie and Holmes, 2013)</ref>, fossil <ref type="bibr">(Vavrek, 2011), biomformat (McMurdie and</ref><ref type="bibr" target="#b49">Paulson, 2016)</ref>, and ggplot2 <ref type="bibr" target="#b87">(Wickham, 2009)</ref> on data rarefied to an even sampling depth (55,307 sequences) and tested for significance using a Tukey's HSD Test.</p><p>Beta diversity was determined through principle coordinates analysis (PCoA) plots of Bray-Curtis, Weighted and Unweighted UniFrac distances calculated using the R package phyloseq and tested for significance with ANOSIM (9,999 permutations) <ref type="bibr" target="#b4">(Beals, 1984;</ref><ref type="bibr" target="#b15">Clarke, 1993;</ref><ref type="bibr" target="#b42">Lozupone et al., 2011;</ref><ref type="bibr" target="#b48">McMurdie and Holmes, 2013)</ref>.</p><p>Core bacterial OTUs for each filter fraction, and the sample as a whole, were defined as OTUs in 100% of samples determined with QIIME's compute_core_microbiome.py script <ref type="bibr" target="#b10">(Caporaso et al., 2010)</ref>. Core OTUs were then visualized using ggplot2, and Krona <ref type="bibr" target="#b87">(Wickham, 2009;</ref><ref type="bibr" target="#b56">Ondov et al., 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Virome Metagenomic Analysis</head><p>The paired-end reads were quality trimmed using Trimmomatic (ver. 0.36) <ref type="bibr" target="#b7">(Bolger et al., 2014)</ref>, merged with FLASh (ver. 1.2.11) <ref type="bibr" target="#b43">(Magoč and Salzberg, 2011)</ref>, and assembled de novo with metaSPAdes (ver. 3.10.1) without read error correction <ref type="bibr" target="#b54">(Nurk et al., 2017)</ref>. Taxonomic classifications were assigned to contigs by searching predicted peptide open reading frames (ORFs) against the peptide SEED and Phage SEED databases (retrieved 11/17/2017) <ref type="bibr" target="#b58">(Overbeek et al., 2005)</ref>. Briefly, peptide ORFs were predicted from virome contigs using MetaGene <ref type="bibr" target="#b53">(Noguchi et al., 2006)</ref> and were searched against the SEED and Phage SEED databases using protein-protein BLAST (BLASTp ver. 2.6.0+) (E value ≤ 1e-3) <ref type="bibr" target="#b1">(Altschul et al., 1990)</ref>. Taxonomy was assigned to contigs using ORF BLASTp hits to SEED sequences with NCBI taxonomy IDs. A contig is assigned the NCBI taxonomy ID with the maximum sum bit score across all ORF BLASTp hits in the contig. Scripts performing these assignments are available at <ref type="url" target="https://github.com/dnasko/baby_virome">https://github.com/dnasko/baby_  virome</ref>.</p><p>Functional classifications were assigned to ORFs by searching predicted peptide ORFs against the same peptide SEED database. Peptide ORFs were searched against the SEED databases using BLASTp (E value ≤ 1e-3). ORFs were assigned to a SEED subsystem with the maximum sum bit score among all of the ORF's hits. Only functions associated with viral hits were considered for this analysis.</p><p>Counts for taxonomy and functions identified in each virome are based on normalized contig and peptide ORF abundances, respectively. The abundance for each contig was estimated by recruiting all quality controlled reads to the assembled contigs using Bowtie2 (ver. 2.3.3) in very sensitive local mode <ref type="bibr" target="#b37">(Langmead and Salzberg, 2012)</ref>. Coverage for each contig was calculated using Samtools depth <ref type="bibr" target="#b38">(Li et al., 2009)</ref> and a custom parser available at <ref type="url" target="https://github.com/dnasko/baby_virome">https://github.com/dnasko/  baby_virome</ref>. ORF abundances are calculated by computing the coverage of the contig within the ORF's start and stop coordinates. To compare abundance measurements between viromes they are normalized to account for sequencing effort and assembly/recruitment proficiency. Briefly, each contig/ORF's coverage is divided by the giga base pairs (Gbp) of reads able to recruit back to contigs/ORFs. Taxonomic and functional data were visualized using ggplot2 <ref type="bibr" target="#b87">(Wickham, 2009)</ref>. Additionally, Pearson correlation coefficients were calculated to identify the associations between the water characteristics and the abundance of the predicted viral taxa.</p><p>For the phylogenetic marker gene, predicted ORFs were queried against Pol I UniRef90 <ref type="bibr" target="#b81">(Suzek et al., 2007)</ref> clusters using protein-protein BLAST (BLASTp) <ref type="bibr" target="#b1">(Altschul et al., 1990)</ref> with an E value cutoff ≤ 1e-5. Significant hits were filtered based on length (≥ 100 amino acids) and then confirmed to be Pol I via NCBI's Conserved Domain BLAST online tool <ref type="bibr" target="#b45">(Marchler-Bauer et al., 2011)</ref>. The sequences were then aligned with MAFFT using the FFT-NS-i × 1000 algorithm <ref type="bibr" target="#b33">(Katoh et al., 2002)</ref>. To obtain biologically meaningful data on the Pol I-containing phage, a region of interest (I547 to N923 in E. coli IAI39) containing the Phe762 position relative to E. coli IAI39 was selected and used to create an unrooted maximum likelihood tree with 100 bootstrap replicates using Geneious 6.0.5 <ref type="bibr" target="#b34">(Kearse et al., 2012)</ref> with PhyML <ref type="bibr" target="#b26">(Guindon and Gascuel, 2003)</ref>. Those with a Phe762 or Tyr762 were defined as generally virulent phage, while those with a Leu762 were defined as generally temperate <ref type="bibr" target="#b73">(Schmidt et al., 2014)</ref>. Abundances for each Pol I peptide were calculated as described above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Deposition</head><p>16S rRNA gene sequences were deposited in NCBI Sequence Read Archive under the accession numbers SRX3387709-SRX3387732. Viral metagenomic reads were also deposited in NCBI's Sequence Read Archive under the accession numbers SRS2698857, SRS2698856, and SRS2698858.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Water Characteristics</head><p>Water properties are described in Table <ref type="table" target="#tab_0">1</ref>. Overall, ambient temperature during sampling, water temperature, nitrate and chloride levels, and turbidity decreased during the study period. Conversely, pH, precipitation levels, conductivity (SPC uS/cm), oxidation/reduction potential (mV), and dissolved oxygen (%) were highest in December.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>16S rRNA Gene Sequencing Effort</head><p>In total, 24 samples were PCR-amplified for the 16S rRNA gene and sequenced: four quadrants each from the 1 and 0.2 µm filters from each sampling date (October, November, and December). After sequence quality filtering, 7,489 OTUs (97% identity) were identified from a total of 2.5 million sequences across all samples, with an average number of ca. 103,000 (± ca. 36,000 SD) sequences per sample and an average of ca. 2,100 (± ca. 500) OTUs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial Community Composition and Temporal Variations</head><p>The most abundant pond water phyla were Actinobacteria, Proteobacteria, and Bacteroidetes in all samples, however, their average relative abundance fluctuated over the time course and between filter pore sizes (Figure <ref type="figure" target="#fig_0">1A</ref> and Supplementary Table <ref type="table" target="#tab_0">S1</ref>, S2). For instance, Actinobacteria was significantly (p &lt; 0.05) higher at all time points in the 0.2 µm fraction, whereas Chloroflexi, Firmicutes, Cyanobacteria, and Proteobacteria were significantly higher in the 1 µm fraction at all time points (Figure <ref type="figure" target="#fig_0">1A</ref> and Supplementary Table <ref type="table" target="#tab_0">S1</ref>). From October to December in both fractions the relative abundance of Bacteroidetes increased significantly (p &lt; 0.05), whereas TM7 and Cyanobacteria decreased (Supplementary Table <ref type="table">S2</ref>).</p><p>At the genera level, summarized via QIIME, there were 31 taxa that were greater than 1% in at least one sample (Figure <ref type="figure" target="#fig_0">1B</ref>). Of these, 8 had a significantly (p &lt; 0.05) higher relative abundance at all time points in the 0.2 µm fraction than the 1 µm fraction (ACK.M1, Limnohabitans, Microbacteriaceae, Sediminibacterium, Polynucleobacter, Actinomycetales, Cytophagaceae, ZB2), while six  were significantly (p &lt; 0.05) greater in the 1 µm fraction compared to the 0.2 µm fraction (Synechococcus, Chitinophagaceae, Dolichospermum, Rhizobiales, SC.I.84, Gemmataceae) (Figure <ref type="figure" target="#fig_0">1B</ref> and Supplementary Table <ref type="table">S3</ref>). Moreover, within each fraction there were significant (p &lt; 0.05) changes in the relative abundance of the bacterial taxa over the sampling period (Figure <ref type="figure" target="#fig_0">1B</ref> and Supplementary Table <ref type="table">S4</ref>). For instance, in the 1 and 0.2 µm fractions, ACK.M1, Fluviicola, Sphingomonadales, Dolichospermum, Flavobacterium, Bacteroidetes, SC.I.84, and Betaproteobacteria increased significantly (p &lt; 0.05) from October to December, while C111, Synechococcus, Chitinophagaceae, Rhodoluna, Actinomycetales, Rhodobacter, Rhizobiales, Mycobacterium, Rhizobiales, SC3, and Gemmataceae decreased significantly (p &lt; 0.05). In addition to the taxa above, in the 1 µm fraction there was also a significant (p &lt; 0.05) increase in Comamonadaceae and Polynucleobacter and a significant decrease in Sphingobacteriales and OD1 between the October and December sampling dates. For the 0.2 µm fraction, there was also a significant (p &lt; 0.05) increase in the relative abundance of Sediminibacterium, Cytophagaceae, ZB2, and ABY1 between the October and December sampling dates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Relationships Between Water Characteristics and Bacterial Abundance</head><p>Despite the small sample size (n = 3), several bacterial phyla showed significant correlations (p &lt; 0.05) with the measured water characteristics (Supplementary Figure <ref type="figure" target="#fig_0">S1A</ref>). In both filter fractions, the relative abundance of Actinobacteria was negatively correlated with the level of dissolved oxygen. In just the 1 µm fraction, the relative abundance of Verrucomicrobia and Proteobacteria were positively correlated with dissolved oxygen and pH, respectively, while TM7 was positively correlated with both water temperature and turbidity. In addition, in just the 0.2 µm fraction, the relative abundance of Firmicutes showed positive correlations with pH and oxidation/reduction. Conversely, the relative abundance of Bacteroidetes, TM7, and OD1 were negatively related to, chloride, pH, and nitrate, respectively (p &lt; 0.05). At the genera level in both filter fractions, Synechococcus was positively correlated with nitrate (Supplementary Figure <ref type="figure" target="#fig_0">S1B</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial Alpha Diversity</head><p>Alpha diversity was computed for Observed OTUs and Shannon diversity and tested for significance between filter size and over time within each fraction (Figure <ref type="figure" target="#fig_1">2</ref>).</p><p>Despite the 0.2 µm fraction containing significantly higher levels of some of the dominant genera, the 1 µm fraction had a significantly higher Shannon index and observed OTU value in the November and December (p &lt; 0.05) samples (Figure <ref type="figure" target="#fig_1">2</ref>). When testing within each fraction over time, the Shannon index values in the 1 µm fraction were significantly (p &lt; 0.05) higher in October than November. In the 0.2 µm fraction the Shannon index values were significantly higher in October than both November and December (Figure <ref type="figure" target="#fig_1">2</ref>). However, the Observed OTU values in the 1 µm fraction were significantly higher in December than both October and November, while in the 0.2 µm fraction December was only significantly higher than November.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacterial Beta Diversity</head><p>Beta diversity comparisons using PCoA plots of Bray-Curtis distances computed for all samples revealed significant clustering by date (R = 0.94, p = 0.001) along axis 1, which accounted for nearly 45% of the variation (Figure <ref type="figure" target="#fig_2">3</ref>). Samples along axis 2 (17% of the variation) appeared to cluster by filter size (1 µm vs. 0.2 µm). This trend was also observed both utilizing weighted (R = 0.7458, p = 0.001) and unweighted (R = 0.8524, p = 0.001) PCoA plots of beta diversity measured using (A) Bray-Curtis, (B) Weighted UniFrac, and (C) Unweighted UniFrac. Shape denotes filter pore size, either 1 µm (circle) or 0.2 µm (triangle), and color denotes month when water was sampled, October (green), November (blue), and December (red). Ellipses are drawn at 95% confidence intervals for each month.</p><p>UniFrac (Figure <ref type="figure" target="#fig_2">3</ref>) distances. Additionally, within each date, samples clustered by filter pore size: December (R = 1, p = 0.022), November (R = 1, p = 0.022), and October (R = 1, p = 0.029) (Supplementary Figure <ref type="figure" target="#fig_1">S2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Core OTUs</head><p>There were 277 core OTUs present in the farm pond water over the 3 months across both fractions (Figure <ref type="figure" target="#fig_3">4</ref>). These were largely Actinobacteria (127 OTUs), followed by: Proteobacteria (82 OTUs), Bacteroidetes (43 OTUs), TM7 (9 OTUs), OD1 (4 OTUs), Verrucomicrobia (2 OTUs), Firmicutes (2 OTUs), Chloroflexi (2 OTUs), Cyanobacteria (1 OTU), WS5 (1 OTU), SR1 (1 OTU), GN02 (1 OTU), Fusobacteria (1 OTU), and Chlamydiae (1 OTU). For the 0.2 µm fraction, there was a unique core of 152 OTUs, largely Actinobacteria (90 OTUs), followed by Proteobacteria (33 OTUs), and Bacteroidetes (23 OTUs), Verrucomicrobia (2 OTUs), TM7 (1 OTU), GN02 (1 OTU), Chlamydiae (1 OTU), and Spirochaetes (1 OTU). The unique core for the 1 µm fraction was more diverse in bacterial phyla compared to the 0.2 µm. It consisted largely of Proteobacteria (78 OTUs), followed by Actinobacteria (16 OTUs), Bacteroidetes (16 OTUs), Cyanobacteria (6 OTUs), Firmicutes (6 OTUs), Chloroflexi (5 OTUs), TM7 (5 OTUs), Planctomycetes (4 OTUs), Acidobacteria (4 OTUs), Verrucomicrobia (3 OTUs), Gemmatimonadetes (2 OTUs), OD1 (1 OTU), and WS5 (1 OTU).</p><p>When looking at the core bacterial taxa at a lower taxonomic level, in the 0.2 µm fraction the Actinobacteria OTUs were dominated by Actinomycetales ACK-M1 (70%), followed by Rhodoluna (4%) under the family Microbacteriaceae (Supplementary Figure <ref type="figure" target="#fig_2">S3B</ref>). The Proteobacteria were largely Limnohabitans (24%) and Polynucleobacter (30%) and the Bacteroidetes were Sediminibacterium (22%) and a large unclassified family of Cytophagaceae (35%) (Supplementary Figure <ref type="figure" target="#fig_2">S3B</ref>). Within the unique core of the 1 µm fraction, the only prominent genus of the Proteobacteria was Rhobacter at 5%, followed by Novosphingobium at 3% and 17 other genera (each at 1%) (Supplementary Figure <ref type="figure" target="#fig_2">S3A</ref>). At a higher taxonomic level, a family of largely unclassified Rhizobiales was also abundant (23%). The Actinobacteria were dominated by Acidimicrobiales C111 (25%), Solirubrobacterales (13%), and a large proportion of mostly unclassified Actinomycetales (44%). Finally, in the Bacteroidetes phylum of the 1 µm fraction there was mostly Fluviicola at 13%, as well as Leadbetterella, Runella, and Sediminibacterium, which were each at 6%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Shotgun Sequencing Effort and Assembly</head><p>Each sample from the viral fraction was sequenced on the Illumina HiSeq for a total of 89,645,509 read pairs <ref type="bibr">(35,</ref><ref type="bibr">522,</ref><ref type="bibr">822 from October;</ref><ref type="bibr">32,</ref><ref type="bibr">988,</ref><ref type="bibr">451 from November;</ref><ref type="bibr">21,</ref><ref type="bibr">134,</ref><ref type="bibr">236 from December)</ref>. We assembled the reads from all sampling dates to construct a total of 872,200 contigs (272,687 from October; 409,758 from November; 189,755 from December). The mean contig length was 593 nucleotides in October (range from 55 to 366,802 nucleotides), 641 in November (range from 55 to 286,691 nucleotides), and 655 in December (range from 55 to 331,733 nucleotides). The GC content was similar among the three sampling dates: October (Mean 46.51%, Median 45.42%); November (Mean 46.18%, Median 45.59%); and December (Mean 46.12%, Median 45.21%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viral Taxonomic Composition and Abundance</head><p>Similar to other studies, a large portion of the assembled contigs within the viral fraction had no known homologs (42% October, 51% November, and 42% December could be assigned taxonomy) <ref type="bibr" target="#b35">(Krishnamurthy and Wang, 2017)</ref>. For those that did have a hit we calculated the normalized abundance. From this we found that 47% (October), 27% (November), and 53% (December) of the assigned taxonomic composition were homologous to viruses; the vast majority of which were from the dsDNA bacteriophage Caudovirales (99%, 98%, and 99%) (Figure <ref type="figure" target="#fig_4">5A</ref>). Within the Caudovirales, Siphoviridae dominated at all time points followed by Myoviridae and then Podoviridae. Other viral categories included those homologous to ssDNA viruses Inoviridae, dsDNA viruses Tectiviridae, Ligamenvirales, Bicaudaviridae, and other unclassified bacteriophage (Figure <ref type="figure" target="#fig_4">5A</ref>). For the dominant viral families (Podoviridae, Siphoviridae, and Myoviridae), there were no water characteristic that significantly correlated with their abundances; however, there were several bacterial taxa whose relative abundance correlated with the abundance of the dominant viral families (Supplementary Figure <ref type="figure" target="#fig_3">S4</ref>). For instance, at the phylum level the relative abundance of OD1 in the 1 µm fraction negatively correlated with the abundance of Siphoviridae, while in the 0.2 µm the relative abundance of TM7 negatively correlated with the abundance of Podoviridae (Supplementary Figure <ref type="figure" target="#fig_3">S4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viral Functional Composition</head><p>ORFs from the virus-assigned contigs were functionally annotated using the SEED Subsystems <ref type="bibr" target="#b58">(Overbeek et al., 2005)</ref>. Again, to compare these viral categories across the 3 months, we calculated the normalized abundance for each of the ORFs assigned to the SEED functional categories (Figure <ref type="figure" target="#fig_4">5B</ref>). While ORFs homologous to virulent genes were present (e.g., Multidrug Resistance Efflux Pumps, Zinc Resistance, Copper Homeostasis) they were not abundant within the time period. The majority (93% October, 80% November, and 92% December) were Phage Elements, defined by the SEED subsystem hierarchy <ref type="bibr" target="#b58">(Overbeek et al., 2005)</ref> as either "Phages, Prophages, Transposable elements, " which were largely phage structural genes (e.g., capsid, scaffolding) or "Phages, Prophages, Transposable elements, and Plasmids, " which were genes related to phage replication and packaging (e.g., terminase, integrase, helicase, primase). This was followed by "Nucleosides &amp; Nucleotides" (4% October, 6% November, and 5% December), which were largely genes involved in ribonucleotide reduction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viral Marker Gene: Polymerase A</head><p>A total of 842 confirmed Pol I peptides were extracted from our assembled pond water viromes (271 October, 320 November, and 251 December). From these, only 228 spanned the region of interest and were included in the phylogenic analysis: 68 in October, 83 in November, and 77 in December. The phylogenetic analysis (Figure <ref type="figure" target="#fig_5">6</ref>) showed that the Pol I peptides grouped largely by their 762 position, whereas the sampling dates were distributed among the different clades. Again, to compare the Pol Is we calculated the normalized abundance for each. While the majority of Pol I peptides had the Leu substitution at the 762 site (184), followed by Tyr ( <ref type="formula">27</ref>) and then the wildtype Phe (17), the clade at the highest abundance was those with the wildtype Phe mutation. Because this clade was so abundant, we used BLASTp to assess the top hit, which were uncultured bacteriophage from the Dry Tortugas surface water <ref type="bibr" target="#b73">(Schmidt et al., 2014)</ref> and the seawater collected from the deep chlorophyll maximum of the Mediterranean Sea <ref type="bibr" target="#b50">(Mizuno et al., 2013</ref>) (E value &lt; 1e-300).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>While ponds represent a potential source of irrigation water, provided adequate filtering and monitoring technologies are employed, it is important to keep in mind their role in the ecosphere. Their small size and shallow depth enables a complex community of aquatic plants and macroinvertebrate species, as well as an interacting community of microorganisms.</p><p>However, changing water levels and anthropogenic factors associated with irrigation systems may interrupt the delicate balance of microbial life, which can ultimately impact higher trophic levels. Therefore, it is critical to carefully manage our use, or contamination, of these systems in search of irrigable water.</p><p>Here, the studied pond was dominated by Actinobacteria, Proteobacteria, and Bacteroidetes, common phyla found in most freshwater lakes <ref type="bibr" target="#b52">(Newton et al., 2011)</ref>. However, as the late season progressed there appeared to be changes in the bacterial community composition that correlated with specific environmental factors. For instance, Actinobacteria fluctuated throughout the sampling period, and was negatively correlated with the percentage of dissolved oxygen (Figure <ref type="figure" target="#fig_0">1A</ref> and Supplementary Figure <ref type="figure" target="#fig_0">S1A</ref>). A previous study of the Luhuitou fringing coral reef also reported a negative correlation between dissolved oxygen and the abundance of several Actinobacteria species that may be due to their anaerobic capabilities <ref type="bibr" target="#b36">(Kuang et al., 2015)</ref>. This relationship may help to explain the fluctuations in freshwater Actinobacteria abundances and diversity described in other seasons <ref type="bibr" target="#b0">(Allgaier and Grossart, 2006)</ref>. At a lower taxonomic level, the relative abundance of Synechococcus decreased significantly throughout the late season (Figure <ref type="figure" target="#fig_0">1B</ref> and Supplementary Table <ref type="table">S4</ref>). This is not surprising as the growth rate of Synechococcus is known to decrease with temperature and nitrogen levels, which occurred during the sampling period <ref type="bibr">(Sakamoto and</ref><ref type="bibr">Bryant, 1997, 1999)</ref>.</p><p>While the changes in relative abundance described above were apparent in both filter fractions (1 and 2 µm), there were differences in alpha diversity, beta diversity, and core bacterial composition between the two fractions (Figures <ref type="figure" target="#fig_0">1</ref><ref type="figure" target="#fig_1">2</ref><ref type="figure" target="#fig_2">3</ref>and Supplementary Figure <ref type="figure" target="#fig_0">S1</ref>). For instance, the 0.2 µm core microbiota was dominated by Actinobacteria, largely Actinomycetales ACK-M1, a known representative in most freshwater habitats <ref type="bibr" target="#b82">(Van der Gucht et al., 2005)</ref> and free-living Proteobacteria, Limnohabitans, and Polynucleobacter, <ref type="bibr" target="#b29">(Hahn et al., 2005</ref><ref type="bibr" target="#b28">(Hahn et al., , 2010;;</ref><ref type="bibr" target="#b74">Šimek et al., 2010)</ref> (Figure <ref type="figure" target="#fig_3">4</ref> and Supplementary Figure <ref type="figure" target="#fig_2">S3</ref>). Whereas, the core of the 1 µm filter fraction was dominated by a diverse set of Proteobacteria, largely of the order Rhizobiales and Rhodobacteriales, previously found to dominate the particle-associated fraction in a marine pelagic trench <ref type="bibr" target="#b22">(Eloe et al., 2011)</ref> (Figure <ref type="figure" target="#fig_3">4</ref> and Supplementary Figure <ref type="figure" target="#fig_2">S3</ref>).</p><p>Furthermore, the bacterial richness was significantly higher in the 1 µm fraction in December and November (Figure <ref type="figure" target="#fig_1">2</ref>). This suggests that the diversity of the large/attached bacteria recovered from the 1 µm filter were greater in the later months (November and December) compared to the smaller/free-living bacterial communities of the 0.2 µm filter. This increased diversity in the larger fraction agrees with studies investigating the differences between the particle-associated and free-living bacteria in other aquatic systems, such as the Baltic and Mediterranean Seas <ref type="bibr" target="#b16">(Crespo et al., 2013;</ref><ref type="bibr" target="#b65">Rieck et al., 2015)</ref>. While the alpha diversity trends were similar between the two filter fractions, the increasing richness was more prominent in the 1 µm filter fraction (Figure <ref type="figure" target="#fig_1">2</ref>). There can be several factors that may influence this discrepancy in temporal diversity, such as changing protozoan grazing rates and/or viral lysis impacting the microbial food web <ref type="bibr" target="#b75">(Šimek et al., 1999;</ref><ref type="bibr" target="#b27">Hahn and Höfle, 2001;</ref><ref type="bibr" target="#b86">Weinbauer et al., 2007)</ref>. Additionally, it can be suggested that the attached/large bacteria of the 1 µm fraction may have been better equipped to compete in an environment of decreased water temperature, nitrate, and chloride levels (Figure <ref type="figure" target="#fig_0">1</ref>). In fact, previous studies have reported particleassociated bacteria have larger genomes compared to streamlined free-living bacteria <ref type="bibr" target="#b77">(Smith et al., 2013)</ref>. This reservoir of genetic material may allow for a more adaptive lifestyle in the face of changing conditions, competing bacterial populations and predators.</p><p>The viral fraction was dominated by sequences homologous to the tailed, double stranded DNA bacteriophage of the order Caudovirales (Figure <ref type="figure" target="#fig_4">5A</ref>). Within the Caudovirales order, however, the family of generally temperate Siphoviruses was the most abundant at each time point (Figure <ref type="figure" target="#fig_4">5A</ref>). This is in contrast to other freshwater systems, where Myoviruses and Podoviruses (Lakes Ontario, Erie, Matoaka, and Michigan <ref type="bibr" target="#b23">(Fancello et al., 2013;</ref><ref type="bibr" target="#b25">Green et al., 2015;</ref><ref type="bibr" target="#b51">Mohiuddin and Schellhorn, 2015)</ref> were found to dominate. Conversely, Siphoviruses were reported to be abundant in sediments <ref type="bibr" target="#b9">(Breitbart et al., 2004)</ref> and terrestrial subsurface environments <ref type="bibr" target="#b21">(Edwards and Rohwer, 2005)</ref>. Siphovirus abundance within the pond water sampled here may reflect the pond's unique topology compared to larger lakes. Ponds and small lakes have a higher terrestrialaquatic interchange than larger freshwater systems due to their close contact with the adjacent terrestrial environment <ref type="bibr" target="#b59">(Palik et al., 2001;</ref><ref type="bibr" target="#b78">Søndergaard et al., 2005)</ref>. This large littoral zone may promote the influx of terrestrial/sediment Siphoviruses. Additionally, because the dominant lifecycle of cultured Siphoviruses <ref type="bibr" target="#b79">(Suttle, 2005)</ref> is lysogenic, their abundance may be indicative of environmental stress, (e.g., changes in nutrients, pH or temperature) activating the lytic-lysogenic switch and thus increasing their presence in the free phage fraction <ref type="bibr" target="#b47">(McDaniel et al., 2002)</ref>. This agrees with the phylogenetic analysis of the informative viral marker gene family A DNA polymerase, polA (Pol I protein). In this case, the Pol I proteins were temporally persistent and dominated by the Leu762 mutation, suggested to be indicative of temperate phage (Figure <ref type="figure" target="#fig_5">6</ref>) <ref type="bibr" target="#b73">(Schmidt et al., 2014)</ref>.</p><p>This abundance of temperate phage is important to note as they can alter the genetic architecture of their hosts, which can in turn influence the surrounding microbial community and environment. For instance, temperate phage can transduce bacterial DNA and potentially alter host biology, such as maintaining host photosynthesis during infection or encoding virulence and antibiotic resistance genes <ref type="bibr" target="#b84">(Wagner and Waldor, 2002;</ref><ref type="bibr" target="#b39">Lindell et al., 2004;</ref><ref type="bibr" target="#b3">Balcazar, 2014)</ref>. In this case, while present, genes involved in virulence/antimicrobial resistance were not enriched within the viral fraction during the study period (Figure <ref type="figure" target="#fig_4">5B</ref>). However, the samples did contain a high abundance of genes involved in Nucleosides &amp; Nucleotides production, largely ribonucleotide reduction genes. This is not surprising as ribonucleotide reductases (RNRs) have been observed frequently within aquatic viral metagenomic libraries and namely in Myoviruses <ref type="bibr" target="#b2">(Angly et al., 2006;</ref><ref type="bibr" target="#b5">Bench et al., 2007;</ref><ref type="bibr" target="#b90">Wommack et al., 2015)</ref>.</p><p>From these data we were able to characterize the bacterial and viral taxonomic and functional components within an agricultural pond over time. In several cases, we observed the abundance of the dominant viral families correlated with the relative abundance of bacterial taxa. However, more work is necessary to track and model these interacting species. A more thorough analysis connecting phage with their hosts, such as through the use of the Clustered regularly interspaced short palindromic repeats (CRISPR) system, is warranted to provide a more nuanced assessment of their relationship in pond water and potential impact in the microbial food web (e.g., viral shunt). Additionally, other parameters like phosphate, dissolved organic carbon, chlorophyll concentration, and protozoan grazing rates might also exert some influence on the temporal dynamics observed here and should be included in future studies of freshwater ponds. Overall, this analysis serves as a baseline of the diversity and dynamics of three distinct microbial fractions in agricultural pond water.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIGURE 1 |</head><label>1</label><figDesc>FIGURE 1 | Bacterial community composition and diversity of 1 and 0.2 µm filter fractions over time. (A) Stacked bar chart of the relative abundance of the bacterial community composition at the phylum level within pond samples from each month (October, November, and December) and each filter fraction. (B) Heatmap based on the relative abundance of the bacterial community composition at the genus level. Displayed are genera or lowest available taxonomic assignments representing more than 1% in at least one of the pond samples. Pooled samples are clustered using Manhattan distance. Color key depicts the spectrum of relative abundance with a histogram of the counts of individual values.</figDesc><graphic coords="5,105.97,69.02,381.29,356.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIGURE 2 |</head><label>2</label><figDesc>FIGURE 2 | Alpha diversity for each filter fraction in late season pond water. Bar charts of alpha diversity measured using (A) Shannon index and (B) Observed OTUs. Color denotes filter pore size, either 1 µm (orange) or 0.2 µm (blue). Pairwise significance between filter size denoted by brackets within graph for each date. Significance within each filter among time points denoted by lines at bottom of the figure. Error bars denote standard deviation.</figDesc><graphic coords="6,99.10,69.02,395.03,194.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FIGURE 3 |</head><label>3</label><figDesc>FIGURE 3 | Beta diversity for each filter fraction in late season pond water.PCoA plots of beta diversity measured using (A) Bray-Curtis, (B) Weighted UniFrac, and (C) Unweighted UniFrac. Shape denotes filter pore size, either 1 µm (circle) or 0.2 µm (triangle), and color denotes month when water was sampled, October (green), November (blue), and December (red). Ellipses are drawn at 95% confidence intervals for each month.</figDesc><graphic coords="6,314.35,334.75,223.21,238.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>FIGURE 4 |</head><label>4</label><figDesc>FIGURE 4 | Core OTUs for 1 and 0.2 µm filter fractions. (A) Venn diagram depicting the unique and shared OTUs that occurred in 100% of samples in the 1 µm (orange) and 0.2 µm (blue) filter fractions. (B) Stacked bar charts of the percentage of OTUs assigned each phylum within the shared and unique cores.</figDesc><graphic coords="8,109.97,69.02,373.28,258.84" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>FIGURE 5 |</head><label>5</label><figDesc>FIGURE 5 | Viral taxonomy and function for each sampling date. Bar plots comparing the normalized abundance of viruses with homology to known (A) viral taxa and (B) functional SEED categories. Bar color denotes month when water was sampled, October (green), November (blue), and December (red). Phage elements refer to the SEED functional category "Phages, Prophages, Transposable elements" and Phage, Plasmids, etc. denote the SEED functional category "Phages, Prophages, Transposable elements, Plasmids." Abundance determined by calculating coverage/Gbp reads mapped.</figDesc><graphic coords="9,107.70,69.02,377.82,480.23" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>FIGURE 6 |</head><label>6</label><figDesc>FIGURE 6 | Phylogenic tree of viral Pol I peptides for each sampling date. Unrooted maximum likelihood tree with 100 bootstrap replicates of representative Pol I peptide sequences. Branches and inner ring colored by 762 position residues, Phe762 (orange), Tyr762 (pink), and Leu762 (purple). Radial bar chart represents the log 2 -normalized abundance of each peptide (coverage/Gbp reads mapped) and is colored by sampling date, October (green), November (blue), and December (red).</figDesc><graphic coords="10,54.21,69.02,484.80,442.09" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 |</head><label>1</label><figDesc>Agricultural pond water characteristics during sampling period.</figDesc><table><row><cell>Water property</cell><cell>October</cell><cell>November</cell><cell>December</cell></row><row><cell>Ambient temp. (C)</cell><cell>17.2</cell><cell>12.2</cell><cell>3.9</cell></row><row><cell>Water temp. (C)</cell><cell>19.8</cell><cell>10.9</cell><cell>7.4</cell></row><row><cell>PH</cell><cell>7.7</cell><cell>7.56</cell><cell>8.08</cell></row><row><cell>Dissolved oxygen (%)</cell><cell>116.4</cell><cell>96.4</cell><cell>117.7</cell></row><row><cell>Nitrate (mg/L)</cell><cell>0.63</cell><cell>0.26</cell><cell>0.19</cell></row><row><cell>Chloride (mg/L)</cell><cell>13.8</cell><cell>13.3</cell><cell>7.9</cell></row><row><cell>Turbidity (FNU)</cell><cell>30.2</cell><cell>9.6</cell><cell>3.4</cell></row><row><cell>Precipitation  † (in.)</cell><cell>0</cell><cell>0</cell><cell>0.2</cell></row><row><cell>Conductivity (SPC uS/cm)</cell><cell>158.9</cell><cell>160.8</cell><cell>167.1</cell></row><row><cell>Oxidation/reduction (mV)</cell><cell>189.7</cell><cell>159.8</cell><cell>243.9</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Frontiers in Microbiology | www.frontiersin.org</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>April 2018 | Volume 9 | Article 792</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>† 24 h prior to sampling.Frontiers in Microbiology | www.frontiersin.org</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>FUNDING This work was supported by the <rs type="funder">United States Department of Agriculture-National Institute of Food and Agriculture</rs>, Grant number <rs type="grantNumber">2016-68007-25064</rs>, that established CONSERVE: A <rs type="institution">Center of Excellence at the Nexus of Sustainable Water Reuse, Food and Health</rs>, and the <rs type="funder">Computation and Mathematics for Biological Networks (COMBINE) NSF</rs> <rs type="programName">Research Traineeship program</rs> (NSF: <rs type="grantNumber">1632976</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_6uUMxuH">
+					<idno type="grant-number">2016-68007-25064</idno>
+				</org>
+				<org type="funding" xml:id="_8pnMGfh">
+					<idno type="grant-number">1632976</idno>
+					<orgName type="program" subtype="full">Research Traineeship program</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTIONS</head><p>JC performed processing of water samples following collection, conducted the majority of the bioinformatic and biostatistical analyses following sequence processing, and wrote and edited the manuscript. DN performed metagenomic assemble and abundance calculations. SA and AB participated in the sample collection and aided in DNA extraction. AS and EM contributed to the study design, protocol development, data analysis and interpretation, and manuscript preparation. All authors read, edited, and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPLEMENTARY MATERIAL</head><p>The Supplementary Material for this article can be found online at: <ref type="url" target="https://www.frontiersin.org/articles/10.3389/fmicb.2018.00792/full#supplementary-material">https://www.frontiersin.org/articles/10.3389/fmicb.  2018.00792/full#supplementary-material</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of Interest Statement:</head><p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p><p>Copyright © 2018 Chopyk, Allard, Nasko, Bui, Mongodin and Sapkota. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diversity and seasonal dynamics of Actinobacteria populations in four lakes in northeastern Germany</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Allgaier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-P</forename><surname>Grossart</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/AEM.72.5.3489-3497.2006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="3489" to="3497" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Basic local alignment search tool</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lipman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0022-2836(05)80360-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mol. Biol</title>
+		<imprint>
+			<biblScope unit="volume">215</biblScope>
+			<biblScope unit="page" from="403" to="410" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The marine viromes of four oceanic regions</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Angly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Felts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Breitbart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Salamon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Carlson</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pbio.0040368</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Biol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">368</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Bacteriophages as vehicles for antibiotic resistance genes in the environment</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Balcazar</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.ppat.1004219</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Pathog</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1004219</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Bray-Curtis ordination: an effective strategy for analysis of multivariate ecological data</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Beals</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0065-2504(08)60168-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Ecol. Res</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="60168" to="60171" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Metagenomic characterization of Chesapeake Bay virioplankton</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Bench</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Hanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Radosovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/AEM.00938-07</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="7629" to="7641" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">15 years of pond assessment in Britain: results and lessons learned from the work of Pond Conservation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Whitfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nicolet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Weatherby</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/aqc.745</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Conserv</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="693" to="714" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Trimmomatic: a flexible trimmer for Illumina sequence data</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Bolger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lohse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Usadel</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/btu170</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2114" to="2120" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Viral effects on bacterial respiration, production and growth efficiency: consistent trends in the Southern Ocean and the Mediterranean Sea</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Bonilla-Findji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Malits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lefèvre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rochelle-Newall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lemée</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Weinbauer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.dsr2.2007.12.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Deep Sea Res. Part II</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="790" to="800" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Diversity and population structure of a near-shore marine-sediment viral community</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Breitbart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Felts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mahaffy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nulton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Salamon</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rspb.2003.2628</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. R. Soc. Lond. B</title>
+		<imprint>
+			<biblScope unit="volume">271</biblScope>
+			<biblScope unit="page" from="565" to="574" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">QIIME allows analysis of high-throughput community sequencing data</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Caporaso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kuczynski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stombaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bittinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Bushman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Costello</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nmeth.f.303</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Methods</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="335" to="336" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The ecology of European ponds: defining the characteristics of a neglected freshwater habitat</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Céréghino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Declerck</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10750-007-9225-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">597</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Mentholation affects the cigarette microbiota by selecting for bacteria resistant to harsh environmental conditions and selecting against potential bacterial pathogens</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chopyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kulkarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Claye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Babik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Reid</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40168-017-0235-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Microbiome</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">22</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Temporal variations in cigarette tobacco bacterial community composition and tobacco-specific nitrosamine content are influenced by brand and storage conditions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chopyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kulkarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Hittle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Paulson</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fmicb.2017.00358</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">358</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Top-down controls on bacterial community structure: microbial network analysis of bacteria, T4-like viruses and protists</title>
+		<author>
+			<persName><forename type="first">C.-E</forename><forename type="middle">T</forename><surname>Chow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sachdeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Caron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Fuhrman</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ismej.2013.199</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ISME J</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="816" to="829" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Non-parametric multivariate analyses of changes in community structure</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Clarke</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1442-9993.1993.tb00438.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Austral Ecol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="117" to="143" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Taxonomic composition of the particle-attached and free-living bacterial assemblages in the Northwest Mediterranean Sea analyzed by pyrosequencing of the 16S rRNA</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Crespo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pommier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fernández-Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pedrós-Alió</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/mbo3.92</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="541" to="552" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Biodiversity and distribution of polar freshwater DNA viruses</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>De Cárcer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>López-Bueno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alcamí</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/sciadv.1400127</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">1400127</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName><forename type="first">L</forename><surname>De Meester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Declerck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stoks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Louette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Van De Meutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>De Bie</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/aqc.748</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Ponds and pools as model systems in conservation biology, ecology and evolutionary biology</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="715" to="725" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Metagenomic analysis of RNA viruses in a fresh water lake</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Djikeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kuzmickas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Spiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0007264</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">7264</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Crystal structure of a bacteriophage T7 DNA replication complex at 2.2 Å resolution</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Doublie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tabor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ellenberger</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/34593</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">391</biblScope>
+			<biblScope unit="page" from="251" to="258" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Opinion: viral metagenomics</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rohwer</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nrmicro1163</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">504</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Compositional differences in particle-associated and free-living microbial assemblages from an extreme deep-ocean environment</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Eloe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Shulse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Fadrosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Bartlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Fadrosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gajer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sengamalay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Brotman</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/2049-2618-2-6</idno>
+		<idno>doi: 10.1186/ 2049-2618-2-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Microbiol. Rep</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2011">2011. 2014</date>
+		</imprint>
+	</monogr>
+	<note>An improved dual-indexing approach for multiplexed 16S rRNA gene sequencing on the Illumina MiSeq platform Microbiome</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Viruses in the desert: a metagenomic survey of viral communities in four perennial ponds of the Mauritanian Sahara</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fancello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Trape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Popgeorgiev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Raoult</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ismej.2012.101</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ISME J</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="359" to="369" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Comparative 16S rRNA analysis of lake bacterioplankton reveals globally distributed phylogenetic clusters including an abundant group of actinobacteria</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">O</forename><surname>Glöckner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zaichikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Belkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Denissova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pernthaler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pernthaler</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/AEM.66.11.5053-5065.2000</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="5053" to="5065" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Metagenomic assessment of viral diversity in Lake Matoaka, a temperate, eutrophic freshwater lake in southeastern Virginia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Green</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Saxton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Williamson</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/ame01752</idno>
+	</analytic>
+	<monogr>
+		<title level="j">USA. Aquat. Microb. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="117" to="128" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guindon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Gascuel</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10635150390235520</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Syst. Biol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="696" to="704" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Grazing of protozoa and its effect on populations of aquatic bacteria</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Höfle</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1574-6941.2001.tb00794.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">FEMS Microbiol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="113" to="121" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Limnohabitans australis sp. nov., isolated from a freshwater pond, and emended description of the genus Limnohabitans</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kasalický</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jezbera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Šimek</surname></persName>
+		</author>
+		<idno type="DOI">10.1099/ijs.0.022384-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Syst. Evol. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="2946" to="2950" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Low intraspecific diversity in a Polynucleobacter subcluster population numerically dominating bacterioplankton of a freshwater pond</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pöckl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">L</forename><surname>Wu</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/AEM.71.8.4539-4547.2005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="4539" to="4547" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Fluorescently labeled virus probes show that natural virus populations can control the structure of marine microbial communities</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Hennes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Suttle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="3623" to="3627" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Orchestrating high-throughput genomic analysis with Bioconductor</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gentleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Anders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carlson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Carvalho</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nmeth.3252</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Methods</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="115" to="121" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A simple and efficient method for concentration of ocean viruses by chemical flocculation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Mendez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Deng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Poulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K M</forename><surname>Kauffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kern</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1758-2229.2010.00208.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Microbiol. Rep</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="195" to="202" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Katoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Misawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">I</forename><surname>Kuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyata</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/nar/gkf436</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="3059" to="3066" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kearse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Moir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stones-Havas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sturrock</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/bts199</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1647" to="1649" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Origins and challenges of viral dark matter</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Krishnamurthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.virusres.2017.02.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Virus Res</title>
+		<imprint>
+			<biblScope unit="volume">239</biblScope>
+			<biblScope unit="page" from="136" to="142" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Diversity and distribution of Actinobacteria associated with reef coral Porites lutea</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Long</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fmicb.2015.01094</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1094</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Fast gapped-read alignment with Bowtie 2</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Langmead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Salzberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nmeth.1923</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Methods</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="357" to="359" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Handsaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wysoker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fennell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ruan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Homer</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/btp352</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The sequence alignment/map format and SAMtools</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2078" to="2079" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Transfer of photosynthesis genes to and from Prochlorococcus viruses</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">I</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Tolonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rohwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Chisholm</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.0401526101</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="11013" to="11018" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Distribution of typical freshwater bacterial groups is associated with pH, temperature, and lake water retention time</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Lindström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Kamst-Van Agterveld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zwart</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/AEM.71.12.8201-8206.2005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="8201" to="8206" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">High diversity of the viral community from an Antarctic lake</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>López-Bueno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tamames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Velázquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Moya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Quesada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alcamí</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1179287</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">326</biblScope>
+			<biblScope unit="page" from="858" to="861" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">UniFrac: an effective distance metric for microbial community comparison</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lozupone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Lladser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Knights</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stombaugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Knight</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ismej.2010.133</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ISME J</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="169" to="172" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">FLASH: fast length adjustment of short reads to improve genome assemblies</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Magoč</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Salzberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/btr507</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2957" to="2963" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Viral abundance in aquatic systems: a comparison between marine and fresh waters</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Maranger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Bird</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/meps121217</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mar. Ecol. Prog. Ser</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="217" to="226" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">CDD: a conserved domain database for the functional annotation of proteins</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marchler-Bauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chitsaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Derbyshire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Deweese-Scott</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/nar/gkq1189</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="225" to="D229" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">PANDAseq: paired-end assembler for illumina sequences</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Masella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Bartram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Truszkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Neufeld</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2105-13-31</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">31</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Plankton blooms: lysogeny in marine Synechococcus</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mcdaniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Houchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paul</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/415496a</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">415</biblScope>
+			<biblScope unit="page" from="496" to="496" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">phyloseq: an R package for reproducible interactive analysis and graphics of microbiome census data</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Mcmurdie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Holmes</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0061217</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">61217</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">biomformat: An Interface Package for the BIOM File Format</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Mcmurdie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paulson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note>Package version 1.0.0</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Expanding the marine virosphere using metagenomics</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Mizuno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rodriguez-Valera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Kimes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ghai</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pgen.1003987</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Genet</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1003987</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Spatial and temporal dynamics of virus occurrence in two freshwater lakes captured through metagenomic analysis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mohiuddin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schellhorn</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fmicb.2015.00960</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">960</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">A guide to the natural history of freshwater lake bacteria</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Eiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Mcmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bertilsson</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/MMBR.00028-10</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Microbiol. Mol. Biol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="14" to="49" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">MetaGene: prokaryotic gene finding from environmental genome shotgun sequences</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Noguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Takagi</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/nar/gkl723</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="5623" to="5630" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">metaSPAdes: a new versatile metagenomic assembler</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nurk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Meleshko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Korobeynikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Pevzner</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/gr.213959.116</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Res</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="824" to="834" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oksanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kindt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Legendre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>O'hara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H H</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Oksanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The vegan package</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="631" to="637" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Interactive metagenomic visualization in a Web browser</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Ondov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Bergman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Phillippy</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2105-12-385</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">385</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">The integrated use of surface, ground and recycled waste water in adapting to drought in the traditional irrigation system of Valencia</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ortega-Reig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Palau-Salvador</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J C</forename><surname>Sempere</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benitez-Buelga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Badiella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Trawick</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.agwat.2013.11.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Agric. Water Manage</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="55" to="64" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">The subsystems approach to genome annotation and its use in the project to annotate 1000 genomes</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Overbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Begley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Choudhuri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-Y</forename><surname>Chuang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cohoon</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/nar/gki866</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="5691" to="5702" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Seasonal pond characteristics across a chronosequence of adjacent forest ages in northern Minnesota</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Palik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Batzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Buech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nichols</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cease</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Egeland</surname></persName>
+		</author>
+		<idno type="DOI">10.1672/0277-5212(2001)021[0532:SPCAAC]2.0.CO;2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">USA. Wetlands</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">21</biblScope>
+			<date type="published" when="2001">2001. 2001</date>
+		</imprint>
+	</monogr>
+	<note>0532:SPCAAC]2.0.CO</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Reclaimed water as an alternative water source for crop irrigation</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Parsons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sheikh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>York</surname></persName>
+		</author>
+		<idno type="DOI">10.1021/acs.est.5b06256</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hortscience</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1626" to="1629" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Paulson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Bravo</surname></persName>
+		</author>
+		<ptr target="http://cbcb.umd.edu/software/metagenomeSeq" />
+		<title level="m">a). metagenomeSeq: Statistical Analysis for Sparse High-throughput Sequencing. Bioconductor Package: 1.10.0</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Differential abundance analysis for microbial marker-gene surveys</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Paulson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Stine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Bravo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pop</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nmeth.2658</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Methods</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1200" to="1202" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Heatplus: Heatmaps with Row and/or Column Covariates and Colored Clusters</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ploner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>R package version 2</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The SILVA ribosomal RNA gene database project: improved data processing and web-based tools</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Quast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pruesse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Yilmaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gerken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schweer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Yarza</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/nar/gks1219</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="590" to="596" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Particleassociated differ from free-living bacteria in surface waters of the Baltic Sea</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rieck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Herlemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jürgens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-P</forename><surname>Grossart</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fmicb.2015.01297</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1297</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Viruses manipulate the marine environment</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rohwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Thurber</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature08060</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">459</biblScope>
+			<biblScope unit="page" from="207" to="212" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Allochthonous carbon is a major regulator to bacterial growth and community composition in subarctic freshwaters</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Roiha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Peura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cusson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rautio</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/srep34456</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Rep</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">34456</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Assessing the diversity and specificity of two freshwater viral communities through metagenomics</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Roux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Enault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Robin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ravet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Personnic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Theil</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0033641</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">33641</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Growth at low temperature causes nitrogen limitation in the cyanobacterium Synechococcus sp</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sakamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Bryant</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s002030050535</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">7002</biblScope>
+			<biblScope unit="page" from="10" to="19" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>PCC</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Nitrate transport and not photoinhibition limits growth of the freshwater cyanobacterium Synechococcus species PCC 6301 at low temperature</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sakamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Bryant</surname></persName>
+		</author>
+		<idno type="DOI">10.1104/pp.119.2.785</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Physiol</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="785" to="794" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Site-specific environmental factors control bacterial and viral diversity in stormwater retention ponds</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Saxton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Naqvi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kaste</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/ame01786</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Microb. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="23" to="36" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Irrigation water demand: a meta-analysis of price elasticities</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Scheierling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Loomis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Young</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2005WR004009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Water Resour. Res</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page">1411</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Shotgun metagenomics indicates novel family A DNA polymerases predominate within marine virioplankton</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">F</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Sakowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Polson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wommack</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ismej.2013.124</idno>
+	</analytic>
+	<monogr>
+		<title level="j">ISME J</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="103" to="114" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Broad habitat range of the phylogenetically narrow R-BT065 cluster, representing a core group of the betaproteobacterial genus Limnohabitans</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Šimek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kasalický</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jezbera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jezberová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hejzlar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Hahn</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/AEM.02203-09</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Environ. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="631" to="639" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Shifts in bacterial community composition associated with different microzooplankton size fractions in a eutrophic reservoir</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Šimek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kojecká</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nedoma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hartman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vrba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Dolan</surname></persName>
+		</author>
+		<idno type="DOI">10.4319/lo.1999.44.7.1634</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol. Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="1634" to="1644" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Metagenomic characterisation of the viral community of Lough Neagh, the largest freshwater lake in Ireland</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Skvortsov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>De Leeuwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Mcgrath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mcelarney</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0150361</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">150361</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Contrasting genomic properties of free-living and particle-attached microbial assemblages within a coastal ecosystem</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Z</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Herfort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Simon</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fmicb.2013.00120</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">120</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Pond or lake: does it make any difference?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Søndergaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jeppesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Jensen</surname></persName>
+		</author>
+		<idno type="DOI">10.1127/0003-9136/2005/0162-0143</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="143" to="165" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Viruses in the sea</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Suttle</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature04160</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">437</biblScope>
+			<biblScope unit="page" from="356" to="361" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Marine viruses-major players in the global ecosystem</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Suttle</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nrmicro1750</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="801" to="812" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">UniRef: comprehensive and non-redundant UniProt reference clusters</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Suzek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mcgarvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mazumder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Wu</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/btm098</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1282" to="1288" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Characterization of bacterial communities in four freshwater lakes differing in nutrient load and food web structure</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Van Der Gucht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vandekerckhove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Vloemans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cousin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Muylaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sabbe</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.femsec.2004.12.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">FEMS Microbiol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="205" to="220" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Fossil: palaeoecological and palaeogeographical analysis tools</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Vavrek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Palaeontol. Electron</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Bacteriophage control of bacterial virulence</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Waldor</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/IAI.70.8.3985-3993.2002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Infect. Immun</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="3985" to="3993" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Assessment of a metaviromic dataset generated from nearshore Lake Michigan</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Watkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kuehnle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Ruggeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Malki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bruder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Elayyan</surname></persName>
+		</author>
+		<idno type="DOI">10.1071/MF15172</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mar. Freshw. Res</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="1700" to="1708" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Synergistic and antagonistic effects of viral lysis and protistan grazing on bacterial biomass, production and diversity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Weinbauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hornák</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jezbera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nedoma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Dolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Šimek</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1462-2920.2006.01200.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="777" to="788" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<title level="m" type="main">ggplot2: Elegant Graphics for Data Analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wickham</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer Science &amp; Business Media</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Freshwater and marine virioplankton: a brief overview of commonalities and differences</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Wilhelm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Matteson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2427.2008.01980.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Freshw. Biol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1076" to="1089" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Viruses and nutrient cycles in the sea viruses play critical roles in the structure and function of aquatic food webs</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Wilhelm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Suttle</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1313569</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioscience</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="781" to="788" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Counts and sequences, observations that continue to change our understanding of viruses in nature</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Wommack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Nasko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chopyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Sakowski</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12275-015-5068-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="181" to="192" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">Temporal patterns in bacterial communities in three temperate lakes of different trophic status</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yannarell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lauster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kratz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Triplett</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00248-003-1008-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Microb. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="391" to="405" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Typical freshwater bacteria: an analysis of available 16S rRNA gene sequences from plankton of lakes and rivers</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zwart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Crump</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Kamst-Van Agterveld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hagen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-K</forename><surname>Han</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/ame028141</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Microb. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="141" to="155" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Specificity of zooplankton distribution in meteorite crater ponds (Morasko, Poland)</title>
+				<funder ref="#_4P3XTK8">
+					<orgName type="full">Polish Committee for Scientific Research (KBN)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>EDP Sciences</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2013">2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">N</forename><surname>Kuczyńska-Kippen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Basińska</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Świdnicki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Water Protection</orgName>
+								<orgName type="department" key="dep2">Faculty of Biology</orgName>
+								<orgName type="institution">Adam Mickiewicz University of Pozna ń</orgName>
+								<address>
+									<addrLine>Umultowska 89</addrLine>
+									<postCode>61-614</postCode>
+									<settlement>Pozna ń</settlement>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Specificity of zooplankton distribution in meteorite crater ponds (Morasko, Poland)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Knowledge and Management of Aquatic Ecosystems</title>
+						<title level="j" type="abbrev">Knowl. Managt. Aquatic Ecosyst.</title>
+						<idno type="eISSN">1961-9502</idno>
+						<imprint>
+							<publisher>EDP Sciences</publisher>
+							<biblScope unit="issue">409</biblScope>
+							<biblScope unit="page">08</biblScope>
+							<date type="published" when="2013" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">0F3C20380BA0F6CC773D15CEDDF02EBA</idno>
+					<idno type="DOI">10.1051/kmae/2013053</idno>
+					<note type="submission">Received February 19, 2013 Revised May 3, 2013 Accepted May 7, 2013</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:15+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>astatic ponds</term>
+					<term>crustaceans</term>
+					<term>pond</term>
+					<term>rotifers</term>
+					<term>season</term>
+					<term>trophic conditions</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>saisonnalité, conditions trophiques</head><p>et 5107 ind L -1 en moyenne), tandis que les crustacés ont prévalu durant l'été (12 et 201, respectivement). La structure dominante dépendait aussi de la saison, avec des espèces pélagiques présentes au printemps et en automne, et principalement des espèces littorales en été. En outre, le caractère temporaire des cratères a causé une grande différenciation du zooplancton entre les étangs et a favorisé les organismes adaptés à la vie dans les milieux temporaires, par exemple, bdelloïdes, Daphnia pulex ou Macrocyclops viridis. La co-occurrence d'une communauté variable de petits crustacés avec de grandes daphnies indique l'existence d'une niche écologique supplémentaire -une épaisse couche de sédiments. Malgré l'apparition de mauvaises conditions de vie (manque d'oxygène et d'assèchements périodiques) et le caractère eutrophe des eaux, ces étangs ont été une source de nombreuses espèces rares (par exemple Keratella paludosa), même dominantes dans ces milieux. Les mesures de protection (une réserve naturelle) ont permis à la région de la chute de la météorite de rester tout à fait naturelle, en dépit de son emplacement à proximité d'une zone urbaine.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study was conducted in order to define the most important factors responsible for the zooplankton community structure inhabiting four meteorite crater ponds, located near the city of Pozna ń (Poland). The functioning of the meteorite craters resembled that of other small water bodies, where seasonality, physical-chemical features (mainly chlorophyll a concentration, pH and conductivity) or biological parameters (lack of fish) structured zooplankton assemblages. Rotifer species richness and abundance were highest in the autumn (12 species and 5107 ind L -1 on average), while crustaceans prevailed in the summer <ref type="bibr">(12 and 201, respectively)</ref>. The dominating structure also depended on the season, with pelagic species occurring in the spring and autumn and mainly littoral species in the summer. Moreover, the temporary nature of the craters caused great differentiation in zooplankton among ponds and favoured organisms adapted to living in astatic reservoirs, e.g. bdelloids, Daphnia pulex or Macrocyclops viridis. The co-occurrence of a variable community of small crustaceans with large daphnids indicated the existence of an additional ecological niche -a thick layer of sediments. Despite the occurrence of adverse living conditions (oxygen deficiencies and periodic drying) and the eutrophic character of the waters, these ponds were a source of many rare species (e.g. Keratella paludosa), even in the status of dominants. Protective measures (a nature reserve) allowed the area of meteorite fall to remain quite natural, despite its location close to an urban area.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RÉSUMÉ</head><p>Spécificité de la distribution du zooplancton dans les plans d'eau de cratères de météorites (Morasko, Pologne)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mots-clés :</head><p>étangs temporaires, crustacés, étang, rotifère, L'étude a été menée afin de définir les facteurs les plus importants responsables de la structure de la communauté du zooplancton vivant dans quatre étangs de cratères de météorites, situés près de la ville de Poznan (Pologne). Le fonctionnement des cratères de météorites ressemble à celui d'autres petits plans d'eau, où la saisonnalité, les caractéristiques physico-chimiques (principalement concentration de chlorophylle a, pH et conductivité) ou les paramètres biologiques (manque de poisson) structurent les assemblages de zooplancton. La richesse et l'abondance des espèces de rotifères étaient les plus élevées à l'automne (12 espèces</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>The functioning of small water bodies may differ in a variety of aspects from that of lakes <ref type="bibr" target="#b4">(Biggs et al., 2005;</ref><ref type="bibr" target="#b17">Likens, 2009)</ref>. Even though small aquatic ecosystems create favourable conditions for a number of organisms of various ecological requirements, they have never received much attention from researchers compared with larger reservoirs <ref type="bibr" target="#b21">(Oertli et al., 2002)</ref>. This especially applies to a specific and very unique kind of pond -meteorite craters, which were the object of this research. The origin of ponds is very diverse and they can be created by a wide range of natural processes such as glaciation, volcanic activity, land subsidence, wind or river action, and tree falls, as well as by human activities such as mineral extraction or water storage <ref type="bibr" target="#b22">(Oertli et al., 2005)</ref>. Meteorite crater water bodies, however, belong to a very rare kind of aquatic ecosystem. This is why our knowledge of their functioning, including seasonal changes in the structure and dynamics of their inhabiting organisms, is still rudimentary. Therefore, a study on the relationships between zooplankton occurrence and the physical-chemical features of such unique ecosystems is extremely necessary, especially as human impact and adverse climatic conditions may contribute to their rapid disappearance. One of the main problems connected with the functioning of small aquatic ecosystems may lie in an increase in trophic conditions which are equated with the amount of nutrients dissolved in water and deposited in sediments. The quality of waters will reflect the character of the catchment area and also the level of anthropogenic transformation in the surrounding area <ref type="bibr" target="#b9">(Dodson et al., 2007)</ref>, particularly when a pond is situated in the vicinity of urban areas. This is why the main focus of this study, conducted on the meteorite crater ponds which are located in the neighbourhood of the city of Pozna ń, was directed at estimating the impact of abiotic features of the aquatic environment on the structure of both rotifer and crustacean communities in seasonal terms, including spring, summer and autumn. Furthermore, small water bodies create vital hotspots and refugia for aquatic biodiversity in a variety of landscape types. This is particularly important on the local scale as they are aquatic habitats of a great abundance of distribution, being usually much more common than larger lakes <ref type="bibr" target="#b29">(Søndergaard et al., 2005)</ref>. Their role in agricultural, forested and urban regions is vital. As the morphometric features of ponds will make them prone to changes occurring in the surrounding environment, they are among the most threatened habitats <ref type="bibr" target="#b22">(Oertli et al., 2005)</ref>. Moreover, the vast majority of small water bodies undergo the process of terrestrialisation, which may result in negative implications for biodiversity. Not only will the concentration of nutrients structure the assemblages of plankton in small water bodies, but physical factors will also play a role <ref type="bibr" target="#b14">(Karabin et al., 1997;</ref><ref type="bibr" target="#b35">Wilk-Wo źniak et al., 2011;</ref><ref type="bibr" target="#b6">Czerniawski and Domagała, 2012)</ref>. However, in ecosystems with varying environmental conditions, organisms have to adapt in order to survive and develop. Therefore, particular</p><p>Table I The main morphometric features of examined meteorite craters. parameter pond I pond II pond III pond IV Maximum depth [m] 1 1 0.3 0.7 Diameter [m] 40 28 30 13 Surface area [m 2 ] 1100 517 197 135</p><p>species of zooplankton have evolved different adaptations which significantly influence their distribution <ref type="bibr" target="#b13">(Hofmann, 1977;</ref><ref type="bibr" target="#b1">B ẽrzinš and Pejler, 1987</ref><ref type="bibr">B ẽrzinš and Pejler, , 1989a</ref><ref type="bibr">B ẽrzinš and Pejler, , 1989b;;</ref><ref type="bibr" target="#b11">Galkovskaja, 1987)</ref>. Furthermore, biotic relationships between particular groups of organisms, including predation pressure and/or competition, is often of great importance when discussing distribution of zooplankton inhabiting small aquatic systems <ref type="bibr" target="#b34">(Wickham and Gilbert, 1990;</ref><ref type="bibr" target="#b32">W ęgle ńska et al., 1997)</ref>. A lack of fish in an aquatic environment may contribute to changes in the food webs, and in particular, the simplification of animal plankton structure because large representatives of crustaceans may over-dominate, thus winning the competition with smaller zooplankters.</p><p>In the Morasko meteorite crater ponds, where as a result of periodical drying up and oxygen deficiencies no fish occur, bottom sediments may provide zooplankton with an additional ecological niche. Therefore, we hypothesised that despite the occurrence of large daphnids, which is a typical feature of fishless ponds, a variable crustacean community will be present due to their utilisation of these sediments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>STUDY AREA</head><p>The Morasko meteorite nature reserve is situated in Morasko (N: 52 • 28 57.11, E: 16 • 53 27.82), in the northern part of the city of Pozna ń, in western Poland. The area within the reserve is made up of a unique combination of both the meteorites and the morphological effects of their fall <ref type="bibr" target="#b30">(Stankowski, 2001)</ref>. These craters are among the largest groups of craters on Earth, both in relation to their size and number. They form a group of seven meteorite craters, located on the slope of "Góra Moraska", which creates a culmination of an end-moraine ridge. They are round in shape and shallow, with the maximum depth of the largest water body not exceeding 1 m (Table <ref type="table">I</ref>). All ponds were transparent to the bottom during the whole investigation period. The Morasko meteorite nature reserve was created in 1976 and it covers an area of 55 hectares. All the ponds are situated within the forest area (Figure <ref type="figure" target="#fig_0">1</ref>). These meteorite craters are supplied only by rainwater. Therefore, due to the temporal character of most of them, only some ponds still exist, while others have already dried out completely. Two ponds (Nos. I and II), that underwent the investigation, carried water throughout the whole period of examination; however, in the autumn season a considerable loss of water depth was observed. At the same time, two other craters (Nos. III and IV) had no water in the autumn. As a result of oxygen deficiencies and low pH no fish occur in these water bodies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIAL AND METHODS</head><p>The investigation of the zooplankton community structure was carried out in 2009 (one occasion for each season). Despite the fact that there are seven craters within the investigated area, not all of them contained water. Therefore, four ponds were examined in the spring and summer, while in the autumn, due to the drying process, only two ponds were included in the study. Zooplankton material was taken in triplicate at each site using a calibrated vessel of a volume of 5 L. The samples, collected from the open water area in the central part of each pond, were concentrated using a 45-µm plankton net and fixed immediately with 4% formalin.</p><p>Temperature, pH and electric conductivity were measured directly at the sampling sites using Hanna portable combo waterproof meters. Water transparency was evaluated using a standard 20-cm diameter Secchi disc. Water samples were also collected in order to analyse chemical content (total phosphorus -TP, and dissolved inorganic nitrogen -DIN) using the methods described by <ref type="bibr" target="#b12">Hermanowicz et al. (1999)</ref>. Chlorophyll a was determined fluorometrically and corrected for degradation products according to <ref type="bibr" target="#b18">Lorenzen (1966)</ref> and its concentrations were given as active photosynthetic pigments.</p><p>Water trophy was assessed according to the <ref type="bibr" target="#b5">Carlson (1977)</ref> classification. The level of the trophic conditions, TSI Tot , was related to the ranges proposed by <ref type="bibr" target="#b16">Kraska et al. (1999)</ref>.</p><p>To define the species diversity of zooplankton inhabiting different meteorite crater ponds, the Shannon-Weaver index was applied <ref type="bibr" target="#b19">(Margalef, 1957)</ref>. The Kruskal-Wallis test was used in order to determine the effect of season or pond on zooplankton densities, the Shannon-Weaver index of zooplankton diversity and environmental characteristics (N = 30). The correlation between physical-chemical parameters and zooplankton diversity was calculated using the Spearman rank correlation coefficient.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>&gt; CHARACTERISTICS OF ENVIRONMENTAL VARIABLES</head><p>The four examined meteorite crater ponds were characterised by a light acidic to neutral reactivity of the water (mean 6.77 ± 0.31, irrespective of pond and season). Conductivity was at a similar level throughout the whole study period and reached values of over 400 ± 246 µS•cm -1 on average. There were great differences in the water temperature (KW-H 2,30 = 23.73, p &lt; 0.01) with mean values between 7 ± 0.0 and 19 ± 0.7 • C, depending on the season (Table <ref type="table">II</ref>).</p><p>The values of DIN reached the highest concentration in the summer; however, the seasonal variation was not great. Mean values of total phosphorus were high and revealed an increasing pattern of seasonal distribution, from 0.67 ± 0.5 in the spring to 1.6 ± 0.13 mg•L -1 in the autumn (KW-H 2,30 = 15.38, p &lt; 0.05). A similar pattern of seasonal distribution was obtained for chlorophyll a concentration (KW-H 2,30 = 12.92, p &lt; 0.05), which reached its highest level of 48 ± 14 mg•m -3 on average in the autumn (Table <ref type="table">II</ref>).</p><p>Table II Descriptive data on zooplankton community structure and physical-chemical parameters in particular seasons and in certain crater. pond No. I I I II II II III III IV IV Parameter spring summer autumn spring summer autumn spring summer spring summer Rotifera density 188 555 10150 30 34 64 560 220 48 324 (ind L -1 ) Rotifera number 4 13 13 5 11 10 7 4 8 13 of species Cladocera density 3 316 60 10 120 99 25 299 3 39 (ind L -1 ) Cladocera number 3 11 8 7 9 5 7 11 3 9 of species Copepoda density 18 23 2 12 1 1 1 3 25 3 (ind L -1 ) Copepoda number 2 3 1 4 1 1 1 1 4 2 of species Rotifera 0.17 1.51 0.46 0.74 1.94 0.97 0.57 0.6 0.96 1.32 Shannon Crustacea 0.44 1.59 1.07 1.87 1.2 0.28 1.56 1.07 0.78 1.69 Shannon DIN (mg•L -1 ) 9.197 7.334 7.695 6.824 8.481 8.719 6.534 5.19 19.287 24.984 TP (mg•L -1 ) 1.23 1.41 1.51 0.33 1.64 1.7 0.94 0.45 0.16 2.1 Chlorophyll a 9.09 19.25 58.14 7.22 1.6 38.09 3.47 12.83 15.5 44.37 (mg•m -3 ) Temperature 7 19 7 9 19 7 9 20 7 20 ( • C) pH 6.6 6.78 6.8 6.8 7.45 6.6 6.5 7.01 6.3 6.81 Conductivity 173 173 173 761 761 761 338 338 445 445 (µS•cm -1 ) TSI total 46.3 50.9 56.9 35.1 39.8 55.8 39.6 64.9 41.6 57.6</p><p>Trophic conditions estimated according to the Carlson classification <ref type="bibr" target="#b5">(Carlson, 1977)</ref> revealed a eutrophic character of the water on average throughout the whole examination; however, a tendency for values to increase from spring to autumn was also observed (Table <ref type="table">II</ref>).</p><p>Taking into account the spatial aspect of environmental parameter distribution between particular crater ponds, significant variation was observed for conductivity (KW-H</p><p>3,30 = 29, p &lt; 0.01), with the highest values recorded in pond No. II, DIN concentration (KW-H 3,30 = 22.56, p &lt; 0.01), with the highest values found in pond No. III and finally, chlorophyll a content (KW-H 3,30 = 10.37, p &lt; 0.05), with the highest values observed in crater No. III (Table II).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>&gt; ZOOPLANKTON COMMUNITY STRUCTURE</head><p>There were 49 zooplankton species identified in total (16 species of Cladocera, 6 of Copepoda and 27 of Rotifera). Even though there were more rotifer species obtained in total, crustaceans revealed a slightly more variable taxonomic composition on average (Table <ref type="table">II</ref>). Moreover, six rare or not commonly occurring species for Polish fauna <ref type="bibr" target="#b10">(Flössner, 1972;</ref><ref type="bibr" target="#b25">Radwan et al., 2004</ref>)</p><p>Table III Dominating species in the examined water bodies in particular seasons. pond I II III IV I II III IV I II season spring summer autumn Rotifera Anuraeopsis fissa (Gosse) x Euchlanis dilatata Ehrenberg x Keratella paludosa (Lucks) x x x Lecane elsa Hauer x x Lepadella ovalis (O.F. Müller) x Lepadella patella (O.F. Müller) x x x Platyias quadricornis (Ehrenberg) x Rotaria sp. x x x x x x x x x x Crustacea Alonella excisa (Fischer) x Bosmina longirostris (O.F. Müller) x Chydorus sphaericus (O.F. Müller) x x Daphnia longispina O.F. Müller x Daphnia pulex (De Geer) x x x x x x Pleuroxus trigonellus (O.F. Müller) x Scapholeberis mucronata (O.F. Müller) x Megacyclops viridis (Jurine) x x x were identified in the studied ponds: Lecane elsa Hauer, Keratella paludosa (Lucks), Notommata glyphura Wulfert, Daphnia curvirostris Eylmann, Pleuroxus trigonellus (O.F. Müller) and Tretocephala ambigua Lilljeborg Rotifer species composition revealed an increasing pattern of seasonal distribution, being most variable (12 ± 2 species on average) in the autumn. Crustaceans were taxonomically richest during the summer season (12 ± 2.1 species on average) (Table <ref type="table">II</ref>). On analysing the distribution of zooplankton species richness between particular ponds it was found that crater pond No. III was characterised by the lowest mean number of rotifer species and highest of crustaceans, while in pond No. IV the opposite pattern, with the greatest variation in rotifer species and lowest in crustaceans, was observed (Table <ref type="table">II</ref>). It was found that bdelloids, Lecane elsa, Cephalodella gibba (Ehrenberg), Lepadella patella (O.F. Müller), Keratella cochlearis (Gosse), Lecane closterocerca (Schmarda) and Platyias quadricornis (Ehrenberg) from among rotifers and also Daphnia pulex (De Geer), Megacyclops viridis (Jurine), Bosmina longirostris (O.F. Müller), Ceriodaphnia laticaudata P.E. Müller, Pleuroxus trigonellus and Simocephalus exspinosus (Koch) occurred with the highest frequency (&gt;50%) in the examined material. Rotifer densities, unlike the species composition, reached significantly higher (KW-H 2,30 = 3.19, p &lt; 0.01) densities on average compared with crustaceans (Table <ref type="table">II</ref>). After analysing temporal distribution, only crustaceans revealed significant differences (KW-H 2,30 = 22.15, p &lt; 0.01), with the highest abundance during the summer season. In the case of rotifers there was a trend of increasing density, starting from the spring and reaching a maximum in the autumn (Table <ref type="table">II</ref>); however, this was not significant (p &gt; 0.05). Rotifers reached on average 5107 ind L -1 in the autumn season, which was a result of a mass occurrence of Rotaria sp. (Tables <ref type="table">II</ref> and <ref type="table">III</ref>). Only densities of rotifers differed between particular ponds (KW-H 3,30 = 18.51, p &lt; 0.01), with the highest values obtained for pond No. I due to the mass domination of Anuraeopsis fissa (Gosse) and Rotaria sp. (Tables <ref type="table">II</ref> and <ref type="table">III</ref>). The structure of dominance was created by 16 species -8 rotifers and 8 crustaceans. Only bdelloids (mainly Rotaria sp.) among rotifers dominated in all the seasons and in each sample. Also, one species from among crustaceans -Daphnia pulex -occurred as a dominating species in each season. The rest of the species had only one season of domination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table IV</head><p>The correlation ratios between the densities of particular species or % participation of littoral and pelagic species abundance and physical-chemical variables (pH, conductivity, dissolved inorganic nitrogen -DIN, chlorophyll aconcentration -chl a) in the examined small water bodies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parameter</head><p>r p Anuraeopsis fissa vs. chl a 0.679 &lt;0.05 Bdelloidea vs. chl a 0.674 &lt;0.05 Scapholeberis mucronata vs. pH 0.860 &lt;0.01 % littoral species vs. conductivity -0.811 &lt;0.01 % pelagic species vs. conductivity 0.813 &lt;0.01 Species such as Keratella paludosa, Bosmina longirostris, Daphnia longispina O.F. Müller and Megacyclops viridis dominated exclusively in the spring, Euchlanis dilatata Ehrenberg, Lecane elsa, Lepadella ovalis (O.F. Müller), Lepadella patella, Platyias quadricornis, Alonella excisa (Fischer), Chydorus sphaericus (O.F. Müller), Pleuroxus trigonellus and Scapholeberis mucronata (O.F. Müller) in the summer, and finally, Anuraeopsis fissa in the autumn.</p><p>The most variable domination structure was observed in the summer, while the least complex was found in the autumn. Only two species dominated in all the examined crater ponds, while nine exclusively dominated in only one crater (Table <ref type="table">III</ref>).</p><p>The Shannon-Weaver index of zooplankton diversity varied significantly among the seasons, with higher mean values among both groups-rotifers (KW-H 2,30 = 12.13, p &lt; 0.05) and crustaceans (KW-H 2,30 = 8.02, p &lt; 0.05) -in the summer season. No significant variation was obtained for comparison of the Shannon-Weaver index between particular ponds (Table <ref type="table">II</ref>).</p><p>Most of the relationships concerned the densities of particular zooplankton species and physical-chemical variables. Anuraeopsis fissa and bdelloids correlated positively with chlorophyll a concentration, while Scapholeberis mucronata correlated with pH level. Conductivity positively affected the occurrence of pelagic species and negatively influenced littoral species abundance (Table <ref type="table">IV</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Small aquatic ecosystems contribute to the enrichment of the local biodiversity. The examination of unique types of water bodies, such as meteor crater ponds, resulted in the identification of rare species (e.g. Keratella paludosa, Notommata glyphura, Daphnia curvirostris and Tretocephala ambigua), some of which were dominating species. This would indicate that a need exists for the protection of such ecosystems, especially if they are situated in association with urban areas, such as the city of Pozna ń. This whole group of rare species made up over 12% of the taxonomic structure, which also underlines the great variation and specificity of these aquatic ecosystems.</p><p>Seasonality is an aspect of the functioning of aquatic ecosystems which is widely discussed, mainly in relation to lakes ( Čiamporová-Zaovi čová and Čiampor, 2011). In the case of small water bodies, due to unfavourable morphometric features and very changeable environmental factors it may be difficult to predict any pattern of abundance distribution or the occurrence of particular species. This is particularly the case when the studied ponds are of an astatic character, such as meteor craters, which are characterised by dramatic changes in the water level. Four ponds underwent analyses; however, two of them (Nos. III and IV) dried out in the autumn season. Therefore, many species which inhabit such aquatic ecosystems must be opportunists, well specialised and adapted to such unfavourable conditions. As a result of our examination, the presence of 49 zooplankton species was found in total; however, a temporal and spatial differentiation was also noticed. The least various taxa composition was found to be in the spring, when TP and chlorophyll a concentrations were also lowest. A more variable taxonomic structure was recorded in the autumn, and especially in the summer, when DIN content was highest. Although the values of the Shannon-Weaver index of zooplankton diversity were not very high on average, due to the temporal character of some of the investigated ponds, they were highest during the optimum summer season, before half of the ponds dried out. A spatial differentiation of taxonomic richness in relation to particular ponds was also found, especially when two groups of craters were compared -permanent (ponds I and II) and temporal (ponds III and IV). The highest species richness of zooplankton was attributed to astatic ponds, where rotifers prevailed in crater No. IV and crustaceans in crater No. III. At the same time, the lowest values occurred inversely in these two ponds, which reflects niche segregation between both groups of animal plankton.</p><p>There were thirteen taxa (over 25% of the taxonomic structure) whose frequency was higher than 50%, which indicates a great variation in environmental factors among particular crater ponds and study seasons. Most of them represented large-bodied crustaceans and littoralassociated rotifers. Only three of these species (Keratella cochlearis, Bosmina longirostris and Daphnia pulex) were strictly pelagic <ref type="bibr" target="#b10">(Flössner, 1972;</ref><ref type="bibr" target="#b23">Pejler, 1995)</ref>, so the optimum of their occurrence is usually found in the pelagic zone. The occurrence of D. pulex, which dominated throughout all the seasons, strongly indicates the lack or very weak pressure of predation attributed to these ponds. When fish are absent, invertebrate predators develop abundant communities. Therefore, we found a large representation of larvae of Culex sp. and Chaoborus sp. in our ponds <ref type="bibr">( Świdnicki et al., 2010)</ref>, which must have had an impact on a smaller fraction of zooplankton such as rotifers. Thus, rotifer species with specific anti-predator adaptations, e.g. Keratella cochlearis, that has evolved long, bristle-like spines <ref type="bibr" target="#b23">(Pejler, 1995)</ref>, could successfully develop in such conditions. Among species with the highest frequency, representatives typical of small water bodies (e.g. bdelloids, Lecane elsa, Daphnia pulex, Megacyclops viridis, Ceriodaphnia laticaudata) were observed. Most of them possessed adaptations to living in astatic reservoirs such as, e.g., M. viridis, which willingly inhabits temporary water bodies as it can use a diapause to survive the dry season <ref type="bibr" target="#b27">(Rybak and Bł ȩdzki, 2010)</ref>.</p><p>Furthermore, a seasonal variation in zooplankton abundance was also obtained, with the maximum mean numbers obtained in the autumn in the case of rotifers and in the summer in the group of crustaceans. The lowest densities for both groups of animals were found in the springtime. <ref type="bibr" target="#b20">Nogrady et al. (1993)</ref> refer to temperature as one of the essential factors influencing the seasonal succession of rotifers in water bodies located in a temperate climate.</p><p>Anuraeopsis fissa, which occurred in the examined water bodies as a dominating species in the autumn samples, is a warm stenoterm organism. It prefers a wide range of pH, although it builds its most abundant communities in neutral waters with a high concentration of detritus <ref type="bibr" target="#b1">(B ẽrzinš and Pejler, 1987)</ref>. Therefore, food availability and quality, reflected by the highest content of chlorophyll a in the summer and autumn and lowest in the spring, may also contribute to seasonal variation in zooplankton abundance. What is also very important is that A. fissa easily adapts to oxygen deficiency or even to a lack of oxygen <ref type="bibr" target="#b25">(Radwan et al., 2004)</ref>. In the examined ponds very low concentrations of dissolved oxygen were recorded (unpublished data); therefore, A. fissa was able to build such an abundant population during the autumn season.</p><p>Despite the fact that all the ponds were of the same origin and were situated within a short distance of each other, they differed not only in reference to species composition and community density; their dominating structure varied greatly. Only two species out of 16 dominants were common for all the ponds and seasons, which was connected with the temporary nature of most of these craters. One of them was Daphnia pulex, a species characteristic of temporary water bodies, which is well acclimatised to low oxygen concentrations and exhibits a wider capacity for respiration that is relatively "insensitive" to changing oxygen levels. Moreover, D. pulex is able to synthesise haemoglobin, which is also a well-known phenomenon for adapting to low oxygen content <ref type="bibr" target="#b33">(Weider and Lampert, 1985)</ref>. This is why it was among the dominating species in all the examined meteorite crater ponds and in each season. However, although D. pulex was a frequent dominant, a variable crustacean community occurred. This is contrary to the fact that in water bodies which are characterised by a dominance of large daphnids, small zooplankton species are scarce <ref type="bibr" target="#b0">(Arnott and Vanni, 1993)</ref>. The explanation for this phenomenon may be connected with the specificity of the examined ponds, where a thick layer of bottom sediments may have created an additional ecological niche for the inhabiting organisms. Among rotifers, bdelloids were found to dominate in each season and in each water body, and contributed to the extremely high densities of rotifers reached in the autumn. They are a class of the phylum Rotifera, having obligatory parthenogenetic reproduction and being able to withstand harsh periods through anhydrobiosis. They are typically a part of benthos or periphyton; however, some bdelloid species (e.g. Rotaria) can be found occasionally in the plankton <ref type="bibr" target="#b26">(Ricci and Melone, 2000)</ref>, which was the case in the present study. The mass domination of Rotaria occurred as the examined water bodies were at the level of drying up. This is consistent with bdelloid's fantastic ecological adaptability, as they can easily shift from an active to an anhydrobiotic stage, which helps them to live in particularly ephemeral, even predominantly dry conditions <ref type="bibr" target="#b28">(Segers, 2008)</ref>.</p><p>The occurrence of zooplankton depends on a variety of environmental factors; however, it is often difficult to predict its response to changes in an astatic ecosystem, such as a meteorite crater. However, conductivity, which is a useful measure of water quality and which can indicate industrial pollution or urban runoff, can influence the distribution of a variety of organisms in small water bodies <ref type="bibr" target="#b8">(Dalu et al., 2012)</ref>. It had the contrasting effect on two groups of studied zooplankton of various ecological requirements. Its higher values stimulated the abundance of pelagic species, while densities of littoral species were restricted along with the increase in the conductivity level. Among pelagic species the presence of indicators of high trophic conditions (e.g. Anuraeopsis fissa, Bosmina longirostris or Chydorus sphaericus) was obtained. This can confirm a positive relationship with conductivity, which is usually higher in contaminated and highly eutrophic waters. Moreover, trophic conditions, assessed using the <ref type="bibr" target="#b5">Carlson (1977)</ref> classification, also acknowledged the eutrophy of the water throughout the whole examination period.</p><p>It is known that some freshwater organisms positively correlate with the rates of primary production; however, as zooplankton are usually able to control phytoplankton biomass, such a relationship is rarely observed in nature <ref type="bibr" target="#b15">(Kobayashi, 1997)</ref>. In the examined ponds Anuraeopsis fissa and bdelloids corresponded positively with chlorophyll a concentration. Bdelloids are described as feeding mainly on suspended organic particles and A. fissa feeds exclusively on detritus and bacteria <ref type="bibr" target="#b24">(Pourriot, 1977)</ref>. This is why they appeared not to control the algae abundance in the case of the meteor ponds.</p><p>The protection of the area of meteorite fall as a nature reserve resulted in preserving a natural wet-ground forest and the reduction of the negative effect of the closely situated urban area. Limitation of human activities in the catchment area of water bodies contributes to the maintenance of a variation of assemblages of organisms specific to these unique aquatic ecosystems, as was found in the investigated meteor crater ponds, which in far too many cases are exposed to extinction.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Map of the nature reserve Meteorite Morasko with location of examined craters (numbers I-IV) (http:// morasko2.republika.pl, changed) and its location in the Wielkopolska region and Poland.</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>This work was partly supported by the <rs type="funder">Polish Committee for Scientific Research (KBN)</rs> under grant No. <rs type="grantNumber">N N305 042739</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_4P3XTK8">
+					<idno type="grant-number">N N305 042739</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Zooplankton Assemblages in Fishless Bog Lakes: Influence of Biotic and Abiotic Factors</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Arnott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Vanni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="2361" to="2380" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Rotifer occurrence in relation to pH</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pejler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page" from="107" to="116" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Rotifer occurrence in relation to temperature</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pejler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="page" from="223" to="231" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Rotifer occurrence in relation to oxygen content</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pejler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">183</biblScope>
+			<biblScope unit="page" from="165" to="172" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">15 years of pond assessment in Britain: results and lessons learned from the work of Pond Conservation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Whitfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nicolet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Weatherby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Conserv.: Mar. Freshwat. Ecosyst</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="693" to="714" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A trophic state index for lakes</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Carlson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Limnol. Oceanogr</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="361" to="369" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Potamozooplankton communities in three different outlets from mesotrophic lakes located in lake-river system</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Czerniawski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Domagała</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oceanol. Hydrobiol. St</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="46" to="56" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Aquatic beetles of the alpine lakes: diversity, ecology and small-scale population genetics</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Čiamporová-Zaovi Čová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Čiampor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Knowl. Managt. Aquatic Ecosyst</title>
+		<imprint>
+			<biblScope unit="volume">402</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Macroinvertebrate communities associated with littoral zone habitats and the influence of environmental factors in Malilangwe Reservoir</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dalu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Clegg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nhiwatiwa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zimbabwe. Knowl. Managt. Aquatic Ecosyst</title>
+		<imprint>
+			<biblScope unit="volume">406</biblScope>
+			<biblScope unit="page" from="5" to="15" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Effect of watershed land use and lake age on zooplankton species richness</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Dodson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Everhast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Jandl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Krauskopf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">579</biblScope>
+			<biblScope unit="page" from="393" to="399" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Kiemen-und Blattfusser, Branchiopoda, Fischlause, Branchiura</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Flössner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<publisher>Gustav Fisher Verlag</publisher>
+			<biblScope unit="page">499</biblScope>
+			<pubPlace>Jena</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Planktonic rotifers and temperature</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Galkovskaja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="225" to="227" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The physico-chemical analyses of water and wastewater</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hermanowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dojlido</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Do Ża Ńska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Koziorowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zerbe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Arkady Press</publisher>
+			<biblScope unit="page">556</biblScope>
+			<pubPlace>Warsaw</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The influence of abiotic environmental factors on population dynamic in planktonic rotifers</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hofmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Hydrobiol. Beinhefte Ergebn. Limnol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="77" to="83" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Eutrophication processes in a shallow, macrophyte-dominated lake -factors influencing zooplankton structure and density in Lake Łuknajno (Poland)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Karabin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ejsmont-Karabin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kornatowska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="page" from="401" to="409" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Associations between environmental variables and zooplankton body masses in a regulated Australian river</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kobayashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mar. Freshwater Res</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="523" to="529" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Dystrophication as the chief factor of changes in the physico-chemical properties of water and vegetation of lobelian lakes of the Bory Tucholskie National Park (NW Poland)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kraska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Piotrowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Radziszewska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="127" to="135" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Inland waters</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Likens</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Elsevier</publisher>
+			<biblScope unit="page">6492</biblScope>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A method for the continuous measurement of in vivo chlorophyll concentration</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Lorenzen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Deep-Sea Res</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="223" to="227" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Information theory in ecology</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Margalef</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gen. Syst</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="36" to="71" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nogrady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Snell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">SPB Academic Publishers bv</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Dumont</surname></persName>
+		</editor>
+		<meeting><address><addrLine>The Hague, The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">142</biblScope>
+		</imprint>
+	</monogr>
+	<note>Biology Guides to the Identification of the Microinvertebrates of the Continental Waters of the World</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joye</forename><forename type="middle">D</forename><surname>Auderset</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Castella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Juge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cambin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lachavanne J.-B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Does size matter? The relationship between pond area and biodiversity</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="59" to="70" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Conservation and monitoring of pond biodiversity: introduction</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oertli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Biggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Céréghino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Grillas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Joly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lachavanne J.-B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquat. Conserv.: Mar. Freshwat. Ecosyst</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="535" to="540" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Relation to habitat in rotifers</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pejler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="page" from="267" to="278" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Food and feeding habits of Rotifera</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pourriot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Hydrobiol. Beiheft</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="243" to="260" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Wrotki Rotifera. Fauna słodkowodna Polski (Rotifers Rotifera. Freshwater fauna of Poland)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Radwan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Biela Ńska-Grajner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ejsmont-Karabin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Oficyna Wydawnicza Tercja</publisher>
+			<biblScope unit="page">447</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Key to the identification of the genera of bdelloid rotifers</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ricci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Melone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">418</biblScope>
+			<biblScope unit="page" from="73" to="80" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Słodkowodne skorupiaki planktonowe. Klucz do oznaczania (Freshwater planktonic crustaceans</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Rybak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Bł Ȩdzki</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Warsaw University Press</publisher>
+			<biblScope unit="page">366</biblScope>
+		</imprint>
+	</monogr>
+	<note>Identification key</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Global diversity of rotifers (Rotifera) in freshwater</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Segers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">595</biblScope>
+			<biblScope unit="page" from="49" to="59" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Pond or lake: does it make any difference?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Søndergaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jeppesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Hydrobiol</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="143" to="165" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The geology and morphology of the natural reserve &quot;Meteoryt Morasko</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T J</forename><surname>Stankowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Planetary and Space Science</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="749" to="753" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Seasonal Dynamics of rotifer (Rotifera) and crustacean (Cladocera and Copepoda) zooplankton of meteorite crater ponds in the nature reserve</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Świdnicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kuczy Ńska-Kippen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Basi Ńska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Meteoryt Morasko&quot; in Pozna ń, Poland. The 4th European Pond Conservation Network (EPCN)</title>
+		<meeting><address><addrLine>Erkner (Germany</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">126</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Biotic interactions of the zooplankton community of a shallow, humic lake</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ejsmont-Karabin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rybak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrobiologia</title>
+		<imprint>
+			<biblScope unit="volume">342</biblScope>
+			<biblScope unit="issue">343</biblScope>
+			<biblScope unit="page" from="185" to="195" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Differential response of Daphnia genotypes to oxygen stress: respiration rates, hemoglobin content and low-oxygen tolerance</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Weider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lampert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oecologia</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="487" to="491" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Relative vulnerabilities of natural rotifer and ciliate communities to cladocerans: laboratory and field experiments</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wickham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Gilbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Freshwat. Biol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="77" to="86" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Phytoand zooplankton in fishponds contaminated with heavy metal runoff from a lead-zinc mine</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wilk-Wo Źniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pociecha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ciszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Aleksander-Kwaterczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Walusiak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oceanol. Hydrobiol. St</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="77" to="85" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
