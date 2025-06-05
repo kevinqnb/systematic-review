@@ -9,7 +9,7 @@ directory = "collection/processed/"
 papers = get_filenames_in_directory(directory)
 
 # Load and process documents as chunks with specified token size:
-for paper in papers[:2]:
+for paper in papers:
     file_path = os.path.join(directory, paper)
     doi = paper.partition(".grobid")[0]
     doi = doi.replace("_", "/")
@@ -26,7 +26,7 @@ for paper in papers[:2]:
     if response["abstract_bool"]:
         # Screen text:
         for i,page in enumerate(doc.pages):
-            print(f"Processing {doc.title[:25]}... Page {i+1}/{len(doc.pages)}")
+            #print(f"Processing {doc.title[:25]}... Page {i+1}/{len(doc.pages)}")
             response = chat.invoke(
                 {'text': page, 'abstract_bool': True},
                 identifier = {'doi' : doc.doi, 'chunk' : i},
