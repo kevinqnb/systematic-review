@@ -6,7 +6,7 @@ import requests
 import time
 load_dotenv()
 
-n_papers = 10
+n_papers = 200
 search_parameters = {
     "query" : "",
     "bulk" : True,
@@ -18,7 +18,7 @@ sch = SemanticScholar()
 # Search and get list of DOIs
 response = sch.search_paper(**search_parameters)
 dois = []
-for paper in response[:n_papers]:
+for paper in response[120:180]:
     doi = paper['externalIds'].get('DOI')
     if doi is not None:
         dois.append(doi)
@@ -46,5 +46,3 @@ for doi in dois:
         print(f"Failed to download PDF. Status code: {response.status_code}")
         print("Faied DOI:", doi)
         print(response.text)
-
-    time.sleep(5)  # To avoid hitting the API rate limit

@@ -14,7 +14,7 @@ from pydantic import BaseModel, Field
 # Load the language model and manage prompting and structured responses
 
 LLM = ChatOllama(
-    model="gemma3:12b-it-qat",
+    model="gemma3:27b-it-qat",
     temperature=0,
     num_ctx = 128_000 # Maximum context length for Gemma3
 )
