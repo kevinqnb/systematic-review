@@ -123,7 +123,7 @@ class XmlDocument:
         body = root.find(".//tei:body", namespaces=ns)
         back = root.find(".//tei:back", namespaces=ns)
 
-        title_text = title.text.strip() if title is not None else ""
+        title_text = title.text.strip() if title is not None and title.text is not None else ""
         self.title = title_text
         title_text = "# " + title_text + "\n"
         abstract_text = ''.join(abstract.itertext()).strip() if abstract is not None else "\n"
