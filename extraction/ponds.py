@@ -5,7 +5,7 @@ from systematic_review import *
 chat = ChatWithHistory(llm = GRAPH)
 token_size = 1000
 
-directory = "collection/processed/"
+directory = "collection/examples/processed/"
 papers = get_filenames_in_directory(directory)
 
 # Load and process documents as chunks with specified token size:
@@ -37,5 +37,5 @@ for paper in papers:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
 
-outfile = "extraction/data/pond_screening4.csv"
+outfile = "extraction/data/pond_screening5.csv"
 chat.save(outfile)
