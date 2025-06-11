@@ -2,7 +2,7 @@ import os
 from model import LLM, GRAPH
 from systematic_review import *
 
-chat = ChatWithHistory(llm = GRAPH)
+chat_with_history = ChatWithHistory(llm = GRAPH)
 token_size = 1000
 
 directory = "collection/examples/processed/"
@@ -18,7 +18,7 @@ for paper in papers:
         doc.load(file_path, token_size = token_size)
 
         # Screen abstract:
-        response = chat.invoke(
+        response = chat_with_history.invoke(
             {'abstract' : doc.title_abstract},
             identifier = {'doi' : doc.doi, 'chunk' : -1}, # -1 indicates abstract
             ignore = ['abstract','text']
@@ -28,7 +28,7 @@ for paper in papers:
             # Screen text:
             for i,page in enumerate(doc.pages):
                 #print(f"Processing {doc.title[:25]}... Page {i+1}/{len(doc.pages)}")
-                response = chat.invoke(
+                response = chat_with_history.invoke(
                     {'text': page, 'abstract_bool': True},
                     identifier = {'doi' : doc.doi, 'chunk' : i},
                     ignore = ['abstract', 'text']
@@ -37,5 +37,5 @@ for paper in papers:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
 
-outfile = "extraction/data/pond_screening_examples_olmo.csv"
-chat.save(outfile)
+outfile = "extraction/data/pond_screening_gemma.csv"
+chat_with_history.save(outfile)
