@@ -26,6 +26,7 @@ prompt_template = PromptTemplate.from_template(
     "<start_of_turn>model\n"
 )
 
+
 class BooleanResponse(BaseModel):
     """
     Manages a structured, boolean response from a language model.

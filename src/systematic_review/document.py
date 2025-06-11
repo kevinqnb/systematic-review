@@ -152,7 +152,7 @@ class XmlDocument:
                         body_text += paragraph_text + "\n"
 
                     if len(paragraphs) > 0:
-                        body_text += "\n"  # Add a newline after each section
+                        body_text += "\n"  # Add a newline after each non-empty section
 
                 for fig in body.findall(".//tei:figure", namespaces=ns):
                     # Get header for the figure
@@ -164,6 +164,15 @@ class XmlDocument:
                     caption = fig.find("tei:figDesc", namespaces=ns)
                     caption_text = caption.text.strip() if (caption is not None and caption.text is not None) else "No caption"
                     body_text += f"**Caption:** {caption_text}\n"
+
+                    # If the figure is a table, include its content
+                    table = fig.find(".//tei:table", namespaces=ns)
+                    if table is not None:
+                        rows = table.findall(".//tei:row", namespaces=ns)
+                        for r in rows:
+                            cells = r.findall(".//tei:cell", namespaces=ns)
+                            cell_texts = [c.text.strip() if c.text is not None else "" for c in cells]
+                            body_text += " | ".join(cell_texts) + "\n"
 
                     body_text += "\n"  # Add a newline after each section
 
@@ -225,5 +234,5 @@ class XmlDocument:
             filepath (str): Path to the document.
 
         """
-        full_text = self.parse(filepath)
-        self.pages = self.split(full_text, token_size)
+        self.full_text = self.parse(filepath)
+        self.pages = self.split(self.full_text, token_size)
