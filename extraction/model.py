@@ -4,6 +4,7 @@ from langchain_ollama import ChatOllama
 # Chat structure
 from langchain_core.prompts import PromptTemplate
 from langgraph.graph import START, END, StateGraph
+from langchain_core.prompts import ChatPromptTemplate
 
 # Typing
 from typing_extensions import TypedDict
@@ -14,7 +15,8 @@ from pydantic import BaseModel, Field
 # Load the language model and manage prompting and structured responses
 
 LLM = ChatOllama(
-    model="gemma3:27b-it-qat",
+    #model="gemma3:27b-it-qat",
+    model="olmo2:13b-1124-instruct-q8_0",
     temperature=0,
     num_ctx = 128_000 # Maximum context length for Gemma3
 )
@@ -25,6 +27,13 @@ prompt_template = PromptTemplate.from_template(
     "<start_of_turn>user\n{query}<end_of_turn>\n"
     "<start_of_turn>model\n"
 )
+
+prompt_template = ChatPromptTemplate([
+    ("user", "{instructions}"),
+    ("user", "{context}"),
+    ("user", "{query}"),
+])
+
 
 
 class BooleanResponse(BaseModel):
