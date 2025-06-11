@@ -1,5 +1,5 @@
 import os
-from model import LLM, GRAPH
+from model import MODEL, GRAPH
 from systematic_review import *
 
 chat_with_history = ChatWithHistory(llm = GRAPH)
@@ -37,5 +37,5 @@ for paper in papers:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
 
-outfile = "extraction/data/pond_screening_gemma.csv"
+outfile = "extraction/data/pond_screening_olmo_ollama.csv"
 chat_with_history.save(outfile)

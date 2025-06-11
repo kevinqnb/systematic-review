@@ -52,8 +52,8 @@ class BooleanResponse(BaseModel):
 boolean_llm = LLM.with_structured_output(schema = BooleanResponse)
 '''
 
-MODEL = "gemma3:27b-it-qat"
-#MODEL = "olmo2:13b"
+#MODEL = "gemma3:27b-it-qat"
+MODEL = "olmo2:13b"
 
 class BooleanResponse(BaseModel):
     """

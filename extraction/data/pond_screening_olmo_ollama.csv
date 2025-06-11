@@ -1,0 +1,170 @@
+,doi,chunk,abstract_bool,definition_bool,table_bool,definition
+0,ponds1,-1,True,,,
+1,ponds1,0,True,False,False,
+2,ponds1,1,True,False,False,
+3,ponds1,2,True,False,False,
+4,ponds1,3,True,False,False,
+5,ponds1,4,True,False,False,
+6,ponds1,5,True,False,False,
+7,ponds1,6,True,False,False,
+8,ponds1,7,True,False,False,
+9,lakes3,-1,True,,,
+10,lakes3,0,True,False,False,
+11,lakes3,1,True,False,False,
+12,lakes3,2,True,False,False,
+13,lakes3,3,True,False,False,
+14,lakes3,4,True,False,False,
+15,lakes3,5,True,False,False,
+16,lakes3,6,True,False,True,
+17,lakes3,7,True,False,False,
+18,lakes3,8,True,False,True,
+19,lakes3,9,True,False,False,
+20,lakes3,10,True,False,False,
+21,lakes3,11,True,False,False,
+22,lakes3,12,True,False,False,
+23,lakes3,13,True,False,False,
+24,lakes3,14,True,False,False,
+25,lakes3,15,True,False,False,
+26,lakes2,-1,False,,,
+27,fake1,-1,False,,,
+28,ponds3,-1,True,,,
+29,ponds3,0,True,False,False,
+30,ponds3,1,True,True,False,"Inland waters, as described in the given context, include both ponds and lakes. However, the focus is on small bodies of water, specifically those smaller than 0.01 km 2 (for ponds) and particularly very small ponds (\0.001 km 2 ). The distinguishing attributes provided for these small water bodies include:
+
+- **Size:** They are characterized as being relatively small in terms of surface area, with the majority of lakes and ponds being under 0.01 km 2 , and a large number of very small ponds covering areas as small as 0.0001-0.001 km 2 .
+  
+- **Shallowness:** Small ponds are described as shallow, which can significantly impact carbon dynamics such as CO 2 and CH 4 production and oxidation processes. Shallow waters mean that more water is in contact with anoxic sediments, leading to higher CH 4 concentrations due to less CH 4 oxidation in comparison to deeper lakes.
+  
+- **Environmental conditions:** The context suggests that small ponds may experience different environmental conditions than larger bodies of water, with implications for carbon cycling. High loadings of dissolved and particulate organic carbon (DOC, POC) relative to their volume contribute to increased respiration and CO 2 production. Additionally, the chemical, physical, and biological parameters of very small ponds may differ significantly from those of larger lakes, potentially leading to unique carbon cycling mechanisms.
+  
+- **Temporal dynamics:** The study highlights the importance of understanding the seasonal and annual variation in carbon concentrations, suggesting sensitivity to temperature changes and water availability that could affect carbon cycling differently in small ponds compared to larger lakes.
+
+Therefore, in the context of this study, ponds and lakes are distinguished primarily by their size and depth, with a focus on the unique ecological and biogeochemical processes that occur within very small ponds (\0.001 km 2) due to their specific characteristics."
+31,ponds3,2,True,False,False,
+32,ponds3,3,True,False,False,
+33,ponds3,4,True,False,False,
+34,ponds3,5,True,False,True,
+35,ponds3,6,True,False,False,
+36,ponds3,7,True,False,False,
+37,ponds3,8,True,False,False,
+38,ponds3,9,True,False,False,
+39,ponds3,10,True,False,True,
+40,ponds3,11,True,False,True,
+41,ponds3,12,True,False,False,
+42,definitions3,-1,True,,,
+43,definitions3,0,True,False,False,
+44,definitions3,1,True,False,False,
+45,definitions3,2,True,False,False,
+46,definitions3,3,True,False,False,
+47,definitions3,4,True,False,False,
+48,definitions3,5,True,False,False,
+49,definitions3,6,True,False,False,
+50,definitions3,7,True,False,False,
+51,definitions3,8,True,True,False,"The context provided in the passage does not explicitly define ponds or lakes, but it describes the study's focus on pond water viromes. From the information given, ponds and lakes can be distinguished by the following attributes or descriptive characteristics based on their use in this context:
+
+- **Pond Water Viromes**: The study specifically refers to viromes from pond water, indicating that ponds are a type of freshwater body. Viromes are collections of viral genomes found in environmental samples, which in this case are taken from ponds.
+
+- **Temporal Variability**: The passage describes changes in the viral taxonomic and functional composition over three months (October, November, and December), suggesting seasonal variability that is characteristic of open water bodies like ponds, which may experience significant shifts in their biotic and abiotic factors throughout the year.
+
+- **Biotic Complexity**: The reference to various viral families and their abundance patterns (e.g., Siphoviridae, Myoviridae, Podoviridae) within the pond ecosystem suggests a complex microbial community structure, which is typical of aquatic environments like ponds. Ponds often have a diverse array of microorganisms due to their shallow depth, variable temperatures, and nutrient levels.
+
+- **Environmental Sampling**: The methodology described involves collecting water samples from ponds, which indicates that ponds are bodies of still or slow-moving freshwater that are accessible for such ecological studies.
+
+While the passage does not provide a formal definition of ponds or lakes, based on its use:
+
+- **Ponds** are characterized as smaller, shallow, still bodies of freshwater, typically with a surface area less than 2 hectares and a maximum depth of approximately 15 meters, as per the Ramsar Wetlands Criteria. They may be man-made or naturally occurring and are often surrounded by vegetation.
+
+- **Lakes** are larger and deeper than ponds, with surface areas that can vary greatly. They have distinct basins that may be fed by rivers or springs, and they can be stratified with different temperature and oxygen layers.
+
+The context mainly aligns with the attributes of ponds, but lakes could be inferred to share some characteristics with ponds, such as being aquatic ecosystems with varying biotic compositions and environmental responses."
+52,definitions3,9,True,True,True,"The context provides a definition for ponds by highlighting their characteristic small size and shallow depth, which enables a complex community of aquatic plants and macroinvertebrate species as well as an interacting community of microorganisms. The context also emphasizes that these attributes make ponds sensitive to changes in water levels and anthropogenic factors associated with irrigation systems, which can disrupt the microbial balance. While ponds are described in this context, these distinguishing attributes inherently also differentiate them from lakes, suggesting lakes are larger and deeper, with a different ecology due to their size and depth. Therefore, the definition by implication differentiates ponds from lakes based on their smaller size and shallower depth, which lead to more dynamic interactions with the surrounding environment and a more sensitive ecosystem balance, particularly in relation to microbial life."
+53,definitions3,10,True,False,False,
+54,definitions3,11,True,False,False,
+55,fake3,-1,False,,,
+56,lakes1,-1,True,,,
+57,lakes1,0,True,False,False,
+58,lakes1,1,True,False,False,
+59,lakes1,2,True,False,False,
+60,lakes1,3,True,False,False,
+61,lakes1,4,True,False,False,
+62,lakes1,5,True,False,True,
+63,lakes1,6,True,False,False,
+64,lakes1,7,True,False,False,
+65,lakes1,8,True,True,False,"The context provided discusses Danish lakes that vary in size from medium to high alkaline and in forest cover within their catchments, providing distinguishing attributes and descriptive characteristics for lakes:
+
+- **Lake Size:** The study observes significant differences in physico-chemical features across lake sizes, with surface irradiance and wind exposure increasing with larger lake areas, but decreasing with increased shelter and shading from surrounding forests. Smaller lake areas are linked statistically to shallow water and shallow mixing depths. The influence of benthic metabolism becomes less significant as lakes become larger, reducing the difference between metabolic estimates derived from sondes and pelagic measurements in bottles.
+
+- **Forest Cover:** The paper also notes the influence of forest cover in the catchments on lake properties. Lakes with higher forest cover tend to receive more dissolved organic carbon (DOC) and are influenced by hydrological inputs from the catchment and the potential input of air-born terrestrial organic matter due to their shoreline length relative to surface area and volume.
+
+The definition that emerges from this description for lakes, compared to ponds, is nuanced but can be summarized as follows:
+
+**Lakes** are distinctively larger waterbodies than **ponds**. They have deeper mixing depths, exhibit more variation in physico-chemical properties linked to size and surrounding forest cover, and possess longer residence times that can influence chemical and microbial degradation processes, including the production and decomposition of dissolved organic carbon (DOC). This description differentiates lakes from ponds by their size (generally larger), depth (potentially deeper), and the complexity of their ecosystem dynamics influenced by catchment characteristics and interactions with the surrounding landscape. Ponds, by contrast, are smaller, shallower water bodies with less extensive and complex catchment influences and ecosystem processes."
+66,lakes1,9,True,False,False,
+67,lakes1,10,True,False,False,
+68,lakes1,11,True,False,False,
+69,lakes1,12,True,True,True,"The context provided in Table 1 presents physical, optical, and mean chemical characteristics for surface waters of various lakes (with some entries referring to 'ponds' explicitly). The table includes measurements such as alkalinity (ANC), concentrations of dissolved carbon dioxide (CO2), dissolved organic carbon (DOC), total phosphorus (TP), chlorophyll (Chl) concentration, water depth (Mixing), and forest coverage percentage.
+
+From this table, a definition for lakes (and implicitly, ponds since some entries specifically mention them) can be inferred as follows:
+
+Lakes (and ponds) are bodies of standing water, either natural or artificial, characterized by the presence of relatively deep water relative to their surface area compared to shallower bodies like ponds. These waterbodies have diverse sizes, chemical compositions, and ecological zones, as indicated by the provided data:
+
+1. **Physical Characteristics:** They can vary significantly in depth (from shallow ponds like Agertoften at 0.7 m to much deeper lakes like Esrum Sø at 7.0 meters and Sjaelsø at 22.1 meters), reflecting their variability in size and configuration.
+
+2. **Optical Characteristics:** Measures like % saturation of CO2 and concentration of DOC indicate the water quality and optical properties, which vary across different lakes and ponds.
+
+3. **Chemical Characteristics:** Parameters such as alkalinity (ANC), total phosphorus (TP), and chlorophyll concentration (Chl) reflect the chemical state of the water, influenced by natural and anthropogenic factors. The values show a wide range, reflecting the diversity in nutrient and contaminant levels across these different waterbodies.
+
+4. **Biological and Ecological Indicators:** The table also includes forest coverage percentages, which are indicative of the surrounding ecosystem's influence on the lake or pond. This ecological context is crucial as it impacts water chemistry (such as nutrient cycling) and the biological productivity of these waterbodies.
+
+Thus, a definition for lakes (and ponds) based on the provided context would highlight their inherent variability in terms of depth, chemical composition, and ecological interaction with their surroundings, while distinguishing them from other waterbodies due to their significant depth relative to their surface area."
+70,fake2,-1,False,,,
+71,definitions2,-1,True,,,
+72,definitions2,0,True,False,False,
+73,definitions2,1,True,False,False,
+74,definitions2,2,True,False,False,
+75,definitions2,3,True,False,False,
+76,definitions2,4,True,False,False,
+77,definitions2,5,True,False,False,
+78,definitions2,6,True,False,False,
+79,definitions2,7,True,False,False,
+80,definitions2,8,True,False,False,
+81,definitions2,9,True,False,False,
+82,definitions2,10,True,False,False,
+83,definitions2,11,True,False,False,
+84,definitions2,12,True,False,False,
+85,definitions2,13,True,False,False,
+86,definitions2,14,True,False,False,
+87,definitions2,15,True,False,False,
+88,definitions2,16,True,False,False,
+89,definitions2,17,True,True,False,"supporting processes a These underpin almost all other services. In fresh waters they relate to all levels of aquatic biodiversity from genetics to community diversity, primary production and other ecosystem processes and functions which occur in well-functioning ecosystems and support their resilience to internal and external pressures a Also known as supporting services and habitat services"
+90,definitions2,18,True,False,False,
+91,definitions2,19,True,False,False,
+92,definitions2,20,True,False,False,
+93,definitions2,21,True,False,False,
+94,definitions2,22,True,False,False,
+95,definitions2,23,True,False,False,
+96,definitions2,24,True,False,False,
+97,definitions2,25,True,False,False,
+98,definitions2,26,True,False,False,
+99,ponds2,-1,True,,,
+100,ponds2,0,True,False,False,
+101,ponds2,1,True,False,False,
+102,ponds2,2,True,False,False,
+103,ponds2,3,True,False,False,
+104,ponds2,4,True,False,False,
+105,ponds2,5,True,False,False,
+106,ponds2,6,True,False,False,
+107,ponds2,7,True,False,False,
+108,ponds2,8,True,False,False,
+109,ponds2,9,True,False,False,
+110,definitions1,-1,True,,,
+111,definitions1,0,True,False,False,
+112,definitions1,1,True,False,False,
+113,definitions1,2,True,False,False,
+114,definitions1,3,True,False,False,
+115,definitions1,4,True,False,False,
+116,definitions1,5,True,False,False,
+117,definitions1,6,True,False,False,
+118,definitions1,7,True,False,False,
+119,definitions1,8,True,False,False,
+120,definitions1,9,True,False,False,
