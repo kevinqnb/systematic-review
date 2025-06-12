@@ -1,0 +1,2020 @@
+,doi,chunk,abstract_bool,definition_bool,table_bool,definition
+0,10.1002/lno.12769,-1,False,,,
+1,10.1002/lno.70071,-1,False,,,
+2,10.1002/lno.12802,-1,True,,,
+3,10.1002/lno.12802,0,True,False,False,
+4,10.1002/lno.12812,-1,False,,,
+5,10.1002/lno.12773,-1,False,,,
+6,10.1002/lno.70066,-1,True,,,
+7,10.1002/lno.70066,0,True,False,False,
+8,10.1002/lno.12779,-1,False,,,
+9,10.1002/lno.70045,-1,True,,,
+10,10.1002/lno.70045,0,True,False,False,
+11,10.1002/lno.70045,1,True,True,False,"The coastal Southern Ocean (SO) phytoplankton community is being studied. It is specifically described as containing *Phaeocystis antarctica, Chaetoceros simplex, and Geminigera cryophila*, representing ""different taxonomical key groups"" of this community. The text does not provide further details on the physical characteristics of these coastal ecosystems, but frames them as being subject to ongoing warming and changes in nutrient replenishment.
+</end_of_turn>"
+12,10.1002/lno.70045,2,True,False,True,
+13,10.1002/lno.70045,3,True,False,False,
+14,10.1002/lno.70045,4,True,False,False,
+15,10.1002/lno.70045,5,True,False,False,
+16,10.1002/lno.70045,6,True,False,True,
+17,10.1002/lno.70045,7,True,False,False,
+18,10.1002/lno.70045,8,True,False,True,
+19,10.1002/lno.70045,9,True,False,True,
+20,10.1002/lno.70045,10,True,False,False,
+21,10.1002/lno.70045,11,True,False,True,
+22,10.1002/lno.70045,12,True,False,False,
+23,10.1002/lno.70082,-1,False,,,
+24,10.1002/lno.70001,-1,False,,,
+25,10.1002/lno.12782,-1,False,,,
+26,10.1002/lno.70023,-1,False,,,
+27,10.1002/lno.70006,-1,True,,,
+28,10.1002/lno.70006,0,True,True,False,"The coastal ecosystems being studied are **macroalgal forests**, specifically those dominated by the seaweed species *Ecklonia radiata* and *Scytothalia dorycarpa*. 
+
+The context defines these ecosystems by depth, distinguishing between **shallow reefs** (10-20 m depth) and **deep reefs** (50 m depth). The defining characteristic is the depth at which the dominant canopy-forming seaweeds are found. Additionally, the text specifies these ecosystems are found in **Western Australia**.
+"
+29,10.1002/lno.70006,1,True,True,False,"The coastal ecosystems being studied are **macroalgal forests** along the southern coast of Australia, collectively referred to as the **Great Southern Reef**. 
+
+Here are the definitions provided in the context:
+
+*   **Macroalgal Forests:** Extensive forests composed of macroalgae. They are highly productive ecosystems.
+*   **Great Southern Reef:** Macroalgal forests along the southern coast of Australia that contribute a greater net economic benefit from blue carbon storage and sequestration than any other country on the planet. It is estimated that Australian macroalgal forests export more POC to deep ocean sinks than any other country worldwide. The macroalgal forests in the Great Southern Reef contribute as much as 30% of all blue carbon in Australia.
+*   **Kelp Forests:** A subset of macroalgal forests, specifically dominated by kelp species like *Ecklonia radiata*.
+*   **Fucoid Forests:** A subset of macroalgal forests, specifically dominated by fucoid species like *Sargassum dorycarpa*.
+
+Additionally, the context mentions other **coastal vegetated ecosystems** generally:
+
+*   **Blue carbon ecosystems:** Coastal mangroves, salt marshes, and seagrass meadows that collectively store and sequester 0.5-0.8% of anthropogenic carbon dioxide emissions. 
+
+The context also briefly alludes to **reefs**, specifically *donor reefs* which release detritus, but does not define them beyond this characteristic.
+
+
+
+</end_of_turn>"
+30,10.1002/lno.70006,2,True,True,False,"The coastal ecosystems being studied are **macroalgal reefs** distributed along the inner and outer shelf of the **Rottnest Continental Shelf** in Southwest Australia. 
+
+Specifically:
+
+*   **Rottnest Continental Shelf**: A gradually sloping seafloor that drops sharply to 200m depth, and is influenced by the Leeuwin Current and cross-shelf currents (DSWT).
+*   **Macroalgal reefs**: These are distributed along the inner and outer shelf, with outer shelf reefs comprising approximately one third of the total reefs from 0 to 60m depth. They are the focus of the decomposition experiment.
+
+The text does not provide definitions for other coastal ecosystems listed in the prompt (intertidal zones, estuaries, lagoons, etc.)."
+31,10.1002/lno.70006,3,True,False,False,
+32,10.1002/lno.70006,4,True,False,False,
+33,10.1002/lno.70006,5,True,False,True,
+34,10.1002/lno.70006,6,True,False,False,
+35,10.1002/lno.70006,7,True,False,True,
+36,10.1002/lno.70006,8,True,True,True,"The following coastal ecosystems are studied in this context, with their defining characteristics as described in the text:
+
+*   **Reefs:** Specifically, reefs occurring on the **Rottnest Continental Shelf**, with a distinction made between **inner shelf reefs** (8 individuals m-2) and **outer shelf reefs** (projected to comprise one-third of total reefs between 0 and 60m depth, experience lower light conditions).
+*   **Kelp Forests:** Specifically, forests dominated by the Australian kelp, *E. radiata*.
+*   **Coastal Environments experiencing Downwelling Shelf Waves and Currents (DSWT):** These are characterized by the presence of cross-shelf currents (typical velocities of 0.15 m s-1 along the seafloor) and are suggested to have higher potential for POC carbon export to deep ocean sinks.
+*   **Shallow Reefs (10-30m depth):** These are described as potentially having similar to and potentially greater macroalgal carbon sequestration rates than national estimates.
+* **Deep reefs:** located on the outer shelf, experience lower light conditions and may be important contributors to macroalgal export to the deep ocean.
+
+
+
+</start_of_turn>"
+37,10.1002/lno.70006,9,True,False,True,
+38,10.1002/lno.70006,10,True,False,False,
+39,10.1002/lno.70080,-1,True,,,
+40,10.1002/lno.70080,0,True,False,False,
+41,10.1002/lno.70080,1,True,True,False,"The coastal ecosystems being studied are **salt marshes**. 
+
+Here are the definitions provided in the context:
+
+*   **Salt marshes** are described as ecosystems characterized by a high variability of abiotic conditions on a small spatial scale, specifically along an elevational gradient in relation to mean high tide (MHT) and associated inundation frequency. They are critically important due to their high ecosystem service potential, especially with regard to coastal protection and carbon sequestration (blue carbon), both mediated through root-related processes.
+
+Within salt marshes, three distinct **vegetation zones** are defined:
+
+*   **Pioneer zone (PIO)**: Located at the lowest elevations, experiencing frequently waterlogged soils.
+*   **Low marsh (LM)**: Located at intermediate elevations, regularly flooded.
+*   **High marsh (HM)**: Located at the highest elevations, experiencing pronounced competition and temporal drought.
+
+The text also specifies these marshes are **mesotidal**, meaning they have a moderate tidal amplitude. "
+42,10.1002/lno.70080,2,True,True,False,"The study is being conducted in **marshes** on the **Hamburger Hallig** on the **German North Sea coast**. 
+
+The text specifically mentions **three distinct marsh zones** within the study site: **PIO, LM, and HM**. No further distinguishing attributes or descriptive characteristics are provided for these zones within the given context.
+
+The broader location is part of the **Schleswig-Holstein Wadden Sea National Park** and is a **UNESCO World Heritage site**. It is also described as having a **tidal range of approximately 3.0 m** and a **mean annual temperature of 9.6 C** with **mean annual precipitation of 859 mm**.
+</end_turn>"
+43,10.1002/lno.70080,3,True,False,False,
+44,10.1002/lno.70080,4,True,False,False,
+45,10.1002/lno.70080,5,True,False,True,
+46,10.1002/lno.70080,6,True,True,False,"The coastal ecosystems being studied are **salt marshes**. 
+
+The context defines them as having **variability of root biomass regardless of temperature treatment, with the highest root biomass occurring during summer** and being subject to **tidal flooding events**. They also have different **zones** and **soil depths** that affect the response to warming treatments. Additionally, they experience variations in **precipitation** amounts throughout the growing season.
+"
+47,10.1002/lno.70080,7,True,True,True,"The context describes two coastal ecosystems:
+
+1. **Wadden Sea salt marshes:** Largely composed of **mineral soils** and face **meso-to macrotidal flooding**.
+2. **Brackish salt marshes at the US coast:** Have **highly organic soils (up to 90%)** and face **microtidal conditions**. 
+
+Additionally, the text mentions **mangrove species** as being part of a broader comparison of warming studies, but does not provide a defining characteristic of these ecosystems within the context of this paper.
+"
+48,10.1002/lno.70080,8,True,False,False,
+49,10.1002/lno.70080,9,True,True,False,"The study focuses on **salt marshes** at the **North Sea Coast in Germany**, specifically on **Hamburger Hallig**. 
+
+Within these salt marshes, three **zones** are defined:
+
+*   **PIO (pioneer zone)**
+*   **LM (low marsh)**
+*   **HM (high marsh)**
+
+The zones are distinguished by their warming treatment—ambient (blue), +1.5°C (yellow), or +3°C (red)—applied within the **MERIT experiment**. The text does not give other distinguishing characteristics for these zones beyond their location within the broader salt marsh and their experimental treatment.
+"
+50,10.1002/lno.70080,10,True,True,True,"The research is studying salt marshes, specifically three zones within them:
+
+*   **Pioneer zone (PIO):** Flooded mostly twice a day, 3.85 cm above Mean High Tide (MHT), mainly vegetated by *Spartina anglica* and *Salicornia europaea*.
+*   **Low marsh (LM):** Flooded during spring tides, 40.55 cm above MHT, more species-rich and with high abundances of *Halimione portulacoides*, *Limonium vulgare*, and *Puccinellia maritima*.
+*   **High marsh (HM):** Flooded only occasionally during storm tides, 77.95 cm above MHT, dominated by *Elymus athericus*."
+51,10.1002/lno.70080,11,True,False,False,
+52,10.1002/lno.12748,-1,True,,,
+53,10.1002/lno.12748,0,True,True,False,"The study focuses on a **dynamic coastal ecosystem** where **doliolids are a major member of the zooplankton community** and where **prey fields vary dynamically between dominance by large eukaryotic phytoplankton (e.g., diatoms), small prokaryotic plankton (including the picocyanobacterium Synechococcus, pelagic Archaea, and heterotrophic bacteria)**. 
+
+Specifically, it is the **Northern California Current system**, as mentioned in the Abstract. 
+
+The distinguishing attribute is the presence of a major doliolid population and dynamically shifting prey dominance between larger eukaryotic phytoplankton and smaller prokaryotic plankton.
+</end_of_turn>"
+54,10.1002/lno.12748,1,True,False,False,
+55,10.1002/lno.12748,2,True,False,False,
+56,10.1002/lno.12748,3,True,False,False,
+57,10.1002/lno.12748,4,True,False,False,
+58,10.1002/lno.12748,5,True,False,False,
+59,10.1002/lno.12748,6,True,False,False,
+60,10.1002/lno.12748,7,True,False,True,
+61,10.1002/lno.12748,8,True,False,False,
+62,10.1002/lno.12748,9,True,False,False,
+63,10.1002/lno.12748,10,True,False,False,
+64,10.1002/lno.12748,11,True,False,False,
+65,10.1002/lno.12748,12,True,False,False,
+66,10.1002/lno.12716,-1,False,,,
+67,10.1002/lno.70009,-1,True,,,
+68,10.1002/lno.70009,0,True,False,False,
+69,10.1002/lno.12730,-1,True,,,
+70,10.1002/lno.12730,0,True,False,False,
+71,10.1002/lno.12730,1,True,False,False,
+72,10.1002/lno.12730,2,True,False,False,
+73,10.1002/lno.12730,3,True,False,False,
+74,10.1002/lno.12730,4,True,False,False,
+75,10.1002/lno.12730,5,True,False,True,
+76,10.1002/lno.12730,6,True,False,True,
+77,10.1002/lno.12730,7,True,False,True,
+78,10.1002/lno.12730,8,True,False,True,
+79,10.1002/lno.12730,9,True,False,True,
+80,10.1002/lno.12730,10,True,False,True,
+81,10.1002/lno.12730,11,True,False,True,
+82,10.1002/lno.12730,12,True,False,True,
+83,10.1002/lno.12730,13,True,False,False,
+84,10.1002/lno.12730,14,True,False,False,
+85,10.1002/lno.12730,15,True,False,False,
+86,10.1002/lno.12759,-1,True,,,
+87,10.1002/lno.12759,0,True,True,False,"The coastal ecosystems being studied are **seagrass meadows**. 
+
+The context defines them as ecosystems that:
+
+*   Support a multitude of ecosystem functions.
+*   Are a consequence of processes occurring at contrasting levels of ecological scale (molecular to trophic).
+*   Contribute to coastal processes like carbon sequestration and nitrogen assimilation/fixation.
+*   Provide habitat and nursery provision for marine biodiversity.
+*   Are comprised of the seagrass host and the microbes which interact (the holobiont).
+*   Play an important role in elemental cycling and seagrass health.
+
+
+
+</start_of_turn>"
+88,10.1002/lno.12759,1,True,True,False,"The coastal ecosystems being studied are **seagrass meadows**, specifically those containing the species *Halophila ovalis*. 
+
+The context describes these seagrass meadows as:
+
+*   Occupying a large area less than 1 km from Hong Kong International Airport, making them susceptible to high sedimentation from human disturbances.
+*   Located in the tropical Indo-Pacific and subtropical regions, such as Hong Kong.
+*   Being a major food source for mega herbivores.
+*   Providing benefits relating to water purification.
+*   Experiencing combined stress from light limitation and elevated temperature associated with marine heatwaves (MHWs).
+*   Small and rapidly growing.
+
+
+
+</start_of_turn>"
+89,10.1002/lno.12759,2,True,False,False,
+90,10.1002/lno.12759,3,True,False,False,
+91,10.1002/lno.12759,4,True,False,False,
+92,10.1002/lno.12759,5,True,False,False,
+93,10.1002/lno.12759,6,True,False,False,
+94,10.1002/lno.12759,7,True,False,False,
+95,10.1002/lno.12759,8,True,False,False,
+96,10.1002/lno.12759,9,True,False,False,
+97,10.1002/lno.12759,10,True,False,True,
+98,10.1002/lno.12759,11,True,False,False,
+99,10.1002/lno.12759,12,True,False,False,
+100,10.1002/lno.12759,13,True,False,False,
+101,10.1002/lno.12759,14,True,False,False,
+102,10.1002/lno.12759,15,True,True,False,"The coastal ecosystems being studied are **seagrass meadows**. 
+
+The context defines them as areas containing *H. ovalis* seagrass, and notes that these meadows can be negatively impacted by a combination of temperature increases (from Marine Heat Wave events) and light limitation, leading to lower growth rates, increased degradation, and lower nitrogen uptake rates. The context also describes them as ecosystems where microbial communities respond to climate and non-climate-related anthropogenic change.
+</start_of_turn>"
+103,10.1002/lno.12759,16,True,False,False,
+104,10.1002/lno.12752,-1,True,,,
+105,10.1002/lno.12752,0,True,False,False,
+106,10.1002/lno.12752,1,True,False,False,
+107,10.1002/lno.12752,2,True,False,False,
+108,10.1002/lno.12752,3,True,False,False,
+109,10.1002/lno.12752,4,True,False,False,
+110,10.1002/lno.12752,5,True,False,False,
+111,10.1002/lno.12752,6,True,False,False,
+112,10.1002/lno.12752,7,True,False,False,
+113,10.1002/lno.70089,-1,True,,,
+114,10.1002/lno.70089,0,True,True,False,"The coastal ecosystems being studied are **seagrass meadows, mangrove forests, and salt marshes**. 
+
+The context defines these as **important carbon sinks that can store carbon for millennia**. Specifically, they are referred to as **blue carbon ecosystems**.
+"
+115,10.1002/lno.70089,1,True,True,False,"The context describes **Blue carbon ecosystems (BCEs)** as:
+
+**coastal ecosystems such as salt marshes, mangrove forests, and seagrass meadows that sequester atmospheric carbon dioxide as organic matter (OM) and preserve it in underlying sediments.**
+
+The distinguishing attribute of these ecosystems, as defined in the text, is their ability to **sequester and preserve atmospheric carbon dioxide as organic matter in sediments.**
+"
+116,10.1002/lno.70089,2,True,True,False,"The context describes **coastal wetlands**, specifically a **marsh** located at CSMR near Santa Barbara, California. 
+
+Here are the definitions provided in the context:
+
+*   **Marsh:** Dominated by the marsh plant *Salicornia pacifica* (pickleweed, rooting depth 10-15 cm). Historically receives nutrient input from agricultural and urban development, causing portions to seasonally become eutrophic. Contains *mudflat* and *mid-lower marsh* habitat.
+*   **Mudflat:** Locations with high OM (%) and observed active sulfur cycling, often covered by a semipermanent *Ulva spp.* mat associated with eutrophication.
+*   **Mid-lower marsh:** Habitat where active sulfur cycling has been observed.
+
+
+
+</start_of_turn>"
+117,10.1002/lno.70089,3,True,False,False,
+118,10.1002/lno.70089,4,True,False,False,
+119,10.1002/lno.70089,5,True,False,True,
+120,10.1002/lno.70089,6,True,False,True,
+121,10.1002/lno.70089,7,True,True,True,"The context describes marshes as the coastal ecosystem being studied. Specifically, three distinct vegetation zones within the marsh are defined as follows:
+
+*   **Site A:** Mudflat with *Ulva* vegetation.
+*   **Site B:** Vegetated with *Salicornia*.
+*   **Site C:** Mudflat, bare sediment.
+
+Additionally, the context mentions **peat-forming mangroves** as another coastal ecosystem, but only in comparison to the marshes studied at CSMR. It defines these mangroves by their high organic matter (OM) content and a low ratio of pyrite to protokerogen organic sulfur content (< 1)."
+122,10.1002/lno.70089,8,True,False,True,
+123,10.1002/lno.70089,9,True,False,True,
+124,10.1002/lno.70089,10,True,False,False,
+125,10.1002/lno.70089,11,True,False,False,
+126,10.1002/lno.70042,-1,True,,,
+127,10.1002/lno.70042,0,True,False,False,
+128,10.1002/lno.70042,1,True,False,False,
+129,10.1002/lno.70042,2,True,False,False,
+130,10.1002/lno.70042,3,True,False,True,
+131,10.1002/lno.70042,4,True,False,False,
+132,10.1002/lno.70042,5,True,False,True,
+133,10.1002/lno.70042,6,True,False,False,
+134,10.1002/lno.70042,7,True,False,False,
+135,10.1002/lno.70042,8,True,False,False,
+136,10.1002/lno.70042,9,True,False,False,
+137,10.1002/lno.70042,10,True,False,False,
+138,10.1002/lno.70042,11,True,False,False,
+139,10.1002/lno.70042,12,True,False,False,
+140,10.1002/lno.70042,13,True,False,False,
+141,10.1002/lno.12790,-1,True,,,
+142,10.1002/lno.12790,0,True,False,False,
+143,10.1002/lno.12732,-1,True,,,
+144,10.1002/lno.12732,0,True,False,False,
+145,10.1002/lno.12732,1,True,False,False,
+146,10.1002/lno.12733,-1,True,,,
+147,10.1002/lno.12733,0,True,False,False,
+148,10.1002/lno.12733,1,True,False,False,
+149,10.1002/lno.12733,2,True,False,False,
+150,10.1002/lno.12733,3,True,False,True,
+151,10.1002/lno.12733,4,True,False,False,
+152,10.1002/lno.12733,5,True,False,False,
+153,10.1002/lno.12733,6,True,False,False,
+154,10.1002/lno.12733,7,True,False,False,
+155,10.1002/lno.12733,8,True,False,False,
+156,10.1002/lno.12733,9,True,False,False,
+157,10.1002/lno.12733,10,True,False,False,
+158,10.1002/lno.12733,11,True,False,False,
+159,10.1002/lno.12733,12,True,False,False,
+160,10.1002/lno.12742,-1,True,,,
+161,10.1002/lno.12742,0,True,True,False,"The study focuses on **saline wetlands**, specifically **salt marshes**. 
+
+Salt marshes are defined as ecosystems that: 
+
+*   Play a crucial role in climate regulation through rapid carbon sequestration and minimal methane production.
+*   Are dominated by *Spartina anglica* in this study.
+*   Can be fully or partially submerged due to rising sea levels.
+*   Function as potent CO2 sinks and minor sources of CH4 during the growing season with near-surface water levels (-10 to 5 cm).
+</start_of_turn>"
+162,10.1002/lno.12742,1,True,True,False,"The context focuses on three specific coastal ecosystems:
+
+1.  **Mangrove forests:** These are vegetated coastal ecosystems.
+2.  **Salt marshes:** These are vegetated coastal ecosystems that contribute significantly to long-term carbon sequestration, despite covering only a small portion of global land area (0.04%). They have a mean long-term rate of carbon sequestration of 218 g C m<sup>-2</sup> yr<sup>-1</sup>, approximately 48 times higher than terrestrial forest ecosystems. Microbial CH<sub>4</sub> production and emissions are low due to the presence of sulfate ions in seawater.
+3.  **Seagrass meadows:** These are vegetated coastal ecosystems.
+
+Additionally, the text broadly refers to **coastal wetlands** and specifically mentions **temperate coastal wetlands** as the location for the controlled experiment. These are described as locations where shifts in water table level due to relative sea level rise and tidal activities can significantly affect long-term GHG production.
+</end_of_turn>"
+163,10.1002/lno.12742,2,True,False,True,
+164,10.1002/lno.12742,3,True,False,False,
+165,10.1002/lno.12742,4,True,False,False,
+166,10.1002/lno.12742,5,True,False,False,
+167,10.1002/lno.12742,6,True,False,True,
+168,10.1002/lno.12742,7,True,False,True,
+169,10.1002/lno.12742,8,True,False,False,
+170,10.1002/lno.12742,9,True,True,True,"The coastal ecosystems being studied are **salt marshes** and **temperate salt marshes**. 
+
+Here are the definitions provided in the text:
+
+*   **Salt marshes:** These are near-surface and subsurface water-level ecosystems that act as sinks for CO2 and minor sources for CH4 during the growing season. They are characterized by being affected by tides, with semi-diurnal tides potentially being low but experiencing extended flooding due to wind influence. They can have salinity above 18 PSU, which enables sulfate-reducing bacteria to outcompete methanogenic bacteria.
+*   **Temperate salt marshes:** These are specifically mentioned as the focus of comparison with other similar ecosystems, and are *dominated by Spartina species.* They have low CH4 emission rates compared to global averages and other Spartina-dominated marshes. They are characterized by having fluctuating water table levels that don't significantly affect CH4 fluxes due to combined effects of CH4 production potential, substrate composition, and plant growth.
+
+
+
+</start_of_turn>"
+171,10.1002/lno.12742,10,True,False,False,
+172,10.1002/lno.12742,11,True,False,True,
+173,10.1002/lno.12742,12,True,False,True,
+174,10.1002/lno.12768,-1,False,,,
+175,10.1002/lno.70003,-1,False,,,
+176,10.1002/lno.70088,-1,True,,,
+177,10.1002/lno.70088,0,True,False,False,
+178,10.1002/lno.70088,1,True,True,False,"Here are the coastal ecosystems studied, as defined by the provided text:
+
+*   **Seagrass Beds:** Extensive underwater grassland patches established through lateral vegetative reproduction, flourishing in shallow, well-lit coastal sedimentary environments from equatorial to boreal regions. They provide numerous ecosystem services, including primary production, nutrient filtering, nurseries, carbon sequestration, water clarification, and coastal protection.
+*   **Coral Reefs:** The study site is specifically *Shiraho coral reef*, and the text notes seagrass beds are often situated within shallow protected zones *such as* coral reef lagoons. The text does not provide a defining description of coral reefs themselves, but implies they are characterized by lagoons.
+*   **Mangroves:** Mentioned as part of a coastal ecotone *encompassing from mangroves to coral reefs*, but no defining characteristics are given.
+*   **Lagoons:** Shallow protected zones where seagrass beds are often found, particularly within coral reefs.
+
+It’s important to note that the text primarily focuses on seagrass beds and their interactions with coral reefs and mentions mangroves as part of a larger ecosystem context, without providing detailed definitions for all ecosystems.
+
+
+
+</end_of_turn>"
+179,10.1002/lno.70088,2,True,True,True,"The following coastal ecosystems are being studied, with definitions provided from the context:
+
+*   **Fringing Reef:** A reef that stretches approximately 8 km in length, with the distance from the shoreline to the reef edge varying from 600 to 1000 m, and a mean depth of approximately 2 m within the enclosed lagoon (moat).
+*   **Lagoon:** An enclosed body of water associated with the fringing reef, encompassing approximately 7.8% seagrass vegetated habitat. It receives clear groundwater from carbonate aquifers and is subject to mineral soil pollution from river runoff, particularly during rainy and typhoon seasons.
+*   **Seagrass Beds/Meadows:** Areas within the lagoon characterized by a diverse mix of species, including *Thalassia hemprichii*, *Cymodocea serrulata*, and *Cymodocea rotundata*. They are primarily located in the nearshore intertidal and subtidal zones, and dense meadows dominated by *T. hemprichii* were present in the southern region of the lagoon.
+*   **Reef Coral Zone:** A specific area within the reef where sediment traps were deployed.
+*   **Bare Sand Area:** A specific area within the reef, distinct from coral zones and seagrass beds, where sediment traps were deployed.
+
+
+
+</end_of_turn>"
+180,10.1002/lno.70088,3,True,False,False,
+181,10.1002/lno.70088,4,True,True,False,"The context describes two coastal ecosystems:
+
+1. **Shallow nearshore habitats**: These are the general areas where sediment mobility is being studied and where the physical environmental parameters are estimated using modeling. The context doesn't give specific attributes beyond this general location.
+
+2. **Seagrass beds**: Specifically, beds of *Thalassia hemprichii* are being studied. They are characterized by:
+    *   Temporal changes in shoot density.
+    *   Canopy height.
+    *   Being subject to herbivory by green sea turtles.
+    *   Located at the study site, with specific trap sites designated S5 (north), S6 (center), and S7 (south).
+    *   The context also mentions that they are fringing reefs.
+</start_of_turn>"
+182,10.1002/lno.70088,5,True,False,False,
+183,10.1002/lno.70088,6,True,False,False,
+184,10.1002/lno.70088,7,True,True,True,"The context describes two coastal ecosystems:
+
+1. **Coral reef lagoon:** This is the general setting for the experiments, and is described as a location where sediment mobility and its influence by physical forcings are investigated.
+2. **Seagrass beds:** These are specifically located *within* the coral reef lagoon. They are defined by the presence of *Thalassia hemprichii* seagrass, and are characterized by their ability to mitigate sediment resuspension and impact the composition of resuspended sediment. The context also notes they are subject to loss due to herbivore grazing, reducing aboveground biomass (defined as proportional to the product of shoot density and canopy height).
+</end{start_of_turn>"
+185,10.1002/lno.70088,8,True,False,False,
+186,10.1002/lno.70088,9,True,True,False,"Here are the coastal ecosystems studied, with definitions from the provided text:
+
+*   **Coral-dominated zone:** An area primarily comprised of coral, facing the reef crest where waves break and experiencing higher bottom shear stress.
+*   **Bare sand zone:** An area of sand with comparable hydrodynamic conditions to the seagrass zone, and where significant correlations were observed between bottom shear stress and sediment resuspension rates (SARs).
+*   **Seagrass zone (or seagrass beds/meadows):** An area where seagrasses grow, functioning as a barrier against riverborne particulate materials and trapping sediment. This zone experiences lower bottom shear stress compared to the coral zone, and does *not* show a correlation between bottom shear stress and sediment resuspension rates (SARs).
+*   **Lagoon:** The broader body of water containing these zones, receiving terrestrial soil from an inflowing river.
+*   **Reef Crest:** The location facing the open ocean where waves break.
+
+
+
+</start_of_turn>"
+187,10.1002/lno.70088,10,True,False,False,
+188,10.1002/lno.70088,11,True,True,False,"The context describes the following coastal ecosystems:
+
+*   **Coral Reefs:** Specifically, *fringing coral reefs* are mentioned, located to the east of Ishigaki Island (Shiraho Reef). They are habitats for corals and coralline algae and are threatened by sediment load and other anthropogenic impacts.
+*   **Seagrass Beds (or Seagrass Meadows):** These are described as accumulating mineral soil from rivers, preventing its entry into coral reef habitats. They are also noted for their ability to mitigate ocean acidification and their vulnerability to intensive grazing by green sea turtles. Different species are mentioned, including *Halophila ovalis* and *Halodule uninervis*, which are smaller, fast-growing and are gradually recruiting to fill gaps created by herbivory.
+*   **Lagoons:** The context mentions that seagrass loss can alter the *geomorphology of the lagoon* over time. 
+*   **Watersheds:** Mentioned as being affected by landuse activities which contribute to increased sediment loading.
+
+It is important to note that the context does not provide explicit definitions for *watersheds* or *intertidal zones*, marshes, mangroves, or kelp forests. It simply references their role in impacting sediment load or the broader coastal environment.
+
+
+
+</start_of_turn>"
+189,10.1002/lno.70088,12,True,True,True,"Based on the provided text, the following coastal ecosystems are being studied:
+
+*   **Coral zones:** These are areas with coral present. No distinguishing attributes beyond presence of coral are given.
+*   **Seagrass zones:** Areas with *Thalassia hemprichii* seagrass. These zones are further defined by observations of leaf length and shoot density, which vary over time (Table 1). The text also indicates these zones can experience “loss due to intensive grazing by green sea turtles.”
+*   **Bare sand zones:** Areas of sand without coral or seagrass. No other distinguishing attributes are given.
+
+The context does *not* mention any other coastal ecosystems. It is important to note that the definitions are limited to the attributes observed within the study itself and do not represent comprehensive ecological descriptions."
+190,10.1002/lno.12797,-1,False,,,
+191,10.1002/lno.70062,-1,True,,,
+192,10.1002/lno.70062,0,True,True,False,"The coastal ecosystems being studied are **salt marshes**. 
+
+The context defines them as **hotspots for alkalinity generation and export to coastal waters**, and specifically mentions **organic-poor minerogenic salt marsh soils** as the focus of the experiment. They are also described as having a **critical role of anaerobic microbial metabolism as a major source of total alkalinity (TA) generation**. Finally, the context suggests that areas with **high pCO 2 levels, such as the rhizosphere**, might be hotspots for alkalinity generation within these marshes via mineral dissolution.
+"
+193,10.1002/lno.70062,1,True,True,False,"The coastal ecosystems being studied are **salt marshes, mangroves, and seagrasses**. 
+
+They are collectively known as **blue carbon ecosystems (BCEs)** and are defined as ecosystems that **store vast quantities of organic matter in their soils and are recognized as hotspots for carbon sequestration.**
+"
+194,10.1002/lno.70062,2,True,False,True,
+195,10.1002/lno.70062,3,True,False,True,
+196,10.1002/lno.70062,4,True,False,True,
+197,10.1002/lno.70062,5,True,False,False,
+198,10.1002/lno.70062,6,True,False,False,
+199,10.1002/lno.70062,7,True,False,False,
+200,10.1002/lno.70062,8,True,False,False,
+201,10.1002/lno.70062,9,True,False,False,
+202,10.1002/lno.70062,10,True,False,False,
+203,10.1002/lno.70062,11,True,False,False,
+204,10.1002/lno.70062,12,True,False,True,
+205,10.1002/lno.12809,-1,True,,,
+206,10.1002/lno.12809,0,True,False,False,
+207,10.1002/lno.12809,1,True,False,False,
+208,10.1002/lno.12809,2,True,False,False,
+209,10.1002/lno.12809,3,True,False,False,
+210,10.1002/lno.12809,4,True,False,False,
+211,10.1002/lno.12809,5,True,False,False,
+212,10.1002/lno.12809,6,True,False,True,
+213,10.1002/lno.12809,7,True,False,True,
+214,10.1002/lno.12809,8,True,False,False,
+215,10.1002/lno.12809,9,True,False,False,
+216,10.1002/lno.12809,10,True,False,True,
+217,10.1002/lno.12809,11,True,False,False,
+218,10.1002/lno.12809,12,True,False,False,
+219,10.1002/lno.12809,13,True,False,False,
+220,10.1002/lno.12809,14,True,False,False,
+221,10.1002/lno.12809,15,True,False,False,
+222,10.1002/lno.12788,-1,False,,,
+223,10.1002/lno.70052,-1,False,,,
+224,10.1002/lno.12734,-1,True,,,
+225,10.1002/lno.12734,0,True,False,False,
+226,10.1002/lno.12734,1,True,True,False,"The coastal ecosystems being studied are **mangrove-tidal flat transitions** and **seagrass-tidal flat transitions**. 
+
+Here's how they are defined in the context:
+
+*   **Mangrove-tidal flat transitions:** This refers to the area where mangrove ecosystems connect with tidal flat habitats.
+*   **Seagrass-tidal flat transitions:** This refers to the area where seagrass ecosystems connect with tidal flat habitats.
+
+The text focuses on the *transitions* between these ecosystems and tidal flats, suggesting an investigation of the carbon dynamics *at the boundary* or interface between them, rather than within the ecosystems themselves in isolation. 
+</start_of_turn>"
+227,10.1002/lno.12734,2,True,True,False,"The following coastal ecosystems are being studied, with definitions from the provided text:
+
+*   **Mangroves:** Occur at median elevations from -0.1 m to + 1.5 m relative to mean sea level; more than 35 species are present in Singapore's coastal ecosystems.
+*   **Seagrasses:** Found in the low intertidal and subtidal portions of the tidal frame, often co-occurring with patchy corals and tidal flats; 15 or more species are present in Singapore's coastal ecosystems.
+*   **Tidal Flats:** Habitats that co-occur with seagrasses and mangroves; $75% of tidal flat habitats have been lost due to coastal development.
+*   **Estuarine Habitats:** Represented by the Sungei Buloh location, which is described as an estuarine mangrove to tidal flat habitat.
+*   **Sandy Coastal Seagrass Habitats:** Represented by the Chek Jawa location.
+*   **Open Tidal Channel Habitats:** Represented by the Sungei Puaka location, which is described as an open tidal channel mangrove to tidal flat habitat.
+
+The study focuses on the transition zones – *ecotones* – between these vegetated and unvegetated habitats.
+
+</end_of_turn>"
+228,10.1002/lno.12734,3,True,True,False,"The context describes three coastal ecosystems:
+
+1.  **Mangrove systems:** These are distinguished by the measurement of soil and pneumatophore flux. Pneumatophores are specifically mentioned as a component of this system.
+2.  **Seagrass systems:** These are characterized by having a limited number of species and being in an intertidal position. Measurements represent the entire ecosystem (plant and soil).
+3.  **Tidal flat systems:** These are mentioned alongside seagrass systems, and measurements represent the entire ecosystem, though no distinguishing attributes are given beyond that. 
+
+
+
+</start_of_turn>"
+229,10.1002/lno.12734,4,True,False,True,
+230,10.1002/lno.12734,5,True,False,True,
+231,10.1002/lno.12734,6,True,False,False,
+232,10.1002/lno.12734,7,True,True,False,"Here are the coastal ecosystems studied, as defined by the text:
+
+*   **Seagrass Beds:** Areas containing seagrass vegetation. The text notes that some of the seagrass species present are “pioneer species” which are described as having a “small stature, recent establishment, and sometimes ephemeral nature”.
+*   **Tidal Flats:** Adjacent to seagrass beds and mangroves, these areas commonly ""maintain lower amounts of carbon compared to seagrasses.""
+*   **Mangrove Forests/Patches:** Areas containing mangrove vegetation. The text indicates these forests can have “interior portions” and “fringes” with differing carbon storage levels. The context also references mangrove “ecotonal areas” (transition zones). The text also notes that some mangrove patches are relatively narrow due to anthropogenic impacts.
+*   **Mangrove-Tidal Flat Ecotonal Areas:** The transition zone between mangrove forests and tidal flats, studied across a distance of approximately 5 to 5 meters on transects. These areas exhibit larger amounts of variability compared to interior portions.
+
+The text frequently refers to the “aboveground transition” between these ecosystems, which likely refers to the visible boundary between the vegetation and the adjacent tidal flats. Belowground carbon stock transitions are also described as having a wider sigmoidal transition compared to the aboveground portions.
+
+
+
+</start_of_turn>"
+233,10.1002/lno.12734,8,True,True,False,"Based on the provided text, the coastal ecosystems being studied are:
+
+*   **Mangroves:** Defined by transitions from mangroves to tidal flats. They are associated with overestimation of soil carbon in assessments.
+*   **Seagrass:** Defined by transitions from seagrass to tidal flats.
+*   **Tidal Flats:** Defined as adjacent to mangroves and seagrass, and potentially found in developed areas where blue carbon habitats previously existed. They are associated with underestimation of carbon in assessments when paired with mangrove assessments and can store carbon derived from adjacent vegetated ecosystems (transport or habitat migration).
+*   **Unvegetated systems:** Adjacent to blue carbon habitats, and may store carbon derived from blue carbon ecosystems through transport or habitat migration.
+*   **Ecotonal areas:** Transitions between vegetated and unvegetated ecosystems. These areas show heterogeneity and have been shown to have different carbon storage and sequestration rates than patch interiors.
+
+
+
+It is important to note that the text primarily focuses on the *transitions* between these ecosystems (ecotones) and their adjacent areas, rather than detailed descriptions of the ecosystems themselves."
+234,10.1002/lno.12734,9,True,False,True,
+235,10.1002/lno.12734,10,True,False,True,
+236,10.1002/lno.12776,-1,True,,,
+237,10.1002/lno.12776,0,True,False,False,
+238,10.1002/lno.12715,-1,True,,,
+239,10.1002/lno.12715,0,True,False,False,
+240,10.1002/lno.12715,1,True,False,False,
+241,10.1002/lno.12715,2,True,False,False,
+242,10.1002/lno.12715,3,True,False,True,
+243,10.1002/lno.12715,4,True,False,False,
+244,10.1002/lno.12715,5,True,False,False,
+245,10.1002/lno.12715,6,True,False,False,
+246,10.1002/lno.12715,7,True,False,False,
+247,10.1002/lno.12715,8,True,False,False,
+248,10.1002/lno.12715,9,True,False,False,
+249,10.1002/lno.12715,10,True,False,True,
+250,10.1002/lno.12722,-1,True,,,
+251,10.1002/lno.12722,0,True,False,False,
+252,10.1002/lno.12722,1,True,True,False,"The context focuses on **northern Gulf of Mexico** coastal ecosystems. 
+
+Specifically, it describes these ecosystems as having:
+
+*   **A summertime hypoxic zone:** This zone ranges in size from 4400 to 22,720 km<sup>2</sup> (from 2000 to 2023) and is the second largest human-caused hypoxic zone in the world’s coastal oceans.
+*   **Stratified water column:** The water column is often stratified, inhibiting oxygen replenishment.
+*   **Slow current velocity:** The bottom water has a generally slow current velocity.
+*   **Freshwater turnover time:** The entire shelf has a freshwater turnover time of about three months.
+*   **Increasing bottom water temperature:** Summertime bottom water temperature on the continental shelf increased from 1963 to 2015 at 0.51 °C decade<sup>-1</sup>.
+*   **Diatom-zooplankton-fish linkages**: The ecosystems are characterized by linkages between diatoms, zooplankton and fish populations.
+*   **Biological pump activity**: The ecosystems are described as having carbon sequestration activity in the seabed.
+
+
+
+</start_of_turn>"
+253,10.1002/lno.12722,2,True,False,False,
+254,10.1002/lno.12722,3,True,False,False,
+255,10.1002/lno.12722,4,True,False,False,
+256,10.1002/lno.12722,5,True,False,False,
+257,10.1002/lno.12722,6,True,False,False,
+258,10.1002/lno.12722,7,True,False,False,
+259,10.1002/lno.70016,-1,False,,,
+260,10.1002/lno.12800,-1,True,,,
+261,10.1002/lno.12800,0,True,True,False,"The coastal ecosystems being studied are **seagrass meadows**. 
+
+The context defines them as ecosystems where **seagrasses** contribute **biomass**, **provide habitat**, and **damp waves and currents**. They are also described as being affected by factors that influence **light availability**, such as shading and water turbidity.
+"
+262,10.1002/lno.12800,1,True,True,False,"The coastal ecosystems being studied are **seagrass meadows**. 
+
+The context defines them as ecosystems where **seagrasses** are considered **foundation species**, meaning they provide a range of ecosystem services. Specifically, they **provide marine habitat for other organisms**, **neutralize human pathogens**, and **physically stabilize sediment and dissipate wave energy**, offering protection in estuaries and coasts.  Their **health and primary productivity are particularly threatened by factors that affect light availability**. They are also characterized by a **canopy structure** with **variable light environments** dependent on plant distribution and orientation. They are composed of **flexible vegetation** that **reconfigures in waves and currents**, affecting light availability. The **shoot density** within the meadow is a significant parameter, and the plants exhibit **self-shading** effects. Finally, they are defined by a **canopy structure** that experiences **variable light environments** that are dependent on plant distribution, orientation and motion.
+</end_of_turn>"
+263,10.1002/lno.12800,2,True,False,False,
+264,10.1002/lno.12800,3,True,False,False,
+265,10.1002/lno.12800,4,True,False,False,
+266,10.1002/lno.12800,5,True,False,True,
+267,10.1002/lno.12800,6,True,True,False,"The coastal ecosystems being studied are **seagrass meadows**. 
+
+The context defines them as having characteristics related to:
+
+*   **Flow conditions:** The impact of water flow on shading within the canopy.
+*   **Meadow conditions:** Specifically, **stem density** and **wave-driven plant reconfiguration**.
+*   **Plant properties:** Including **plant spacing (Δ)**, **length (l)**, and **elastic modulus (E)**.
+
+Additionally, the study acknowledges the impact of **wave conditions (H, T, h)** on these meadows.
+</end_of_turn>"
+268,10.1002/lno.12800,7,True,False,True,
+269,10.1002/lno.12800,8,True,True,True,"The coastal ecosystem being studied is **seagrass meadows**.
+
+The context defines them based on the following characteristics:
+
+*   **Plants:** Seagrass blades (the plants themselves) are the key component.
+*   **Motion:** They are found in wavy environments and their blades exhibit bending and oscillation due to flow-induced hydrodynamic forces.
+*   **Light Exposure:** Light availability to the blades is a key factor, with exposure dependent on blade position, bending angle, and shoot density.
+*   **Reach Ratio (R):** The length of the blade exposed to light compared to the total length of the blade.
+*   **Asymmetry (βθ,t):** A parameter describing the pattern of the blade's motion (how much it deflects over a wave cycle).
+
+In essence, the study focuses on how the interplay between wave motion, blade geometry, hydrodynamic forces (drag & buoyancy) and shoot density influence light capture by seagrass blades."
+270,10.1002/lno.12800,9,True,False,False,
+271,10.1002/lno.12800,10,True,False,False,
+272,10.1002/lno.12800,11,True,False,False,
+273,10.1002/lno.12800,12,True,False,True,
+274,10.1002/lno.12800,13,True,False,False,
+275,10.1002/lno.12738,-1,False,,,
+276,10.1002/lno.70060,-1,True,,,
+277,10.1002/lno.70060,0,True,True,False,"The coastal ecosystems being studied are **mangroves**. 
+
+The context defines mangroves as being **confined to the intertidal zone** and having **spatial constraints on the burial of SOC** within them. They are also described as ecosystems where the transition from SOC to the DIC carbon pool could be a key process in long-term carbon sequestration.
+"
+278,10.1002/lno.70060,1,True,False,False,
+279,10.1002/lno.70060,2,True,True,False,"The coastal ecosystems being studied are:
+
+*   **Mangrove:** Mature growth of *Bruguiera gymnorrhiza* and *Rhizophora stylosa* covering approximately 20.04 ha, established along tidal-dominated creeks and less affected by freshwater except during rainfall events.
+*   **Seagrass:** Distributed in parallel relative to the coast with mangrove and coral reef ecosystems.
+*   **Coral reef:** Distributed in parallel relative to the coast with mangrove and seagrass ecosystems.
+
+
+
+</start_of_turn>"
+280,10.1002/lno.70060,3,True,False,False,
+281,10.1002/lno.70060,4,True,True,True,"The coastal ecosystems being studied are **mangrove creeks** and **mangrove soils**. 
+
+Here are the definitions provided in the text:
+
+*   **Mangrove creeks:** Recognized as sources of methane emissions. The creek water is expressed as a mixture of three origins: offshore water, freshwater, and pore water. The pCO2 in the creek is constantly supersaturated.
+*   **Mangrove soils:** Influenced by the decomposition of SOC (soil organic carbon) and the mineralization of carbonate. Decomposition of SOC leads to the production of DIC and methane, contingent upon prevailing redox conditions. Pore water of mangroves is influenced by decomposition of SOC and mineralization of carbonate. These soils are also the source of DICbio.
+
+
+
+</start_of_turn>"
+282,10.1002/lno.70060,5,True,True,True,"The context describes **mangrove creeks** as a coastal ecosystem. Specifically, **Site T** is identified as a mangrove creek. The distinguishing attribute given is that the carbonate chemistry parameters (DIC, TA, and pCO 2 ), DIC isotopes, and 222Rn fluctuate in response to variations in water level at this site. Additionally, pore water is exported from the mangroves into the creek.
+"
+283,10.1002/lno.70060,6,True,True,True,"Based on the provided text, the following coastal ecosystems are being studied:
+
+*   **Mangrove forests:** Described as *mature* forests where *mangrove-derived organic matter predominantly accumulates in the soil*. They *primarily absorb atmospheric CO₂*. The terrestrial side of the mangroves is predominantly covered by natural forest.
+*   **Seagrass meadows:** The text states that *seagrasses at the study site primarily use DIC from offshore sources*.
+*   **Coral reefs:** The text states that *corals at the study site primarily use DIC from offshore sources*.
+
+The text does not provide definitions for intertidal zones, estuaries, lagoons, marshes, kelp forests, or coastal wetlands. It only focuses on the characteristics of mangroves, seagrasses, and corals within the specific study site."
+284,10.1002/lno.70060,7,True,False,True,
+285,10.1002/lno.70060,8,True,True,True,"Based on the provided text, the following coastal ecosystems are being studied:
+
+*   **Mangrove ecosystems:** Confined to the **intertidal zone** and characterized by a depth from the soil surface to the substrate of approximately 1 meter, within which approximately 2000 years of SOC can be buried. They have potential spatial constraints on SOC burial.
+*   **Saltmarsh soils:** Mentioned as showing ""present age"".
+*   **Seagrass meadows:** Referenced alongside wetlands as ecosystems where a discrepancy in SOC age has also been reported.
+*   **Wetlands:** Referenced alongside seagrass meadows as ecosystems where a discrepancy in SOC age has also been reported.
+
+The text does not provide detailed definitions for saltmarsh soils, seagrass meadows, or wetlands, beyond identifying them as locations where similar discrepancies in SOC age have been observed."
+286,10.1002/lno.70060,9,True,True,True,"The context refers to **mangrove ecosystems** specifically, and defines them as follows:
+
+*   **Mature natural mangrove forest:** The study focuses on this type of forest, distinguishing it from young or planted forests.
+*   **Subtropical climate:** The mangrove forests are located in a subtropical climate region.
+*   **Mangrove estuary:** The study is conducted in a subtropical mangrove estuary in Japan.
+*   **Mangrove soil, pore water, and creek water:** Comprehensive surveys targeting these elements are used to study the mangrove ecosystem.
+*   **Animal burrow development:** The ecosystem is characterized by seasonal development of animal burrows, with more activity during the summer season.
+
+The context focuses on a specific type of mangrove ecosystem, and highlights attributes like maturity, climate, location, and biological activity (burrow development) as distinguishing characteristics.
+</end_of_turn>"
+287,10.1002/lno.70060,10,True,False,True,
+288,10.1002/lno.70024,-1,True,,,
+289,10.1002/lno.70024,0,True,False,False,
+290,10.1002/lno.70024,1,True,True,False,"The coastal ecosystems being studied are **mangrove ecosystems** specifically within the **Daintree River estuary** in the humid tropical region of the Great Barrier Reef coast. The context defines two types of mangrove ecosystems based on their geomorphic setting:
+
+1. **High connectivity channel:** Mangroves occurring along the **main channel of the river**. These are characterized by tall mangroves, dominated by *Rhizophora apiculata* and *Bruguiera spp.*
+2. **Low connectivity channel:** Mangroves forming extensive forests along the **sinuous tidal channel of the South Arm** that terminates in a dead end. These are variable in stature and include *Bruguiera spp., Xylocarpus spp., Rhizophora stylosa, Lumnitzera spp., and Ceriops spp.* 
+
+These definitions are based on the connectivity of the channel to river flow and tidal influence, and are associated with differences in mangrove species composition and stature.
+</start_of_turn>"
+291,10.1002/lno.70024,2,True,True,False,"The context describes **intertidal mangroves** and the **Daintree River estuary** as coastal ecosystems. 
+
+Here are the definitions provided in the text:
+
+*   **Intertidal mangroves:** Extensive (32.7 km<sup>2</sup>) and diverse (28 species) forests that fringe the main channel of the river and occur within a network of tidal creeks. They are highly variable in forest composition and structure, reaching up to 30 m in height in some areas, but also occurring as extensive scrub mangroves, particularly in the South Arm.
+*   **Daintree River estuary:** A tide-dominated delta within the World Heritage Area of the Great Barrier Reef, with a catchment area of 2107 km<sup>2</sup>. It is characterized by a relatively undisturbed catchment mostly covered in tropical rainforest, with limited areas of human development. It experiences mean annual rainfall of 2037 mm yr<sup>-1</sup> and has semidiurnal tides with a range of 3.35 m. It also receives sediment delivery estimated as 1.2 times pre-European levels.
+
+
+
+</start_of_turn>"
+292,10.1002/lno.70024,3,True,True,True,"The coastal ecosystems being studied are **mangrove communities** within the **Daintree River** and its **tidal South Arm** channel. 
+
+The context defines them as:
+
+*   **Typical mangrove communities of the Daintree River** that are **similar in elevation and inundation regimes**.
+*   Sites were selected to be similar in characteristics to increase the potential of detecting differences in processes between the **main channel** and **tidal channel**.
+*   They have **similar exposure** (on southern banks), in **straight sections of the river**, and with **Upriver and Downriver sites at similar distances to the confluence of the tidal South Arm and main river channel**.
+
+Additionally, the study takes place within the **intertidal zone**. The text does not further define this zone but implies it is a zone where water levels are logged and surface elevation is monitored.
+</end_of_turn>"
+293,10.1002/lno.70024,4,True,False,True,
+294,10.1002/lno.70024,5,True,False,False,
+295,10.1002/lno.70024,6,True,False,False,
+296,10.1002/lno.70024,7,True,False,True,
+297,10.1002/lno.70024,8,True,False,False,
+298,10.1002/lno.70024,9,True,True,True,"The coastal ecosystems being studied are **mangroves** and **saltmarshes**. 
+
+Here are the definitions provided in the context:
+
+**Mangroves:** The context focuses on **fringing mangroves** of the Daintree River estuary. These are described as having a fringing area of approximately 2000 ha (excluding internal mangrove scrub) and are capable of trapping between 10,000 and 50,000 tons of sediment per year. Tall fringing *Rhizophora apiculata* are specifically mentioned and estimated to be capable of trapping around 40,000 tons of sediment per flood event (assuming 200 ha of coverage).
+
+**Saltmarshes:** Saltmarshes are mentioned only in comparison to mangroves, specifically stating that increased surface elevation due to pulsed rainfall and flooding events has also been reported in saltmarshes in California. No distinguishing attributes specific to *these* saltmarshes are provided in the text.
+
+
+
+</end_of_turn>"
+299,10.1002/lno.70024,10,True,True,False,"The context describes the study of **mangroves**. 
+
+The text doesn't provide a detailed definition of mangroves beyond stating that the study is *of* them. However, it implies they are located within **coastal channels**, specifically a **main channel** and a **tidal channel** of the South Arm. They are characterized by the presence of **root zones** (volume measured by pin height to 35cm depth) and are tall enough to present challenges for **Global Positioning System (GPS) surveys** (canopies > 20 m tall).
+"
+300,10.1002/lno.70024,11,True,True,False,"The context describes mangroves in the Daintree River, Queensland, Australia as being studied. 
+
+Specifically, it distinguishes between two types of mangrove sites:
+
+*   **Mangrove sites fringing the main river channel:** These are located along the primary course of the river.
+*   **Mangrove sites within a tidal channel:** These are located inside smaller waterways connected to the main river channel.
+
+The context defines these locations based on their position relative to the main river channel and a tidal channel, implying differences in hydrological regimes and potentially other environmental factors.
+</end_of_turn>"
+301,10.1002/lno.70024,12,True,False,True,
+302,10.1002/lno.70024,13,True,False,True,
+303,10.1002/lno.12472,-1,False,,,
+304,10.1002/lno.70002,-1,False,,,
+305,10.1002/lno.12781,-1,True,,,
+306,10.1002/lno.12781,0,True,False,False,
+307,10.1002/lno.12781,1,True,False,False,
+308,10.1002/lno.12781,2,True,False,True,
+309,10.1002/lno.12781,3,True,False,True,
+310,10.1002/lno.12781,4,True,False,True,
+311,10.1002/lno.12781,5,True,False,False,
+312,10.1002/lno.12781,6,True,False,False,
+313,10.1002/lno.12781,7,True,False,False,
+314,10.1002/lno.12781,8,True,False,True,
+315,10.1002/lno.12781,9,True,False,True,
+316,10.1002/lno.12781,10,True,False,False,
+317,10.1002/lno.12781,11,True,False,False,
+318,10.1002/lno.12781,12,True,False,False,
+319,10.1002/lno.70019,-1,True,,,
+320,10.1002/lno.70019,0,True,False,False,
+321,10.1002/lno.70019,1,True,False,False,
+322,10.1002/lno.70019,2,True,False,False,
+323,10.1002/lno.70019,3,True,False,False,
+324,10.1002/lno.70019,4,True,False,False,
+325,10.1002/lno.70019,5,True,False,False,
+326,10.1002/lno.70019,6,True,False,True,
+327,10.1002/lno.70019,7,True,False,False,
+328,10.1002/lno.70019,8,True,False,False,
+329,10.1002/lno.70019,9,True,False,False,
+330,10.1002/lno.70019,10,True,False,False,
+331,10.1002/lno.70019,11,True,False,True,
+332,10.1002/lno.70037,-1,False,,,
+333,10.1002/lno.70054,-1,False,,,
+334,10.1002/lno.12808,-1,False,,,
+335,10.1002/lno.70050,-1,True,,,
+336,10.1002/lno.70050,0,True,False,False,
+337,10.1002/lno.70050,1,True,False,False,
+338,10.1002/lno.70050,2,True,False,False,
+339,10.1002/lno.70050,3,True,False,False,
+340,10.1002/lno.70050,4,True,False,False,
+341,10.1002/lno.70050,5,True,False,False,
+342,10.1002/lno.70050,6,True,False,False,
+343,10.1002/lno.70050,7,True,False,True,
+344,10.1002/lno.70050,8,True,False,True,
+345,10.1002/lno.70050,9,True,False,False,
+346,10.1002/lno.70050,10,True,False,False,
+347,10.1002/lno.70050,11,True,False,False,
+348,10.1002/lno.12377,-1,False,,,
+349,10.1002/lno.12760,-1,False,,,
+350,10.1002/lno.12811,-1,True,,,
+351,10.1002/lno.12811,0,True,False,False,
+352,10.1002/lno.12811,1,True,True,False,"The coastal ecosystems being studied are **Eastern Boundary Upwelling Systems**. They are defined as:
+
+*   **Highly productive oceanic regions**
+*   Characterized by **relatively steep O2 gradients.**
+*   Typically display **hypoxic conditions (O2 < 20 μmol L-1) at their boundaries** and **functionally anoxic interiors (< 1 μmol O2 L-1)**.
+
+Specifically, the text mentions three examples:
+
+*   **Benguela Upwelling System (BUS)** in the Atlantic Ocean.
+*   **Humboldt Upwelling** (Peru/Chile).
+*   **California Upwelling Systems** in the Pacific Ocean.
+
+The text further details the BUS specifically as experiencing:
+
+*   **Periodic formation of O2-deficient, or even anoxic zones in its coastal shelf waters (< 300 m).**
+*   **Coastal upwelling of nutrient-rich water** that supports high levels of primary production and drives O2 depletion.
+
+
+
+</end_of_turn>"
+353,10.1002/lno.12811,2,True,False,False,
+354,10.1002/lno.12811,3,True,False,False,
+355,10.1002/lno.12811,4,True,False,False,
+356,10.1002/lno.12811,5,True,False,False,
+357,10.1002/lno.12811,6,True,False,True,
+358,10.1002/lno.12811,7,True,False,False,
+359,10.1002/lno.12811,8,True,False,True,
+360,10.1002/lno.12811,9,True,False,False,
+361,10.1002/lno.12811,10,True,False,False,
+362,10.1002/lno.12811,11,True,False,False,
+363,10.1002/lno.12811,12,True,False,True,
+364,10.1002/lno.12811,13,True,False,False,
+365,10.1002/lno.12811,14,True,False,True,
+366,10.1002/lno.12811,15,True,False,False,
+367,10.1002/lno.12811,16,True,False,False,
+368,10.1002/lno.12743,-1,True,,,
+369,10.1002/lno.12743,0,True,False,False,
+370,10.1002/lno.12743,1,True,False,False,
+371,10.1002/lno.12743,2,True,False,False,
+372,10.1002/lno.12743,3,True,False,True,
+373,10.1002/lno.12743,4,True,False,False,
+374,10.1002/lno.12743,5,True,False,False,
+375,10.1002/lno.12743,6,True,False,False,
+376,10.1002/lno.12743,7,True,False,False,
+377,10.1002/lno.12743,8,True,False,True,
+378,10.1002/lno.12743,9,True,False,False,
+379,10.1002/lno.12743,10,True,False,False,
+380,10.1002/lno.70034,-1,False,,,
+381,10.1002/lno.70039,-1,True,,,
+382,10.1002/lno.70039,0,True,False,False,
+383,10.1002/lno.70039,1,True,True,False,"According to the provided text, the following coastal ecosystems are being studied:
+
+*   **Mangroves:** Act as a natural barrier that absorbs and dissipates wave energy, reducing sediment erosion and protecting shorelines. They also offer essential habitats and food sources for marine species.
+*   **Seagrass:** Also acts as a natural barrier that absorbs and dissipates wave energy, reducing sediment erosion and protecting shorelines, and provides essential habitats and food sources for marine species.
+*   **Kelp forests:** Similar to mangroves and seagrass, kelp forests are being studied for their wave attenuation capabilities.
+
+The text also refers to **coastal vegetation** generally, describing it as a natural barrier that absorbs and dissipates wave energy and offers essential habitats and food sources. It is described as often exhibiting “patchiness”, leading to complex flow patterns.
+
+Finally, the text mentions **coastal forests** in the context of numerical modelling studies relating to small-amplitude waves.
+
+
+
+</end_turn>"
+384,10.1002/lno.70039,2,True,False,False,
+385,10.1002/lno.70039,3,True,False,False,
+386,10.1002/lno.70039,4,True,False,False,
+387,10.1002/lno.70039,5,True,False,False,
+388,10.1002/lno.70039,6,True,False,False,
+389,10.1002/lno.70039,7,True,False,True,
+390,10.1002/lno.70039,8,True,False,False,
+391,10.1002/lno.70039,9,True,False,True,
+392,10.1002/lno.70039,10,True,False,False,
+393,10.1002/lno.12714,-1,True,,,
+394,10.1002/lno.12714,0,True,False,False,
+395,10.1002/lno.12714,1,True,False,False,
+396,10.1002/lno.12714,2,True,False,True,
+397,10.1002/lno.12714,3,True,False,True,
+398,10.1002/lno.12714,4,True,False,True,
+399,10.1002/lno.12714,5,True,False,True,
+400,10.1002/lno.12714,6,True,False,True,
+401,10.1002/lno.12796,-1,False,,,
+402,10.1002/lno.12762,-1,True,,,
+403,10.1002/lno.12762,0,True,False,False,
+404,10.1002/lno.12762,1,True,False,False,
+405,10.1002/lno.12762,2,True,False,False,
+406,10.1002/lno.12762,3,True,False,False,
+407,10.1002/lno.12762,4,True,False,True,
+408,10.1002/lno.12762,5,True,False,True,
+409,10.1002/lno.12762,6,True,False,False,
+410,10.1002/lno.12762,7,True,False,False,
+411,10.1002/lno.12762,8,True,False,False,
+412,10.1002/lno.12762,9,True,False,False,
+413,10.1002/lno.12762,10,True,False,False,
+414,10.1002/lno.12762,11,True,False,True,
+415,10.1002/lno.12718,-1,True,,,
+416,10.1002/lno.12718,0,True,False,False,
+417,10.1002/lno.12718,1,True,False,False,
+418,10.1002/lno.12718,2,True,False,False,
+419,10.1002/lno.12718,3,True,False,False,
+420,10.1002/lno.12718,4,True,False,False,
+421,10.1002/lno.12718,5,True,False,False,
+422,10.1002/lno.12718,6,True,False,False,
+423,10.1002/lno.12718,7,True,False,False,
+424,10.1002/lno.12718,8,True,False,False,
+425,10.1002/lno.12718,9,True,False,False,
+426,10.1002/lno.12718,10,True,False,False,
+427,10.1002/lno.12757,-1,True,,,
+428,10.1002/lno.12757,0,True,False,False,
+429,10.1002/lno.12757,1,True,True,False,"The context focuses on studying **coastal ecosystems** within the **Oregon Current System** and the **Northern California Current System**, with a specific focus on the **central Oregon shelf** and areas **south of Cape Blanco**. 
+
+Here's a breakdown of the definitions provided:
+
+*   **Northern California Current System:** Eastern boundary upwelling systems where upwelling has a “buffering effect” against marine heatwaves. Periods of sustained equatorward wind stress result in offshore Ekman transport during spring and summer, bringing cooler, more saline, and more nutrient-rich water to the surface.
+*   **Central Oregon Shelf:** This region experiences **intermittent seasonal upwelling** from May to October, interspersed with periods of relaxation and downwelling.
+*   **Areas South of Cape Blanco:** Upwelling is described as being **more persistent** in these areas, similar to the rest of the Southern California Current System.
+*   **Oregon Current System:** Not explicitly defined, but understood to be the region encompassing the central Oregon shelf and areas south of Cape Blanco where the study is taking place, and experiences strong seasonal upwelling.
+
+
+
+</start_of_turn>"
+430,10.1002/lno.12757,2,True,False,True,
+431,10.1002/lno.12757,3,True,False,True,
+432,10.1002/lno.12757,4,True,False,False,
+433,10.1002/lno.12757,5,True,False,True,
+434,10.1002/lno.12757,6,True,False,True,
+435,10.1002/lno.12757,7,True,False,True,
+436,10.1002/lno.12757,8,True,False,True,
+437,10.1002/lno.12757,9,True,False,False,
+438,10.1002/lno.12757,10,True,False,True,
+439,10.1002/lno.12757,11,True,False,False,
+440,10.1002/lno.70025,-1,True,,,
+441,10.1002/lno.70025,0,True,False,False,
+442,10.1002/lno.70025,1,True,True,False,"The following coastal ecosystems are studied in the context:
+
+*   **North Sea:** A shallow neritic system in northwestern Europe. It is characterized by multiple stressors including climate change, changes in fisheries, and variations in riverine nutrient loads, and has already experienced a series of regime shifts due to global change.
+*   **Wadden Sea:** Part of the North Sea, where increased nutrient loads in the 1960s-1980s caused large changes in the phytoplankton community composition.
+*   **Western Scheldt estuary:** Adjacent to the North Sea, where temperature increases led to an earlier onset of phytoplankton blooms.
+*   **Puget Sound:** Located in the US state of Washington, where warming has extended the temporal window favorable for blooms of the paralytic shellfish poisoning (PSP) toxin-producing dinoflagellate Alexandrium.
+*   **Helgoland Roads:** Located off the German coast, where an advancement in the timing of diatom blooms was observed.
+*   **Baltic Sea:** Mentioned in relation to an earlier onset of the spring bloom.
+
+The context does not provide definitions for all ecosystems but generally describes them based on their geographic location and observed responses to environmental changes (e.g., bloom timing, species composition shifts)."
+443,10.1002/lno.70025,2,True,True,True,"Here are the coastal ecosystems studied, as defined by the provided text:
+
+*   **North Sea region around the Dutch coastline:** Dominated by the ""Rhine/Meuse Region Of Freshwater Influence"" (ROFI), characterized by large seasonal freshwater discharge that can cause intermittent salinity stratification, opposed by tidal and wind influences transporting marine waters.
+*   **Wadden Sea:** Shallow regions strongly influenced by freshwater discharge, experiencing steep salinity gradients and mostly mixed by tidal and wave action.
+*   **Zeeland Delta:** Shallow regions also strongly influenced by freshwater discharge, experiencing steep salinity gradients and mostly mixed by tidal and wave action.
+*   **Central North Sea region:** Experiences mixed conditions during winters and repeated short-term thermal stratification during summers.
+
+
+
+</start_of_turn>"
+444,10.1002/lno.70025,3,True,True,True,"Based on the provided text, the following coastal ecosystems are being studied, with definitions as given in the context:
+
+*   **Wadden Sea:** A marine region, specifically mentioned as being sampled at locations like Dantziggat and Marsdiep noord.
+*   **Zeeland Delta:** A marine region with sampling sites such as Dreischor, Hansweertgeul, Huibertgat east, Lodijkse gat, Soelekerkepolder east, Vlissingen boei SSVH, Wissenkerke and Zijpe.
+*   **Coastal North Sea:** A marine region with sampling sites such as Goeree 6 km, Noordwijk (multiple sites with varying km distances: 10, 2, 20), Rottumerplaat (multiple sites with varying km distances: 3, 50, 70), Terschelling (multiple sites with varying km distances: 10, 100, 135, 175, 235), Walcheren (multiple sites with varying km distances: 2, 20, 70). It is differentiated from the Wadden Sea and Zeeland Delta by sampling site distance (km from coast) and depth.
+*   **Central North Sea:** A marine region, specifically mentioned as the location for sampling at Terschelling 100, Terschelling 135, Terschelling 175, and Terschelling 235.
+
+
+
+It's important to note that the text doesn't provide detailed ecological descriptions of these ecosystems beyond their geographical locations and the fact they are marine regions. The distinction between these ecosystems appears to be primarily based on their location (e.g., Wadden Sea, Zeeland Delta) and sampling site distance (km from coast) and depth.
+"
+445,10.1002/lno.70025,4,True,False,True,
+446,10.1002/lno.70025,5,True,False,False,
+447,10.1002/lno.70025,6,True,False,False,
+448,10.1002/lno.70025,7,True,False,False,
+449,10.1002/lno.70025,8,True,False,False,
+450,10.1002/lno.70025,9,True,False,True,
+451,10.1002/lno.70025,10,True,False,False,
+452,10.1002/lno.70025,11,True,False,False,
+453,10.1002/lno.70053,-1,False,,,
+454,10.1002/lno.12750,-1,True,,,
+455,10.1002/lno.12750,0,True,False,False,
+456,10.1002/lno.12750,1,True,False,False,
+457,10.1002/lno.12750,2,True,False,False,
+458,10.1002/lno.12750,3,True,False,False,
+459,10.1002/lno.12750,4,True,False,False,
+460,10.1002/lno.12750,5,True,False,False,
+461,10.1002/lno.12750,6,True,False,False,
+462,10.1002/lno.12750,7,True,False,False,
+463,10.1002/lno.12750,8,True,False,True,
+464,10.1002/lno.12750,9,True,False,False,
+465,10.1002/lno.12750,10,True,False,False,
+466,10.1002/lno.12750,11,True,False,False,
+467,10.1002/lno.12750,12,True,False,False,
+468,10.1002/lno.12750,13,True,False,False,
+469,10.1002/lno.12750,14,True,False,False,
+470,10.1002/lno.70012,-1,True,,,
+471,10.1002/lno.70012,0,True,True,False,"The coastal ecosystems being studied are:
+
+*   **Intertidal zones:** Specifically, the study focuses on intertidal bivalves. The Wadden Sea is mentioned as having “one of the largest coherent intertidal areas globally and exceptionally high biodiversity.”
+*   **Wadden Sea:** Defined as a UNESCO World Heritage Site with one of the largest coherent intertidal areas globally and exceptionally high biodiversity.
+*   **North Sea and adjacent systems:** The context states SST increases have been significant in these areas. 
+
+It is important to note that the context does not provide definitions for all possible coastal ecosystems, only those specifically relevant to the research described.
+</start_of_turn>"
+472,10.1002/lno.70012,1,True,True,False,"The coastal ecosystems being studied are **intertidal areas** in the **Wadden Sea**. 
+
+Here's the definition provided in the context:
+
+**Intertidal areas** are extensive areas with organisms naturally exposed to **highly fluctuating temperature patterns**. They are characterized by **suspension feeders** playing a major role in energy and nutrient flows linking pelagic and benthic food webs. Specifically, the study focuses on areas inhabited by **infaunal bivalves** such as *Cerastoderma edule* (common cockle) and *Macoma balthica* (Baltic clam) which are prominent members of these communities. They are also described as areas where organisms may live **just below the sediment surface** (like *C. edule*) or **burrow deeper in the sediment** (like *M. balthica*).  The upper intertidal zone is specifically noted as having substrata that “falls dry for several hours a day” and experiencing “more extreme” temperature fluctuations compared to subtidal habitats.
+</end_of_turn>"
+473,10.1002/lno.70012,2,True,False,False,
+474,10.1002/lno.70012,3,True,False,False,
+475,10.1002/lno.70012,4,True,False,False,
+476,10.1002/lno.70012,5,True,False,True,
+477,10.1002/lno.70012,6,True,False,False,
+478,10.1002/lno.70012,7,True,False,False,
+479,10.1002/lno.70012,8,True,False,False,
+480,10.1002/lno.70012,9,True,False,True,
+481,10.1002/lno.70012,10,True,True,False,"The study focuses on **intertidal communities** and specifically investigates them in the **Wadden Sea**. 
+
+Here's how they are defined in the context:
+
+*   **Intertidal communities:** These are communities existing in areas exposed to **diurnal tides** and experiencing **intertidal temperature fluctuations** alongside **seasonal temperature changes** and **climatological warming**. These communities are composed of species like **bivalves** (specifically *Cerastoderma edule* and *Macoma balthica*) that are subject to **short-term heatwaves** adding to these existing stressors.
+*   **Wadden Sea:** This is the specific geographic location where the research is conducted. The context implies it is a coastal area with **tidal simulation** and **natural light conditions** suitable for near-natural experimental studies of intertidal organisms. The presence of **unfiltered seawater flow-through** indicates a relatively natural marine environment. The Wadden Sea also has **deeper areas** where bivalves may be acclimatized, and **subtidal conditions** are also referenced.
+
+
+
+</end_of_turn>"
+482,10.1002/lno.70012,11,True,False,False,
+483,10.1002/lno.70012,12,True,False,False,
+484,10.1002/lno.70033,-1,True,,,
+485,10.1002/lno.70033,0,True,False,False,
+486,10.1002/lno.70033,1,True,False,False,
+487,10.1002/lno.70033,2,True,False,False,
+488,10.1002/lno.70033,3,True,False,False,
+489,10.1002/lno.70033,4,True,False,False,
+490,10.1002/lno.70033,5,True,False,False,
+491,10.1002/lno.70033,6,True,False,True,
+492,10.1002/lno.70033,7,True,False,False,
+493,10.1002/lno.70033,8,True,False,False,
+494,10.1002/lno.70033,9,True,False,False,
+495,10.1002/lno.70033,10,True,False,False,
+496,10.1002/lno.70059,-1,True,,,
+497,10.1002/lno.70059,0,True,False,False,
+498,10.1002/lno.70059,1,True,True,False,"The coastal ecosystem being studied is the **southern coastal region of Korea**. 
+
+The context defines it as a **shallow** ocean environment that:
+
+*   Serves as a dynamic and complex interface between land and the open ocean.
+*   Experiences interaction between terrestrial and marine sources.
+*   Receives particulate organic carbon (POC) from both autochthonous (in situ primary production) and allochthonous (derived from land) sources.
+*   Contains benthic components (macrophytes and microphytobenthos) that contribute to the POC pool.
+*   Is influenced by the Tsushima Current, flowing towards the Ulleung Basin (a semi-enclosed deep sea located approximately 200 km from the study area)."
+499,10.1002/lno.70059,2,True,False,False,
+500,10.1002/lno.70059,3,True,False,False,
+501,10.1002/lno.70059,4,True,False,False,
+502,10.1002/lno.70059,5,True,False,False,
+503,10.1002/lno.70059,6,True,False,False,
+504,10.1002/lno.70059,7,True,False,False,
+505,10.1002/lno.70059,8,True,False,False,
+506,10.1002/lno.12807,-1,False,,,
+507,10.1002/lno.12745,-1,False,,,
+508,10.1002/lno.12771,-1,True,,,
+509,10.1002/lno.12771,0,True,False,False,
+510,10.1002/lno.12771,1,True,True,False,"The coastal ecosystem being studied is the **California Current System (CCS)**, specifically the transition zone extending from the edge of the gyre (800 km from shore) toward the coast. 
+
+The text describes three ecological regimes within this transition zone, differentiated by physiochemical measurements, phytoplankton communities, and overall PP:
+
+1.  **Oligotrophic Regime (OR):** Defined by populations from the North Pacific Subtropical Gyre, and characterized by very low nitrate concentrations (approaching detection limits of typically 3-10 nM).
+2.  **Mesotrophic Low water (Meso-Low):** Characterized by intermediate nitrate concentrations.
+3.  **Mesotrophic High water (Meso-High):** Also characterized by intermediate nitrate concentrations, but distinct from Meso-Low. The text does not provide specifics differentiating Meso-Low and Meso-High beyond this.
+
+The text also references nitrate concentration levels to describe general trophic states: > 10 μM nitrate is *eutrophic*, $ 0.5 to 2 μM or higher is *mesotrophic*, and approaching detection limits (3-10 nM) is *oligotrophic*. 
+
+</end_of_turn>"
+511,10.1002/lno.12771,2,True,False,False,
+512,10.1002/lno.12771,3,True,False,False,
+513,10.1002/lno.12771,4,True,False,False,
+514,10.1002/lno.12771,5,True,False,False,
+515,10.1002/lno.12771,6,True,True,False,"The coastal ecosystems being studied are surface waters off the coast of California, extending up to 800 km offshore. The context defines four significant clusters within these waters:
+
+1.  **Coastal:** This cluster serves as a reference point and is characterized by nitrate (NO3-) concentrations greater than 6 μM.
+2.  **Oligotrophic Regime (OR):** Defined by warm, low-nutrient waters with an average nitrate concentration of 0.07 μM. Prochlorococcus has the highest contributions here, averaging 155,180 cells mL-1 and comprising 86% of the phytoplankton biomass.
+3.  **Mesotrophic-Low (Meso-Low):** Located 96-170 km from shore, this regime has lower nitrate, phosphate, and salinity and higher temperatures compared to the Meso-High. Total phytoplankton biomass is 15.5 mg C m-3.
+4.  **Mesotrophic-High (Meso-High):** Also located 96-170 km from shore, this regime has higher nitrate concentrations (1.95 μM) and the highest net primary production (38). It also exhibits the highest photosynthetic eukaryotic biomass (37,100 cells mL-1), forming 75% of phytoplankton biomass, and has a total phytoplankton biomass of 27.6 mg C m-3.
+
+It's important to note that the Meso-Low and Meso-High regions are not fixed geographically but are defined based on the physicochemical parameters observed during sampling.
+</end_of_turn>"
+516,10.1002/lno.12771,7,True,False,True,
+517,10.1002/lno.12771,8,True,False,True,
+518,10.1002/lno.12771,9,True,False,True,
+519,10.1002/lno.12771,10,True,False,True,
+520,10.1002/lno.12771,11,True,False,True,
+521,10.1002/lno.12771,12,True,False,False,
+522,10.1002/lno.12771,13,True,False,True,
+523,10.1002/lno.12771,14,True,False,False,
+524,10.1002/lno.12810,-1,True,,,
+525,10.1002/lno.12810,0,True,False,False,
+526,10.1002/lno.12810,1,True,True,False,"The context focuses on two coastal ecosystems:
+
+1. **Texas-Louisiana Shelf:** This is described as a **shallow, river-dominated region** situated within the northwestern portion of the Gulf of Mexico marginal sea. It is **often recognized for its annual intense summer hypoxia events and frequent hurricane landfalls**. Hypoxia in this region is **controlled by terrestrial nutrient supply and stratification**, both of which arise from freshwater discharge from the Mississippi-Atchafalaya River System. It also experiences **rapid intensification of tropical cyclones** due to enhanced ocean heat content and warm-core eddies. Ocean currents are **seasonally variable with winds** and are vital for offshore mineral exploration activities.
+
+2. **Changjiang River basin and adjacent East China Sea:** This ecosystem is mentioned as a comparative location where salinity and dissolved organic matter (DOM) relationships were also studied to track water mass mixing, nutrient sources, and carbon sinks. The context does not provide a detailed description of this ecosystem beyond its association with river mixing and nutrient dynamics. 
+"
+527,10.1002/lno.12810,2,True,False,False,
+528,10.1002/lno.12810,3,True,False,False,
+529,10.1002/lno.12810,4,True,False,False,
+530,10.1002/lno.12810,5,True,False,True,
+531,10.1002/lno.12810,6,True,False,True,
+532,10.1002/lno.12810,7,True,False,False,
+533,10.1002/lno.12810,8,True,False,False,
+534,10.1002/lno.12810,9,True,False,False,
+535,10.1002/lno.12810,10,True,False,True,
+536,10.1002/lno.12737,-1,True,,,
+537,10.1002/lno.12737,0,True,False,False,
+538,10.1002/lno.12794,-1,True,,,
+539,10.1002/lno.12794,0,True,False,False,
+540,10.1002/lno.12794,1,True,False,False,
+541,10.1002/lno.12794,2,True,True,True,"The two coastal ecosystems being studied are the **English Channel** and the **Celtic Sea**. 
+
+*   **English Channel:** A shallow, epi-continental sea located between the United Kingdom and France, subjected to freshwater inputs from rivers in France (Seine and Somme) and the UK (Thames estuary and Solent).
+*   **Celtic Sea:** A broad, gently sloping shelf area extending from the western English Channel to the Celtic break, strongly influenced by oceanic waters penetrating the outer shelf, and inner shelf waters influenced by intrusions from the English Channel and other UK coastal inputs (Bristol Channel and Severn Estuary)."
+542,10.1002/lno.12794,3,True,False,True,
+543,10.1002/lno.12794,4,True,True,False,"The context studies two coastal ecosystems: the English Channel and the Celtic Sea.
+
+*   **English Channel:** Described as a ""shallow, epi-continental"" ecosystem.
+*   **Celtic Sea:** Described as ""deeper and stronger oceanic influence"" compared to the English Channel.
+
+
+
+</start_of_turn>"
+544,10.1002/lno.12794,5,True,False,True,
+545,10.1002/lno.12794,6,True,False,False,
+546,10.1002/lno.12794,7,True,False,False,
+547,10.1002/lno.12794,8,True,False,False,
+548,10.1002/lno.70087,-1,True,,,
+549,10.1002/lno.70087,0,True,False,False,
+550,10.1002/lno.70087,1,True,False,False,
+551,10.1002/lno.70087,2,True,False,False,
+552,10.1002/lno.70087,3,True,False,False,
+553,10.1002/lno.70087,4,True,False,False,
+554,10.1002/lno.70087,5,True,False,False,
+555,10.1002/lno.70087,6,True,False,False,
+556,10.1002/lno.70087,7,True,False,True,
+557,10.1002/lno.70087,8,True,False,False,
+558,10.1002/lno.70087,9,True,False,False,
+559,10.1002/lno.70087,10,True,False,True,
+560,10.1002/lno.70087,11,True,False,False,
+561,10.1002/lno.70087,12,True,False,False,
+562,10.1002/lno.70087,13,True,False,True,
+563,10.1002/lno.70087,14,True,False,False,
+564,10.1002/lno.70087,15,True,False,False,
+565,10.1002/lno.12792,-1,False,,,
+566,10.1002/lno.12795,-1,True,,,
+567,10.1002/lno.12795,0,True,True,False,"The coastal ecosystems being studied are **salt marshes**. 
+
+The context defines them as:
+
+*   **Vital but vulnerable ecosystems**
+*   **Transitional zones between land and sea**
+*   **Multi-specific** (meaning they contain multiple plant species)
+*   They provide **critical ecosystem services**, such as coastal protection, carbon sequestration, and biodiversity support. 
+*   They can be impacted by disturbances like drought and heat stress, leading to dieback events.
+*   They can recover from dieback, potentially changing their species composition over decades.
+*   They are composed of vegetation, such as *Spartina maritima* and other salt marsh species.
+
+</end_start_of_turn>"
+568,10.1002/lno.12795,1,True,True,True,"The coastal ecosystem being studied is the **salt marsh** located in **San Felice**, which is part of the larger **Venice lagoon**. 
+
+Here are the definitions provided in the text:
+
+*   **Salt marsh (San Felice):** A natural marsh located in the northern part of the Venice lagoon, experiencing a submergence trend due to sea level rise outpacing local accretion. It is characterized by halophytic vegetation species and is subject to waterlogging as a major abiotic stressor.
+*   **Venice lagoon:** The largest lagoon in the Mediterranean Sea, situated along the northeastern coast of Italy, with an area of about 550 km². It is characterized by a semi-diurnal tide with an average tidal range of about 1 m and is connected to the Adriatic Sea through three inlets.
+*   **Halophytic vegetation:** Vegetation species typical of the Venice lagoon and the Mediterranean climate, including *Salicornia veneta* (""Salicornia""), *Spartina maritima* (""Spartina""), *Limonium narbonense* (""Limonium""), *Sarcocornia fruticosa* (""Sarcocornia"") and *Juncus maritimus* (""Juncus""). These species display a distinct elevational sequence, preferring to colonize progressively higher marsh portions.
+</start_of_turn>"
+569,10.1002/lno.12795,2,True,True,True,"The context describes the study of **marshes**. 
+
+Specifically, the marshes being studied are characterized by the following vegetation classes:
+
+*   **Salicornia**
+*   **Spartina**
+*   **Limonium**
+*   **Sarcocornia**
+*   **Juncus**
+*   **Bare soil**
+
+These marshes also contain **inner ponds** and are crossed by **channels**. The study focuses on changes in *marsh vegetation*, excluding the areas of the channels and inner ponds. Additionally, data is collected considering the effects of **tide levels** on classification accuracy, as higher tides can obscure parts of the marsh."
+570,10.1002/lno.12795,3,True,False,True,
+571,10.1002/lno.12795,4,True,False,True,
+572,10.1002/lno.12795,5,True,False,False,
+573,10.1002/lno.12795,6,True,False,False,
+574,10.1002/lno.12795,7,True,True,False,"The coastal ecosystems being studied are **marshes**. 
+
+The context defines them with the following characteristics:
+
+*   They are subject to **disturbance and recovery** events (specifically drought-induced dieback and subsequent revegetation).
+*   They are **multispecies** ecosystems, meaning they are composed of various plant species, not just a single dominant one.
+*   They are characterized by a shift in vegetation dominance following disturbance, specifically from *Spartina* to other species like *Limonium* and *Sarcocornia*.
+*   They are defined by **marsh platform elevations** which affect the **time to revegetate** after a disturbance. Lower elevations experience increased inundation frequency and duration, hindering recovery.
+*   They can be **mono-specific** (composed primarily of one species, like *Spartina*) or **multispecies**.
+*   They experience changes in **above-ground biomass (AGB)** during disturbance and recovery, but AGB can return to pre-dieback levels through shifts in species composition.
+*   They have a **food web** that can be disrupted by the loss of dominant species like *Spartina*.
+
+
+
+</end_turn>"
+575,10.1002/lno.12795,8,True,False,False,
+576,10.1002/lno.12795,9,True,False,False,
+577,10.1002/lno.12795,10,True,False,True,
+578,10.1002/lno.12795,11,True,False,True,
+579,10.1002/lno.12795,12,True,False,False,
+580,10.1002/lno.12805,-1,True,,,
+581,10.1002/lno.12805,0,True,False,False,
+582,10.1002/lno.12736,-1,False,,,
+583,10.1002/lno.12766,-1,False,,,
+584,10.1002/lno.70055,-1,False,,,
+585,10.1002/lno.12777,-1,True,,,
+586,10.1002/lno.12777,0,True,False,False,
+587,10.1002/lno.70064,-1,False,,,
+588,10.1002/lno.70079,-1,False,,,
+589,10.1002/lno.12765,-1,True,,,
+590,10.1002/lno.12765,0,True,False,False,
+591,10.1002/lno.12765,1,True,False,False,
+592,10.1002/lno.12765,2,True,False,True,
+593,10.1002/lno.12765,3,True,False,False,
+594,10.1002/lno.12765,4,True,False,False,
+595,10.1002/lno.12765,5,True,False,False,
+596,10.1002/lno.12765,6,True,False,False,
+597,10.1002/lno.12765,7,True,False,False,
+598,10.1002/lno.12765,8,True,False,False,
+599,10.1002/lno.12765,9,True,False,False,
+600,10.1002/lno.12765,10,True,False,False,
+601,10.1002/lno.12765,11,True,False,False,
+602,10.1002/lno.12765,12,True,False,False,
+603,10.1002/lno.12765,13,True,False,False,
+604,10.1002/lno.12765,14,True,False,True,
+605,10.1002/lno.12772,-1,True,,,
+606,10.1002/lno.12772,0,True,False,False,
+607,10.1002/lno.12772,1,True,True,False,"The coastal ecosystems being studied are **estuarine tributaries of the Chesapeake Bay**. 
+
+The context defines them as:
+
+*   **Tidally drowned river valleys** (specifically the Elizabeth and Lafayette Rivers, and the York River are mentioned as examples).
+*   **Eutrophic** - meaning they exhibit seasonally recurring harmful algal blooms and hypoxic zones.
+*   They have **significantly different hydrodynamics** (river vs. tidal dominated)
+*   They are influenced by **surrounding land uses** that vary (forested/rural vs. urban).
+*   They are part of a larger **eutrophic system** - the Chesapeake Bay itself - experiencing seasonal harmful algal blooms and hypoxic zones. 
+
+The broader context also describes them as having a **subterranean estuary** - a biogeochemically reactive interface where groundwater mixes with seawater. This subterranean estuary contains unique ecotones with dynamic salinity, pH, and redox conditions. 
+"
+608,10.1002/lno.12772,2,True,False,False,
+609,10.1002/lno.12772,3,True,False,False,
+610,10.1002/lno.12772,4,True,True,False,"The context describes two coastal ecosystems:
+
+1.  **Estuaries:** These are specifically the Lafayette River and the York River. They are characterized by the mixing of freshwater from rivers (tributaries, marsh drainage) with saltwater, and the presence of submarine groundwater discharge (SGD). The context also notes the importance of tidal influence in these estuaries.
+2.  **Marshes:** Taskinas Creek is used to represent marsh ecosystems. Marshes are characterized by tidal pumping and defined by the observed 222Rn flux between flood and ebb tides.
+
+The context also mentions **coastal wetlands** generally, implicitly including marshes, but doesn't provide a specific definition beyond that.
+
+</start_of_turn>"
+611,10.1002/lno.12772,5,True,True,True,"The coastal ecosystems being studied are the **Lafayette River** and the **York River**, both of which are described as **estuaries**. 
+
+Specifically, the context defines **saline groundwaters** within these estuaries as having a **salinity > 10** and being collected in the **intertidal or subtidal zone**. Additionally, **fresh, terrestrial groundwater** is mentioned as a contrast to the saline groundwaters. 
+
+The context also distinguishes between **upstream reaches** and areas **near the river mouth** within the rivers, but does not define these as separate ecosystems. 
+</end_of_turn>"
+612,10.1002/lno.12772,6,True,False,False,
+613,10.1002/lno.12772,7,True,False,False,
+614,10.1002/lno.12772,8,True,False,True,
+615,10.1002/lno.12772,9,True,False,True,
+616,10.1002/lno.12772,10,True,False,False,
+617,10.1002/lno.12772,11,True,True,False,"The context describes two contrasting **estuaries** within the **Chesapeake Bay** region:
+
+*   **Lafayette River:** A drowned river valley **with no true freshwater source**. It experiences higher rates of total submarine groundwater discharge (SGD) compared to the York River.
+*   **York River:** A drowned river valley **fed by two major rivers**. 
+
+Both are lower tidal tributaries of the Chesapeake Bay and are experiencing issues with harmful algal blooms and hypoxia despite nutrient reduction policies. They are both being studied in relation to submarine groundwater discharge (SGD) and its contribution to nutrient loads.
+</end_of_turn>"
+618,10.1002/lno.12772,12,True,False,True,
+619,10.1002/lno.12772,13,True,False,False,
+620,10.1002/lno.70011,-1,False,,,
+621,10.1002/lno.12818,-1,False,,,
+622,10.1002/lno.12725,-1,True,,,
+623,10.1002/lno.12725,0,True,True,False,"The coastal ecosystem being studied is **mangroves**. 
+
+The context defines mangroves as sediments where **benthic metabolism and net carbon accumulation strongly depend on the quantity and quality of organic matter (OM) supplied**, including material brought by coastal waters such as the macroalgae *Sargassum* spp. They are also characterized by the presence of **microbial communities** and **crabs** that play a role in carbon storage.
+</start_of_turn>"
+624,10.1002/lno.12725,1,True,True,False,"The coastal ecosystems being studied are **mangrove forests**. 
+
+The context defines them as ecosystems with:
+
+*   **High carbon storage in sediments**: estimated at 41 Tg C yr-1.
+*   **Intense diagenesis in the top 10 cm of sediments**: organic matter present in the litter must cross this layer before becoming long-lasting carbon strata.
+*   **Impacted by emersion cycles, flooding, porewater tidal pumping, and alternating oxic/anoxic conditions**: These factors strongly influence OM transfer.
+*   **Significant microbial degradation and bioturbator activity**: These processes modify organic matter quality and transfer.
+*   **Colonized by microbes and benthic organisms (like crabs)**: These organisms ingest and assimilate OM, decreasing carbon concentration in the top millimeters of the sediments.
+*   **Susceptible to eutrophication**: Enriched in nutrients and OM from urban inputs, enhanced productivity, and aquaculture, leading to increased SOM lability and benthic remineralization.
+
+
+
+</start_of_turn>"
+625,10.1002/lno.12725,2,True,False,False,
+626,10.1002/lno.12725,3,True,False,False,
+627,10.1002/lno.12725,4,True,False,True,
+628,10.1002/lno.12725,5,True,False,True,
+629,10.1002/lno.12725,6,True,False,True,
+630,10.1002/lno.12725,7,True,False,True,
+631,10.1002/lno.12725,8,True,True,True,"The coastal ecosystem being studied is **mangrove forests/sediments**. 
+
+The context defines mangroves as ecosystems where:
+
+*   **Litterfall** (specifically mangrove leaves and Sargassum thalles) accumulates on the **surface sediment**.
+*   They experience **tidal drainage** and **redox oscillations** in the top layers, favoring remineralization.
+*   They have **benthic microbes** involved in OM degradation. 
+*   They are inhabited by **macrofauna** such as **fiddler crabs** that contribute to OM fractionation, leaching, and assimilation.
+*   They can experience **eutrophication** (simulated by adding Sargassum).
+*   They contain both **surface sediments** and **subsurface layers** with differing OM characteristics.
+*   They exhibit **gas and solute exchanges** (e.g. CO2 fluxes).
+*   They can have **organometallic complexes** forming contributing to sequestration of OM.
+
+
+
+</start_of_turn>"
+632,10.1002/lno.12725,9,True,True,True,"The coastal ecosystems being studied, as defined within this context, are:
+
+*   **Salt marsh sediments:** Sediments **less subjected to seawater influence**, where the addition of glucose leads to a net positive priming effect when permanently drained. Prokaryotic communities switch to favor organisms with high biomass turnover (rapid growth and strong remineralization) in these ecosystems.
+*   **Mangrove ecosystems:** The text describes these ecosystems as being susceptible to **mortality due to sulfide toxicity** in cases of massive and/or chronic Sargassum beaching and accumulation. These ecosystems accumulate carbon derived from mangrove leaves in subsurface sediments, and their microbiology is drastically changed by Sargassum beaching.
+*   **Segagrass meadows:** Mentioned as a comparison point, with the study by Trevathan-Tackett et al. (2018) showing a net positive priming effect at surface SOM (0-1 cm) when seagrass leaves are added.
+*   **Intertidal zones** are implicitly referenced through the discussion of sediments exposed to tidal conditions, where a priming effect is slightly negative or null (Dinter et al. 2019).
+
+
+
+</start_of_turn>"
+633,10.1002/lno.12725,10,True,False,True,
+634,10.1002/lno.12725,11,True,False,True,
+635,10.1002/lno.70031,-1,False,,,
+636,10.1002/lno.70058,-1,False,,,
+637,10.1002/lno.70027,-1,True,,,
+638,10.1002/lno.70027,0,True,False,False,
+639,10.1002/lno.70027,1,True,False,False,
+640,10.1002/lno.70027,2,True,False,False,
+641,10.1002/lno.70027,3,True,False,False,
+642,10.1002/lno.70027,4,True,False,False,
+643,10.1002/lno.70027,5,True,False,False,
+644,10.1002/lno.70027,6,True,False,False,
+645,10.1002/lno.70027,7,True,False,False,
+646,10.1002/lno.70027,8,True,False,False,
+647,10.1002/lno.70027,9,True,False,False,
+648,10.1002/lno.70027,10,True,False,False,
+649,10.1002/lno.70027,11,True,False,False,
+650,10.1002/lno.70027,12,True,False,False,
+651,10.1002/lno.12749,-1,True,,,
+652,10.1002/lno.12749,0,True,False,False,
+653,10.1002/lno.12749,1,True,True,False,"The coastal ecosystem being studied is the **Northeast US Shelf (NES)**. 
+
+The text describes the NES as:
+
+*   A **continental shelf system**
+*   **Immensely productive**
+*   **Supports many economically important fisheries**
+*   Undergoes **intense seasonal and spatial variability in temperature and nutrient supply**
+*   Experiences **dramatic shifts in phytoplankton size structure**
+*   One of the **fastest warming regions in the global ocean**
+*   Exhibits **large cross-shelf gradients in environmental conditions** (specifically mentioning temperature and nutrient supply). 
+
+
+
+</end_of_turn>"
+654,10.1002/lno.12749,2,True,False,True,
+655,10.1002/lno.12749,3,True,False,False,
+656,10.1002/lno.12749,4,True,False,False,
+657,10.1002/lno.12749,5,True,False,True,
+658,10.1002/lno.12749,6,True,False,False,
+659,10.1002/lno.12749,7,True,False,False,
+660,10.1002/lno.12749,8,True,False,False,
+661,10.1002/lno.12749,9,True,False,False,
+662,10.1002/lno.12749,10,True,False,False,
+663,10.1002/lno.12749,11,True,False,False,
+664,10.1002/lno.12749,12,True,False,False,
+665,10.1002/lno.12749,13,True,False,False,
+666,10.1002/lno.12751,-1,False,,,
+667,10.1002/lno.12786,-1,True,,,
+668,10.1002/lno.12786,0,True,False,False,
+669,10.1002/lno.12786,1,True,False,False,
+670,10.1002/lno.12786,2,True,False,True,
+671,10.1002/lno.12786,3,True,False,False,
+672,10.1002/lno.12786,4,True,False,False,
+673,10.1002/lno.12786,5,True,False,True,
+674,10.1002/lno.12786,6,True,False,False,
+675,10.1002/lno.12786,7,True,False,False,
+676,10.1002/lno.12786,8,True,False,True,
+677,10.1002/lno.12786,9,True,False,False,
+678,10.1002/lno.12786,10,True,False,False,
+679,10.1002/lno.12786,11,True,False,True,
+680,10.1002/lno.12786,12,True,False,True,
+681,10.1002/lno.12786,13,True,False,False,
+682,10.1002/lno.12786,14,True,False,True,
+683,10.1002/lno.12786,15,True,False,False,
+684,10.1002/lno.70020,-1,False,,,
+685,10.1002/lno.12724,-1,True,,,
+686,10.1002/lno.12724,0,True,False,False,
+687,10.1002/lno.12724,1,True,True,False,"The coastal ecosystems being studied are **Coastal Temperate Rainforest (CTR) regions**. 
+
+The context defines CTR regions as:
+
+*   Lying in the path of westerly wind storm tracks.
+*   Characterized by exceptionally high freshwater and material fluxes.
+*   Creating particularly strong land-ocean connections.
+*   Having complex, mountainous coastlines dominated by fjords and island archipelagos.
+*   Exhibiting high seasonality.
+*   Having high precipitation (often in the form of snow).
+*   Having high runoff.
+*   Having large stores of above- and below-ground organic carbon.
+*   Having high watershed yields of sediment, carbon, nitrogen, phosphorus, and iron.
+*   Spanning wide latitudinal ranges with highly dissected and high-relief topography, promoting spatial variability of microclimates, glaciation, hydrology, plant communities, and nearshore marine ecosystems.
+
+
+
+</start_of_turn>"
+688,10.1002/lno.12724,2,True,False,False,
+689,10.1002/lno.12724,3,True,False,False,
+690,10.1002/lno.12724,4,True,False,False,
+691,10.1002/lno.12724,5,True,False,False,
+692,10.1002/lno.12724,6,True,True,False,"The coastal ecosystems being studied are:
+
+*   **Nearshore Zone:** The area including the intertidal habitats alongshore and out to where water, moderated by turbidity, becomes too deep for light to penetrate and sustain photosynthesis. It includes marine and estuarine habitats, but stops at the furthest landward reach of saltwater into an estuary and upriver; tidal freshwater zones of rivers are very closely, aquatically connected to this zone.
+*   **Coastal Transition Zone:** The area extending from the seawater boundary of the Nearshore Zone to roughly a maximum distance of 20 km from the outer exposed coast.
+*   **Shelf Zone:** The area of the continental shelf extending from the Coastal Transition Zone to where the continental shelf breaks (> 200 m deep) and slopes to the deep ocean.
+*   **Offshore Zone:** The area on the ocean side of the continental shelf-break.
+
+</start_of_turn>"
+693,10.1002/lno.12724,7,True,True,False,"Based on the provided text, the following coastal ecosystems are being studied, with their definitions as given in the context:
+
+*   **Nearshore Zone:** The zone most directly influenced by freshwater and terrestrial materials flux, and is critical in determining what terrestrial subsidies are received by downstream marine habitats.
+*   **Coastal Transition Zone:**  Characterized by larger scale estuarine circulation (outflowing freshwater in the upper layers driving inflowing saline water at depth), sustained discharge durations of weeks to months, and is driven by larger scale estuarine circulation.
+*   **Estuary:** Formed by plumes at larger scales (> 30 m<sup>3</sup> s<sup>-1</sup> and 3 km plume diameter) and is characterized by outflowing freshwater in the upper layers driving inflowing saline water at depth. Smaller plumes (≤ 1 m<sup>3</sup> s<sup>-1</sup> and < 0.3 km plume diameter) may *not* be associated with an estuary (meaning there is no salt intrusion).
+*   **Surf Zone:** Along the open coast, the fate of small plumes is largely dependent on wave forcing, which holds freshwater in the surf zone and determines the rate of mixing and alongshore transport.
+
+The text also mentions the **Shelf Zone**, which is described as being connected to the fjords through deep-water renewal. However, it is not described as an ecosystem within the context.
+
+
+
+</start_of_turn>"
+694,10.1002/lno.12724,8,True,True,True,"Here's what the provided text states about the coastal ecosystems being studied and their definitions:
+
+**1. Saltmarshes:** Described as “temperate herbaceous ecosystems that develop in the intertidal zone”. They are characterized by being “dominated by salt-tolerant grasses, sedges and other herbaceous plants”.
+
+**2. Seagrass meadows:** Defined as “subtidal ecosystems dominated by flowering marine plants”.
+
+**3. Mangrove forests:** Described as “tropical and subtropical ecosystems dominated by salt-tolerant trees”. 
+
+**4. Kelp forests:** Defined as “subtidal ecosystems dominated by macroalgae”.
+"
+695,10.1002/lno.12724,9,True,False,False,
+696,10.1002/lno.12724,10,True,False,False,
+697,10.1002/lno.12724,11,True,False,False,
+698,10.1002/lno.12724,12,True,True,False,"The context primarily focuses on **Coastal Transition Zones (CTR)** and specifically mentions several ecosystems *within* those zones:
+
+*   **Coastal Transition Zones (CTR):** These are not explicitly *defined* in terms of physical attributes, but are described as regions where **terrestrial material has a significant influence on marine food webs.** The context repeatedly emphasizes the contribution of terrestrial organic matter (OM) – both dissolved (DOM) and particulate (POM) – to these ecosystems.
+*   **Estuaries:** Specifically, the **Columbia River Estuary** is mentioned as a hotspot of microbial production and a “bioreactor”/“coastal filter.” They are characterized by **turbidity maxima**.
+*   **Fjords & Shallow Estuaries:** These are mentioned as examples of **landforms** that can affect sedimentation and habitat, which then influence OM sources. Shallow estuaries are characterized as having a high abundance of saltmarsh and eelgrass.
+*   **Saltmarshes & Eelgrass Meadows:** These are specifically called out as habitats affected by landform and hydrology and influence OM sources.
+*   **Coastal Wetlands:** Mentioned as a source of humic-rich DOM, alongside forested watersheds.
+*   **Intertidal zones, lagoons, reefs, mangroves, kelp forests** are not mentioned.
+
+
+
+It's important to note that the focus isn't on classifying distinct ecosystems, but rather on the *influence of terrestrial material* within these various coastal environments. The context emphasizes gradients in freshwater influence and nutrient availability as key characteristics of these zones. Chilean Patagonia is also mentioned as a region with a CTR."
+699,10.1002/lno.12724,13,True,False,False,
+700,10.1002/lno.12724,14,True,False,False,
+701,10.1002/lno.12724,15,True,False,False,
+702,10.1002/lno.12724,16,True,True,False,"The coastal ecosystems being studied are **estuaries** and **coastal wetlands**. 
+
+Here are the definitions provided in the text:
+
+*   **Estuaries & Wetlands:** These are described as the ""**engine of the coastal filter**,"" where ""**retention and transformation of terrestrial materials occurs**."" They are critical to the response of coastal oceans to land-use changes and associated freshwater/material inputs. They are characterized by their ability to filter terrestrial materials.
+*   **Coastal wetlands** are specifically described as habitats where loss ""**promotes increased heterotrophy in the pelagic environment and sediments, reducing oxygen and shifting the balance of nutrient cycling away from the coastal interface habitats, and increasing nearshore turbidity with associated reduction in light penetration and primary productivity of phytoplankton and submerged aquatic vascular plants and algae**.""
+
+
+
+</start_of_turn>"
+703,10.1002/lno.12724,17,True,False,True,
+704,10.1002/lno.12724,18,True,False,True,
+705,10.1002/lno.12724,19,True,False,False,
+706,10.1002/lno.12724,20,True,False,False,
+707,10.1002/lno.12724,21,True,True,False,"The context focuses on **Coastal Temperate Rainforest (CTR)** ecosystems. 
+
+These ecosystems are defined by:
+
+*   **Location:** Global distribution of coastal temperate rainforests (as shown in Fig. 1). Specifically, the study uses the **North Pacific Coastal Temperate Rainforest (NPCTR)** as a model system.
+*   **Seasonality:** Intense seasonality governing discharge and material transport cycles, incident light, and productivity in both terrestrial and aquatic environments.
+*   **Watersheds:** Diverse watersheds contributing rain, snow, and ice to discharge volume, timing, gradients, and energy. Small coastal watersheds contribute disproportionately to total discharge volume.
+*   **Ocean Characteristics:** Emptying into temperate and subarctic oceans, which are largely eutrophic (in contrast to the oligotrophic low-latitude oceans).
+*   **Land-Ocean Interface Processes:** Unique physical, chemical, and biological processes occurring at the land-ocean interface structuring marine ecosystem dynamics (Fig. 4).
+
+
+
+The context does *not* provide definitions for other specific coastal ecosystem types like intertidal zones, estuaries, etc., only for the broader CTR ecosystem type."
+708,10.1002/lno.12724,22,True,False,False,
+709,10.1002/lno.12804,-1,True,,,
+710,10.1002/lno.12804,0,True,False,False,
+711,10.1002/lno.70085,-1,True,,,
+712,10.1002/lno.70085,0,True,False,False,
+713,10.1002/lno.70085,1,True,False,False,
+714,10.1002/lno.70085,2,True,True,False,"The context describes **barrier reefs** and specifically coral reefs around the island of Mo'orea. 
+
+Here are the definitions provided in the context:
+
+*   **Barrier reefs / Coral reefs around Mo'orea:** Volcanic island surrounded by reefs 0.5-1.5 km from shore. They experienced a prolonged heat stress event from December 2018 to May 2019. The study focuses on the *outer reef* of Mo'orea.
+*   **Shallow fore reef:**  Located at a depth of 5 m. Some *Acropora hyacinthus* colonies were bleached and others were not bleached in May 2019.
+*   **Deep fore reef:** Located at a depth of 14 m. All *Acropora hyacinthus* colonies were bleached in May 2019, and all previously tagged colonies died by August 2019; however, previously untagged colonies were observed recovering from bleaching.
+
+The context also references a **lagoon**, but provides no defining characteristics beyond its presence near the reefs.  
+
+
+
+</end_turn>"
+715,10.1002/lno.70085,3,True,False,False,
+716,10.1002/lno.70085,4,True,False,False,
+717,10.1002/lno.70085,5,True,False,False,
+718,10.1002/lno.70085,6,True,False,False,
+719,10.1002/lno.70085,7,True,False,False,
+720,10.1002/lno.70085,8,True,False,True,
+721,10.1002/lno.70085,9,True,True,True,"The coastal ecosystems being studied are **coral reefs**, specifically those in **Mo'orea**. 
+
+The context defines two distinct areas *within* the reef ecosystem based on bleaching response:
+
+*   **Reef Crest:** Described as a ""**net sink of oceanic POM**"" (particulate organic matter), and the location of the **resistant colonies**.
+*   **Deep Fore Reef:**  The location of the **recovered colonies**, deeper in depth relative to the reef crest and on the ""**reef slope**"". 
+
+
+
+</start_of_turn>"
+722,10.1002/lno.70085,10,True,False,False,
+723,10.1002/lno.70085,11,True,False,False,
+724,10.1002/lno.70069,-1,False,,,
+725,10.1002/lno.70083,-1,True,,,
+726,10.1002/lno.70083,0,True,False,False,
+727,10.1002/lno.70083,1,True,False,False,
+728,10.1002/lno.70083,2,True,True,False,"The text describes the following coastal area being studied:
+
+* **Tīkapa Moana Te Moana Nui a Toi Hauraki Gulf and Te Moana a Toi-te-Huatahi Bay of Plenty (gulf-bay area):** This region is located in the North-East of Aotearoa New Zealand and hosts around 2.0 million people, including T amaki Makaurau Auckland. It is under the stewardship of 54 iwi (M aori tribes). It is part of fishing management area 1 (FMA1). The coastal dynamics are heavily influenced by the East-Auckland Current. 
+
+The text does *not* describe specific coastal ecosystems *within* the gulf-bay area like intertidal zones or reefs, but rather focuses on the broader region and its characteristics. It mentions that the region is a site of fishing and tourism activities and is influenced by ocean currents. 
+"
+729,10.1002/lno.70083,3,True,False,False,
+730,10.1002/lno.70083,4,True,False,True,
+731,10.1002/lno.70083,5,True,False,True,
+732,10.1002/lno.70083,6,True,False,False,
+733,10.1002/lno.70083,7,True,False,False,
+734,10.1002/lno.70083,8,True,False,False,
+735,10.1002/lno.70083,9,True,False,True,
+736,10.1002/lno.70083,10,True,False,False,
+737,10.1002/lno.70021,-1,True,,,
+738,10.1002/lno.70021,0,True,False,False,
+739,10.1002/lno.70021,1,True,True,False,"The context focuses on **Eastern Boundary Upwelling Systems** (EBUS). These are defined as coastal ecosystems that **greatly influence global ocean productivity and are disproportionately impacted by climate change**. 
+
+Specifically, the study investigates the **California Current Ecosystem (CCE)**, which is described as a **highly biologically productive Eastern Boundary Upwelling System that stretches from Vancouver Island, Canada, to Baja California, Mexico**. The CCE is further characterized by **wind-driven upwelling** occurring between April and May, bringing **cold, nutrient-rich subsurface water into the euphotic zone**, which stimulates **high levels of primary production**. It also experiences **dynamic spatial and temporal oceanographic variability** due to interactions between winds, coastal topography, and bathymetry.
+"
+740,10.1002/lno.70021,2,True,True,False,"Here are the coastal ecosystems studied, as defined by the provided text:
+
+*   **Navarro:** Characterized by submarine canyons, which are sites of enhanced mixing, upwelling, and cross-shelf transport.
+*   **Farallones:** A broad, shallow shelf in an ""upwelling shadow"" sheltered from northerly winds and alongshore currents, with more persistent high temperature and chlorophyll signals due to increased water retention. Also impacted by the San Francisco Bay plume, which can stimulate primary production.
+*   **Monterey:** Characterized by submarine canyons, which are sites of enhanced mixing, upwelling, and cross-shelf transport.
+*   **Point Sur:** No distinguishing characteristics are given in the text beyond being a sampling location.
+*   **Central CCE:** Defined as being “between Cape Mendocino, CA and Point Conception, CA”."
+741,10.1002/lno.70021,3,True,False,False,
+742,10.1002/lno.70021,4,True,False,False,
+743,10.1002/lno.70021,5,True,False,True,
+744,10.1002/lno.70021,6,True,False,False,
+745,10.1002/lno.70021,7,True,False,True,
+746,10.1002/lno.70021,8,True,False,False,
+747,10.1002/lno.70021,9,True,False,False,
+748,10.1002/lno.70021,10,True,False,False,
+749,10.1002/lno.70021,11,True,False,False,
+750,10.1002/lno.70021,12,True,False,False,
+751,10.1002/lno.70021,13,True,False,False,
+752,10.1002/lno.70021,14,True,False,False,
+753,10.1002/lno.70021,15,True,False,True,
+754,10.1002/lno.70021,16,True,False,False,
+755,10.1002/lno.12783,-1,False,,,
+756,10.1002/lno.12817,-1,False,,,
+757,10.1002/lno.70095,-1,False,,,
+758,10.1002/lno.12815,-1,False,,,
+759,10.1002/lno.12761,-1,True,,,
+760,10.1002/lno.12761,0,True,False,False,
+761,10.1002/lno.12761,1,True,True,False,"The context focuses on **estuaries**. 
+
+The context defines estuaries as:
+
+*   **The nexus between terrestrial and oceanic aquatic systems.**
+*   **Sites of some of the heaviest population densities in the world.**
+*   **Providing important ecosystem services** such as nursery and fishery habitats, filtering and detoxification, and flooding and storm event mitigation.
+*   **Commonly heterotrophic, high CO2 environments** that are more susceptible to acidification than adjacent ocean waters.
+*   **Systems where the cumulative impacts of environmental changes are unclear.**
+*   **Systems where organic alkalinity (OrgAlk) plays a significant role** in buffering capacity, and the interplay between organic and inorganic alkalinity is not well understood.
+
+Specifically, the study focuses on two Gulf of Maine estuary systems: **the Pleasant estuary in Maine, USA, and the St. John estuary in New Brunswick, CA.** Samples were collected along the salinity gradient and at the river endmember of these estuaries. </end_of_turn>"
+762,10.1002/lno.12761,2,True,True,False,"The context describes two river-estuary systems being studied:
+
+1.  **Pleasant River-Estuary:** This system drains a watershed of approximately 160 km², forested in deciduous trees with large regions of heath used for wild blueberry cultivation. The river water is rich in tannins (synonymous with humic acids) and is darkly colored. The estuary is marsh-fringed and located in Columbia Falls. The transition from river to estuary is immediate due to a dam forming a physical tidal barrier.
+
+2.  **St. John River-Estuary:** This system drains a much larger watershed, approximately 55,000 km², encompassing areas of Maine (USA) and New Brunswick (Canada). The watershed is mostly forested with occasional agricultural areas and has loamy, well-drained soils overlying limestone and sandstone bedrock. The river empties into the Bay of Fundy at St. John, New Brunswick, but experiences vigorous tidal mixing. 
+
+
+
+</end_of_turn>"
+763,10.1002/lno.12761,3,True,False,False,
+764,10.1002/lno.12761,4,True,False,False,
+765,10.1002/lno.12761,5,True,False,True,
+766,10.1002/lno.12761,6,True,False,False,
+767,10.1002/lno.12761,7,True,True,True,"The following coastal ecosystems are studied in this context:
+
+*   **Pleasant estuary:** Characterized by negative OrgAlk Gran2 values (larger than previously reported) and a zero-salinity endmember with a relatively low DOC concentration. Its conditions most closely resemble the Satilla estuary.
+*   **St. John estuary:** Characterized by comparable OrgAlk Gran2 (about 5-50 μmol kg À1 ), DOC concentrations (about 350-750 μmol kg À1 ), and pH and Alk Gran1 near the river endmember (about 6.6 on the NBS scale and 500 μmol kg À1 , respectively). Its conditions most closely resemble the Altamaha estuary.
+*   **Satilla estuary:** Mentioned as an analogue to the Pleasant estuary, having a very high DOC concentration and a pH approaching 5.5 at the zero-salinity endmember (on the National Bureau of Standards-NBS-scale).
+*   **Altamaha estuary:** Mentioned as an analogue to the St. John estuary, having comparable OrgAlk Gran2 (about 5-50 μmol kg À1 ), DOC concentrations (about 350-750 μmol kg À1 ), and pH and Alk Gran1 near the river endmember (about 6.6 on the NBS scale and 500 μmol kg À1 , respectively).
+*   **Baltic sites:** Characterized by much higher Alk Gran1 and pH, and lower DOC concentrations compared to the St. John estuary.
+
+
+
+</start_of_turn>"
+768,10.1002/lno.12761,8,True,False,False,
+769,10.1002/lno.12761,9,True,False,False,
+770,10.1002/lno.12761,10,True,False,True,
+771,10.1002/lno.12761,11,True,False,False,
+772,10.1002/lno.12761,12,True,False,False,
+773,10.1002/lno.12761,13,True,False,True,
+774,10.1002/lno.12761,14,True,False,True,
+775,10.1002/lno.12761,15,True,False,False,
+776,10.1002/lno.70029,-1,True,,,
+777,10.1002/lno.70029,0,True,True,False,"The coastal ecosystems being studied are **kelp forests**. 
+
+The context defines them as **important communities that provide habitat for numerous species** along temperate coasts. 
+
+"
+778,10.1002/lno.70029,1,True,True,False,"The context focuses on **kelp forests**. They are defined as:
+
+*   Dominating shallow subtidal rocky reef communities.
+*   Kelp themselves provide habitat and food for numerous associated species (foundation species). 
+
+The context also mentions that in temperate coastal areas, kelp forests are ""one of the most important communities""."
+779,10.1002/lno.70029,2,True,False,False,
+780,10.1002/lno.70029,3,True,False,False,
+781,10.1002/lno.70029,4,True,False,False,
+782,10.1002/lno.70029,5,True,False,False,
+783,10.1002/lno.70029,6,True,False,False,
+784,10.1002/lno.70029,7,True,False,False,
+785,10.1002/lno.70029,8,True,False,False,
+786,10.1002/lno.70029,9,True,False,False,
+787,10.1002/lno.70029,10,True,False,False,
+788,10.1002/lno.70029,11,True,True,False,"The coastal ecosystem being studied is **kelp forests**, specifically those of *E. radiata*. 
+
+The context defines kelp forests as ecosystems where pH can regularly reach up to 8.4, and where these conditions can be beneficial to growth (specifically of *E. radiata*). Additionally, it is mentioned that *E. radiata* in Tasmania have highly seasonal demographic patterns, with peak spore production occurring in late summer and early autumn.
+</start_of_turn>"
+789,10.1002/lno.70029,12,True,False,False,
+790,10.1002/lno.70035,-1,True,,,
+791,10.1002/lno.70035,0,True,False,False,
+792,10.1002/lno.70000,-1,False,,,
+793,10.1002/lno.70048,-1,True,,,
+794,10.1002/lno.70048,0,True,True,False,"The coastal ecosystems being studied are the **Coastal California System (CCS)**. 
+
+The context defines CCS as supporting **diverse communities of phytoplankton**, but notes that blooms are **often characterized by one or a few species of large diatoms making up most of the biomass**. It also states that **certain upwelling conditions lead to dinoflagellate blooms** in the CCS, suggesting blooms are not *always* diatom-dominated. The context also indicates that changes to the ""canonical phytoplankton blooming"" within the CCS could alter biogeochemical cycling and food webs. </start_of_turn>"
+795,10.1002/lno.70048,1,True,False,False,
+796,10.1002/lno.70048,2,True,False,False,
+797,10.1002/lno.70048,3,True,False,False,
+798,10.1002/lno.70048,4,True,False,False,
+799,10.1002/lno.70048,5,True,False,True,
+800,10.1002/lno.70048,6,True,False,False,
+801,10.1002/lno.70048,7,True,False,False,
+802,10.1002/lno.70048,8,True,False,False,
+803,10.1002/lno.70048,9,True,False,False,
+804,10.1002/lno.70048,10,True,False,False,
+805,10.1002/lno.70048,11,True,False,False,
+806,10.1002/lno.70048,12,True,False,False,
+807,10.1002/lno.70048,13,True,False,False,
+808,10.1002/lno.70048,14,True,False,True,
+809,10.1002/lno.12720,-1,True,,,
+810,10.1002/lno.12720,0,True,False,False,
+811,10.1002/lno.12720,1,True,True,False,"The coastal ecosystems being studied are **coral reefs**. Specifically, the context focuses on **isolated reef systems**, such as **oceanic atolls or remote islands** (e.g., French Polynesia and Hawaii). 
+
+Here are the distinguishing attributes/descriptive characteristics given in the context:
+
+*   **Dynamic and diverse ecosystems** of immense ecological importance.
+*   They **face escalating threats** due to anthropogenic activities and climate change.
+*   Their ability to recover depends on **population connectivity**, which facilitates the exchange of larvae and genetic material.
+*   **Isolated reef systems** are more likely to **depend on local rather than long-distance dispersal** to maintain coral populations and support resilience.
+*   **Scott Reef** is specifically mentioned as an example – an **isolated atoll system located 300 km off northwestern Australia**. It has displayed an **inherent level of resilience** despite being exposed to multiple disturbances.
+
+
+
+</start_of_turn>"
+812,10.1002/lno.12720,2,True,False,False,
+813,10.1002/lno.12720,3,True,False,False,
+814,10.1002/lno.12720,4,True,True,False,"The context specifies that **coral reefs** are being studied. 
+
+They are described as being comprised of **59 nodes spanning the various reef geomorphological zones (reef flat, reef slope, and lagoon)**.  These reefs are further divided into reef **patches**, and are assessed according to **their average maximum daily temperatures**. The context also mentions **atolls** as a regional unit within which retention rates of particles are measured.  The network of reefs is also characterized by **connections** between patches, which are weighted by the **probability of larvae traveling from one node to the other**. Connections are described as **directional** and can be assessed in terms of **connectance**. </end_of_turn>"
+815,10.1002/lno.12720,5,True,False,False,
+816,10.1002/lno.12720,6,True,True,False,"The coastal ecosystems being studied are **reefs**, specifically the **Scott Reef system**. 
+
+The context defines them as being divided into two parts: **North Scott Reef** and **South Scott Reef**. Further distinctions are made within these parts based on location:
+
+*   **Reef slope sites**: Locations that were, on average, colder in daily mean temperatures compared to lagoon sites.
+*   **Lagoon sites**: Locations that were, on average, warmer in daily mean temperatures compared to reef slope sites.
+*   **Shallow enclosed lagoons of North Reef**: Warmer temperatures than open South Reef lagoon.
+*   **Open South Reef lagoon**: Cooler temperatures than shallow enclosed lagoons of North Reef.
+
+Additionally, nodes within the reef system are categorized by **recovery potential**:
+
+*   **High recovery potential**: High local retention, high number of incoming connections, and low thermal stress.
+*   **Medium recovery potential**: Between the 25th and 75th percentile for connectivity and thermal exposure criteria.
+*   **Lower recovery potential**: Below the 25th percentile for connectivity and thermal exposure criteria.
+
+
+
+</start_of_turn>"
+817,10.1002/lno.12720,7,True,True,False,"The coastal ecosystems being studied are **isolated reef ecosystems**, specifically **Scott Reef** and the **atoll reefs of the North West Shelf**. 
+
+Here are the defining characteristics as described in the text:
+
+*   **Reef systems:** These ecosystems are composed of reefs.
+*   **Isolated:** The Scott Reef region is relatively spared from disturbances like invasive species and pollution due to its isolation.
+*   **Atoll Reefs:** Reefs located in atoll formations, specifically those of the North West Shelf.
+*   **Composition:** They are composed of various reef zones.
+*   **Connectivity:** They exhibit both long-range and local dispersal mechanisms contributing to recovery following disturbances, with high gene flow and connectivity between sites.
+*   **Exposure:** They are exposed to disturbances like marine heat waves and tropical cyclones.
+*   **Robust Reef Nodes:** Comprise a set of robust reef nodes which have contributed to recovery following mass bleaching events.
+*   **Temperature Exposure:** South Scott Reef is overall exposed to lower temperatures compared to other parts of the reef system.
+
+
+
+</end_of_turn>"
+818,10.1002/lno.12720,8,True,False,False,
+819,10.1002/lno.70068,-1,False,,,
+820,10.1002/lno.12803,-1,True,,,
+821,10.1002/lno.12803,0,True,False,False,
+822,10.1002/lno.12803,1,True,False,False,
+823,10.1002/lno.12803,2,True,False,False,
+824,10.1002/lno.12803,3,True,False,True,
+825,10.1002/lno.12803,4,True,False,False,
+826,10.1002/lno.12803,5,True,False,True,
+827,10.1002/lno.12803,6,True,False,False,
+828,10.1002/lno.12803,7,True,False,False,
+829,10.1002/lno.12803,8,True,True,False,"Here's a breakdown of the coastal ecosystems mentioned in the text, with definitions based on the provided context:
+
+1.  **Singapore Strait:** This is the location where some short-term incubations were performed. It's not explicitly defined beyond being a geographic location where microbial activity was studied in relation to glucose stimulation of alkaline phosphatase enzyme activity.
+
+2.  **Great Barrier Reef:** Described as having a *higher bioavailable fraction* of DOM (specifically DOC, DON, and DOP) compared to the Sunda Shelf. It's characterized by having *benthic sources, especially corals*, which *release relatively bioavailable N- and P-rich DOM*.
+
+3.  **Coral Reefs (generally):** Characterized by the release of relatively bioavailable N- and P-rich DOM. Less densely distributed across the Sunda Shelf compared to the Great Barrier Reef.
+
+4.  **Sunda Shelf:** Characterized by having *less densely distributed coral reefs* compared to the Great Barrier Reef, and having *limited benthic habitats* which are insufficient to contribute substantially to overall ecosystem primary production.
+
+5.  **Blackwater rivers (from subtropical North America):** The context describes these rivers as having *low biodegradability* and *no priming effect for DOC loss*. 
+
+It's important to note that the context doesn’t provide comprehensive definitions for all coastal ecosystems, but focuses on attributes relevant to the study of DOM bioavailability and degradation.
+
+
+
+</start_of_turn>"
+830,10.1002/lno.12803,9,True,False,True,
+831,10.1002/lno.12803,10,True,False,False,
+832,10.1002/lno.12803,11,True,False,True,
+833,10.1002/lno.12723,-1,False,,,
+834,10.1002/lno.12735,-1,False,,,
+835,10.1002/lno.12767,-1,False,,,
+836,10.1002/lno.70014,-1,True,,,
+837,10.1002/lno.70014,0,True,False,False,
+838,10.1002/lno.70014,1,True,False,False,
+839,10.1002/lno.70014,2,True,False,False,
+840,10.1002/lno.70014,3,True,False,True,
+841,10.1002/lno.70014,4,True,False,True,
+842,10.1002/lno.70014,5,True,False,True,
+843,10.1002/lno.70014,6,True,False,True,
+844,10.1002/lno.70014,7,True,False,True,
+845,10.1002/lno.70014,8,True,False,False,
+846,10.1002/lno.70014,9,True,False,True,
+847,10.1002/lno.70014,10,True,False,False,
+848,10.1002/lno.70014,11,True,False,False,
+849,10.1002/lno.70014,12,True,False,False,
+850,10.1002/lno.70014,13,True,False,True,
+851,10.1002/lno.70046,-1,True,,,
+852,10.1002/lno.70046,0,True,True,False,"The study investigates two coastal ecosystems:
+
+1. **Extreme, multi-stressor inland bay habitats:** These are defined as habitats experiencing combined global (warming, acidification) and local stressors (e.g., higher nutrient input).
+2. **Nearby fringing reefs with more benign environmental conditions:** These are defined as habitats experiencing less severe environmental stress compared to the inland bay habitats.
+</end_turn>"
+853,10.1002/lno.70046,1,True,True,False,"The context describes two types of coastal ecosystems:
+
+1. **Inland bay habitats:** These are described as **environmentally extreme** locations where corals experience **both global stressors** (warmer, more acidic seawater, and highly variable dissolved oxygen concentrations) **and local impacts** (high turbidity, terrestrial run-off).
+
+2. **Fringing reef sites:** These serve as **reference habitats** and are implied to be less stressed compared to the inland bay habitats, lacking the combination of extreme global and local stressors. 
+
+
+
+</start_of_turn>"
+854,10.1002/lno.70046,2,True,True,True,"The coastal ecosystems being studied are **inland bays** and **fringing reefs**. 
+
+Here are their definitions as provided in the text:
+
+**Inland Bays:** Defined as both **extreme and marginal coral habitats** because:
+1. The mean and variance of multiple environmental conditions deviate from those considered optimal for coral health and functioning.
+2. Coral cover and diversity (species richness) are substantially lower compared to adjacent fringing reefs.
+3. They are dominated by seagrass, macro- and turf algae interspersed with isolated coral assemblages.
+
+**Fringing Reefs:** These are described as the **reference sites** and are adjacent to the inland bays. They are distinguished by having higher coral cover and diversity (species richness) compared to the inland bays. They serve as a comparison point for the extreme conditions observed in the bays.
+</end_of_turn>"
+855,10.1002/lno.70046,3,True,False,False,
+856,10.1002/lno.70046,4,True,False,False,
+857,10.1002/lno.70046,5,True,False,False,
+858,10.1002/lno.70046,6,True,False,False,
+859,10.1002/lno.70046,7,True,True,True,"The coastal ecosystems being studied are **inland bays** and **fringing reefs**. 
+
+Here are the definitions provided in the context:
+
+*   **Inland bays:** Characterized by more extreme and variable coral habitats compared to fringing reefs. Specifically, they have:
+    *   Higher average and daily variability of temperatures.
+    *   Higher daily temperature ranges (up to 2.36°C).
+    *   Lower pH T values (0.03 lower on average).
+    *   Higher daily variability of pH T during wet seasons.
+    *   Lower DO concentrations (8% lower on average during the warm wet season).
+    *   Higher daily variability of DO concentrations (18% higher during the warm wet season).
+    *   Higher average salinity (6% higher during the warm wet season).
+    *   Lower PAR (138 μmol m−2 s−1 lower, -32%) despite shallower depths.
+    *   Higher turbidity.
+*   **Fringing reefs:** These are described in relation to the bays, as having more stable environmental conditions, and lower variability in the parameters listed above for the bays.
+
+
+
+</end_of_turn>"
+860,10.1002/lno.70046,8,True,False,True,
+861,10.1002/lno.70046,9,True,False,True,
+862,10.1002/lno.70046,10,True,False,True,
+863,10.1002/lno.70046,11,True,False,True,
+864,10.1002/lno.70046,12,True,False,True,
+865,10.1002/lno.70046,13,True,False,True,
+866,10.1002/lno.70084,-1,False,,,
+867,10.1002/lno.70099,-1,False,,,
+868,10.1002/lno.70018,-1,False,,,
+869,10.1002/lno.12753,-1,True,,,
+870,10.1002/lno.12753,0,True,False,False,
+871,10.1002/lno.12756,-1,False,,,
+872,10.1002/lno.70057,-1,True,,,
+873,10.1002/lno.70057,0,True,False,False,
+874,10.1002/lno.12814,-1,False,,,
+875,10.1002/lno.70056,-1,True,,,
+876,10.1002/lno.70056,0,True,False,False,
+877,10.1002/lno.70056,1,True,True,True,"The coastal ecosystems being studied are **marine benthic vegetation** along the **Greenland east coast**, specifically from 65.5 N to 76.8 N. 
+
+The context defines these ecosystems as:
+
+*   **Supporting key ecosystem functions** by providing habitats, shelter, feeding, and nursing grounds for a variety of fauna.
+*   **Communities of macroalgae** present along the coastline.
+*   Specifically, the study focuses on **kelp forests** as a key component of these communities.
+*   These ecosystems are characterized by their **coverage, depth distribution, and biodiversity**, which are expected to change with latitude and related environmental drivers.
+*   They are defined as being present on **hard and stable substrate**, as this is necessary for a rich community of macroalgae.
+*   The study is focused on **submerged** marine vegetation.
+
+The context further suggests that these ecosystems may be impacted by **receding light conditions** and **sea ice**, leading to potential **pauperization** (decrease in coverage and depth distribution) of the vegetation/kelp forests with increasing latitude.
+
+
+
+</end_of_turn>"
+878,10.1002/lno.70056,2,True,False,False,
+879,10.1002/lno.70056,3,True,False,False,
+880,10.1002/lno.70056,4,True,False,False,
+881,10.1002/lno.70056,5,True,False,True,
+882,10.1002/lno.70056,6,True,True,True,"Based on the provided text, the coastal ecosystems being studied are defined by **macroalgal vegetation types** identified through **cluster analysis**. 
+
+Specifically, 10 clusters were identified, each **defined by a combination of species** (Table 2). These clusters are further described by their **environmental conditions** (latitudes, depth, and substratum type – Fig. 6, Table 2). 
+
+The text doesn't specify named ecosystems like ""kelp forests"" or ""marshes,"" but rather focuses on groupings of species that occur together, forming distinct vegetation types based on their environmental preferences and co-occurrence. These vegetation types are distinguished by *which species* (combination) define them and are further characterized by their *latitudinal distribution, depth range, and preferred substratum*.
+</end_of_turn>"
+883,10.1002/lno.70056,7,True,True,True,"The coastal ecosystem being studied is **kelp forests** along the **Greenland east coast**, with comparisons made to those on the **Greenland west coast** and in **arctic Canada** and **Svalbard**. 
+
+Here are the definitions/characteristics given in the context:
+
+*   **Kelp forests** can be converted to **barren grounds** due to intense **sea urchin grazing**.
+*   A **kelp forest belt** is defined by having a **canopy coverage > 10%**. This belt is observed to be **narrowing** with increasing latitude. 
+*   The depth range of a kelp forest belt with >10% canopy coverage ranges from **34 m to 18 m** (east coast) and **24 to 33 m at southern latitudes (64-73 N) to 9-14 m at the most northern latitudes (77-78 N)** (west coast).
+*   Kelp forests are influenced by **local conditions** such as **south-directed slope, currents/gyres, water turbidity, presence of stable substratum**, and **outlet of silt from glacier melt water**.
+*   Kelp forest depth penetration can be affected by **higher water turbidity** at **coastal sites** compared to **offshore sites**.
+
+
+
+</start_of_turn>"
+884,10.1002/lno.70056,8,True,False,True,
+885,10.1002/lno.70056,9,True,True,True,"Here's a breakdown of the coastal ecosystems studied, as defined by the provided text:
+
+1.  **Southern Segment Kelp Forest:** This kelp forest is located in the southern and deeper areas, and is characterized by a mix of species including *L. solidungula* and *A. clathratum*. It is similar to kelp forests on the Greenland south and west coast, specifically having *A. clathratum* as a dominant component, particularly in sheltered and deeper locations.
+
+2.  **Blosseville Coast Kelp Forest:** This kelp forest is located along a coastline heavily influenced by marine-terminating glaciers, resulting in turbid water and glacier ice. It is dominated by *L. solidungula* along with red algal species, growing on a seabed with mixed substrate types (rock to pebbles). It is found at depths of 15-20m, and exists in a dynamic environment due to glacial meltwater and ice scouring.
+
+3.  **Seaweed Meadows:** These are characterized by low vegetation of *C. plumosa* and *F. distichus*, and includes *A. glacialis*. They were observed along the coastline between approximately 71°N and 73°N, and are thought to be a high-arctic element, potentially found on both the east and west coasts of Greenland.
+
+
+
+</start_of_turn>"
+886,10.1002/lno.70056,10,True,False,True,
+887,10.1002/lno.70056,11,True,True,True,"Based on the provided text, the primary coastal ecosystem being studied is **kelp forests** and more broadly **marine vegetation communities**. 
+
+Here are the definitions/characteristics provided in the text:
+
+*   **Kelp forests:** Vegetation belts with a **canopy coverage > 10%**, narrowing from a depth of **34 to 18 m** within the surveyed latitudinal gradient (**65.5-76.8 N**).
+*   **Marine vegetation communities:** Four types were identified based on the impacts from sea ice concentration and other local conditions. These types are differentiated by their **presence, coverage, and depth** distribution. 
+    *   Two types are **correlated with latitudes**.
+    *   Two types are more correlated with **local/regional conditions** such as **dynamic sea ice, glaciers, and smallersized hard substratum**.
+*   The text also mentions **macroalgal coverage** is being distributed along **latitudinal and depth gradients.**
+
+
+
+</end_of_turn>"
+888,10.1002/lno.70056,12,True,False,False,
+889,10.1002/lno.12739,-1,True,,,
+890,10.1002/lno.12739,0,True,False,False,
+891,10.1002/lno.12739,1,True,True,True,"The coastal ecosystems being studied are **salt marshes** along the Oregon coast. 
+
+The context defines them by the following attributes/characteristics:
+
+*   They are located along the Oregon coast.
+*   They receive sediment from both terrestrial (e.g., rivers, creeks) and marine (e.g., salt marsh plants, algae) sources.
+*   They are variable in terms of fluvial sediment load delivered to estuaries (ranging from 1 Mt yr<sup>-1</sup> to 2.5 x 10<sup>3</sup> t yr<sup>-1</sup>).
+*   They are spatially separated by rocky coastline with a mean inter-estuarine distance of 22km.
+*   Oregon estuaries are designated as either drowned river mouths or bar-built.
+*   They vary substantially in intertidal area (from >200 km<sup>2</sup> to <0.003 km<sup>2</sup>).
+*   They accumulate organic matter, contributing to sediment volume and carbon sequestration.
+*   They are subject to shifts in hydroclimate, land use, and tectonic influences.
+*   The study focuses on **high marsh sediments**.
+
+
+
+</start_of_turn>"
+892,10.1002/lno.12739,2,True,True,True,"The context describes two coastal ecosystems:
+
+1. **High Marshes:** These are located across seven Oregon estuaries and are colonized by dense, C3 graminoid vegetation. Dominant species include *Schoenoplectus tabernaemontani, Athyrium filix-femina, Carex lyngbyei, Deschampsia cespitosa, Juncus balticus, Agrostis stolonifera*, and *Potentilla anserina*. Unlike salt marshes along the US Atlantic and Gulf coasts, C4 plants are relatively rare in Oregon high marshes.
+
+2. **Low Marshes:** These are distinguished from high marshes by the presence of the C4 plant *Distichlis spicata*, and are found in Alsea, Salmon, and Nehalem estuaries, though they make up a relatively small portion of the intertidal area in Oregon.
+
+The context also mentions **estuaries** as the general location of the high marshes, but does not provide a specific definition for them beyond being the location where the high marshes are found.
+"
+893,10.1002/lno.12739,3,True,False,True,
+894,10.1002/lno.12739,4,True,True,False,"The following coastal ecosystems are being studied, with definitions from the provided text:
+
+*   **Salt Marsh:** Defined as a source of C3 vegetation and benthic marsh diatoms; considered *autochthonous* (originating from within the system).
+*   **Estuaries:** Defined as encompassing sources including estuarine macroalgae, benthic shallow subtidal diatoms, phytoplankton, *Distichlis spicata* (C4), and *Zostera marina* (C4); considered *allochthonous* (originating from outside the system).
+*   **Terrestrial plants:** Defined as a source of C3 plants; considered *allochthonous* (originating from outside the system).
+
+Additionally, the text references **intertidal zones** as a location where organic matter sources are previously determined, but doesn't define it as a specific ecosystem being *studied* in this analysis.
+
+The text also references the **Skokomish Estuary and Nisqually River Deltas, WA** as locations where source means and fields were previously measured. These are specific examples of estuaries being studied. "
+895,10.1002/lno.12739,5,True,False,False,
+896,10.1002/lno.12739,6,True,True,True,"The following coastal ecosystems are studied in this context:
+
+*   **Oregon Salt Marshes**: These are high marsh ecosystems in Oregon, characterized by a substantial portion (41-62%) of their organic matter *not* being produced locally (autochthonous). They are described as relatively less autochthonous compared to other US Pacific Coast salt marshes and global marshes, with a variable fraction of allochthonous organic matter (ranging from 2-53%). They are described as ""minerogenic,"" suggesting a significant inorganic sediment component. Some Oregon salt marshes are contracting (e.g., Alsea), while most display net area stability.
+*   **Nisqually River Delta (Puget Sound, WA) Marshes**: These are described as having 73-89% autochthonous organic matter.
+*   **Walker/Tomales Bay and Elkhorn Slough (CA) Marshes**: These are described as having >88% autochthonous organic matter.
+*   **Louisiana Marshes**: These are described as having ≤ 40% autochthonous organic matter.
+*   **Waarde Marsh (Netherlands)**: These are described as having ≤ 20% autochthonous organic matter.
+*   **Estuaries**: The text distinguishes between terrestrial and estuarine sources of allochthonous organic matter within estuaries. Estuarine sources are linked to aquatic : wetland area ratios.
+*   **Rivers**: Terrestrial sources of organic matter are linked to fluvial sediment load, and their contribution increases closer to upstream reaches.
+*   **Tideflats**: These areas receive more estuarine organic matter.
+*   **Channels**: These areas receive more terrestrial organic matter.
+
+It's important to note that the context primarily focuses on the *organic matter sources* within these ecosystems rather than detailed descriptions of their broader ecological characteristics.
+</start_of_turn>"
+897,10.1002/lno.12739,7,True,True,False,"The coastal ecosystems being studied are **Oregon salt marshes**. 
+
+The text defines them through several characteristics:
+
+*   They are **blue carbon ecosystems** (implying they are capable of carbon storage).
+*   They are influenced by **fluvial sediment supply** (sediment delivered by rivers).
+*   Their **elevation** and **maturation** (age/development) are key factors influencing organic matter sourcing.
+*   They experience **coseismic subsidence** related to the Cascadia Subduction Zone earthquake cycle.
+*   They have **high marsh** habitats which are often dominant pre-earthquake.
+*   They are subject to **daily tidal inundation** and larger events driven by **discharge**.
+*   They contain **autochthonous material** (material originating within the system, like roots/rhizomes) alongside **allochthonous organic matter** (material from outside the system).
+*   They undergo **post-restoration elevation reestablishment**.
+
+
+
+</end_of_turn>"
+898,10.1002/lno.12739,8,True,True,False,"The coastal ecosystems being studied are **salt marshes** along the **Oregon coast**, with specific mention of rivers feeding into them (Siuslaw, Alsea, Umpqua, Nehalem, Youngs, and Salmon). 
+
+Here are the definitions/characteristics given in the context:
+
+*   **Salt marshes**: These are defined by the source of their sediment. They are further categorized as:
+    *   **Minerogenic salt marshes**: Those that “receive large fluvial sediment loads such as those at the mouths of small mountainous rivers found along tectonically active margins.”
+*   **Rivers**: Specific rivers are studied as sources of sediment to the marshes, including the Siuslaw, Alsea, Umpqua, Nehalem, Youngs, and Salmon rivers. They are often found along tectonically active margins and may drain mountainous regions.
+*   **Estuarine carbon pools**: These are also considered as a source of organic matter to the marshes.
+
+The context also implicitly defines marshes based on their *resilience to sea level rise*, with marshes receiving a large fraction of their volume from allochthonous sources being more resilient.
+
+
+
+</start_of_turn>"
+899,10.1002/lno.12739,9,True,False,False,
+900,10.1002/lno.12739,10,True,False,False,
+901,10.1002/lno.70065,-1,True,,,
+902,10.1002/lno.70065,0,True,False,False,
+903,10.1002/lno.12785,-1,False,,,
+904,10.1002/lno.70044,-1,True,,,
+905,10.1002/lno.70044,0,True,False,False,
+906,10.1002/lno.12754,-1,True,,,
+907,10.1002/lno.12754,0,True,False,False,
+908,10.1002/lno.70005,-1,True,,,
+909,10.1002/lno.70005,0,True,True,False,"The context focuses on **subtidal soft-bottom mussel beds**. They are defined as ecosystems where mussel clusters are monitored *in situ* under hydrodynamic disturbances, and are found on soft bottoms.
+
+Additionally, the context suggests the approach could be extended to **oyster reefs**, which are presented as a comparable ecosystem. No distinguishing attributes or descriptive characteristics are provided for oyster reefs beyond their comparability to mussel beds.
+"
+910,10.1002/lno.70005,1,True,True,False,"The coastal ecosystems being studied are **soft-bottom mussel beds** and, more broadly, ecosystems involving **ecosystem engineers** such as species that form **shellfish reefs, seagrass beds, and salt marshes**. 
+
+Here are the definitions provided in the context:
+
+*   **Soft-bottom mussel beds**: Structures produced by coastal ecosystem engineers and are subjected to hydrodynamic disturbances in soft sediments or hard substrates in the intertidal and subtidal zones. They are characterized by mussels attaching to conspecifics using byssal threads, forming extensive aggregations.
+*   **Ecosystem engineers**: Species that play a vital role by providing habitats, immobilizing carbon, and safeguarding coastlines through their structure and function.
+*   **Shellfish reefs, seagrass beds, and salt marshes**: Examples of ecosystems involving ecosystem engineers, distinguished by the types of organisms that create and maintain their structure and function.
+
+
+
+</start_of_turn>"
+911,10.1002/lno.70005,2,True,False,False,
+912,10.1002/lno.70005,3,True,True,False,"The context describes the **Wadden Sea** as a shallow estuarine area. It is defined by the following characteristics:
+
+*   Extends approximately 500 km along the coasts of the Netherlands, Germany, and Denmark.
+*   Bordered by the North Sea and divided by a series of small barrier islands.
+*   Water flux enters through narrow deep inlets propelled by tides and spreads through an extensive network of branching gullies.
+*   The seabed primarily consists of soft sediments, varying from coarse sands in inlets and tidal gullies to fine mud in shallow regions.
+*   Contains vast populations of natural mussel beds and the world's largest subtidal mussel bottom-culture plots.
+
+The context also mentions **mussel beds** themselves as a component of this ecosystem, defining them by:
+
+*   They can become fragmented due to mussel movement.
+*   They may recover during calm periods or collapse during strong hydrodynamic events, dependent on their “mobility threshold”.
+*   They are established according to industry standards by depositing juvenile mussels.
+*   They have a similar age (< 1 yr) and mass per unit area (ca. 5 kg m À2 ) in this study.
+*   They are regularly cleaned of starfish predators as part of the cultivation method.
+*   They are monitored in the subtidal area of the Dutch Wadden Sea, and commercial beds are selected corresponding to distinct hydrodynamic environments.
+"
+913,10.1002/lno.70005,4,True,False,False,
+914,10.1002/lno.70005,5,True,False,False,
+915,10.1002/lno.70005,6,True,False,False,
+916,10.1002/lno.70005,7,True,True,False,"Based on the provided text, the coastal ecosystems being studied are **subtidal soft-bottom mussel beds** and **intertidal mussel beds**. 
+
+Here are the definitions as provided in the context:
+
+*   **Subtidal soft-bottom mussel beds**: These are mussel beds located on soft seabeds below the high tide line. The text highlights that they exhibit variations in ""mobility thresholds"" correlated with bed elevation and adaptive responses of the mussels. Water depth is generally shallower at higher bed elevations within these beds, leading to slower wave speeds and stronger hydrodynamic disturbances.
+*   **Intertidal mussel beds**: These are mussel beds that are exposed to air for longer periods at higher elevations, which may diminish mussel stress tolerance by reducing byssal thread strength. These beds are used as a contrasting example to subtidal beds to illustrate how elevation can have differing effects on mussel stability."
+917,10.1002/lno.70005,8,True,True,False,"The coastal ecosystems being studied are **soft-bottom mussel beds in the subtidal zone**. 
+
+Here are the definitions provided in the context:
+
+*   **Highly stable mussel beds:** Few mussels undergo movement and have the ability to recover when hydrodynamic velocity falls below a certain threshold (mobility threshold-1).
+*   **Highly unstable mussel beds:** Most mussels are in motion and have the potential to collapse as long as the velocity remains above a certain threshold (mobility threshold-3).
+*   **Fragmented mussel beds:** These beds experience mussel movement and may recover during calm periods or collapse during stronger periods, depending on the value of their mobility threshold (mobility threshold-2). Lower thresholds lead to more movement and a higher risk of collapse.
+
+The text also notes these beds are found in **soft-bottom systems** and that mussels within them can form byssal threads quickly and aggregate rapidly. They are also contrasted with **wild mussel beds** which may have different characteristics due to age/size variation and rougher bottom topography. Finally, the study focuses on beds in the **Dutch Wadden Sea**.
+
+
+
+</end_turn>"
+918,10.1002/lno.70005,9,True,False,False,
+919,10.1002/lno.70005,10,True,False,False,
+920,10.1002/lno.70072,-1,True,,,
+921,10.1002/lno.70072,0,True,False,False,
+922,10.1002/lno.70072,1,True,False,False,
+923,10.1002/lno.70072,2,True,False,False,
+924,10.1002/lno.70072,3,True,False,False,
+925,10.1002/lno.70072,4,True,False,True,
+926,10.1002/lno.70072,5,True,False,True,
+927,10.1002/lno.70072,6,True,False,True,
+928,10.1002/lno.70072,7,True,False,True,
+929,10.1002/lno.70072,8,True,False,False,

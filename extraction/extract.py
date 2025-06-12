@@ -1,5 +1,5 @@
 import os
-from extraction.pond_model import MODEL, GRAPH
+from model import MODEL, GRAPH
 from systematic_review import *
 
 chat_with_history = ChatWithHistory(llm = GRAPH)
