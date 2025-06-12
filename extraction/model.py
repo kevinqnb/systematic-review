@@ -99,8 +99,11 @@ def screen_definition(state: State):
     )
     context = state["text"]
     query = (
-        "Does this page contain a definition for certain coastal ecosystem? "
-        "A definition should specify distinguishing attributes or descriptive characteristics. "
+        "Does this page present a specific definition for a type of coastal ecosystem? "
+        "A definition should specify quantitative attributes or descriptive characteristics "
+        "that distinguish this ecosystem from other types. Answer yes only if there is a "
+        "clearly presented definition, that is not just a general description or overview "
+        "of the ecosystem being studied. "
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, magroves, marshes, segagrass meadows, kelp forests, and coastal wetlands."
     )
@@ -133,9 +136,10 @@ def extract_definition(state: State):
     )
     context = state["text"]
     query = (
-        "Which coastal ecosystems are being studied and what are the "
-        "definitions does the context give to describe them? "
-        "A definition should specify distinguishing attributes or descriptive characteristics. " 
+        "Which coastal ecosystems are being studied and what are the specific "
+        "quantitative attributes or descriptive characteristics the context uses to define them? "
+        "Give an answer only if there is a clearly presented definition, that is not just "
+        "a general description or overview of the ecosystem being studied. " 
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, magroves, marshes, segagrass meadows, kelp forests, and coastal wetlands."
     )
@@ -170,7 +174,7 @@ def screen_table(state: State):
         "physical, chemical, or biological attributes of coastal ecosystems? "
         "Data must be reported in a table format, and should only be given for individually "
         "studied ecosystems, instead of aggregate statistics for groups of ecosystems. "
-        "Examples include but are not limited to depth, surface area, temperature, or pH."
+        "Examples include but are not limited to water depth, temperature, or pH."
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, magroves, marshes, segagrass meadows, kelp forests, and coastal wetlands."
     )
