@@ -7,7 +7,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Eutrophication: are mayflies (Ephemeroptera) good bioindicators for ponds?</title>
-				<funder ref="#_uKrXE2C">
+				<funder ref="#_gt5uHQt">
 					<orgName type="full">&apos;&apos;Office of Environment and Energy&apos;&apos; of the canton of Luzern</orgName>
 				</funder>
 			</titleStmt>
@@ -83,10 +83,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+				<application version="0.8.2" ident="GROBID" when="2025-06-18T20:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
-					<label type="revision">a91ee48</label>
-					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<label type="revision">unknown</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
@@ -135,7 +135,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgements We are grateful to our collaborators <rs type="person">Christiane Ilg</rs>, <rs type="programName">He ´le `ne Hinden</rs>, <rs type="person">Marc Pellaud</rs>, <rs type="person">Gilles Carron</rs>, <rs type="person">Amae ¨l Paillex</rs> and <rs type="person">Dominique Auderset-Joye</rs> for their help in the field and laboratory work. The authors appreciate also the great help and constructive comments from <rs type="person">Emmanuel Castella. Thanks</rs> to the <rs type="institution">CSCF</rs> for the access to the Swiss databanks on fauna, <rs type="person">Swiss National Park</rs> for collaboration studies, <rs type="person">Nathalie Rimann</rs> and <rs type="person">Emilie Hafner</rs> for access to a subset of the pond data. Thanks to <rs type="person">David McCrae</rs> for his great help in improving the English style. Previous help in identification was provided by <rs type="person">Diana Cambin</rs>. We are also grateful to the <rs type="projectName">Bourse Augustin Lombard of the ''Socie´te´de physique et d'histoire naturelle de Gene`ve (SPHN)'' and the</rs> <rs type="funder">''Office of Environment and Energy'' of the canton of Luzern</rs> for their financial support. Finally, thanks to the water agencies of the cantons of <rs type="institution">Geneva and Vaud</rs> for completing some of the chemical analyses of the water samples. The database was in great part provided by the previous PLOCH study, financially supported by the ''<rs type="institution">Swiss Agency for the Environment, Forests and Landscape''</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funded-project" xml:id="_uKrXE2C">
+				<org type="funded-project" xml:id="_gt5uHQt">
 					<orgName type="project" subtype="full">Bourse Augustin Lombard of the &apos;&apos;Socie´te´de physique et d&apos;histoire naturelle de Gene`ve (SPHN)&apos;&apos; and the</orgName>
 					<orgName type="program" subtype="full">He ´le `ne Hinden</orgName>
 				</org>

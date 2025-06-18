@@ -7,7 +7,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Drivers of carbon dioxide and methane supersaturation in small, temporary ponds</title>
-				<funder ref="#_4AzBhzN">
+				<funder ref="#_qu2UTMx">
 					<orgName type="full">National Science Foundation Graduate Research Fellowship</orgName>
 				</funder>
 				<funder>
@@ -62,10 +62,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:15+0000">
+				<application version="0.8.2" ident="GROBID" when="2025-06-18T20:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
-					<label type="revision">a91ee48</label>
-					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<label type="revision">unknown</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
@@ -116,7 +116,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>Acknowledgments Thank you to <rs type="person">Peter Raymond</rs>, <rs type="person">David Skelly</rs>, and two anonymous reviewers for their thoughtful comments that greatly improved the manuscript. Thank you to <rs type="person">Madison Shankle</rs> and numerous volunteers for providing field assistance. I am grateful to the <rs type="institution">Yale Myers Forest team</rs> for lodging and use of the study ponds. I am supported by the <rs type="funder">National Science Foundation Graduate Research Fellowship</rs> (<rs type="grantNumber">DGE-1122492</rs>) and the <rs type="funder">Yale University School of Forestry and Environmental Studies</rs>. Research funding came from the <rs type="affiliation">Yale Institute for Biospheric Studies and Friends of Chatham Waterways, Massachusetts</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_4AzBhzN">
+				<org type="funding" xml:id="_qu2UTMx">
 					<idno type="grant-number">DGE-1122492</idno>
 				</org>
 			</listOrg>

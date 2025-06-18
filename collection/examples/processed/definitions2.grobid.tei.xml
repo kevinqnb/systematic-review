@@ -86,10 +86,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+				<application version="0.8.2" ident="GROBID" when="2025-06-18T20:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
-					<label type="revision">a91ee48</label>
-					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<label type="revision">unknown</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
@@ -7301,11 +7301,9 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<ptr target="http://publications.naturalengland.org.uk/publication/30025" />
 	</analytic>
 	<monogr>
-		<title level="m">Sheffield: Natural England</title>
-		<title level="s">Natural England research reports</title>
+		<title level="m">Natural England research reports Sheffield: Natural England</title>
 		<imprint>
 			<date type="published" when="2010-09-29">2010. downloaded 29 September 2016</date>
-			<biblScope unit="volume">24</biblScope>
 		</imprint>
 	</monogr>
 </biblStruct>

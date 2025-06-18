@@ -7,16 +7,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Methane and Carbon Dioxide Fluxes in a Temperate Tidal Salt Marsh: Comparisons Between Plot and Ecosystem Measurements</title>
-				<funder ref="#_tfNHc4Y">
-					<orgName type="full">National Science Foundation EPSCoR</orgName>
-				</funder>
-				<funder ref="#_ScRPthN">
-					<orgName type="full">National Science Foundation</orgName>
-				</funder>
-				<funder>
-					<orgName type="full">State of Delaware</orgName>
-				</funder>
-				<funder ref="#_7tSZ3kN">
+				<funder ref="#_yTkqbUY">
 					<orgName type="full">Department of Energy</orgName>
 				</funder>
 				<funder>
@@ -25,6 +16,15 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 				<funder>
 					<orgName type="full">Delaware National Estuarine Research Reserve</orgName>
 					<orgName type="abbreviated">DNERR</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">State of Delaware</orgName>
+				</funder>
+				<funder ref="#_JCySKYJ">
+					<orgName type="full">National Science Foundation EPSCoR</orgName>
+				</funder>
+				<funder ref="#_UW8CHcT">
+					<orgName type="full">National Science Foundation</orgName>
 				</funder>
 			</titleStmt>
 			<publicationStmt>
@@ -167,10 +167,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+				<application version="0.8.2" ident="GROBID" when="2025-06-18T20:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
-					<label type="revision">a91ee48</label>
-					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<label type="revision">unknown</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
@@ -222,13 +222,13 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgments</head><p>This research was supported by the <rs type="funder">National Science Foundation</rs> (#<rs type="grantNumber">1652594</rs>) and the <rs type="funder">Department of Energy</rs> (<rs type="grantNumber">DE-SC0022185</rs>). AH acknowledges support from the <rs type="funder">Delaware Environmental Institute</rs>, the <rs type="funder">National Science Foundation EPSCoR</rs> (#<rs type="grantNumber">1757353</rs>) and the <rs type="funder">State of Delaware</rs>. We thank the onsite support from the <rs type="funder">Delaware National Estuarine Research Reserve (DNERR)</rs>, as well as from <rs type="person">Jack Hill</rs> for field assistance during all campaigns. We thank <rs type="person">Inke Forbrich</rs> and <rs type="person">Karina Schafer</rs> for inspiring discussions about carbon fluxes in salt marshes. The authors acknowledge the land on which they conducted this study is the traditional home of the Lenni-Lenape tribal nation (Delaware nation).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_ScRPthN">
+				<org type="funding" xml:id="_UW8CHcT">
 					<idno type="grant-number">1652594</idno>
 				</org>
-				<org type="funding" xml:id="_7tSZ3kN">
+				<org type="funding" xml:id="_yTkqbUY">
 					<idno type="grant-number">DE-SC0022185</idno>
 				</org>
-				<org type="funding" xml:id="_tfNHc4Y">
+				<org type="funding" xml:id="_JCySKYJ">
 					<idno type="grant-number">1757353</idno>
 				</org>
 			</listOrg>

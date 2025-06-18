@@ -7,7 +7,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Specificity of zooplankton distribution in meteorite crater ponds (Morasko, Poland)</title>
-				<funder ref="#_4P3XTK8">
+				<funder ref="#_Ctw6aU4">
 					<orgName type="full">Polish Committee for Scientific Research (KBN)</orgName>
 				</funder>
 			</titleStmt>
@@ -62,10 +62,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:15+0000">
+				<application version="0.8.2" ident="GROBID" when="2025-06-18T20:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
-					<label type="revision">a91ee48</label>
-					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<label type="revision">unknown</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
@@ -107,7 +107,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>ACKNOWLEDGEMENTS</head><p>This work was partly supported by the <rs type="funder">Polish Committee for Scientific Research (KBN)</rs> under grant No. <rs type="grantNumber">N N305 042739</rs>.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_4P3XTK8">
+				<org type="funding" xml:id="_Ctw6aU4">
 					<idno type="grant-number">N N305 042739</idno>
 				</org>
 			</listOrg>

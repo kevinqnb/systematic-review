@@ -7,10 +7,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Agricultural Freshwater Pond Supports Diverse and Dynamic Bacterial and Viral Populations</title>
-				<funder ref="#_6uUMxuH">
+				<funder ref="#_4KXWpcr">
 					<orgName type="full">United States Department of Agriculture-National Institute of Food and Agriculture</orgName>
 				</funder>
-				<funder ref="#_8pnMGfh">
+				<funder ref="#_kpkmM6A">
 					<orgName type="full">Computation and Mathematics for Biological Networks (COMBINE) NSF</orgName>
 				</funder>
 			</titleStmt>
@@ -146,10 +146,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+				<application version="0.8.2" ident="GROBID" when="2025-06-18T20:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
-					<label type="revision">a91ee48</label>
-					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<label type="revision">unknown</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
@@ -210,10 +210,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><p>FUNDING This work was supported by the <rs type="funder">United States Department of Agriculture-National Institute of Food and Agriculture</rs>, Grant number <rs type="grantNumber">2016-68007-25064</rs>, that established CONSERVE: A <rs type="institution">Center of Excellence at the Nexus of Sustainable Water Reuse, Food and Health</rs>, and the <rs type="funder">Computation and Mathematics for Biological Networks (COMBINE) NSF</rs> <rs type="programName">Research Traineeship program</rs> (NSF: <rs type="grantNumber">1632976</rs>).</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_6uUMxuH">
+				<org type="funding" xml:id="_4KXWpcr">
 					<idno type="grant-number">2016-68007-25064</idno>
 				</org>
-				<org type="funding" xml:id="_8pnMGfh">
+				<org type="funding" xml:id="_kpkmM6A">
 					<idno type="grant-number">1632976</idno>
 					<orgName type="program" subtype="full">Research Traineeship program</orgName>
 				</org>

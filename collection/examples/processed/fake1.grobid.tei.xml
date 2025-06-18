@@ -7,7 +7,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		<fileDesc>
 			<titleStmt>
 				<title level="a" type="main">Quantifying saltmarsh vegetation and its effect on wave height dissipation: Results from a UK East coast saltmarsh</title>
-				<funder ref="#_2CvhZ7r">
+				<funder ref="#_QAKkAt5">
 					<orgName type="full">Royal Geographical Society/EPSRC</orgName>
 				</funder>
 			</titleStmt>
@@ -58,10 +58,10 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.8.2" ident="GROBID" when="2025-06-03T15:14+0000">
+				<application version="0.8.2" ident="GROBID" when="2025-06-18T20:03+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
-					<label type="revision">a91ee48</label>
-					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<label type="revision">unknown</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
 			</appInfo>
@@ -118,7 +118,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 <div><head>Acknowledgements</head><p>The research reported in this paper was carried out under a <rs type="funder">Royal Geographical Society/EPSRC</rs> <rs type="grantName">Geographical Research Grant</rs>, for which the author is most grateful. I am most grateful for the collaboration with <rs type="person">Dr. T. Spencer</rs> on previous projects on the Dengie marshes that have led to the development of this research project and for the technical expertise and fieldwork assistance provided by <rs type="person">Mr. A. Hayes</rs> and his staff in the <rs type="institution">Department of Geography in Cambridge</rs>. I also thank <rs type="person">Mr. C. Edwards</rs>, <rs type="person">Ms. R. Turner</rs>, and <rs type="person">Ms. F. Edwards</rs> for field and data analysis assistance and <rs type="person">Mr. Symes</rs> and <rs type="person">Mr. Fisher</rs> for access to the Dengie marshes.</p></div>
 			</div>
 			<listOrg type="funding">
-				<org type="funding" xml:id="_2CvhZ7r">
+				<org type="funding" xml:id="_QAKkAt5">
 					<orgName type="grant-name">Geographical Research Grant</orgName>
 				</org>
 			</listOrg>
