@@ -6,6 +6,7 @@ from langchain_core.vectorstores import InMemoryVectorStore
 from lxml import etree
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from typing import List
+import re
 
 class PdfDocument:
     """
@@ -144,6 +145,7 @@ class XmlDocument:
                     else:
                         header_style = "#" * (count + 1)
                     body_text += f"{header_style} {header_text}\n"
+                    #body_text += f"{header_style} {header_text} "
 
                     # Get all paragraphs in the section
                     paragraphs = div.findall("tei:p", namespaces=ns)
@@ -159,6 +161,7 @@ class XmlDocument:
                     head = fig.find("tei:head", namespaces=ns)
                     header_text = head.text.strip() if (head is not None and head.text is not None) else "Untitled Figure"
                     body_text += f"### {header_text}\n"
+                    #body_text += f"### {header_text} "
 
                     # Get caption for the figure
                     caption = fig.find("tei:figDesc", namespaces=ns)
@@ -189,6 +192,7 @@ class XmlDocument:
                         else:
                             header_style = "#" * (count + 1)
                         back_text += f"{header_style} {header_text}\n"
+                        #back_text += f"{header_style} {header_text} "
 
                         # Get all paragraphs in the section
                         paragraphs = div.findall("tei:p", namespaces=ns)
@@ -205,7 +209,7 @@ class XmlDocument:
             raise ValueError(f"Error while parsing {filepath}: {e}")
         
 
-    def split(self, text, token_size):
+    def split(self, text, token_size, separators=None):
         """
         Splits the content into smaller chunks based on the specified token size.
 
@@ -215,17 +219,30 @@ class XmlDocument:
         Returns:
             pages (List[str]): List of text chunks.
         """
+        if separators is None:
+            separators = ["(.)\n\n(.)", r'([.?!]"?)\n(.)']
+
+        # Now this supports finding splits with regex.
+        for i, sep in enumerate(separators):
+            text = re.sub(sep, rf"\1<SPLIT{i}>\2", text)
+        new_separators = [f"<SPLIT{i}>" for i in range(len(separators))]
+
         text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
             encoding_name="cl100k_base",
             chunk_size=token_size,
             chunk_overlap=0,
-            separators = ["\n\n"]
+            separators = new_separators
         )
+
+        # Remove separators from the text
         pages = text_splitter.split_text(text)
+        for i, sep in enumerate(new_separators):
+            pages = [page.replace(sep, "") for page in pages]
+
         return pages
 
 
-    def load(self, filepath: str, token_size: int = 4096):
+    def load(self, filepath: str, token_size: int = 4096, separators: List[str] = None):
         """
         Loads the XML document from the given path and extracts text from its 
         title, abstract, body, and back sections.
@@ -235,4 +252,4 @@ class XmlDocument:
 
         """
         self.full_text = self.parse(filepath)
-        self.pages = self.split(self.full_text, token_size)
+        self.pages = self.split(self.full_text, token_size, separators)

@@ -63,12 +63,13 @@ def screen_abstract(state: State):
             "scientific research paper and asked to accurately infer information about "
             "the paper's contents. Your answer should be a boolean value with a value "
             "of False if the answer is No or Unknown and a value of True only if the answer is Yes."
+            "Answer in JSON format."
         )
         context = state["abstract"]
         query = (
             "Does this paper study coastal ecosystems such as  in some capacity? "
             "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
-            "lagoons, reefs, magroves, marshes, segagrass meadows, kelp forests, and coastal wetlands."
+            "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
         )
         messages = [
             {'role': 'system', 'content': instructions},
@@ -96,6 +97,7 @@ def screen_definition(state: State):
         "for the information shown on the current page, and not the paper as a whole. "
         "Your answer should be a boolean value with a value of False if the "
         "answer is No or Unknown and a value of True only if the answer is Yes."
+        "Answer in JSON format."
     )
     context = state["text"]
     query = (
@@ -105,7 +107,7 @@ def screen_definition(state: State):
         "clearly presented definition, that is not just a general description or overview "
         "of the ecosystem being studied. "
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
-        "lagoons, reefs, magroves, marshes, segagrass meadows, kelp forests, and coastal wetlands."
+        "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
     messages = [
             {'role': 'system', 'content': instructions},
@@ -133,6 +135,7 @@ def extract_definition(state: State):
         "You will be given contextual information from a page of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
         "for the information shown on the current page, and not the paper as a whole."
+        "Answer in JSON format."
     )
     context = state["text"]
     query = (
@@ -141,7 +144,7 @@ def extract_definition(state: State):
         "Give an answer only if there is a clearly presented definition, that is not just "
         "a general description or overview of the ecosystem being studied. " 
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
-        "lagoons, reefs, magroves, marshes, segagrass meadows, kelp forests, and coastal wetlands."
+        "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
     messages = [
             {'role': 'system', 'content': instructions},
@@ -167,6 +170,7 @@ def screen_table(state: State):
         "for the information shown on the current page, and not the paper as a whole. "
         "Your answer should be a boolean value with a value of False if the "
         "answer is No or Unknown and a value of True only if the answer is Yes. "
+        "Answer in JSON format."
     )
     context = state["text"]
     query = (
@@ -176,7 +180,7 @@ def screen_table(state: State):
         "studied ecosystems, instead of aggregate statistics for groups of ecosystems. "
         "Examples include but are not limited to water depth, temperature, or pH."
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
-        "lagoons, reefs, magroves, marshes, segagrass meadows, kelp forests, and coastal wetlands."
+        "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
 
     messages = [

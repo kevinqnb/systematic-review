@@ -3,7 +3,7 @@ from model import MODEL, GRAPH
 from systematic_review import *
 
 chat_with_history = ChatWithHistory(llm = GRAPH)
-token_size = 1000
+token_size = 512
 
 directory = "collection/processed/"
 papers = get_filenames_in_directory(directory)
@@ -37,5 +37,5 @@ for paper in papers:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
 
-outfile = "extraction/data/coastal/screening2.csv"
+outfile = "extraction/data/coastal/screening3.csv"
 chat_with_history.save(outfile)

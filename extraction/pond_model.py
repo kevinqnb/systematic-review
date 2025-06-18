@@ -52,8 +52,8 @@ class BooleanResponse(BaseModel):
 boolean_llm = LLM.with_structured_output(schema = BooleanResponse)
 '''
 
-#MODEL = "gemma3:27b-it-qat"
-MODEL = "olmo2:13b"
+MODEL = "gemma3:27b-it-qat"
+#MODEL = "olmo2:13b"
 
 class BooleanResponse(BaseModel):
     """
@@ -226,6 +226,7 @@ def screen_abstract(state: State):
             "scientific research paper and asked to accurately infer information about "
             "the paper's contents. Your answer should be a boolean value with a value "
             "of False if the answer is No or Unknown and a value of True only if the answer is Yes."
+            "Answer in JSON format."
         )
         context = state["abstract"]
         query = (
@@ -257,6 +258,7 @@ def screen_definition(state: State):
         "for the information shown on the current page, and not the paper as a whole. "
         "Your answer should be a boolean value with a value of False if the "
         "answer is No or Unknown and a value of True only if the answer is Yes."
+        "Answer in JSON format."
     )
     context = state["text"]
     query = (
@@ -290,6 +292,7 @@ def extract_definition(state: State):
         "You will be given contextual information from a page of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
         "for the information shown on the current page, and not the paper as a whole."
+        "Answer in JSON format."
     )
     context = state["text"]
     query = (
@@ -321,6 +324,7 @@ def screen_table(state: State):
         "for the information shown on the current page, and not the paper as a whole. "
         "Your answer should be a boolean value with a value of False if the "
         "answer is No or Unknown and a value of True only if the answer is Yes. "
+        "Answer in JSON format."
     )
     context = state["text"]
     query = (
