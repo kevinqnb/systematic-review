@@ -34,6 +34,8 @@ response_boolean_formatter = lambda response: BooleanResponse.model_validate_jso
     response.message.content
 ).content
 
+MEASUREMENT = "total organic carbon (TOC)"
+
 
 ####################################################################################################
 # Define the states and functions to be used in the state graph
@@ -94,7 +96,7 @@ def screen_definition(state: State):
     instructions = (
         "You will be given contextual information from a page of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
-        "for the information shown on the current page, and not the paper as a whole. "
+        "for the information shown in the current excerpt, and not the paper as a whole. "
         "Your answer should be a boolean value with a value of False if the "
         "answer is No or Unknown and a value of True only if the answer is Yes."
         "Answer in JSON format."
@@ -134,7 +136,7 @@ def extract_definition(state: State):
     instructions = (
         "You will be given contextual information from a page of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
-        "for the information shown on the current page, and not the paper as a whole."
+        "for the information shown in the current excerpt, and not the paper as a whole."
         "Answer in JSON format."
     )
     context = state["text"]
@@ -155,6 +157,43 @@ def extract_definition(state: State):
     return {"definition": response.message.content}
 
 
+def screen_measurement(state: State):
+    """
+    Screen the current page for tabular data.
+
+    Args:
+        state (State): Current state of the chat.
+    Returns:
+        state (State): Updated state with generated response.
+    """
+    instructions = (
+        "You will be given contextual information from a page of a scientific research paper "
+        "and asked to accurately answer questions about its contents. Please answer only "
+        "for the information shown in the current excerpt, and not the paper as a whole. "
+        "Your answer should be a boolean value with a value of False if the "
+        "answer is No or Unknown and a value of True only if the answer is Yes. "
+        "Answer in JSON format."
+    )
+    context = state["text"]
+    query = (
+        f"Does this excerpt include a measurement for {MEASUREMENT} in a coastal ecosystem? "
+        "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
+        "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
+    )
+
+    messages = [
+            {'role': 'system', 'content': instructions},
+            {'role': 'user', 'content': context},
+            {'role': 'user', 'content': query}
+        ]
+    response: ChatResponse = chat(model=MODEL, messages=messages, format=boolean_format)
+    return {"table_bool": response_boolean_formatter(response)}
+
+
+def table_routing(state : State):
+    return state['table_bool']
+
+
 def screen_table(state: State):
     """
     Screen the current page for tabular data.
@@ -167,7 +206,7 @@ def screen_table(state: State):
     instructions = (
         "You will be given contextual information from a page of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
-        "for the information shown on the current page, and not the paper as a whole. "
+        "for the information shown in the current excerpt, and not the paper as a whole. "
         "Your answer should be a boolean value with a value of False if the "
         "answer is No or Unknown and a value of True only if the answer is Yes. "
         "Answer in JSON format."
@@ -203,6 +242,7 @@ graph_builder = StateGraph(State)
 graph_builder.add_node("screen_abstract", screen_abstract)
 graph_builder.add_node("screen_definition", screen_definition)
 graph_builder.add_node("extract_definition", extract_definition)
+graph_builder.add_node("screen_measurement", screen_measurement)
 graph_builder.add_node("screen_table", screen_table)
 graph_builder.add_edge(START, "screen_abstract")
 graph_builder.add_conditional_edges(
@@ -216,5 +256,6 @@ graph_builder.add_conditional_edges(
     {True : "extract_definition", False: "screen_table"}
 )
 graph_builder.add_edge("extract_definition", "screen_table")
-graph_builder.add_edge("screen_table", END)
+graph_builder.add_edge("screen_table", "screen_measurement")
+graph_builder.add_edge("screen_measurement", END)
 GRAPH = graph_builder.compile()
