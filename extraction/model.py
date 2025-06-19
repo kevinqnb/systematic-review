@@ -137,7 +137,6 @@ def extract_definition(state: State):
         "You will be given contextual information from a page of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
         "for the information shown in the current excerpt, and not the paper as a whole."
-        "Answer in JSON format."
     )
     context = state["text"]
     query = (
@@ -187,7 +186,7 @@ def screen_measurement(state: State):
             {'role': 'user', 'content': query}
         ]
     response: ChatResponse = chat(model=MODEL, messages=messages, format=boolean_format)
-    return {"table_bool": response_boolean_formatter(response)}
+    return {"measurement_bool": response_boolean_formatter(response)}
 
 
 def table_routing(state : State):
