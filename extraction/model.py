@@ -47,6 +47,7 @@ class State(TypedDict):
     definition_bool : bool
     definition : str
     table_bool : bool
+    measurement_bool : bool
 
 
 def screen_abstract(state: State):

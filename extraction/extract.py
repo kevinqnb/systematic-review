@@ -9,7 +9,7 @@ directory = "collection/processed/"
 papers = get_filenames_in_directory(directory)
 
 # Load and process documents as chunks with specified token size:
-for paper in papers:
+for paper in papers[:10]:
     try:
         file_path = os.path.join(directory, paper)
         doi = paper.partition(".grobid")[0]
@@ -37,5 +37,5 @@ for paper in papers:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
 
-outfile = "extraction/data/coastal/screening3.csv"
+outfile = "extraction/data/coastal/screening4.csv"
 chat_with_history.save(outfile)
