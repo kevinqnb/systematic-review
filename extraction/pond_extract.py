@@ -21,7 +21,7 @@ for paper in papers:
         response = chat_with_history.invoke(
             {'abstract' : doc.title_abstract},
             identifier = {'doi' : doc.doi, 'chunk' : -1}, # -1 indicates abstract
-            ignore = ['abstract','text']
+            ignore = ['abstract']
         )
 
         if response["abstract_bool"]:
@@ -37,5 +37,5 @@ for paper in papers:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
 
-outfile = "extraction/data/pond_screening2.csv"
+outfile = "extraction/data/pond/pond_screening2.csv"
 chat_with_history.save(outfile)
