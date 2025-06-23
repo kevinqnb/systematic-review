@@ -98,6 +98,139 @@ class XmlDocument:
         self.title = ""
         self.title_abstract = ""
         self.pages = [""]
+        self.ns = {
+                'tei': 'http://www.tei-c.org/ns/1.0',
+                'xlink': 'http://www.w3.org/1999/xlink',
+                'xsi': 'http://www.w3.org/2001/XMLSchema-instance',
+        }
+
+    def parse_title_abstract(self, root):
+        """
+        Parses the title and abstract from the XML document.
+
+        Args:
+            root: XML tree element containing the document.
+        
+        Returns:
+            str: Combined title and abstract text.
+        """
+        title = root.find('.//tei:title', namespace=self.ns)
+        abstract = root.find('.//tei:abstract', namespace=self.ns)
+        title_text = title.text.strip() if (title is not None and title.text is not None) else ""
+        self.title = title_text
+        title_text = "# " + title_text + "\n"
+        abstract_text = (
+            ''.join(abstract.itertext()).strip()
+            if (abstract is not None and abstract.itertext() is not None) else "\n"
+        )
+        abstract_text = "## Abstract\n" + abstract_text + "\n\n"
+
+        self.title = title_text
+        self.title_abstract = title_text + abstract_text
+        return self.title_abstract
+
+
+    def parse_body(self, root):
+        """
+        Parses the body of the XML document, extracting sections, paragraphs, figures, and tables.
+        Args:
+            root: XML tree element containing the document.
+        Returns:
+            str: Parsed text content of the body section, formatted with Markdown headers.
+        """
+        body = root.find(".//tei:body", namespaces=self.ns)
+        body_text = ""
+        if body is not None:
+            for div in body.findall(".//tei:div", namespaces=self.ns):
+                # Header:
+                head = div.find("tei:head", namespaces=self.ns)
+                header_text = head.text.strip() if head is not None else "Untitled Section"
+                header_num = head.get("n", "") if head is not None else ""
+                count = header_num.count(".")
+                if count == 0:
+                    header_style = "##"
+                else:
+                    header_style = "#" * (count + 1)
+                body_text += f"{header_style} {header_text}\n"
+                #body_text += f"{header_style} {header_text} "
+
+                # Get all paragraphs in the section
+                paragraphs = div.findall("tei:p", namespaces=self.ns)
+                for p in paragraphs:
+                    paragraph_text = (
+                        "".join(p.itertext()).strip()
+                        if (p is not None and p.itertext() is not None) else ""
+                    )
+                    body_text += paragraph_text + "\n"
+
+                if len(paragraphs) > 0:
+                    body_text += "\n"  # Add a newline after each non-empty section
+
+            for fig in body.findall(".//tei:figure", namespaces=self.ns):
+                # Get header for the figure
+                head = fig.find("tei:head", namespaces=self.ns)
+                header_text = (
+                    head.text.strip()
+                    if (head is not None and head.text is not None) else "Untitled Figure"
+                )
+                body_text += f"### {header_text}\n"
+                #body_text += f"### {header_text} "
+
+                # Get caption for the figure
+                caption = fig.find("tei:figDesc", namespaces=self.ns)
+                caption_text = (
+                    caption.text.strip()
+                    if (caption is not None and caption.text is not None) else "No caption"
+                )
+                body_text += f"**Caption:** {caption_text}\n"
+
+                # If the figure is a table, include its content
+                table = fig.find(".//tei:table", namespaces=self.ns)
+                if table is not None:
+                    rows = table.findall(".//tei:row", namespaces=self.ns)
+                    for r in rows:
+                        cells = r.findall(".//tei:cell", namespaces=self.ns)
+                        cell_texts = [c.text.strip() if c.text is not None else "" for c in cells]
+                        body_text += " | ".join(cell_texts) + "\n"
+
+                body_text += "\n"  # Add a newline after each section
+
+        return body_text
+
+
+    def parse_back(self, root):
+        """
+        Parses the back section of the XML document, extracting sections and paragraphs.
+        Args:
+            root: XML tree element containing the document.
+        Returns:
+            str: Parsed text content of the back section, formatted with Markdown headers.
+        """
+        back = root.find(".//tei:back", namespaces=self.ns)
+        back_text = ""
+        if back is not None:
+            for div in back.findall(".//tei:div", namespaces=self.ns):
+                head = div.find("tei:head", namespaces=self.ns)
+                if head is not None:
+                    header_text = (
+                        head.text.strip() if head.text is not None else "Untitled Section"
+                    )
+                    header_num = head.get("n", "")
+                    count = header_num.count(".")
+                    if count == 0:
+                        header_style = "##"
+                    else:
+                        header_style = "#" * (count + 1)
+                    back_text += f"{header_style} {header_text}\n"
+                    #back_text += f"{header_style} {header_text} "
+
+                    # Get all paragraphs in the section
+                    paragraphs = div.findall("tei:p", namespaces=self.ns)
+                    for p in paragraphs:
+                        paragraph_text = "".join(p.itertext()).strip()
+                        back_text += paragraph_text + "\n"
+
+                    back_text += "\n"  # Add a newline after each section
 
 
     def parse(self, filepath: str):
@@ -114,95 +247,10 @@ class XmlDocument:
         try:
             tree = etree.parse(filepath)
             root = tree.getroot()
-            ns = {
-                'tei': 'http://www.tei-c.org/ns/1.0',
-                'xlink': 'http://www.w3.org/1999/xlink',
-                'xsi': 'http://www.w3.org/2001/XMLSchema-instance',
-            }
-
-            title = root.find('.//tei:title', ns)
-            abstract = root.find('.//tei:abstract', ns)
-            body = root.find(".//tei:body", namespaces=ns)
-            back = root.find(".//tei:back", namespaces=ns)
-
-            title_text = title.text.strip() if (title is not None and title.text is not None) else ""
-            self.title = title_text
-            title_text = "# " + title_text + "\n"
-            abstract_text = ''.join(abstract.itertext()).strip() if (abstract is not None and abstract.itertext() is not None) else "\n"
-            abstract_text = "## Abstract\n" + abstract_text + "\n\n"
-            self.title_abstract = title_text + abstract_text
-
-            body_text = ""
-            if body is not None:
-                for div in body.findall(".//tei:div", namespaces=ns):
-                    # Header:
-                    head = div.find("tei:head", namespaces=ns)
-                    header_text = head.text.strip() if head is not None else "Untitled Section"
-                    header_num = head.get("n", "") if head is not None else ""
-                    count = header_num.count(".")
-                    if count == 0:
-                        header_style = "##"
-                    else:
-                        header_style = "#" * (count + 1)
-                    body_text += f"{header_style} {header_text}\n"
-                    #body_text += f"{header_style} {header_text} "
-
-                    # Get all paragraphs in the section
-                    paragraphs = div.findall("tei:p", namespaces=ns)
-                    for p in paragraphs:
-                        paragraph_text = "".join(p.itertext()).strip() if (p is not None and p.itertext() is not None) else ""
-                        body_text += paragraph_text + "\n"
-
-                    if len(paragraphs) > 0:
-                        body_text += "\n"  # Add a newline after each non-empty section
-
-                for fig in body.findall(".//tei:figure", namespaces=ns):
-                    # Get header for the figure
-                    head = fig.find("tei:head", namespaces=ns)
-                    header_text = head.text.strip() if (head is not None and head.text is not None) else "Untitled Figure"
-                    body_text += f"### {header_text}\n"
-                    #body_text += f"### {header_text} "
-
-                    # Get caption for the figure
-                    caption = fig.find("tei:figDesc", namespaces=ns)
-                    caption_text = caption.text.strip() if (caption is not None and caption.text is not None) else "No caption"
-                    body_text += f"**Caption:** {caption_text}\n"
-
-                    # If the figure is a table, include its content
-                    table = fig.find(".//tei:table", namespaces=ns)
-                    if table is not None:
-                        rows = table.findall(".//tei:row", namespaces=ns)
-                        for r in rows:
-                            cells = r.findall(".//tei:cell", namespaces=ns)
-                            cell_texts = [c.text.strip() if c.text is not None else "" for c in cells]
-                            body_text += " | ".join(cell_texts) + "\n"
-
-                    body_text += "\n"  # Add a newline after each section
-
-            back_text = ""
-            if back is not None:
-                for div in back.findall(".//tei:div", namespaces=ns):
-                    head = div.find("tei:head", namespaces=ns)
-                    if head is not None:
-                        header_text = head.text.strip() if head.text is not None else "Untitled Section"
-                        header_num = head.get("n", "")
-                        count = header_num.count(".")
-                        if count == 0:
-                            header_style = "##"
-                        else:
-                            header_style = "#" * (count + 1)
-                        back_text += f"{header_style} {header_text}\n"
-                        #back_text += f"{header_style} {header_text} "
-
-                        # Get all paragraphs in the section
-                        paragraphs = div.findall("tei:p", namespaces=ns)
-                        for p in paragraphs:
-                            paragraph_text = "".join(p.itertext()).strip()
-                            back_text += paragraph_text + "\n"
-
-                        back_text += "\n"  # Add a newline after each section
-
-            full_text = title_text + abstract_text + body_text + back_text
+            title_abstract_text = self.parse_title_abstract(root)
+            body_text = self.parse_body(root)
+            back_text = self.parse_back(root)
+            full_text = title_abstract_text + body_text + back_text
             return full_text
         
         except etree.XMLSyntaxError as e:
@@ -242,14 +290,17 @@ class XmlDocument:
         return pages
 
 
-    def load(self, filepath: str, token_size: int = 4096, separators: List[str] = None):
+    def load(self, filepath: str, token_size: int = 512, separators: List[str] = None):
         """
         Loads the XML document from the given path and extracts text from its 
-        title, abstract, body, and back sections.
+        title, abstract, body, and back sections. Text is then split into 
+        smaller chunks based on the specified token size.
 
         Args:
             filepath (str): Path to the document.
-
+            token_size (int): The maximum number of tokens per chunk.
+            separators (List[str]): List of regex patterns to use as separators for splitting text.
+                Defaults to None, in which case default separators are used.
         """
         self.full_text = self.parse(filepath)
         self.pages = self.split(self.full_text, token_size, separators)

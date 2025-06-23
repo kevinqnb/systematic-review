@@ -292,7 +292,6 @@ def extract_definition(state: State):
         "You will be given contextual information from a page of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
         "for the information shown on the current page, and not the paper as a whole."
-        "Answer in JSON format."
     )
     context = state["text"]
     query = (

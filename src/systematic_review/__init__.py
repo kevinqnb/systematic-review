@@ -4,7 +4,6 @@ from .document import (
 )
 
 from .chat import (
-    PdfChat,
     ChatWithHistory
 )
 

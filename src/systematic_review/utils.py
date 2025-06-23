@@ -11,7 +11,9 @@ def get_filenames_in_directory(directory_path):
         list: A list of filenames in the directory.
     """
     try:
-        filenames = [f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))]
+        filenames = [
+            f for f in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, f))
+        ]
         return filenames
     except FileNotFoundError:
         return f"Error: Directory not found: {directory_path}"
