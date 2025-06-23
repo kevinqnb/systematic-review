@@ -11,6 +11,7 @@ from langchain_core.prompts import ChatPromptTemplate
 # Typing
 from typing_extensions import TypedDict
 from pydantic import BaseModel, Field
+import re
 
 
 ####################################################################################################
@@ -70,7 +71,7 @@ def screen_abstract(state: State):
         )
         context = state["abstract"]
         query = (
-            "Does this paper study coastal ecosystems such as  in some capacity? "
+            "Does this paper study coastal ecosystems in some capacity? "
             "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
             "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
         )
@@ -95,7 +96,7 @@ def screen_definition(state: State):
         state (State): Updated state with generated response.
     """
     instructions = (
-        "You will be given contextual information from a page of a scientific research paper "
+        "You will be given contextual information from an excerpt of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
         "for the information shown in the current excerpt, and not the paper as a whole. "
         "Your answer should be a boolean value with a value of False if the "
@@ -104,11 +105,11 @@ def screen_definition(state: State):
     )
     context = state["text"]
     query = (
-        "Does this page present a specific definition for a type of coastal ecosystem? "
-        "A definition should specify quantitative attributes or descriptive characteristics "
-        "that distinguish this ecosystem from other types. Answer yes only if there is a "
-        "clearly presented definition, that is not just a general description or overview "
-        "of the ecosystem being studied. "
+        "Does this excerpt present a specific definition for a type of coastal ecosystem? "
+        "A definition should specify distinguishing attributes or descriptive characteristics that "
+        "generally separate this type of ecosystem from others. "
+        "A definition should not simply be a description or measurement for an individual "
+        "ecosystem, or some group of ecosystems being studied. "
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
@@ -135,7 +136,7 @@ def extract_definition(state: State):
         state (State): Updated state with generated response.
     """
     instructions = (
-        "You will be given contextual information from a page of a scientific research paper "
+        "You will be given contextual information from an excerpt of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
         "for the information shown in the current excerpt, and not the paper as a whole."
     )
@@ -143,8 +144,6 @@ def extract_definition(state: State):
     query = (
         "Which coastal ecosystems are being studied and what are the specific "
         "quantitative attributes or descriptive characteristics the context uses to define them? "
-        "Give an answer only if there is a clearly presented definition, that is not just "
-        "a general description or overview of the ecosystem being studied. " 
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
@@ -154,7 +153,13 @@ def extract_definition(state: State):
             {'role': 'user', 'content': query}
         ]
     response: ChatResponse = chat(model=MODEL, messages=messages)
-    return {"definition": response.message.content}
+    clean_response = response.message.content
+    clean_response = re.sub(
+        r'</?start_of_turn>|</?end_of_turn>|</?end_start_of_turn>',
+        '',
+        clean_response
+    ).strip()
+    return {"definition": clean_response}
 
 
 def screen_measurement(state: State):
@@ -167,7 +172,7 @@ def screen_measurement(state: State):
         state (State): Updated state with generated response.
     """
     instructions = (
-        "You will be given contextual information from a page of a scientific research paper "
+        "You will be given contextual information from an excerpt of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
         "for the information shown in the current excerpt, and not the paper as a whole. "
         "Your answer should be a boolean value with a value of False if the "
@@ -204,7 +209,7 @@ def screen_table(state: State):
         state (State): Updated state with generated response.
     """
     instructions = (
-        "You will be given contextual information from a page of a scientific research paper "
+        "You will be given contextual information from an excerpt of a scientific research paper "
         "and asked to accurately answer questions about its contents. Please answer only "
         "for the information shown in the current excerpt, and not the paper as a whole. "
         "Your answer should be a boolean value with a value of False if the "
@@ -213,7 +218,7 @@ def screen_table(state: State):
     )
     context = state["text"]
     query = (
-        "Does this page include a table containing data related to "
+        "Does this excerpt include a table containing data related to "
         "physical, chemical, or biological attributes of coastal ecosystems? "
         "Data must be reported in a table format, and should only be given for individually "
         "studied ecosystems, instead of aggregate statistics for groups of ecosystems. "

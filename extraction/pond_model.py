@@ -11,6 +11,7 @@ from langchain_core.prompts import ChatPromptTemplate
 # Typing
 from typing_extensions import TypedDict
 from pydantic import BaseModel, Field
+import re
 
 
 ####################################################################################################
@@ -52,7 +53,7 @@ class BooleanResponse(BaseModel):
 boolean_llm = LLM.with_structured_output(schema = BooleanResponse)
 '''
 
-MODEL = "gemma3:12b-it-qat"
+MODEL = "gemma3:27b-it-qat"
 #MODEL = "olmo2:13b"
 
 class BooleanResponse(BaseModel):
@@ -267,7 +268,8 @@ def screen_definition(state: State):
         "generally separate this type of waterbody from others. "
         "A definition should not be simply be a description of an individual pond or lake, or a group "
         "of studied ponds or lakes. "
-        "The definition may be for either ponds or lakes, but not other types of waterbodies."
+        "The definition must be specifically for either ponds or lakes, "
+        "and not for other types of waterbodies or ecosystems."
     )
     messages = [
             {'role': 'system', 'content': instructions},
@@ -303,7 +305,8 @@ def extract_definition(state: State):
         "generally separate this type of waterbody from others. "
         "A definition should not be simply be a description of an individual pond or lake, or a group "
         "of studied ponds or lakes. "
-        "The definition may be for either ponds or lakes, but not other types of waterbodies."
+        "The definition must be specifically for either ponds or lakes, "
+        "and not for other types of waterbodies or ecosystems."
     )
     messages = [
             {'role': 'user', 'content': instructions},
@@ -311,7 +314,13 @@ def extract_definition(state: State):
             {'role': 'user', 'content': query}
         ]
     response: ChatResponse = chat(model=MODEL, messages=messages)
-    return {"definition": response.message.content}
+    clean_response = response.message.content
+    clean_response = re.sub(
+        r'</?start_of_turn>|</?end_of_turn>|</?end_start_of_turn>',
+        '',
+        clean_response
+    ).strip()
+    return {"definition": clean_response}
 
 
 def screen_table(state: State):
