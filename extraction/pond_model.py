@@ -269,7 +269,7 @@ def screen_definition(state: State):
         "A definition should not be simply be a description of an individual pond or lake, or a group "
         "of studied ponds or lakes. "
         "The definition must be specifically for either ponds or lakes, "
-        "and not for other types of waterbodies or ecosystems."
+        "and NOT for other types of waterbodies, ecosystems, or species."
     )
     messages = [
             {'role': 'system', 'content': instructions},
