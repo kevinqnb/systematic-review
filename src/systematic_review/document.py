@@ -114,8 +114,8 @@ class XmlDocument:
         Returns:
             str: Combined title and abstract text.
         """
-        title = root.find('.//tei:title', namespace=self.ns)
-        abstract = root.find('.//tei:abstract', namespace=self.ns)
+        title = root.find('.//tei:title', namespaces=self.ns)
+        abstract = root.find('.//tei:abstract', namespaces=self.ns)
         title_text = title.text.strip() if (title is not None and title.text is not None) else ""
         self.title = title_text
         title_text = "# " + title_text + "\n"
@@ -231,6 +231,8 @@ class XmlDocument:
                         back_text += paragraph_text + "\n"
 
                     back_text += "\n"  # Add a newline after each section
+                    
+        return back_text
 
 
     def parse(self, filepath: str):

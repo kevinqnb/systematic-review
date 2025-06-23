@@ -32,7 +32,7 @@ for paper in papers:
                     {'text': page, 'abstract_bool': True},
                     identifier = {'doi' : doc.doi, 'chunk' : i},
                     ignore = ['abstract', 'text']
-                )
+                    )
     except:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
