@@ -52,7 +52,7 @@ class BooleanResponse(BaseModel):
 boolean_llm = LLM.with_structured_output(schema = BooleanResponse)
 '''
 
-MODEL = "gemma3:27b-it-qat"
+MODEL = "gemma3:12b-it-qat"
 #MODEL = "olmo2:13b"
 
 class BooleanResponse(BaseModel):
@@ -300,7 +300,7 @@ def extract_definition(state: State):
         "The definition may be for either ponds or lakes, but not other types of waterbodies."
     )
     messages = [
-            {'role': 'system', 'content': instructions},
+            {'role': 'user', 'content': instructions},
             {'role': 'user', 'content': context},
             {'role': 'user', 'content': query}
         ]
