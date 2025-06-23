@@ -263,7 +263,10 @@ def screen_definition(state: State):
     context = state["text"]
     query = (
         "Does this page contain a definition for either ponds or lakes? "
-        "A definition should specify distinguishing attributes or descriptive characteristics. "
+        "A definition should specify distinguishing attributes or descriptive characteristics that "
+        "generally separate this type of waterbody from others. "
+        "A definition should not be simply be a description of an individual pond or lake, or a group "
+        "of studied ponds or lakes. "
         "The definition may be for either ponds or lakes, but not other types of waterbodies."
     )
     messages = [
@@ -296,7 +299,10 @@ def extract_definition(state: State):
     context = state["text"]
     query = (
         "What definition does the context give for either ponds or lakes? "
-        "A definition should specify distinguishing attributes or descriptive characteristics. " 
+        "A definition should specify distinguishing attributes or descriptive characteristics that "
+        "generally separate this type of waterbody from others. "
+        "A definition should not be simply be a description of an individual pond or lake, or a group "
+        "of studied ponds or lakes. "
         "The definition may be for either ponds or lakes, but not other types of waterbodies."
     )
     messages = [
