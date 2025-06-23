@@ -31,7 +31,7 @@ for paper in papers:
                 response = chat_with_history.invoke(
                     {'text': page, 'abstract_bool': True},
                     identifier = {'doi' : doc.doi, 'chunk' : i},
-                    ignore = ['abstract', 'text']
+                    ignore = ['abstract']
                     )
     except:
         print(f"Error processing {paper}. Skipping to next paper.")
