@@ -23,7 +23,7 @@ for paper in papers[:100]:
         response = chat_with_history.invoke(
             {'abstract' : doc.title_abstract},
             identifier = {'doi' : doc.doi, 'chunk' : -1}, # -1 indicates abstract
-            ignore = ['abstract','text']
+            ignore = ['abstract']
         )
 
         if response["abstract_bool"]:
@@ -33,7 +33,7 @@ for paper in papers[:100]:
                 response = chat_with_history.invoke(
                     {'text': page, 'abstract_bool': True},
                     identifier = {'doi' : doc.doi, 'chunk' : i},
-                    ignore = ['abstract', 'text']
+                    ignore = ['abstract']
                 )
     except:
         print(f"Error processing {paper}. Skipping to next paper.")
