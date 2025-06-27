@@ -17,12 +17,19 @@ sch = SemanticScholar()
 
 # Search and get list of up to 10,000,000 DOIs
 # https://semanticscholar.readthedocs.io/en/stable/mainclasses/semanticscholar.html#semanticscholar.SemanticScholar.SemanticScholar.search_paper
+
 response = sch.search_paper(**search_parameters)
+paper_info = {"doi": [], "title": [], "authors": [], "year": []}
 dois = []
 for paper in response:
     doi = paper['externalIds'].get('DOI')
     if doi is not None:
         dois.append(doi)
+        paper_info["doi"].append(doi)
+
+    paper_info["title"].append(paper['title'])
+    paper_info["authors"].append([author['name'] for author in paper['authors']])
+    paper_info["year"].append(paper['year'])
 
 
 # Downloading with Wiley TDM API:

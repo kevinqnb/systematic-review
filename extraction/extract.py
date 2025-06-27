@@ -4,6 +4,10 @@ from model import MODEL, GRAPH
 from systematic_review import *
 load_dotenv()
 
+t = int(os.getenv('SGE_TASK_ID'))
+start = (t - 1) * 1000
+end = t * 1000
+
 chat_with_history = ChatWithHistory(llm = GRAPH)
 token_size = 512
 
@@ -11,7 +15,7 @@ directory = os.getenv("PROCESSED_PATH")
 papers = get_filenames_in_directory(directory)
 
 # Load and process documents as chunks with specified token size:
-for paper in papers[:100]:
+for paper in papers[start:end]:
     try:
         file_path = os.path.join(directory, paper)
         doi = paper.partition(".grobid")[0]
@@ -42,5 +46,5 @@ for paper in papers[:100]:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
 
-outfile = "extraction/data/coastal/screening_100_4.csv"
+outfile = "extraction/data/coastal/screening_12k.csv"
 chat_with_history.save(outfile)
