@@ -181,5 +181,6 @@ collection/pdfs/*
 collection/processed/*
 !collection/pdfs/.gitkeep
 !collection/processed/.gitkeep
+*.html
 *.sh
 *.txt

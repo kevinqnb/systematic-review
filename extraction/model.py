@@ -36,6 +36,7 @@ response_boolean_formatter = lambda response: BooleanResponse.model_validate_jso
 ).content
 
 MEASUREMENT = "total organic carbon (TOC)"
+UNITS = "mk/L or mg/kg"
 
 
 ####################################################################################################
@@ -71,7 +72,7 @@ def screen_abstract(state: State):
         )
         context = state["abstract"]
         query = (
-            "Does this paper study coastal ecosystems in some capacity? "
+            "Does this paper study coastal ecosystems? "
             "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
             "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
         )
@@ -105,11 +106,11 @@ def screen_definition(state: State):
     )
     context = state["text"]
     query = (
-        "Does this excerpt present a specific definition for a type of coastal ecosystem? "
-        "A definition should specify distinguishing attributes or descriptive characteristics that "
-        "generally separate this type of ecosystem from others. "
-        "A definition should not simply be a description or measurement for an individual "
-        "ecosystem, or some group of ecosystems being studied. "
+        "Does this excerpt present a definition for a specific type of coastal ecosystem? "
+        "A definition must specify quantitative attributes or descriptive characteristics that "
+        "set this type of ecosystem apart from others. "
+        "It should not merely quantify or describe a particular instance or example " 
+        "of an ecosystem. "
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
@@ -142,8 +143,11 @@ def extract_definition(state: State):
     )
     context = state["text"]
     query = (
-        "Which coastal ecosystems are being studied and what are the specific "
-        "quantitative attributes or descriptive characteristics the context uses to define them? "
+        "Which coastal ecosystems are being studied and what definitions are provided for them? "
+        "A definition must specify quantitative attributes or descriptive characteristics that "
+        "set this type of ecosystem apart from others. "
+        "It should not merely quantify or describe a particular instance or example " 
+        "of an ecosystem. "
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
@@ -182,6 +186,7 @@ def screen_measurement(state: State):
     context = state["text"]
     query = (
         f"Does this excerpt include a measurement for {MEASUREMENT} in a coastal ecosystem? "
+        f"A measurement should be a specific numeric value or range reported in units of {UNITS}. "
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
@@ -220,9 +225,7 @@ def screen_table(state: State):
     query = (
         "Does this excerpt include a table containing data related to "
         "physical, chemical, or biological attributes of coastal ecosystems? "
-        "Data must be reported in a table format, and should only be given for individually "
-        "studied ecosystems, instead of aggregate statistics for groups of ecosystems. "
-        "Examples include but are not limited to water depth, temperature, or pH."
+        "Answer True only if the excerpt includes the actual table, and not just a reference to it. "
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
