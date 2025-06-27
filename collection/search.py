@@ -6,7 +6,7 @@ import requests
 import time
 load_dotenv()
 
-n_papers = 1200
+n_papers = 12000
 search_parameters = {
     "query" : "",
     "bulk" : True,
@@ -15,7 +15,8 @@ search_parameters = {
 }
 sch = SemanticScholar()
 
-# Search and get list of DOIs
+# Search and get list of up to 10,000,000 DOIs
+# https://semanticscholar.readthedocs.io/en/stable/mainclasses/semanticscholar.html#semanticscholar.SemanticScholar.SemanticScholar.search_paper
 response = sch.search_paper(**search_parameters)
 dois = []
 for paper in response:
@@ -32,8 +33,12 @@ headers = {
 }
 
 save_directory = os.getenv("PDF_PATH")
-for doi in dois:
+
+save_count = 0
+idx = 0
+while save_count < n_papers:
     # Construct the URL for the specific DOI and make the request
+    doi = dois[idx]
     url = f"{base_url}{doi}"
     response = requests.get(url, headers=headers, allow_redirects=True)
 
@@ -43,9 +48,11 @@ for doi in dois:
         with open(fname, "wb") as pdf_file:
             pdf_file.write(response.content)
         print(f"Downloaded PDF for DOI: {doi} to {fname}")
+        save_count += 1
     else:
         print(f"Failed to download PDF. Status code: {response.status_code}")
         print("Faied DOI:", doi)
         print(response.text)
 
+    idx += 1
     time.sleep(10)
