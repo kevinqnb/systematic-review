@@ -106,7 +106,7 @@ def extract_ecosystem(state: State):
     )
     context = state["text"]
     query = (
-        "Which types coastal ecosystems are mentioned in the excerpt?"
+        "Which types of coastal ecosystems are mentioned in the excerpt?"
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
@@ -212,7 +212,7 @@ def extract_definition(state: State):
     )
     context = state["text"]
     query = (
-        "Which coastal ecosystems are being studied and what definitions are provided for them? "
+        "What definitions does the excerpt give for specific types of coastal ecosystems? "
         "A definition must specify quantitative attributes or descriptive characteristics that "
         "set this type of ecosystem apart from others. "
         "It should not merely quantify or describe a particular instance or example " 

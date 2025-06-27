@@ -20,21 +20,24 @@ for paper in papers[:100]:
         doc.load(file_path, token_size = token_size)
 
         # Screen abstract:
+        '''
         response = chat_with_history.invoke(
             {'abstract' : doc.title_abstract},
             identifier = {'doi' : doc.doi, 'chunk' : -1}, # -1 indicates abstract
             ignore = ['abstract']
         )
+        '''
 
-        if response["abstract_bool"]:
+        #if response["abstract_bool"]:
             # Screen text:
-            for i,page in enumerate(doc.pages):
-                #print(f"Processing {doc.title[:25]}... Page {i+1}/{len(doc.pages)}")
-                response = chat_with_history.invoke(
-                    {'text': page, 'abstract_bool': True},
-                    identifier = {'doi' : doc.doi, 'chunk' : i},
-                    ignore = ['abstract']
-                )
+
+        for i,page in enumerate(doc.pages):
+            #print(f"Processing {doc.title[:25]}... Page {i+1}/{len(doc.pages)}")
+            response = chat_with_history.invoke(
+                {'text': page, 'abstract_bool': True},
+                identifier = {'doi' : doc.doi, 'chunk' : i},
+                #ignore = ['abstract']
+        )
     except:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
