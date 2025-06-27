@@ -4,9 +4,9 @@ from model import MODEL, GRAPH
 from systematic_review import *
 load_dotenv()
 
-t = int(os.getenv('SGE_TASK_ID'))
-start = (t - 1) * 1000
-end = t * 1000
+#t = int(os.getenv('SGE_TASK_ID'))
+#start = (t - 1) * 1000
+#end = t * 1000
 
 chat_with_history = ChatWithHistory(llm = GRAPH)
 token_size = 512
@@ -15,7 +15,7 @@ directory = os.getenv("PROCESSED_PATH")
 papers = get_filenames_in_directory(directory)
 
 # Load and process documents as chunks with specified token size:
-for paper in papers[start:end]:
+for paper in papers:
     try:
         file_path = os.path.join(directory, paper)
         doi = paper.partition(".grobid")[0]
