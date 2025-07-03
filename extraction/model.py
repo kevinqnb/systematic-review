@@ -36,7 +36,7 @@ response_boolean_formatter = lambda response: BooleanResponse.model_validate_jso
 ).content
 
 MEASUREMENT = "total organic carbon (TOC)"
-UNITS = "mk/L or mg/kg"
+UNITS = "mg/L or mg/kg"
 
 
 ####################################################################################################
@@ -254,8 +254,7 @@ def screen_measurement(state: State):
     )
     context = state["text"]
     query = (
-        f"Does this excerpt include a measurement for {MEASUREMENT} in a coastal ecosystem? "
-        f"A measurement should be a specific numeric value or range reported in units of {UNITS}. "
+        f"Does this excerpt include any numerical measurements for a coastal ecosystem? "
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )
@@ -285,8 +284,7 @@ def extract_measurement(state: State):
     )
     context = state["text"]
     query = (
-        f"What is the measurement given for {MEASUREMENT} by the excerpt? "
-        f"A measurement should be a specific numeric value or range reported in units of {UNITS}. "
+        f"What properties or attributes are measured for coastal ecosystems in the excerpt? "
         "Coastal ecosystems may include but are not limited to intertidal zones, estuaries, "
         "lagoons, reefs, mangroves, marshes, seagrass meadows, kelp forests, and coastal wetlands."
     )

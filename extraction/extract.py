@@ -46,5 +46,5 @@ for paper in papers:
         print(f"Error processing {paper}. Skipping to next paper.")
         continue
 
-outfile = "extraction/data/coastal/screening_12k.csv"
+outfile = "extraction/data/coastal/screening_2k_2.csv"
 chat_with_history.save(outfile)
